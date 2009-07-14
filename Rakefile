@@ -3,23 +3,24 @@ require 'rake'
 require 'find'
 require 'fileutils'
 
-def process(dir)
+def process(dir, pattern = nil)
   $root = File.expand_path(File.dirname(__FILE__))
 
   $orig_dir = FileUtils.pwd
   at_exit {FileUtils.cd($orig_dir)}
 
+  pattern ||= '*'
   if dir
-    entries = Dir[File.join($root, "#{dir}/*.ly")]
+    entries = Dir[File.join($root, "#{dir}/#{pattern}.ly")]
   else
-    entries = Dir[File.join($root, "*/*.ly")]
+    entries = Dir[File.join($root, "*/#{pattern}.ly")]
   end
 
   $out = File.join($root, "out")
   FileUtils.mkdir($out) unless File.directory?($out)
 
   entries.each do |path|
-    next if path =~ /\.git/
+    next if path =~ /\.git/ || path =~ /\/src\//
     if File.file?(path) && (path =~ /^#{$root}\/(.+)\.ly$/)
       name = $1
       out_fn = File.join($out, name)
@@ -42,5 +43,5 @@ taskname = ARGV[0] ? ARGV[0].to_sym : :default
 
 desc "Process ly files"
 task taskname do
-  process(ARGV[0])
+  process(ARGV[0], ENV['voice'])
 end

@@ -1,21 +1,21 @@
 \include "../common/lib.ly"
 \include "../common/part.ly"
-\include "src/1_soprano.ly"
-\include "src/2_soprano.ly"
-\include "src/4_soprano.ly"
-\include "src/6_soprano.ly"
+\include "src/1_basso.ly"
+\include "src/2_basso.ly"
+\include "src/3_basso.ly"
+\include "src/6_basso.ly"
 
 \header {
   title = "Missa Brevis G-dur BWV 236"
   composer = "Johann Sebastian Bach"
-  instrument = "Soprano"
+  instrument = "Basso"
 }
 
 \score {
   <<
   \prepare
-  \new Staff {\sA}
-  \addlyrics {\sALyrics}
+  \new Staff {\bA}
+  \addlyrics {\bALyrics}
   >>
   \header { piece = "1. Kyrie" }
 }
@@ -23,23 +23,23 @@
 \score {
   <<
   \prepare
-  \new Staff {\sB}
-  \addlyrics {\sBLyrics}
+  \new Staff {\bB}
+  \addlyrics {\bBLyrics}
   >>
   \header { piece = "2. Gloria" }
-}
-
-\markup {
-  3. Aria - tacet
 }
 
 \score {
   <<
   \prepare
-  \new Staff {\sD}
-  \addlyrics {\sDLyrics}
+  \new Staff {\bC}
+  \addlyrics {\bCLyrics}
   >>
-  \header { piece = "4. Domine Deus, Agnus Dei" }
+  \header { piece = "3. Aria" }
+}
+
+\markup {
+  4. Aria - tacet
 }
 
 \markup {
@@ -49,8 +49,8 @@
 \score {
   <<
   \prepare
-  \new Staff {\sF}
-  \addlyrics {\sFLyrics}
+  \new Staff {\bF}
+  \addlyrics {\bFLyrics}
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }

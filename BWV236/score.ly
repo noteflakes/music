@@ -11,6 +11,7 @@
 \include "src/2_oboe2.ly"
 \include "src/2_violino1.ly"
 \include "src/2_violino2.ly"
+\include "src/2_viola.ly"
 \include "src/2_soprano.ly"
 \include "src/2_alto.ly"
 \include "src/2_tenore.ly"
@@ -78,6 +79,11 @@
     \new Staff {
       \set Staff.instrumentName = #"Violino II"
       \viiB
+    }
+
+    \new Staff {
+      \set Staff.instrumentName = #"Viola"
+      \vaB
     }
 
     \new Staff {

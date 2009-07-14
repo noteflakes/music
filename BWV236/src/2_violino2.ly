@@ -1,6 +1,6 @@
 viiB = \relative c' {
   \clef treble
-  \key e \minor
+  \key g \major
   \time 2/2
   \qBeam
   

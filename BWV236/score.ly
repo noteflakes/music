@@ -1,6 +1,7 @@
 \include "../common/lib.ly"
 \include "../common/score.ly"
 \include "src/1_soprano.ly"
+\include "src/1_alto.ly"
 \include "src/1_basso.ly"
 
 \header{
@@ -15,6 +16,11 @@
       \sA
     }
     \addlyrics {\sALyrics}
+    \new Staff {
+      \set Staff.instrumentName = #"Alto"
+      \aA
+    }
+    \addlyrics {\aALyrics}
     \new Staff {
       \set Staff.instrumentName = #"Basso"
       \bA

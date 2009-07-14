@@ -1,20 +1,19 @@
 \include "../common/lib.ly"
 \include "../common/part.ly"
-\include "src/1_soprano.ly"
-\include "src/2_oboe1.ly"
-\include "src/5_oboe1.ly"
-\include "src/6_oboe1.ly"
+\include "src/1_alto.ly"
+\include "src/2_oboe2.ly"
+\include "src/6_oboe2.ly"
 
 \header {
   title = "Missa Brevis G-dur BWV 236"
   composer = "Johann Sebastian Bach"
-  instrument = "Oboe I"
+  instrument = "Oboe II"
 }
 
 %{\score {
   <<
   \prepare
-  \new Staff {\sA}
+  \new Staff {\aA}
   >>
   \header { piece = "1. Kyrie" }
 }
@@ -22,7 +21,7 @@
 \score {
   <<
   \prepare
-  \new Staff {\oiB}
+  \new Staff {\oiiB}
   >>
   \header { piece = "2. Gloria" }
 }
@@ -35,18 +34,14 @@
   4. Aria - tacet
 }
 
-\score {
-  <<
-  \prepare
-  \new Staff {\oiE}
-  >>
-  \header { piece = "5. Aria" }
+\markup {
+  5. Aria - tacet
 }
 
 \score {
   <<
   \prepare
-  \new Staff {\oiF}
+  \new Staff {\oiiF}
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }

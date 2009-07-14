@@ -8,6 +8,8 @@ def process(dir, pattern = nil)
 
   $orig_dir = FileUtils.pwd
   at_exit {FileUtils.cd($orig_dir)}
+  
+  open_after_processing = !pattern.nil?
 
   pattern ||= '*'
   if dir
@@ -28,8 +30,11 @@ def process(dir, pattern = nil)
       FileUtils.mkdir(out_dir) unless File.directory?(out_dir)
 
       puts "Processing #{name}"
-      cmd = "ly --pdf -o \"#{out_fn}\" \"#{path}\""
-      system cmd
+      system "ly --pdf -o \"#{out_fn}\" \"#{path}\""
+      
+      if open_after_processing
+        system "open #{out_fn}.pdf"
+      end
     end
   end
 
@@ -37,7 +42,7 @@ def process(dir, pattern = nil)
     # cleanup .ps files
     Dir[File.join($out, "**/*.ps")].each {|fn| FileUtils.rm(fn)}
   end
-end  
+end
 
 taskname = ARGV[0] ? ARGV[0].to_sym : :default
 

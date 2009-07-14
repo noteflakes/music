@@ -2,6 +2,7 @@ oiB = \relative c' {
   \clef treble
   \key g \major
   \time 2/2
+  \qBeam
   
   g''4 d r g8 fis
   g4 g, r g'8 f
@@ -104,11 +105,11 @@ oiB = \relative c' {
   fis g fis g a g a g fis2 ~
   fis8 g16 fis e d e d e2 ~
   e4 d ~ d8 g16 fis e d c b
-  a b g a g8 g' ~ g fis16 e fis e dis cis
+  a b g a b8 g' ~ g fis16 e fis e dis cis
   b8 b b b b b b b
   cis4 cis8 cis cis d16 e fis e d cis
   d8 e16 fis g fis e d e8 fis16 g a8 c,
-  b a' g16 fis g e fis e fis g fis e dis c
+  b a' g16 fis g e fis e fis g fis e dis c!
   b4. c8 b a b c 
   d c b a b c d b
   e d c2 e4

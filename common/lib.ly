@@ -23,4 +23,10 @@ barNumbers = {
   \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
 }
 
+qBeam = {
+  #(override-auto-beam-setting '(end 1 16 2 2) 1 4 'Staff)
+  #(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
+  #(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
+}
+
 \version "2.12.2"

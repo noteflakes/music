@@ -107,7 +107,7 @@ viB = \relative c' {
   e e e e dis dis dis dis
   e4 ~ e16 c d e f e d e f a g f
   e4 ~ e16 a, b c d b c d e f e d
-  cis a b cis d4 ~ d8 c16 b c8 fis ~
+  cis a b cis d4 ~ d8 cis16 b cis8 fis ~
   fis e16 d e fis e fis b,4 ~ b16 gis a b
   cis d cis b a8 b16 cis d b cis d e4 ~
   e16 d e cis d8 e16 fis g fis e fis g b a g

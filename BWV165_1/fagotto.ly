@@ -1,6 +1,6 @@
-\include "../lib.ly"
-\include "../part.ly"
-\include "src/fagotto.ly"
+\include "../common/lib.ly"
+\include "../common/part.ly"
+\include "_src/fagotto.ly"
 
 \header{
   title = "Aria BWV 165/1 O Heiliges Geist- und Wasserbad"

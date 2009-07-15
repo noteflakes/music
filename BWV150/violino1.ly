@@ -1,6 +1,6 @@
-\include "../lib.ly"
-\include "../part.ly"
-\include "src/violino1.ly"
+\include "../common/lib.ly"
+\include "../common/part.ly"
+\include "_src/violino1.ly"
 
 \header {
   title = "Cantata BWV 150 Nach dir, Herr, verlanget mich"

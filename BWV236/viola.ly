@@ -1,9 +1,9 @@
 \include "../common/lib.ly"
 \include "../common/part.ly"
-\include "src/1_tenor.ly"
-\include "src/2_viola.ly"
-\include "src/3_viola.ly"
-\include "src/6_viola.ly"
+\include "_src/1_tenor.ly"
+\include "_src/2_viola.ly"
+\include "_src/3_viola.ly"
+\include "_src/6_viola.ly"
 
 \header {
   title = "Missa Brevis G-dur BWV 236"

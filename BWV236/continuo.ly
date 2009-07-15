@@ -1,11 +1,11 @@
 \include "../common/lib.ly"
 \include "../common/part.ly"
-\include "src/1_continuo.ly"
-\include "src/2_continuo.ly"
-\include "src/3_continuo.ly"
-\include "src/4_continuo.ly"
-\include "src/5_continuo.ly"
-\include "src/6_continuo.ly"
+\include "_src/1_continuo.ly"
+\include "_src/2_continuo.ly"
+\include "_src/3_continuo.ly"
+\include "_src/4_continuo.ly"
+\include "_src/5_continuo.ly"
+\include "_src/6_continuo.ly"
 
 \header {
   title = "Missa Brevis G-dur BWV 236"

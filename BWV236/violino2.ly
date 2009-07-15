@@ -1,10 +1,10 @@
 \include "../common/lib.ly"
 \include "../common/part.ly"
-\include "src/1_alto.ly"
-\include "src/2_violino2.ly"
-\include "src/3_violino2.ly"
-\include "src/4_violino.ly"
-\include "src/6_violino2.ly"
+\include "_src/1_alto.ly"
+\include "_src/2_violino2.ly"
+\include "_src/3_violino2.ly"
+\include "_src/4_violino.ly"
+\include "_src/6_violino2.ly"
 
 \header {
   title = "Missa Brevis G-dur BWV 236"

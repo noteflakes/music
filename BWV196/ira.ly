@@ -1,5 +1,5 @@
-\include "../lib.ly"
-\include "../part.ly"
+\include "../common/lib.ly"
+\include "../common/part.ly"
 
 \header{
   title = "Cantata BWV 196 Der Herr denket an uns"

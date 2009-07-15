@@ -1,8 +1,8 @@
-\include "../lib.ly"
-\include "../part.ly"
-\include "src/violino2.ly"
-\include "src/alto.ly"
-\include "src/choral_lyrics.ly"
+\include "../common/lib.ly"
+\include "../common/part.ly"
+\include "_src/violino2.ly"
+\include "_src/alto.ly"
+\include "_src/choral_lyrics.ly"
 
 \header{
   title = "Cantata BWV 155 Mein Gott, wie lang', ach lange?"

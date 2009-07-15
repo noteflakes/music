@@ -1,8 +1,8 @@
-\include "../lib.ly"
-\include "../score.ly"
-\include "src/violino1.ly"
-\include "src/violino2.ly"
-\include "src/continuo.ly"
+\include "../common/lib.ly"
+\include "../common/score.ly"
+\include "_src/violino1.ly"
+\include "_src/violino2.ly"
+\include "_src/continuo.ly"
 
 \header {
   title = "Choral-Prelude BWV 655 Herr Jesu Christ, dich zu uns wend'"

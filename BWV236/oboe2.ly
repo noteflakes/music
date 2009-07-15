@@ -1,8 +1,8 @@
 \include "../common/lib.ly"
 \include "../common/part.ly"
-\include "src/1_alto.ly"
-\include "src/2_oboe2.ly"
-\include "src/6_oboe2.ly"
+\include "_src/1_alto.ly"
+\include "_src/2_oboe2.ly"
+\include "_src/6_oboe2.ly"
 
 \header {
   title = "Missa Brevis G-dur BWV 236"

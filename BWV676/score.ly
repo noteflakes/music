@@ -1,9 +1,9 @@
-\include "../lib.ly"
-\include "../score.ly"
-\include "src/violino.ly"
-\include "src/viola.ly"
-\include "src/choral.ly"
-\include "src/continuo.ly"
+\include "../common/lib.ly"
+\include "../common/score.ly"
+\include "_src/violino.ly"
+\include "_src/viola.ly"
+\include "_src/choral.ly"
+\include "_src/continuo.ly"
 
 \header {
   title = "Choral-Prelude BWV 676 Allein Gott in der Höh' sei Ehr'"

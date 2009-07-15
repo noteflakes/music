@@ -20,7 +20,8 @@
   \header { piece = "1. Kyrie" }
 }
 %}
-\score {
+
+%{\score {
   <<
   \prepare
   \new Staff {\sB}
@@ -29,9 +30,12 @@
   \header { piece = "2. Gloria" }
 }
 
+%}
+
 %{\markup {
   3. Aria - tacet
 }
+%}
 
 \score {
   <<
@@ -42,6 +46,8 @@
   \header { piece = "4. Domine Deus, Agnus Dei" }
 }
 
+%{
+  
 \markup {
   5. Aria - tacet
 }

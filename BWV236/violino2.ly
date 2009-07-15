@@ -37,8 +37,12 @@
   \header { piece = "3. Aria" }
 }
 
-%{\markup {
-  4. Aria - tacet
+%{\score {
+  <<
+  \prepare
+  \new Staff {\vD}
+  >>
+  \header { piece = "4. Aria" }
 }
 
 \markup {

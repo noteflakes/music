@@ -22,7 +22,7 @@
 
 %}
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\aB}
@@ -30,11 +30,11 @@
   >>
   \header { piece = "2. Gloria" }
 }
-
+%}
 %{\markup {
   3. Aria - tacet
 }
-
+%}
 \score {
   <<
   \prepare
@@ -44,7 +44,7 @@
   \header { piece = "4. Domine Deus, Agnus Dei" }
 }
 
-\markup {
+%{\markup {
   5. Aria - tacet
 }
 

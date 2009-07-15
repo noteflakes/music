@@ -29,15 +29,17 @@
   \header { piece = "2. Gloria" }
 }
 %}
-\score {
+
+%{\score {
   <<
   \prepare
   \new Staff {\bcC}
   >>
   \header { piece = "3. Aria" }
 }
+%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\bcD}
@@ -45,7 +47,7 @@
   \header { piece = "4. Aria" }
 }
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\bcE}

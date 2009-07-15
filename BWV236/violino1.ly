@@ -31,23 +31,24 @@
 
 %}
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\viC}
   >>
   \header { piece = "3. Aria" }
 }
+%}
 
-%{
 \score {
   <<
   \prepare
-  \new Staff {\viD}
+  \new Staff {\vD}
   >>
   \header { piece = "4. Aria" }
 }
 
+%{
 
 \score {
   <<

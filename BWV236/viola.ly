@@ -1,5 +1,5 @@
-\include "../common/lib.ly"
-\include "../common/part.ly"
+\include "../_common/lib.ly"
+\include "../_common/part.ly"
 \include "_src/1_tenore.ly"
 \include "_src/2_viola.ly"
 \include "_src/3_viola.ly"

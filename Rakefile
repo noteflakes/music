@@ -18,7 +18,7 @@ def process(dir, pattern = nil)
     entries = Dir[File.join($root, "*/#{pattern}.ly")]
   end
 
-  $out = File.join($root, "out")
+  $out = File.join($root, "_out")
   FileUtils.mkdir($out) unless File.directory?($out)
 
   entries.each do |path|

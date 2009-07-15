@@ -29,6 +29,10 @@
 \include "_src/4_alto.ly"
 \include "_src/4_continuo.ly"
 
+\include "_src/5_oboe1.ly"
+\include "_src/5_tenore.ly"
+\include "_src/5_continuo.ly"
+
 \header{
   title = "Missa Brevis G-dur BWV 236"
   composer = "Johann Sebastian Bach"
@@ -160,7 +164,8 @@
   \header { piece = "3. Aria" }
 }
 %}
-\score {
+
+%{\score {
   \new StaffGroup <<
     \new Staff {
       \set Staff.instrumentName = #"Violino I, II"
@@ -186,4 +191,27 @@
   >>
   \header { piece = "4. Aria" }
 }
+%}
+
+\score {
+  \new StaffGroup <<
+    \new Staff {
+      \set Staff.instrumentName = #"Oboe Solo"
+      \oiE
+    }
+
+    \new Staff {
+      \set Staff.instrumentName = #"Tenore"
+      \tE
+    }
+    \addlyrics {\tELyrics}
+
+    \new Staff {
+      \set Staff.instrumentName = #"Continuo"
+      \bcE
+    }
+  >>
+  \header { piece = "5. Aria" }
+}
+
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

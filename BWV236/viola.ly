@@ -1,6 +1,6 @@
 \include "../common/lib.ly"
 \include "../common/part.ly"
-\include "_src/1_tenor.ly"
+\include "_src/1_tenore.ly"
 \include "_src/2_viola.ly"
 \include "_src/3_viola.ly"
 \include "_src/6_viola.ly"
@@ -19,19 +19,24 @@
   \header { piece = "1. Kyrie" }
 }
 %}
-\score {
+
+%{\score {
   <<
   \prepare
   \new Staff {\vaB}
   >>
   \header { piece = "2. Gloria" }
 }
+%}
 
-%{\markup {
-  3. Aria - tacet
+\score {
+  <<
+  \prepare
+  \new Staff {\vaC}
+  >>
+  \header { piece = "3. Aria" }
 }
-
-\markup {
+%{\markup {
   4. Aria - tacet
 }
 

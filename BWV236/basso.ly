@@ -11,7 +11,7 @@
   instrument = "Basso"
 }
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\bA}
@@ -19,7 +19,7 @@
   >>
   \header { piece = "1. Kyrie" }
 }
-
+%}
 \score {
   <<
   \prepare
@@ -29,7 +29,7 @@
   \header { piece = "2. Gloria" }
 }
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\bC}
@@ -54,5 +54,5 @@
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }
-
+%}
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

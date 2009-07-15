@@ -20,19 +20,24 @@
   \header { piece = "1. Kyrie" }
 }
 %}
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\viiB}
   >>
   \header { piece = "2. Gloria" }
 }
+%}
 
-%{\markup {
-  3. Aria - tacet
+\score {
+  <<
+  \prepare
+  \new Staff {\viiC}
+  >>
+  \header { piece = "3. Aria" }
 }
 
-\markup {
+%{\markup {
   4. Aria - tacet
 }
 

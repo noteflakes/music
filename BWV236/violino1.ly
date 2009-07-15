@@ -20,7 +20,8 @@
   \header { piece = "1. Kyrie" }
 }
 %}
-\score {
+
+%{\score {
   <<
   \prepare
   \new Staff {\viB}
@@ -28,7 +29,8 @@
   \header { piece = "2. Gloria" }
 }
 
-%{
+%}
+
 \score {
   <<
   \prepare
@@ -37,6 +39,7 @@
   \header { piece = "3. Aria" }
 }
 
+%{
 \score {
   <<
   \prepare

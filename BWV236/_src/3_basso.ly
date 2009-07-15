@@ -1,7 +1,7 @@
 bC = \relative c' {
   \clef bass
-  \key g \major
-  \time 2/2
+  \key d \major
+  \time 3/4
   \autoBeamOff
   
   \bar "|."

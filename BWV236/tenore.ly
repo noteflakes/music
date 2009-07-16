@@ -20,7 +20,8 @@
   \header { piece = "1. Kyrie" }
 }
 %}
-\score {
+
+%{\score {
   <<
   \prepare
   \new Staff {\tB}
@@ -28,6 +29,7 @@
   >>
   \header { piece = "2. Gloria" }
 }
+%}
 
 %{\markup {
   3. Aria - tacet
@@ -36,6 +38,7 @@
 \markup {
   4. Aria - tacet
 }
+%}
 
 \score {
   <<
@@ -46,7 +49,7 @@
   \header { piece = "5. Aria" }
 }
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\tF}

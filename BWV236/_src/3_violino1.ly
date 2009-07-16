@@ -9,7 +9,7 @@ viC = \relative c' {
   a8 d16 e fis g a8-. a16 g a8-.
   d,16 cis b cis d e fis8-. fis16 e fis8-.
   b,8 e16 fis gis a b8-. b16 a b8-.
-  e,16 d cis d e-. cis[ b a] gis-. b( cis d)
+  e,16 d cis d e-. cis( b a) gis-. b( cis d)
   cis-. e( fis g) a-. fis( e d) cis-. e( fis g)
   fis-. d( cis b) a-. cis( d e) d-. b( a gis)
   fis-. a( b cis) b-. a( gis fis e d cis b)

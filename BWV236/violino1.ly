@@ -44,12 +44,8 @@
   \header { piece = "4. Aria" }
 }
 
-\score {
-  <<
-  \prepare
-  \new Staff {\viE}
-  >>
-  \header { piece = "5. Aria" }
+\markup {
+  5. Aria - tacet
 }
 
 \score {

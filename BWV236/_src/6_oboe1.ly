@@ -23,14 +23,7 @@ oiF = \relative c' {
   fis16 g a8 r16 fis, g a g fis e d
   a'2. ~
   a8 b16 cis d e fis g a8 r
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
+  R2.*8
   r8 a, b[ c16 d] d,8 c'
   b16 c d8 d,4 g ~
   g8 fis16 e fis g a b c4 ~
@@ -61,11 +54,7 @@ oiF = \relative c' {
   d8 d, d'2 ~
   d8 cis r16 cis d e d cis b a
   g'8( fis) r4 r
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
+  R2.*5
   r8 e, c'2 ~
   c8 b r16 b c d c b a g
   f'8 e16 d c8 g' g, d'
@@ -80,8 +69,7 @@ oiF = \relative c' {
   c16 b a g d'8. e16 fis g a8
   g2. ~
   g16 d c b a g fis e d8 r
-  R2.
-  R2.
+  R2.*2
   r4 d g ~
   g8 f16 e f8 g a bes
   e,4 e a ~
@@ -90,11 +78,7 @@ oiF = \relative c' {
   e8 e'16 f g8 a f g
   e16 f g8 g16 f e g f e d c
   g'4 r r
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
+  R2.*5
   r4 d, g ~
   g8 fis16 e fis g a b c4 ~
   c8 b16 a b c d e f4 ~

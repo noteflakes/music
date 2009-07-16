@@ -21,16 +21,7 @@ viF = \relative c' {
   a8 c fis16 e d c d c b a
   g8[ g'] d' e16 fis e8 a
   fis d r4 r
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
+  R2.*10
   r8 d, d'[ c16 b] c8 a
   b g d4 g ~
   g8 fis16 e fis g a b c4 ~
@@ -59,15 +50,11 @@ viF = \relative c' {
   d cis b a e'2 ~
   e8[ a,] d d4 cis8
   d4 r r
-  R2.
-  R2.
-  R2.
+  R2.*3
   r4 r16 b c d c b a g
   b8( a) a'2 ~
   a8 g r4 r
-  R2.
-  R2.
-  R2.
+  R2.*3
   r8 g, c d16 e d8 g
   e c r4 r
   R2.
@@ -77,24 +64,14 @@ viF = \relative c' {
   d8 f b16 a g f g f e d
   c8 e' d c16 b c8 d
   b g r4 r
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
+  R2.*6
   r4 a, d ~
   d8 c16 b c8 d e f
   b,4 b e ~
   e8 d16 c d8 c b a
   g[ c'] g' f16 e f8 d
   e c r4 r
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
-  R2.
+  R2.*6
   r4 d, g ~
   g8 fis16 e fis g a b c4 ~
   c8 b16 a b c d e f4 ~

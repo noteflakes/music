@@ -160,10 +160,10 @@ bcC = \relative c' {
   a d, e
   a, a'8 g fis e
   d fis16 g a g a8-. a16 g a8-.
-  a, e16 fis g fis g8-. g16 fis g8-.
+  a, e'16 fis g fis g8-. g16 fis g8-.
   a, d16 e fis e fis8-. fis16 e fis8-.
   a, cis16 d e d e8-. e16 d e8-.
-  a b16 cis d cis d8-. d16 cis d8-.
+  a, b16 cis d cis d8-. d16 cis d8-.
   d16 a' b cis d cis d8-. d16 cis d8-.
   fis,4 g a
   d,16 cis d8-. d16 cis d8-. d16 cis d8-.

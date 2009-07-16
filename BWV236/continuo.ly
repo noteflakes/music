@@ -13,50 +13,45 @@
   instrument = "Continuo"
 }
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\bcA}
   >>
   \header { piece = "1. Kyrie" }
 }
-%}
-%{\score {
+
+\score {
   <<
   \prepare
   \new Staff {\bcB}
   >>
   \header { piece = "2. Gloria" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\bcC}
   >>
   \header { piece = "3. Aria" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\bcD}
   >>
   \header { piece = "4. Aria" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\bcE}
   >>
   \header { piece = "5. Aria" }
 }
-
-%}
 
 \score {
   <<

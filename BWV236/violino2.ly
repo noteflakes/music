@@ -12,24 +12,23 @@
   instrument = "Violino II"
 }
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\aA}
   >>
   \header { piece = "1. Kyrie" }
 }
-%}
-%{\score {
+
+\score {
   <<
   \prepare
   \new Staff {\viiB}
   >>
   \header { piece = "2. Gloria" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\viiC}
@@ -37,9 +36,7 @@
   \header { piece = "3. Aria" }
 }
 
-%}
-
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\vD}
@@ -50,7 +47,6 @@
 \markup {
   5. Aria - tacet
 }
-%}
 
 \score {
   <<

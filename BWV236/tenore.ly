@@ -11,7 +11,7 @@
   instrument = "Tenore"
 }
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\tA}
@@ -19,9 +19,8 @@
   >>
   \header { piece = "1. Kyrie" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\tB}
@@ -29,16 +28,14 @@
   >>
   \header { piece = "2. Gloria" }
 }
-%}
 
-%{\markup {
+\markup {
   3. Aria - tacet
 }
 
 \markup {
   4. Aria - tacet
 }
-%}
 
 \score {
   <<
@@ -49,7 +46,7 @@
   \header { piece = "5. Aria" }
 }
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\tF}
@@ -57,5 +54,5 @@
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }
-%}
+
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

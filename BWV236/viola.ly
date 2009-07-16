@@ -11,40 +11,37 @@
   instrument = "Viola"
 }
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\tA}
   >>
   \header { piece = "1. Kyrie" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\vaB}
   >>
   \header { piece = "2. Gloria" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\vaC}
   >>
   \header { piece = "3. Aria" }
 }
-%}
-%{\markup {
+
+\markup {
   4. Aria - tacet
 }
 
 \markup {
   5. Aria - tacet
 }
-%}
 
 \score {
   <<

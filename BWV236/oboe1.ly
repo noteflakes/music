@@ -11,40 +11,37 @@
   instrument = "Oboe I"
 }
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\sA}
   >>
   \header { piece = "1. Kyrie" }
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\oiB}
   >>
   \header { piece = "2. Gloria" }
 }
-%}
-%{\markup {
+
+\markup {
   3. Aria - tacet
 }
 
 \markup {
   4. Aria - tacet
 }
-%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\oiE}
   >>
   \header { piece = "5. Aria" }
 }
-%}
 
 \score {
   <<

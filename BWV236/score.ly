@@ -49,7 +49,7 @@
   composer = "Johann Sebastian Bach"
 }
 
-%{\score {
+\score {
   \new StaffGroup <<
     \new Staff {
       \set Staff.instrumentName = #"Soprano"
@@ -82,9 +82,8 @@
   >>
   \header { piece = "1. Kyrie" }
 }
-%}
 
-%{\score {
+\score {
   \new StaffGroup <<
     \new Staff {
       \set Staff.instrumentName = #"Oboe I"
@@ -142,9 +141,8 @@
   >>
   \header { piece = "2. Gloria" }
 }
-%}
 
-%{\score {
+\score {
   \new StaffGroup <<
     \new Staff {
       \set Staff.instrumentName = #"Violino I"
@@ -174,9 +172,8 @@
   >>
   \header { piece = "3. Aria" }
 }
-%}
 
-%{\score {
+\score {
   \new StaffGroup <<
     \new Staff {
       \set Staff.instrumentName = #"Violino I, II"
@@ -202,9 +199,8 @@
   >>
   \header { piece = "4. Aria" }
 }
-%}
 
-%{\score {
+\score {
   \new StaffGroup <<
     \new Staff {
       \set Staff.instrumentName = #"Oboe Solo"
@@ -224,7 +220,6 @@
   >>
   \header { piece = "5. Aria" }
 }
-%}
 
 \score {
   \new StaffGroup <<
@@ -257,25 +252,25 @@
       \set Staff.instrumentName = #"Soprano"
       \sF
     }
-    \addlyrics {\sBLyrics}
+    \addlyrics {\sFLyrics}
 
     \new Staff {
       \set Staff.instrumentName = #"Alto"
       \aF
     }
-    \addlyrics {\aBLyrics}
+    \addlyrics {\aFLyrics}
 
     \new Staff {
       \set Staff.instrumentName = #"Tenore"
       \tF
     }
-    \addlyrics {\tBLyrics}
+    \addlyrics {\tFLyrics}
 
     \new Staff {
       \set Staff.instrumentName = #"Basso"
       \bF
     }
-    \addlyrics {\bBLyrics}
+    \addlyrics {\bFLyrics}
 
     \new Staff {
       \set Staff.instrumentName = #"Continuo"

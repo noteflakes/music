@@ -2,7 +2,10 @@
   tagline = "Copyright 2009 IBS. All rights reserved."
 }
 
-ficta = { \once \set suggestAccidentals = ##t }
+ficta = {
+  \once \override AccidentalSuggestion #'avoid-slur = #'outside
+  \once \set suggestAccidentals = ##t
+}
 
 segno = {
   \once \override Score.RehearsalMark #'font-size = #-2

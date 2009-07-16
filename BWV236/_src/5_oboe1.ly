@@ -3,7 +3,10 @@ oiE = \relative c' {
   \key e \minor
   \time 4/4
   
-  \qBeam
+  #(revert-auto-beam-setting '(end 1 32 4 4) 1 8 'Staff)
+  #(revert-auto-beam-setting '(end 1 32 4 4) 3 8 'Staff)
+  #(revert-auto-beam-setting '(end 1 32 4 4) 5 8 'Staff)
+  #(revert-auto-beam-setting '(end 1 32 4 4) 7 8 'Staff)
   
   r4 fis'32( g a8) g32 fis g16( dis e b) c32( d e8) d32 c
   b16( fis g e) a32( b c8) b32 a g16 dis e b' e32( fis g fis a g fis e)
@@ -36,7 +39,7 @@ oiE = \relative c' {
   b16( fis g d) e32( fis g8) fis32 e fis16 d a8 r4
   r r8 fis8 ~ fis16 e32 fis g a b c d( e f8) e32 d
   e16( b c g) a32( b c8) b32 a g16 b e g b( e,) c'( e,)
-  fis32( g a fis) c8 a'16( d,) b'( d,) e32( fis g e) b8 g'16( c,) a'( c,)
+  fis32( g a fis) c8 a'16( d,) b'( d,) e32( fis g e) b8 g'16( \ficta cis,) a'( \ficta cis,!)
   dis32( e fis dis) a8 r4 r2
   r4 fis'32( g a8) g32 fis g16( dis e b) c32( d e8) d32 c
   b16( fis g e) a32( b c8) b32 a g16 dis e b' e32( fis g fis a g fis e)

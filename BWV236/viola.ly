@@ -29,13 +29,14 @@
 }
 %}
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\vaC}
   >>
   \header { piece = "3. Aria" }
 }
+%}
 %{\markup {
   4. Aria - tacet
 }
@@ -43,13 +44,14 @@
 \markup {
   5. Aria - tacet
 }
+%}
 
 \score {
   <<
   \prepare
-  \new Staff {\oiiF}
+  \new Staff {\vaF}
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }
-%}
+
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

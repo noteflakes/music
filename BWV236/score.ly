@@ -33,6 +33,17 @@
 \include "_src/5_tenore.ly"
 \include "_src/5_continuo.ly"
 
+\include "_src/6_oboe1.ly"
+\include "_src/6_oboe2.ly"
+\include "_src/6_violino1.ly"
+\include "_src/6_violino2.ly"
+\include "_src/6_viola.ly"
+\include "_src/6_soprano.ly"
+\include "_src/6_alto.ly"
+\include "_src/6_tenore.ly"
+\include "_src/6_basso.ly"
+\include "_src/6_continuo.ly"
+
 \header{
   title = "Missa Brevis G-dur BWV 236"
   composer = "Johann Sebastian Bach"
@@ -193,7 +204,7 @@
 }
 %}
 
-\score {
+%{\score {
   \new StaffGroup <<
     \new Staff {
       \set Staff.instrumentName = #"Oboe Solo"
@@ -212,6 +223,66 @@
     }
   >>
   \header { piece = "5. Aria" }
+}
+%}
+
+\score {
+  \new StaffGroup <<
+    \new Staff {
+      \set Staff.instrumentName = #"Oboe I"
+      \oiF
+    }
+
+    \new Staff {
+      \set Staff.instrumentName = #"Oboe II"
+      \oiiF
+    }
+
+    \new Staff {
+      \set Staff.instrumentName = #"Violino I"
+      \viF
+    }
+
+    \new Staff {
+      \set Staff.instrumentName = #"Violino II"
+      \viiF
+    }
+
+    \new Staff {
+      \set Staff.instrumentName = #"Viola"
+      \vaF
+    }
+
+    \new Staff {
+      \set Staff.instrumentName = #"Soprano"
+      \sF
+    }
+    \addlyrics {\sBLyrics}
+
+    \new Staff {
+      \set Staff.instrumentName = #"Alto"
+      \aF
+    }
+    \addlyrics {\aBLyrics}
+
+    \new Staff {
+      \set Staff.instrumentName = #"Tenore"
+      \tF
+    }
+    \addlyrics {\tBLyrics}
+
+    \new Staff {
+      \set Staff.instrumentName = #"Basso"
+      \bF
+    }
+    \addlyrics {\bBLyrics}
+
+    \new Staff {
+      \set Staff.instrumentName = #"Continuo"
+      \bcF
+    }
+  >>
+  \header { piece = "6. Cum Sancto Spiritu" }
 }
 
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

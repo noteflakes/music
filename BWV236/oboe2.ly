@@ -18,13 +18,15 @@
   \header { piece = "1. Kyrie" }
 }
 %}
-\score {
+
+%{\score {
   <<
   \prepare
   \new Staff {\oiiB}
   >>
   \header { piece = "2. Gloria" }
 }
+%}
 
 %{\markup {
   3. Aria - tacet
@@ -37,6 +39,7 @@
 \markup {
   5. Aria - tacet
 }
+%}
 
 \score {
   <<
@@ -45,5 +48,5 @@
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }
-%}
+
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

@@ -40,13 +40,14 @@
 }
 %}
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\vD}
   >>
   \header { piece = "4. Aria" }
 }
+%}
 
 %{
 
@@ -57,7 +58,7 @@
   >>
   \header { piece = "5. Aria" }
 }
-
+%}
 \score {
   <<
   \prepare
@@ -65,5 +66,5 @@
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }
-%}
+
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

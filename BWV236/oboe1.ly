@@ -37,20 +37,21 @@
 }
 %}
 
-\score {
+%{\score {
   <<
   \prepare
   \new Staff {\oiE}
   >>
   \header { piece = "5. Aria" }
 }
+%}
 
-%{\score {
+\score {
   <<
   \prepare
   \new Staff {\oiF}
   >>
   \header { piece = "6. Cum Sancto Spiritu" }
 }
-%}
+
 \version "2.12.2"  % necessary for upgrading to future LilyPond versions.

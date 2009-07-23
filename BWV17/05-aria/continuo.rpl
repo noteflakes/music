@@ -1,0 +1,73 @@
+\relative c {
+  \key d \major
+  \time 4/4
+  
+  r4 r8 d (d'6 cs) (d cs) (d cs) (d cs)
+  (d cs) (d cs) d8 d,6 e fs8 g a a,
+  d a d, d' (d'6 cs) (d cs) (d cs) (d cs)
+  (d cs) (d cs) d8 d,6 e fs8 g a a,
+  d a d, d' ~ d cs b a
+  e' e, r4 r2
+  e'8 e, r4 e'8 e, r4
+  e'8 fs b,6 cs ds e fs gs a8 b, a'
+  gs fs e d cs a e' e,
+  fs e d d' ~ d cs6 d e8 e,
+  a4 r8 d,\p (d'6 cs) (d cs) (d cs) (d cs)
+  (d cs) (d cs) d8 d,6 e fs8 g a a
+  d a d, d' (d6 cs) (d cs) (d cs) (d cs)
+  (d cs) (d cs) d8 d,6 e fs8 g a a
+  d a d, d' ~ d cs b a
+  e' e, r4 r2
+  e'8 e, r4 e'8 e, r4
+  e'8 fs b,6 cs ds e fs gs a8 b, a'
+  gs fs e d cs6 b a gs a8 a' ~
+  a gs a g fs6 e d cs d8 d' ~
+  d cs d a fs b gs e
+  a gs6 fs e d cs b cs8 d e e,
+  a b cs d ~ d cs b a
+  e' e, r4 r2
+  e'8 e, r4 e'8 e, r4
+  e'8 fs b,6 cs ds e fs gs a8 b, a'
+  gs fs e d cs a e' e,
+  fs e d d' ~ d cs6 d e8 e,
+  a4 r8 a a'6 g a fs g fs g e
+  fs8 a fs d g b g e
+  fs fs, fs' e d cs b b' ~
+  b as6 gs as8 fs a4. g6 fs
+  g8 fs6 e as8 cs fs, as b g
+  fs6 g fs e d e d cs (b as) (b as) (b as) (b as)
+  (b as) (b as) b as b cs d8 e fs fs,
+  b4 r8 e ~ e d cs b
+  fs' fs, r4 r2
+  fs'8 fs, r4 fs'8 fs, r4
+  e'8 d cs6 ds es fs gs as b8 cs, b'
+  as cs fs, e d b fs' fs,
+  g fs e e' ~ e d6 e fs8 fs,
+  b cs d b' e, fs g e
+  a, b cs a' d, e fs d
+  g b g e a cs a fs
+  b d b g cs e cs a
+  d cs b a g e fs g
+  a6 b a g fs g fs e (d cs) (d cs) (d cs) (d cs) 
+  (d cs) (d cs) d cs d e fs8 g a a,
+  d a d, (d'6 cs) (d cs) (d cs) (d cs) (d cs) 
+  (d cs) (d cs) d cs d e fs8 g a a,
+  d a d, g' ~ g fs e d
+  a' a, r4 r2
+  a'8 a, r4 a'8 a, r4
+  a'8 b e,6 fs gs a b cs d8 e, e,
+  a g fs e fs g a a'
+  b a g4 ~ g8 fs6 g a8 a,
+  d\f e6 fs g a b cs (d cs) (d cs) (d cs) (d cs) 
+  (d cs) (d cs) d8 d,6 e fs8 g a a,
+  d a d, d' (d'6 cs) (d cs) (d cs) (d cs) 
+  (d cs) (d cs) d8 d,6 e fs8 g a a,
+  d e fs g ~ g fs e d
+  a' a, r4 r2
+  a'8 a, r4 a'8 a, r4 
+  a8 b e,6 fs gs a b cs d8 e, d'
+  cs b a g fs d a' a
+  b a g g' ~ g fs6 g a8 a,
+  d4 r4 r2\fermata
+  \bar "||"
+}

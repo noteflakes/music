@@ -1,0 +1,71 @@
+\relative c {
+  \key e \major
+  \time 4/4
+  
+  e8 gs b gs e a cs a ~
+  a gs6 fs b8 a gs fs gs as
+  b, ds fs ds b e gs e ~
+  e ds6 cs fs8 e ds b gs cs
+  fs,4 r8 b e, e' cs fs
+  b,4 r8 e a, gs fs a
+  b ds fs ds b e gs e
+  b ds fs ds b e gs e
+  a, gs b gs e a cs a ~
+  a gs6 fs b8 a gs a b b
+  e\p gs b gs e4 r8 a
+  b4 r8 a gs e ds cs
+  b4 r8 b e4 r8 cs
+  fs4 r8 fs, b4 r8 ds
+  e gs b gs e gs b gs
+  a e a, gs' fs as cs as
+  b fs b, a' gs bs ds bs
+  cs ds cs b as fs b e,
+  fs4 r8 as b4 r8 b,
+  fs'4 r8 as, b4 r8 b
+  fs' e ds b e4 r8 cs
+  fs4 r8 fs b gs fs fs,
+  b\f ds fs ds b e gs e ~
+  e ds6 cs fs8 e ds b gs' e
+  fs as cs as fs b ds b
+  fs as cs as fs b ds b
+  e, ds fs ds b e gs e ~
+  e ds6 cs fs8 e ds e fs fs,
+  b4 r8 b\p cs4 r8 fs ~
+  fs b, cs ds e b gs e
+  a4 r8 a' bs,4 r8 fs
+  fs' ds e cs gs' as bs gs
+  cs, ds e fs e ds e cs
+  a' b a gs fs a6 gs fs8 e
+  ds e ds cs bs fs' e gs
+  a fs gs gs, cs b a fs
+  gs bs ds bs gs cs e cs
+  gs bs ds bs gs cs e cs
+  fs e6 ds a'8 ds, e cs gs' gs,
+  cs e gs b, as cs fs as,
+  b d fs a, gs b e fs,
+  e b' gs e a e gs b 
+  e fs gs e a4 r8 e
+  fs gs a fs 
+  b,4 r8 a
+  d a'6 b3 cs b6 a gs fs gs8. a3 b a6 gs fs e
+  fs8. gs3 a gs6 fs e d e8 fs d e
+  a, cs e a a,4 r8 d,
+  d'4 r8 gs, cs4 r8 fs
+  e gs b gs e a cs a ~
+  a gs6 fs a8 ds, e ds cs cs'
+  ds b r a gs4 r8 fs
+  e4 r8 fs b, a gs cs
+  fs,4 r8 b e, e' cs a
+  gs b gs e a gs fs a
+  b ds fs ds b e gs e
+  b ds fs ds b e gs e
+  b4 r8 gs a4 r8 a'
+  b4 r8 ds, e cs a b
+  e,\f gs b gs e a cs a
+  e gs b gs e a cs a
+  e gs b gs e a cs a ~
+  a gs6 fs b8 a gs a b b
+  e,4 r4 r2\fermata
+  
+  \bar "||"
+}

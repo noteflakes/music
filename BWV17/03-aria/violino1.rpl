@@ -1,0 +1,69 @@
+\relative c' {
+  \key e \major
+  \time 4/4
+  
+  e'8 e,6 fs gs a b e, cs' e, fs gs a b cs a
+  fs ds' e fs e ds cs b e8. fs3 gs fs6 e ds cs
+  ds8 fs b,4 ~ b8 gs' b,4 ~
+  b8 e, cs as' b ds6 es es8.\trill ds3 es
+  fs8 cs6 ds ds8.\trill cs3 ds e8. fs3 g fs6 e d cs
+  d8. e3 fs e6 d cs b cs2 ~
+  cs6 a b cs ds e fs a, gs b cs ds e fs gs e
+  ds8 fs, b4 ~ b8 gs b4 ~
+  b8 e,6 fs gs a b e, cs' e, fs gs a b cs a
+  fs ds' e fs e ds cs b e8. fs6 ds8. e6
+  e4 r r6 e,\p fs gs a b cs a
+  fs8 r r4 r8 gs6 as as8.\trill gs3 as
+  b8 b,6 cs ds e fs b, gs' b, cs ds e fs gs e
+  cs as' b cs b as gs fs fs'8 a! gs fs
+  gs b, e4 ~ e8 b, d r
+  r cs6 ds e fs gs e e'4 r8 cs ~
+  cs b ds4 ~ ds8 ds, fs r
+  R1
+  r8 fs6 gs as b cs e, ds fs gs as b cs ds b
+  as8 cs fs4 ~ fs8 ds fs,4 ~
+  fs8 b,6 cs ds e fs b, gs' b, cs ds e fs gs e
+  cs as' b cs b as gs fs b8 r r4
+  r8 fs'\f b,4 ~ b8 gs' b,4 ~
+  b8 e, cs as' b2 ~
+  b6 es, fs gs as b cs e, ds fs gs as b cs ds b
+  as8 cs fs4 ~ fs8 b fs4 ~
+  fs8 b,6 cs ds e fs b, gs' b, cs ds e fs gs e 
+  cs as' b cs b as gs fs b8. cs6 as8. b6
+  b4 r r6 e,,\p fs gs a b cs a
+  fs8 r r4 r2
+  r6 es fs gs a b cs a ds8 r r4
+  R1
+  r2 r6 fs gs a gs fs e ds
+  cs2 ~ cs6 es, fs gs a b cs a
+  fs'8 r r4 r2
+  r2 cs2 ~ 
+  cs6 fss, gs as bs cs ds fs, e gs as bs cs ds e cs
+  bs8 ds gs4 ~ gs8 e' gs,4 ~
+  gs8 ds fs4 ~ fs8 a6 gs fs e ds cs
+  cs4 r e r
+  r2 r6 fs, gs a b cs d8 ~
+  d8 r r4 r6 gs, a b a gs fs e 
+  b'8 r r4 r6 e fs gs a b cs gs
+  cs, fs e d cs b a gs f8 r r4
+  R1*2
+  r8 a6 b cs d e a, fs' a, b cs d e fs d
+  b gs' a b a gs fs e a8. b3 cs b6 a gs fs
+  gs8 b e,4 ~ e8 cs' e,4 ~ 
+  e8 a, fs a' ~ a gs6 fs gs8 as
+  b fs b4 ~ b8 e, b'4 ~
+  b8 gs cs, r r2
+  r2 e8. fs3 g fs6 e d cs
+  d8. e3 fs e6 d cs b cs8 r r4
+  r6 a b cs ds e fs a, gs b cs ds e fs gs e
+  fs8 fs, b4 ~ b8 gs b4 ~
+  b8 e,6 fs gs a b e, cs' e, fs gs a b cs a
+  fs ds' e fs e ds cs b e8. fs6 ds8. e6
+  e8 b'\f e,4 ~ e8 cs' e,4 ~
+  e6 ds e fs gs a b d, cs e fs gs a b cs a
+  gs8 b e,4 ~ e8 cs' e,4 ~
+  e8 a, fs' ds b' cs6 b a gs fs e
+  e4 r r2\fermata
+  
+  \bar "||"
+}

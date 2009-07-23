@@ -1,0 +1,38 @@
+title: Missa Brevis G-dur BWV 236
+composer: Johann Sebastian Bach
+parts:
+  oboe1:
+    clef: treble
+  oboe2:
+    clef: treble
+  violino1:
+    clef: treble
+  violino2:
+    clef: treble
+  viola:
+    clef: alto
+  soprano:
+    clef: treble
+  alto:
+    clef: alto
+  tenore:
+    clef: treble_8
+  basso:
+    clef: bass
+  continuo:
+    clef: bass
+  violino:
+    ignore: true
+    title: "Violino I, II"
+score:
+  order:
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo

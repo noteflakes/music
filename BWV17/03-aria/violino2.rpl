@@ -1,0 +1,69 @@
+\relative c' {
+  \key e \major
+  \time 4/4
+  
+  R1*2
+  b'8 b,6 cs ds e fs b, gs' b, cs ds e fs gs e
+  cs as' b cs b as gs fs b8. cs3 d cs6 b a gs
+  a8. b3 cs b6 a gs fs gs fs gs as as8.\trill gs3 as
+  b8 fs6 gs gs8.\trill fs3 gs a6 e fs gs a b cs e,
+  ds8 fs b4 ~ b8 gs b4 ~
+  g6 a b cs ds e fs a, gs b cs ds e fs gs e
+  ds8 b e,4 ~ e8 cs' e,4 ~
+  e8 a, fs' ds b' cs6 b a gs fs e
+  e4 r r2
+  r6 fs\p gs a gs fs e ds b'8 r r4
+  b,8 ds fs ds b e g e ~
+  e ds6 cs fs8 as b6 ds e fs e ds cs b
+  e8 e,6 fs gs a b e, d'4 r8 b ~
+  b a cs4 ~ cs8 cs, e r
+  r ds6 e fs gs a fs fs'4 r8 ds ~
+  ds cs6 ds e fs gs e cs8 r r4
+  R1
+  r8 fs,6 gs as b cs e, ds fs gs as b cs ds b
+  cs8 fs, fs'4 ~ fs8 e6 ds gs4 ~
+  gs8 fs6 e ds cs b as b8 r r4
+  b8\f b,6 cs ds e fs b, gs' b, cs ds e fs gs e
+  cs as' b cs b as gs fs fs' b, cs ds e fs gs e
+  cs8 cs fs4 ~ fs8 b fs4 ~
+  fs6 es, fs gs as b cs e, ds fs gs as b cs ds b
+  as8 fs' b,4 ~ b8 gs' b,4 ~
+  b8 e, cs as' fs' gs6 fs e ds cs b
+  b4 r4 r2
+  r2 r6 b\p cs ds e fs gs e
+  cs8 r r4 r6 cs, ds e fs gs a fs
+  bs8 r r4 r2
+  r6 fs gs a gs fs e ds cs2 ~
+  cs8 r r4 r6 cs' ds es fs gs a fs
+  bs,8 r r4 r2
+  r2 r6 cs, ds e fs gs a fs
+  ds8 ds gs4 ~ gs8 cs, gs'4 ~
+  gs6 fss gs as bs cs ds fs, e gs as bs cs ds e cs
+  bs8 cs6 ds cs bs? as? gs cs8. ds6 bs8. cs6
+  cs4 r cs r
+  r2 r6 ds, e fs gs a b8 ~
+  b r r4 r2
+  r6 d e fs e d cs b a gs a b cs d e cs
+  a'8 r r4 r6 b, a g fs e d cs
+  d8 cs r4 r2
+  R1
+  r8 e' a,4 ~ a8 fs' a,4 ~
+  a8 d, b d' ~ d cs6 b cs8 ds
+  e4 r8 e, a4 r8 e
+  cs'4 r8 fs, b4 r
+  r8 b,6 cs ds e fs b, gs' b, cs ds e fs gs e
+  cs as' b cs b as gs fs b8. cs3 d cs6 b a gs
+  a8. b3 cs b6 a gs fs gs fs gs a a8. gs3 a
+  b8 fs6 gs gs8. fs3 gs a6 e fs gs a b cs e,
+  ds8 r r4 r2
+  r6 a' b cs ds e fs a, gs b cs ds e fs gs e
+  ds8 gs b,4 ~ b8 gs' cs,4 ~
+  cs8 a' b,4 ~ b8 cs ~ cs b6 a
+  gs6 ds\f e fs gs a b d, cs e fs gs a b cs a
+  gs8 b e,4 ~ e8 cs' e,4 ~
+  e6 ds e fs gs a b e, cs' e, fs gs a b cs a
+  fs ds' e fs e ds cs b e8. fs6 ds8. e6
+  e4 r r2\fermata
+  
+  \bar "||"
+}

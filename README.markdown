@@ -8,9 +8,13 @@ In order to view the scores and parts, the Lilypond files need to be converted i
 
     rake <piece name>
     
-For example, to process BWV676 run the following:
+To process BWV676 run the following:
 
     rake BWV676
+    
+To process a single part use the *voice* argument:
+
+    rake BWV676 voice=violino
     
 To process all pieces, run rake without any arguments.
 

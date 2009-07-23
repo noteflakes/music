@@ -1,7 +1,7 @@
 \score {
   <<
   \relative c {
-    \clef bass
+    \clef "bass"
     \key g \major
     \time 4/4
 

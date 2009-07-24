@@ -1,0 +1,5 @@
+parts:
+  violoncello:
+    source: continuo
+  organo:
+    source: continuo

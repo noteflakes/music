@@ -1,0 +1,37 @@
+title: "Cantata BWV 150 Nach dir, Herr, verlanget mich"
+composer: Johann Sebastian Bach
+parts:
+  violino1:
+    clef: treble
+  violino2:
+    clef: treble
+  fagotto:
+    clef: bass
+  soprano:
+    clef: treble
+  alto:
+    clef: alto
+  tenore:
+    clef: treble_8
+  basso:
+    clef: bass
+  continuo:
+    clef: bass
+  violoncello:
+    desc: composite part for performance without fagotto
+    clef: bass
+    no_score: true
+  organo:
+    desc: composite part for performance without fagotto
+    clef: bass
+    no_score: true
+score:
+  order:
+    - violino1
+    - violino2
+    - fagotto
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo

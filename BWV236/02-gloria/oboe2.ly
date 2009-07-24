@@ -138,6 +138,5 @@
   g8 fis g e fis4. g8
   g1\fermata
   
-  \bar "|."
-}
+  }
 

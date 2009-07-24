@@ -38,5 +38,4 @@
   fis32[ g a16] g16 fis e[ dis] cis[ b] g'32[ fis e dis e16] cis dis8.[ e16]
   e4 r r2
   R1*4
-  \bar "|."
-}
+  }

@@ -166,5 +166,4 @@
   d8 a b4 a
   a8-. cis-. d-. g,-. fis-. d-.
   a2.\fermata
-  \bar "|."
-}
+  }

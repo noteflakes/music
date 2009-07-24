@@ -124,5 +124,4 @@
   b[ d] c[ a] b[ d] c[ a]
   b[ c d e] a,4. g8
   g1\fermata
-  \bar "|."
-}
+  }

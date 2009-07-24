@@ -167,5 +167,4 @@
   a d, e4 cis
   d16-. b( a g) fis-. a( b cis) d-. g,( fis e)
   d2.\fermata
-  \bar "|."
-}
+  }

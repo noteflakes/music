@@ -92,6 +92,5 @@
   e8 a,16 b c d e g fis e d c
   b a b c d c e d c b a b
   g4 r r
-  \bar "|."
-}
+  }
 

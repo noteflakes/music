@@ -124,5 +124,4 @@
   f'-. a,( bes a) gis-. e'( f e)
   a,4. b8 b4. a8
   a1\fermata
-  \bar "|."
-}
+  }

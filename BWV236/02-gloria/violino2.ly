@@ -148,6 +148,5 @@
   g4 e d c
   b1\fermata
   
-  \bar "|."
-}
+  }
 

@@ -141,6 +141,5 @@
   b g a d g, d' d c
   b4. a8 a4 d
   d1\fermata
-  \bar "|."
-}
+  }
 

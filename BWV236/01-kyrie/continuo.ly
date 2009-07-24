@@ -118,6 +118,5 @@
   g ~
   g ~
   g\fermata
-  \bar "|."
-}
+  }
 

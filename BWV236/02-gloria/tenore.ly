@@ -96,5 +96,4 @@
   d2 d4 d
   g, g d' c 
   b1\fermata
-  \bar "|."
-}
+  }

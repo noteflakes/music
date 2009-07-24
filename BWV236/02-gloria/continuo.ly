@@ -162,6 +162,5 @@
   d r b r
   e c d d,
   g1\fermata
-  \bar "|."
-}
+  }
 

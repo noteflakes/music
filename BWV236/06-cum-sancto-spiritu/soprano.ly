@@ -91,5 +91,4 @@
   e8[ a,16 b] c[ d e g] fis[ e d c]
   b[ a b c d8] g, g[ fis]
   g4 r r
-  \bar "|."
-}
+  }

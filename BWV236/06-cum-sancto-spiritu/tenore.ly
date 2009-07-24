@@ -108,5 +108,4 @@
   a fis d[ g] d'4 ~
   d8[ fis16 e d8] c a4
   b r r
-  \bar "|."
-}
+  }

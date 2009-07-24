@@ -50,5 +50,4 @@
   r8 b16 cis dis8 e r a,16 b cis8 d
   r g,16 a b8 c dis, e b' b'
   e,4 r r2
-  \bar "|."
-}
+  }

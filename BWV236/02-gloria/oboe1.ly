@@ -139,5 +139,4 @@
   b g a b c d e fis g2 ~
   g8 fis g e fis4. g8
   g1\fermata
-  \bar "|."
-}
+  }

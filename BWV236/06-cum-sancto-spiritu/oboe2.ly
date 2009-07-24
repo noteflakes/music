@@ -98,5 +98,4 @@
   g fis e d a'2 ~
   a8[ d,] g g,4 fis8
   g4 r r
-  \bar "|."
-}
+  }

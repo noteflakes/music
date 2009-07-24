@@ -167,5 +167,4 @@
   a8 fis e4 e
   fis8 e fis g a a,
   fis2.\fermata
-  \bar "|."
-}
+  }

@@ -122,5 +122,4 @@
   g2. a8 d,
   g[ a] b[ c] fis,4. d8
   d1\fermata
-  \bar "|."
-}
+  }

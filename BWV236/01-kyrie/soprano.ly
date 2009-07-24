@@ -108,5 +108,4 @@
   es2 d4 c
   d( b c2)
   b1\fermata
-  \bar "|."
-}
+  }

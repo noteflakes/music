@@ -47,5 +47,4 @@
   dis4 fis16( b,) g'( b,) cis32( d e cis) g8 e'16( a,) f'( a,)
   b32( c d b) f8 dis'16( a) fis'( a,) a'( g32 fis) g16 e \appoggiatura e8 dis8. e16
   e4 r r2
-  \bar "|."
-}
+  }

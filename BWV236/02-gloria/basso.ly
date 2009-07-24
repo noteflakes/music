@@ -94,5 +94,4 @@
   d d r b
   e d8[ c] d4 d
   g,1\fermata
-  \bar "|."
-}
+  }

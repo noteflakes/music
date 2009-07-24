@@ -132,5 +132,4 @@
   d d'8 c d4 b
   c a e' e,
   a,1\fermata
-  \bar "|."
-}
+  }

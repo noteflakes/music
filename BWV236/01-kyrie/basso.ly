@@ -114,5 +114,4 @@
   a as
   g fis
   g1\fermata
-  \bar "|."
-}
+  }

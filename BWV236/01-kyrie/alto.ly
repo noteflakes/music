@@ -100,5 +100,4 @@
   c2 b4 c
   g2 a
   g1\fermata
-  \bar "|."
-}
+  }

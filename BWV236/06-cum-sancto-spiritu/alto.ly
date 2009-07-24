@@ -95,5 +95,4 @@
   g[ fis e d] a'2 ~
   a8[ d, g] e d4 
   d4 r r
-  \bar "|."
-}
+  }

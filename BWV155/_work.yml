@@ -1,0 +1,34 @@
+title: "Cantata BWV 155 Mein Gott, wie lang', ach lange?"
+composer: "Johann Sebastian Bach"
+parts: 
+  violino1:
+    clef: treble
+  violino2:
+    clef: treble
+  viola:
+    clef: alto
+  fagotto:
+    clef: bass
+  soprano:
+    clef: treble
+  alto:
+    clef: treble
+  tenore: 
+    clef: treble_8
+  basso:
+    clef: bass
+  continuo:
+    clef: bass
+  ira:
+    clef: bass
+score:
+  order:
+    - violino1
+    - violino2
+    - viola
+    - fagotto
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo

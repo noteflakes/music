@@ -1,5 +1,4 @@
-fgB = \relative c {
-  \clef bass
+\relative c {
   \key a \minor
   \time 4/4
 
@@ -43,7 +42,4 @@ fgB = \relative c {
   c c, r4 r2
   r4 r8 b' e32[( d c b a g a fis)] b8 b, e4 r4 r2
   \dalsegno
-  \bar "||"
 }
-
-\version "2.12.2"  % necessary for upgrading to future LilyPond versions.

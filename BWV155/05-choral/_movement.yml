@@ -1,0 +1,27 @@
+parts:
+  soprano:
+    lyrics:
+      - choral.lyrics1
+      - choral.lyrics2
+  alto:
+    lyrics:
+      - choral.lyrics1
+      - choral.lyrics2
+  tenore:
+    lyrics:
+      - choral.lyrics1
+      - choral.lyrics2
+  basso:
+    lyrics:
+      - choral.lyrics1
+      - choral.lyrics2
+  fagotto:
+    source: continuo
+  ira:
+    source: continuo
+  violino1:
+    source: soprano
+  violino2:
+    source: alto
+  viola:
+    source: tenore

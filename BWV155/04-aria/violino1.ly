@@ -1,31 +1,4 @@
-vnIA = \relative c' {
-  \clef treble
-  \key d \minor
-  \time 4/4
-
-  d'4 r r d
-  g r r cis,
-  d r r d
-  fis r r fis
-  g r r bes
-  e, r r g
-  cis, r r d
-  fis, r r b
-  e r r e
-  g r r g
-  cis, r r d
-  fis r r bes
-  e, r r f16 a f a
-  bes f d f c ees c ees a, c a c f, a f a
-  c,8 r8 r4 r gis''\trill
-  a16( d,) e8( ~ e16 b) c8( ~ c16 gis) a8( ~ a16 e) f( e)
-  c'8 r8 r4 r d8( cis)
-  cis1\fermata
-  \bar "|."
-}
-
-vnID = \relative c' {
-  \clef treble
+\relative c' {
   \key f \major
   \time 4/4
 
@@ -83,7 +56,4 @@ vnID = \relative c' {
   f1 ~
   f2 ~ f8. f'16 e8. f16
   f4 r4 r2
-  \bar "|."
 }
-
-\version "2.12.2"  % necessary for upgrading to future LilyPond versions.

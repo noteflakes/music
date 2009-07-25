@@ -1,4 +1,4 @@
-choral = \relative c' {
+\relative c' {
   \key g \major
   \time 6/8
   \autoBeamOff
@@ -51,20 +51,4 @@ choral = \relative c' {
   g2. ~
   g2. ~
   g8 r r r4.
-  \bar "|."
 }
-
-choralLyrics = \lyricmode {
-  Al- lein Gott in der Höh sei Ehr
-  und Dank für _ sei- _ ne Gna -- _ _ de
-  
-  da- rum daß nun und nim- mer mehr
-  uns rüh- ren _ kann _ kein scha -- _ _ de
-  
-  Ein Wohl- ge- falln Gott an uns hat
-  nun ist groß Fried ohn Un- ter- laß
-  
-  all Fehd hat nun _ ein En -- _ _ de
-}
-
-\version "2.12.2"

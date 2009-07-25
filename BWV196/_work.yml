@@ -1,0 +1,22 @@
+title: "Cantata BWV 196 Der Herr denket an uns"
+composer: "Johann Sebastian Bach"
+parts:
+  violino:
+    no_part: true
+  ira:
+    desc: composite part for performance with single violoncello
+    clef: bass
+    no_score: true
+score:
+  order:
+    - violino1
+    - violino2
+    - violini
+    - viola
+    - violoncello
+    - continuo
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - organo

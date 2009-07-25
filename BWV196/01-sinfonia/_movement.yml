@@ -1,0 +1,7 @@
+parts:
+  ira:
+    source: violoncello
+  continuo:
+    title: Organo e Continuo
+  organo:
+    source: continuo

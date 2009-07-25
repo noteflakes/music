@@ -1,0 +1,10 @@
+title: "Choral-Prelude BWV 655 Herr Jesu Christ, dich zu uns wend'"
+composer: "Johann Sebastian Bach"
+parts:
+  choral: 
+    clef: bass
+score:
+  order:
+    - violino1
+    - violino2
+    - continuo

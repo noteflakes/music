@@ -1,4 +1,4 @@
-sop = \relative c' {
+\relative c' {
   #(set-accidental-style 'voice)
   \autoBeamOff
   \key g \major
@@ -40,22 +40,4 @@ sop = \relative c' {
   b[( g a b] c[ d e fis] g8) d b a16[( g)]
   g4 r4 r2
   R1*8
-  \bar "|."
 }
-
-sopLyrics = \lyricmode {
-  O heil'- ges Geist- und Was -- _ _ _ ser- bad
-  das Got- tes Reich uns ein- ver- lei- bet
-  und uns in's Buch des Le- -- _ _ _ _ _ _ _ _ _ _ _ _ _ bens schrei- bet,
-  und uns in's Buch des Le- -- bens schrei- bet
-  
-  O Fluth, die al -- _ _ _ _ le, al -- _ _ _ le Mis- se- that
-  durch ih- re Wun- der- kraft er- trän- ket
-  und uns das neu- e Le -- _ _ _ _ _ _ _ ben schen- ket,
-  und uns das Le -- _ _ ben schen- ket!
-
-  O heil'- ges Geist- und Was -- _ _ _ ser- bad, o heil'- ges
-  Geist- und Was- ser- bad
-}
-
-\version "2.12.2"  % necessary for upgrading to future LilyPond versions.

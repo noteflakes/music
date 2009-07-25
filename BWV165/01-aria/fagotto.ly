@@ -1,5 +1,4 @@
-fag = \relative c {
-  \clef bass
+\relative c {
   \key g \major
   \time 4/4
 
@@ -32,7 +31,4 @@ fag = \relative c {
   f( a g f) e fis g a fis( g e fis) g fis e d
   c4 ~ c8 b16( a) b8 a16( g) d'8 d,
   g4\fermata r4 r2
-  \bar "|."
 }
-
-\version "2.12.2"  % necessary for upgrading to future LilyPond versions.

@@ -1,5 +1,4 @@
-vnI = \relative c' {
-  \clef treble
+\relative c' {
   \key g \major
   \time 4/4
 
@@ -59,7 +58,5 @@ vnI = \relative c' {
   r4 g4 a4( b8) c8
   b8 a16( g16) c8 c8 c16( e16 d16 c16) b16 a16 g16 a16
   b16( d16 c16 b16) e16 fis16 g16 a16 d,8. e16 b8 a16 g16
-  g4\fermata r4 r2 \bar "|."
+  g4\fermata r4 r2
 }
-
-\version "2.12.2"  % necessary for upgrading to future LilyPond versions.

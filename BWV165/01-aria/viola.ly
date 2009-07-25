@@ -1,5 +1,4 @@
-va = \relative c' {
-  \clef alto
+\relative c' {
   \key g \major
   \time 4/4
 
@@ -40,7 +39,4 @@ va = \relative c' {
   g8 a16( b16) c16( d16) e16( f16) d4 ~ d16 d16 e16 fis16
   g4 ~ g16 e16 d16 c16 d16( c16 b16 c16) d8 a8
   b4\fermata r4 r2
-  \bar "|."
 }
-
-\version "2.12.2"  % necessary for upgrading to future LilyPond versions.

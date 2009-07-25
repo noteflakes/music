@@ -1,0 +1,23 @@
+title: "Aria BWV 165/1 O Heiliges Geist- und Wasserbad"
+composer: "Johann Sebastian Bach"
+parts:
+  violino1:
+    clef: treble
+  violino2:
+    clef: treble
+  viola:
+    clef: alto
+  fagotto:
+    clef: bass
+  soprano:
+    clef: treble
+  continuo:
+    clef: bass
+score:
+  order:
+    - violino1
+    - violino2
+    - viola
+    - fagotto
+    - soprano
+    - continuo

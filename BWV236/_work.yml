@@ -22,7 +22,7 @@ parts:
   continuo:
     clef: bass
   violino:
-    ignore: true
+    no_part: true
     title: "Violino I, II"
 score:
   order:

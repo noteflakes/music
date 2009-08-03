@@ -27,7 +27,7 @@
   e4 r r
   R2.
   r4 cs'8 gs fs e
-  [ds e6 fs] [gs as bs cs] [ds bs as bs]
+  [ds e6 fs] [gs as bs cs] [ds bs as gs]
   cs4 r r
   R2.*5
   r4 a, d ~
@@ -37,7 +37,7 @@
   [a g a b] [a g fs a] [g fs e d]
   g8 [(g6 fs g8)] b a g
   fs4 a8 e d cs
-  [b cs6 d] [e fs gs a] [b a gs e]
+  [b cs6 d] [e fs gs a] [b a gs fs]
   e4. e8 a cs,
   [d fs] b2 ~
   [b8 e,] cs e a4 ~

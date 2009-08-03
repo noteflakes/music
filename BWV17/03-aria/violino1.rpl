@@ -45,7 +45,7 @@
   r2 r6 fs, gs a b cs d8 ~
   d8 r r4 r6 gs, a b a gs fs e 
   b'8 r r4 r6 e fs gs a b cs gs
-  cs, fs e d cs b a gs f8 r r4
+  cs, fs e d cs b a gs fs8 r r4
   R1*2
   r8 a6 b cs d e a, fs' a, b cs d e fs d
   b gs' a b a gs fs e a8. b3 cs b6 a gs fs

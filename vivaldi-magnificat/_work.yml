@@ -1,0 +1,19 @@
+title: Magnificat
+composer: Antonio Vivaldi
+parts:
+  violino:
+    no_part: true
+    title: "Violino I, II"
+score:
+  order:
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - violino
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo

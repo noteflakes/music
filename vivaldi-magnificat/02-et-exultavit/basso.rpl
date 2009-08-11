@@ -1,0 +1,13 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+  \autoBeamOff
+  
+  R1*26
+  r2 g'4 d
+  R1*6
+  d4 d [d8 e] f e
+  [d e] f g a4 a,
+  d4 r r2
+  R1*20
+}

@@ -1,0 +1,68 @@
+\relative c'' {
+  \key bb \major
+  \time 4/4
+  
+  r8 f bb4 ~ bb8 d, c f
+  d f, bb4 ~ bb8 d, c f
+  d bb bb''4 ~ bb8 a d, g ~
+  g f bb, eb ~ eb d g, c ~
+  c bb e, c' a f bb4
+  r8 e6 f g8 bb, a f bb4
+  r8 e6 f g8 bb, a f bb4 ~
+  bb8 d, c a' bb4 r
+  R1*5
+  r8 c f4 ~ f8 a, g c 
+  a4 f r2
+  R1
+  r8 c' f4 ~ f8 a, g c
+  a f f'4 ~ f8 e a, d ~
+  d c f, bb ~ bb a d, g
+  e c f' a, bb f' c e
+  f4 r r2
+  R1*5
+  r2 <<
+    {
+      \voiceOne
+      bb4 a
+    }
+    \new Voice {
+      \voiceTwo
+      g4 f
+    }
+  >>
+  \oneVoice
+  R1*3
+  r2 r8 a d4 ~
+  d8 f, e a f d r4
+  R1
+  <<
+    {
+      \voiceOne
+      d4 f a a8 a
+      d c6 bb a8 g f4 e
+    }
+    \new Voice {
+      \voiceTwo
+      a,4 d f f8 f
+      f f f e d4 cs
+    }
+  >>
+  \oneVoice
+  d8 a' d4 ~ d8 f, e a
+  f d bb'4 ~ bb8 d, c f
+  d f, bb4 ~ bb8 d, c f
+  d bb r4 r2
+  R1*5
+  r8 c' f4 ~ f8 a, g c
+  a f r4 r2
+  R1
+  r8 f' bb4 ~ bb8 a d, g ~
+  g f bb, eb ~ eb d g, c ~
+  c bb e, c' a f r4 
+  r2 r8 f' bb4 ~
+  bb8 a d, g ~ g f bb, eb ~
+  eb d g, c ~ c bb e, c'
+  a f bb4 r8 e6 f g8 bb,
+  a f' bb4 ~ bb8 d, c a'
+  bb1\fermata
+}

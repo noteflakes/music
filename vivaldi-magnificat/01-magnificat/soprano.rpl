@@ -1,0 +1,20 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+  \autoBeamOff
+  
+  bb'2 bb4. bb8
+  bb2\fermata b4 b8 b
+  b4 b a2 ~ 
+  a4 a a2\fermata
+  b2 c4. c8
+  a4 bb2 ab8 ab
+  g2 f
+  eb c'
+  bb2. a4
+  b4. d8 cs4 d ~
+  d cs c2
+  bb1
+  a2 a
+  bb1\fermata
+}

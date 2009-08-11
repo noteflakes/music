@@ -29,7 +29,7 @@
   % line-width = 18.6\cm
 }
 
-#(set-global-staff-size 9)
+#(set-global-staff-size 12)
 
 prepare = {
 }

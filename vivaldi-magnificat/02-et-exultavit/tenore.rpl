@@ -1,0 +1,27 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  \autoBeamOff
+  
+  R1*26
+  r2 d4 f
+  R1*6
+  f,4 a a a8 a
+  a4 a8 bb a2
+  a4 r r2
+  R1*2
+  f8 f bb4. [c6 d] eb8 c
+  [d a] bb c d4 eb
+  c4 r8 f [f6 eb d c] bb8 ab
+  ab g r g' [g6 f eb d] c8 bb
+  [a f] bb4. [ab6 g] [ab8 f]
+  [g bb] c4. [bb6 a] [bb8 g]
+  a f r4 r2
+  r8 f eb' eb [eb d6 c] [d8 c6 bb]
+  a8 [g6 f] bb8 eb d4 c
+  bb r8 d c4. bb8
+  a4. g8 f4. eb'8
+  d4 c [f8 eb6 d] c8 bb
+  c2\trill bb4 r
+  R1*5
+}

@@ -3,6 +3,7 @@
   \time 4/4
   \autoBeamOff
   
+  \tempo "Allegro"
   d2 d4. d8
   d2\fermata d4 d8 d
   d4 d e2 

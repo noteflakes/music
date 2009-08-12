@@ -1,0 +1,42 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  \tempo "Andante molto"
+  R1
+  r2 g'8 g g g 
+  eb'2 ~ eb8 eb d c
+  b d c c c c b b
+  c4 r r2
+  d8 d d d eb eb c c 
+  c c c c b g g g 
+  eb' eb eb eb eb eb d c 
+  bb g c c bb bb b b
+  c g g eb' d d e e 
+  f f, f c' bb bb c c
+  f, bb bb bb bb bb ab ab
+  g g g g ab ab ab ab
+  f f f f e' e e e 
+  f f, r4 r r8 eb'
+  d d d d g, g eb' eb
+  eb eb d d eb eb eb eb 
+  c c c c db db bb bb 
+  bb bb ab ab ab ab g g 
+  ab ab bb bb c c c c 
+  d d eb eb eb eb d d 
+  eb4 r eb,8 eb eb eb 
+  d' d d d eb eb, eb' eb 
+  eb eb d c bb bb bb bb 
+  bb bb bb bb a a a a 
+  bb bb d d b b b b 
+  g g r4 c,8 c c c
+  b' b b b c c eb eb d d eb eb d d r g,
+  g g g g g g g g 
+  g g g g g g r4
+  r2 r4 c8 c
+  b b bb bb a a ab ab 
+  g g g g d' d d d 
+  eb eb eb eb eb eb eb eb
+  d d d d d d d d 
+  e1\fermata
+}

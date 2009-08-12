@@ -2,6 +2,7 @@
   \key d \minor
   \time 4/4
   
+  \tempo "Allegro"
   g2 g4. g8
   g2\fermata e4 e8 e
   e4 e cs2 

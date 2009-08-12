@@ -23,13 +23,13 @@
   between-system-padding = 4 \mm
 
 
-  % top-margin = 1.4\cm
-  % bottom-margin = 1.4\cm
+  top-margin = 1.4\cm
+  bottom-margin = 1.4\cm
   % left-margin = 1.2\cm
   % line-width = 18.6\cm
 }
 
-#(set-global-staff-size 12)
+#(set-global-staff-size 13)
 
 prepare = {
 }

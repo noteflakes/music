@@ -2,6 +2,7 @@
   \key bb \major
   \time 4/4
   
+  \tempo "Allegro"
   r8 f bb4 ~ bb8 d, c f
   d f, bb4 ~ bb8 d, c f
   d bb bb''4 ~ bb8 a d, g ~

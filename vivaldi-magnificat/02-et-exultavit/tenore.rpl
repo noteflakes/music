@@ -3,6 +3,7 @@
   \time 4/4
   \autoBeamOff
   
+  \tempo "Allegro"
   R1*26
   r2 d4 f
   R1*6

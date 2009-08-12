@@ -1,0 +1,39 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+  \autoBeamOff
+  
+  \tempo "Andante molto"
+  R1*6
+  r2 g'8 g g g 
+  eb'2. d8 c
+  bb g c c bb6 bb bb8 b b 
+  c6 g g8 r eb' d4 e
+  f8. f,6 f8 c' bb4 c
+  f,8 bb bb2 ab4
+  g g8 g ab4 ab
+  f8 f f f e'4 e8 e
+  f f, r4 r r8 eb'
+  d4 d8 d g, g eb' eb
+  eb6 eb eb8 d d eb6 bb bb8 eb eb
+  c6 c c8 c c db6 db db8 bb4
+  bb a2 g4
+  a bb c2
+  d4 eb2 d8 d
+  eb eb r4 eb,8 eb eb eb
+  d'4 d8 d eb eb, eb' eb
+  eb6 eb eb8 d c bb6 bb bb8 r bb
+  bb2 a4 a
+  bb8 bb d d b6 b b8 b b 
+  g6 g g8 r4 c,8 c c c 
+  b'4 b8 b c c eb eb
+  d6 d d8 eb eb d6 d d8 r g,
+  g1 ~
+  g4. g8 g2
+  r2 r4 c
+  b bb a ab
+  g8. g6 g4 r r8 d'
+  eb1 
+  d4 d8 d d2
+  e1\fermata
+}

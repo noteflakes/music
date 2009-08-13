@@ -1,0 +1,34 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+  \tempo "Allegro"
+  bb'6 a bb8 r bb bb6 a bb8 r bb 
+  a6 g a8 r f bb,6 a bb8 r d
+  eb6 d eb8 f4 bb, r8 bb'
+  bb6 a bb8 r bb a6 g a8 r f
+  bb,6 a bb8 r bb' bb6 a bb8 r bb 
+  a6 g a8 r f bb,6 a bb8 r bb 
+  f'6 eb f8 r f f6 eb f8 r f 
+  bb,6 a bb8 r e f6 e f8 r f
+  d6 c d8 r d eb6 d eb8 r eb
+  c6 bb c8 r c d6 c d8 r d
+  bb6 a bb8 r bb f'6 e f8 r e
+  f bb c c, f6 e f8 r f
+  f6 e f8 r f e6 d e8 r e
+  d6 c d8 r d c6 bb c8 r bb
+  a6 g a8 r f' bb,6 a bb8 r e
+  f6 e f8 r eb d6 c d8 r d
+  eb6 d eb8 r eb eb6 d eb8 r eb 
+  f6 eb f8 r f bb,6 a bb8 r e
+  f6 e f8 r f d6 c d8 r d
+  eb6 d eb8 r eb c6 bb c8 r c
+  d6 c d8 r c bb6 c bb8 r bb
+  f'6 g f8 r f bb,6 c bb8 r bb
+  f'6 eb f8 r d d6 eb d8 r d
+  eb6 d eb8 r eb e6 f e8 r e
+  f6 e f8 r f f6 eb f8 r f
+  bb,6 a bb8 r bb' bb6 a bb8 r bb,
+  f'6 eb f8 r f bb,6 a bb8 r bb'
+  bb6 a bb8 r bb bb6 a bb8 r d,
+  eb6 d eb8 f f, bb2\fermata
+}

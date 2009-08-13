@@ -1,0 +1,33 @@
+\relative c'' {
+  \key bb \major
+  \time 4/4
+  \autoBeamOff
+  \tempo "Allegro"
+  R1*2
+  r2 r8 bb d bb
+  c4 f,8 f eb' eb [eb6 c d eb]
+  d4 r r2
+  r2 r4 r8 d
+  d [c6 bb] c8 eb [eb d6 c] d8 c
+  [d eb6 f] eb8 d c4 r6 [c d eb]
+  [f8. g6] [f eb d c] bb4\trill ~ [bb6 bb c d]
+  [eb8. f6] [eb d c bb] a4\trill ~ [a6 a bb c]
+  d4 ~ [d6 c d e] [f8 e6 d] c8 c
+  a8 bb6 a g4 f r
+  r8 c' c c c d6 c c8 [d6 e] 
+  f8 f, r4 r2
+  r4 r8 c' d c bb4\trill
+  a r r r8 bb
+  [eb6 d] [eb f] g8 eb c c r c
+  f [eb6 d] c8 c [d c6 d] eb8 d
+  c4 r6 [c d eb] [f8. g6] [f eb d c]
+  bb4\trill ~ [bb6 bb c d] [eb8. f6] [eb d c bb]
+  a4\trill ~ [a6 a bb c] [d c d eb] [d f eb d]
+  [c bb c d] [c d bb c] [d c d eb] [d f eb d]
+  c4 r r r8 bb
+  [c6 d] [eb f] g8 c, c4 c8 c
+  [c d6 c] d8 eb (d4 c\trill)
+  bb r8 d [d6 c d eb] f8 d
+  c2\trill bb
+  R1*2
+}

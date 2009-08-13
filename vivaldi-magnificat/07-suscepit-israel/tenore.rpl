@@ -1,0 +1,21 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+  \autoBeamOff
+  \tempo "Largo"
+  r4 a a a 
+  a4. a8 a2
+  b b4 b
+  a2 a\fermata
+  \bar "||"
+  \tempo "Allegro"
+  e'4 cs a8 a d4 ~
+  d b g8 g c4
+  c a f d'
+  e d cs d
+  a2 bb4. bb8
+  bb2\fermata \tempo "Adagio"
+    r8 b b b
+  b4 b8 b a2
+  a1\fermata
+}

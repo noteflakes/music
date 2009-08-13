@@ -1,0 +1,28 @@
+\relative c' {
+  \key f \major
+  \time 4/4
+  \tempo "Allegro ma poco"
+  R1*4
+  f6 c' bb c a c g c f, a g a f a e a
+  d, d' c d bb d a d g, bb a bb g bb f bb
+  e,8 c r4 r2
+  r6 c' g c e, c' d, c' c,4 r
+  r2 r6 c' g c e, c' d, c' 
+  c,4 r r8 a' a bb6 c
+  d8 d, d'4. e6 d c8 bb
+  e e, e'4. f6 e d8 c
+  f f, f'4. g6 f e8 d
+  g f4 e8 f4 r
+  R1*7
+  r8 c e g c b6 a g8 f
+  e c4 b8 c4 r
+  R1*10
+  c,6 c' bb c e, c' d, c' c,4 r
+  r2 c6 c' bb c e, c' d, c' 
+  c,6 c' bb c e, c' d, c' c,4 r
+  R1
+  r8 a' a bb6 c d8 d, d'4 ~
+  d8 e6 d c8 bb e e, e'4 ~
+  f8 a, g4 a8 f4 e8
+  f2\fermata r2
+}

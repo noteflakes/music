@@ -1,0 +1,46 @@
+\relative c {
+  \key f \major
+  \time 4/4
+  \tempo "Allegro ma poco"
+  f8 a6 g f8 e d bb' e, c
+  f8 a6 g f8 e d bb' e, e,
+  f4 r8 f' c'4 c,
+  f, r8 f' c'4 c,
+  f6 c' bb c a c g c f, a g a f a e a
+  d, d' c d bb d a d g, bb a bb g bb f bb
+  e,8 c r4 r2
+  r6 c' g c e, c' d, c' c,4 r
+  r2 r6 c' g c e, c' d, c'
+  c,4 r r8 f f g6 a
+  bb8 bb, bb'4 ~ bb8 c6 bb a8 g
+  c c, c'4 ~ c8 d6 c bb8 a
+  d d, d'4 ~ d8 e6 d c8 bb
+  c f, c' c, f,4 r
+  r8 f' a c g f g c,
+  f4 f, f'8. f6 f8 f
+  f f f g6 a bb8 bb, bb'4 ~
+  bb8 c6 bb a8 g c c, c'4 ~
+  c8 d6 c bb8 a d d, d e6 f
+  g8. g6 c,8 c, f f' g g,
+  c e6 d c8 b c f b, g
+  c e6 d c8 b c f b, b
+  c f g g, c c e g
+  c c, e g f d b g
+  c4 c, r8 c' e g
+  g,4 b c c8 c
+  f4 f f8 f f f 
+  f f f g6 a bb8 bb, bb'4 ~
+  bb8 c6 bb a8 g c c, c'4 ~
+  c8 d6 c bb8 a d, d, d'4 ~
+  d8 e6 d c8 bb c c' ~ c bb6 a
+  bb4. a6 g a4. g6 f
+  c8 c c c f f f bb,
+  c6 c' bb c e, c' d, c' c,8 c c c 
+  f f f bb, c6 c' bb c e, c' d, c'
+  c, c' bb c e, c' d, c' c,8 c f bb
+  c4 c, f, r
+  r8 f' f g6 a bb8 bb, bb'4 ~
+  bb8 c6 bb a8 g c c, c'4 
+  f,8 bb, c c, f' f, c' c,
+  f2\fermata r
+}

@@ -1,0 +1,28 @@
+\relative c' {
+  \key f \major
+  \time 4/4
+  \autoBeamOff
+  \tempo "Allegro ma poco"
+  R1*15
+  c8. c6 c8 c c c6 c c8 d6 e
+  f2 ~ [f8 g6 f] [e8 d]
+  g2 ~ [g8 a6 g] [f8 e]
+  a2 ~ [a8 bb6 a] [g8 f]
+  b8. b6 c4 r8 c c b
+  c4 r4 r2
+  R1*3
+  r8 c, e g c4 g
+  f8 f f f f4 e
+  c8. c6 c8 c c c6 c c8 d6 e
+  f2 ~ [f8 g6 f] [e8 d]
+  g2 ~ [g8 a6 g] [f8 e]
+  a2 ~ [a8 bb6 a] [g8 f]
+  b2 ~ [b8 a6 g] a4 ~
+  [a8 g6 f] g4 ~ [g8 f6 e] f4
+  e8. e6 e4 r2
+  e8. e6 e4 r2
+  r2 e8. e6 e8 e
+  g4 g8 g [g8 f6 e] f8 g
+  (f4 e8\trill) f8 f2
+  R1*4
+}

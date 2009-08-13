@@ -1,0 +1,28 @@
+\relative c' {
+  \key d \minor
+  \time 3/4
+  \tempo "Presto"
+  d'8 d bb bb g g 
+  d d bb bb g g 
+  d'' d bb bb g g
+  d d bb bb g g 
+  fs'' fs d d a a 
+  fs fs d d a a
+  fs'' fs d d a a 
+  fs fs d d a a 
+  fs'' fs d d a a 
+  g4 r r
+  eb'6 eb eb eb eb eb eb eb eb eb eb eb 
+  eb8 eb c c a a
+  d6 d d d d d d d d d d d 
+  d8 d bb bb g g 
+  c4 c r
+  cs6 cs cs cs cs cs cs cs d d d d 
+  d d d d cs cs cs cs cs cs cs cs 
+  d8 d a a fs fs
+  fs' fs d d fs fs
+  d d bb bb g g 
+  d d bb bb g g
+  g6 g g g g g g g g g g g 
+  g4 r r 
+}

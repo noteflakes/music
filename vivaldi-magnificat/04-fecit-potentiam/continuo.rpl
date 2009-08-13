@@ -1,0 +1,28 @@
+\relative c {
+  \key d \minor
+  \time 3/4
+  \tempo "Presto"
+  g6 g' fs g g, g' fs g g, g' fs g 
+  g, g' fs g g, g' fs g g, g' fs g 
+  g, g' fs g g, g' fs g g, g' fs g 
+  g, g' fs g g, g' fs g g, g' fs g 
+  d d' c d d, d' c d d, d' c d 
+  d, d' c d d, d' c d d, d' c d 
+  d, d' c d d, d' c d d, d' c d 
+  d, d' c d d, d' c d d, d' c d 
+  d, d' c d d, d' c d d, d' c d 
+  g,, g' fs g g, g' fs g g, g' fs g 
+  c, c' bb c c, c' bb c c, c' bb c 
+  f,, f' eb f f, f' eb f f, f' eb f 
+  bb, bb' a bb bb, bb' a bb bb, bb' a bb 
+  eb,, eb' d eb eb, eb' d eb eb, eb' d eb 
+  d d' c d d, d' c d g,, g' f g 
+  a, a' g a a, a' g a a, a' g a 
+  a, a' g a a, a' g a a, a' g a 
+  d, d' c d d, d' c d d, d' c d 
+  d, d' c d d, d' c d d, d' c d 
+  g,, g' fs g g, g' fs g g, g' fs g 
+  g, g' fs g g, g' fs g g, g' fs g 
+  g,8 g g g g g 
+  g4 r r
+}

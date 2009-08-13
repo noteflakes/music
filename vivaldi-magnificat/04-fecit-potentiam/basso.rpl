@@ -1,0 +1,23 @@
+\relative c {
+  \key d \minor
+  \time 3/4
+  \autoBeamOff
+  \tempo "Presto"
+  R2.*2
+  g'4 g g 
+  g4. g8 g4
+  R2.*2
+  d4 d d 
+  d4. d8 d4
+  d d d8 d  
+  g4 g, g'
+  c c, c 
+  f f f 
+  bb bb, bb
+  eb eb eb
+  d d r
+  a4. a8 a4
+  a a2
+  d2 r4
+  R2.*5
+}

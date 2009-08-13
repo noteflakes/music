@@ -1,0 +1,45 @@
+\relative c {
+  \key d \minor
+  \time 3/4
+  \partial 4 g'4
+  d'8 c bb a g fs
+  g4 d g 
+  c d, a'
+  bb g r
+  g bb d
+  eb8 d c bb a g
+  f4 a c
+  d8 c bb a g f 
+  eb4 g bb
+  c8 bb a g f eb
+  d f g a bb4
+  eb, f4. f8
+  bb,4 d f 
+  bb8 c d eb f4
+  bb, eb, f
+  bb,2 g'4
+  d'8 c bb a g fs
+  g4 d g 
+  c d, a'
+  bb8 bb, c d e fs
+  g a bb c d eb
+  f, g a bb c d
+  eb, f g a bb c
+  d, e fs g a bb
+  c a bb c fs, a
+  d, a' bb c fs, a
+  d, e fs g a bb
+  c4 fs, g
+  c, d4. d8
+  g,4 bb d
+  g8 a bb c d eb
+  eb4 fs, g
+  cs, d4. d8
+  g8 a bb c d eb
+  f, g a bb c d
+  eb, f g a bb c
+  fs,4 d g
+  cs d g,,
+  g2.\fermata
+  
+}

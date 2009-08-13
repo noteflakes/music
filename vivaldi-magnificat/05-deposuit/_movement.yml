@@ -1,0 +1,19 @@
+parts:
+  violino1:
+    title: Viole
+  violino2:
+    source: violino1
+  viola:
+    source: violino1
+  soprano:
+    title: Soprano/Alto
+    lyrics: deposuit.lyrics
+  alto:
+    source: soprano
+    lyrics: deposuit.lyrics
+  tenore:
+    source: basso
+    lyrics: deposuit.lyrics
+  basso:
+    title: Tenore/Basso
+    lyrics: deposuit.lyrics

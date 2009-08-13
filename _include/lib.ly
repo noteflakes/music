@@ -1,5 +1,5 @@
 \header{
-  tagline = "Copyright 2009 IBS. All rights reserved."
+  copyright = "Copyright 2009 IBS. All rights reserved."
 }
 
 ficta = {

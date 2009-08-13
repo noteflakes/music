@@ -1,0 +1,42 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+  \autoBeamOff
+  \tempo "Largo"
+  bb'4 bb8 bb bb4 bb
+  b b8 b b8. b6 b4
+  a8 a a a6 a a2
+  [b8 d] cs4 d2 ~
+  d4 cs c2
+  bb a
+  bb1\fermata
+  \bar "||" \tempo "Andante"
+  r4 bb8. bb6 bb4 bb
+  eb [bb8 c] d4 d 
+  d d c bb
+  (bb a) bb d8 d
+  c c6 c bb8 bb bb4 a
+  \bar "||" \tempo "Allegro"
+  R1*2
+  d2. c4 ~
+  c bb2 [a8 cs]
+  d4. f8 eb2 
+  d4 d8 d eb eb6 eb d8 c
+  b g c bb a f f'4 ~
+  f eb ~ [eb8 d] c4 ~
+  c bb ~ [bb8 c d a]
+  g2 f4 r
+  r4 g8 g bb bb6 bb a8 g
+  fs d d' c bb g c bb
+  a f bb2 a4
+  f'8. eb6 d8 bb eb d c a
+  d c bb g [c bb] [a f'6 eb]
+  d4 r r d
+  c2 bb
+  a r4 c ~
+  c bb a8 d, a' a 
+  bb a6 a bb8 g a a d c
+  c2 bb
+  a1
+  b\fermata
+}

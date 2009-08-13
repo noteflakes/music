@@ -1,0 +1,42 @@
+\relative c {
+  \key d \minor
+  \time 4/4
+  \tempo "Largo"
+  g'4 g8 g g4 g
+  e e8 e e8. e6 e4
+  cs8 cs cs cs d2
+  gs4 g f2
+  e d
+  cs d
+  g,1\fermata
+  \bar "||" \tempo "Andante"
+  r4 g'8. a6 bb4 g
+  c, eb d4. d8
+  g,4 g' eb eb
+  f2 bb,4 bb'8 bb
+  fs fs g g d4 d,
+  \bar "||" \tempo "Allegro"
+  g8 g' bb g c c, d' d,
+  g, g' c bb a f bb a
+  g g, g' g bb bb a g
+  fs d g f e c f e 
+  d e f d g4 a
+  fs g2 f4 ~
+  f eb2 d8 bb
+  eb8. d6 c4 g' c,
+  d8 d, d' d eb eb d c
+  b g c' bb a f bb bb,
+  eb4 eb d8 d' c4 ~
+  c bb8 a g4 r
+  r g8 f eb c f eb
+  d bb bb'2 a4 ~
+  a g2 f8 f
+  g g c bb a f g f 
+  eb c f eb d bb eb d
+  c a d c b4 c
+  g2 d'2 ~
+  d1 ~
+  d2 cs
+  d1
+  g,\fermata
+}

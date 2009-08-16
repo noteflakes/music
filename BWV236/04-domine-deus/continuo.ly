@@ -28,7 +28,7 @@
   r8 c d e f g f e
   d4 g, c a
   f d g g'
-  c,8 c e g a4 g
+  c,8 c e g c4 g
   e f8( g f e d c)
   d g, b d g4 d
   b c8( d c b a g)

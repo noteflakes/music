@@ -1,7 +1,6 @@
 \relative c' {
   \key d \major
   \time 3/4
-  \autoBeamOff
   
   R2.*20
   d,8[( fis a] d4) cis8

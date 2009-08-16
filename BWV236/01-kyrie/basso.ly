@@ -1,7 +1,6 @@
 \relative c' {
   \key g \major
   \time 2/2
-  \autoBeamOff
   
   g2. g4
   a2. a4

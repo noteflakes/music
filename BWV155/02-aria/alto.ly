@@ -1,7 +1,6 @@
 \relative c' {
   \key a \minor
   \time 4/4
-  \autoBeamOff
   
   R1*4
   r4 a'8 a a16[( gis)] gis[( a)] b8 b

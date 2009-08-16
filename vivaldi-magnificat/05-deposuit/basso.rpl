@@ -1,7 +1,6 @@
 \relative c {
   \key d \minor
   \time 3/4
-  \autoBeamOff
   \partial 4 g'4
   d'8 c [bb a] [g fs]
   g4 d g 

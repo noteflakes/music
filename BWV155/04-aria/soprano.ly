@@ -1,7 +1,6 @@
 \relative c' {
   \key f \major
   \time 4/4
-  \autoBeamOff
   \override TupletBracket #'bracket-visibility = ##f
   \tupletUp
   

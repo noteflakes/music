@@ -1,6 +1,5 @@
 \relative c {
   \time 4/4
-  \autoBeamOff
 
   c1 ~
   c1

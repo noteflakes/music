@@ -1,7 +1,6 @@
 \relative c' {
   \key d \minor
   \time 3/4
-  \autoBeamOff
   \tempo "Presto"
   R2.*2
   bb4 bb bb 

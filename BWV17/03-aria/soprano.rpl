@@ -1,7 +1,6 @@
 \relative c' {
   \key e \major
   \time 4/4
-  \autoBeamOff
   
   R1*10
   e'8 ([e,6 fs gs a]) b8 cs [d6 b] cs8 fs,

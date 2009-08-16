@@ -1,7 +1,6 @@
 \relative c' {
   \key g \major
   \time 2/2
-  \autoBeamOff
   
   b'4. c8 b[ a b c]
   d[ c b a] b[ c d b]

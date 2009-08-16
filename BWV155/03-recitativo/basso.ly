@@ -1,7 +1,6 @@
 \relative c {
   #(set-accidental-style 'voice)
   \time 4/4
-  \autoBeamOff
   r8 c e g b b b16[( c a)] b
   c8 c, r16 c c d e8 e a f
   d4 r8 b gis' gis gis8. a16

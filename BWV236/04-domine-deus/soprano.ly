@@ -1,7 +1,6 @@
 \relative c' {
   \key a \minor
   \time 2/2
-  \autoBeamOff
   
   R1*4
   e'4( d2) e8 f

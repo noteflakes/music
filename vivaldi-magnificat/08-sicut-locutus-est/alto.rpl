@@ -1,7 +1,6 @@
 \relative c' {
   \key f \major
   \time 4/4
-  \autoBeamOff
   \tempo "Allegro ma poco"
   R1*15
   c8. c6 c8 c c c6 c c8 d6 e

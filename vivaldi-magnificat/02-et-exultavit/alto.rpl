@@ -1,7 +1,6 @@
 \relative c' {
   \key bb \major
   \time 4/4
-  \autoBeamOff
   
   \tempo "Allegro"
   R1*20

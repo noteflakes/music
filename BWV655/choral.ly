@@ -1,7 +1,6 @@
 \relative c {
   \key g \major
   \time 4/4
-  \autoBeamOff
 
   R1*51
   r2 g2^\markup {Choral}

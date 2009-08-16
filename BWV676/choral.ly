@@ -1,7 +1,6 @@
 \relative c' {
   \key g \major
   \time 6/8
-  \autoBeamOff
   
   \partial 8 r8
   R2.*11

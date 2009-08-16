@@ -1,7 +1,6 @@
 \relative c {
   \time 4/4
   \key d \major
-  \autoBeamOff
   
   r4 r8 cs fs fs as fs
   cs'4 r8 cs cs e, g fs

@@ -1,7 +1,6 @@
 \relative c' {
   \key f \major
   \time 4/4
-  \autoBeamOff
 
   \partial 4 c'4
   c c c8[( d)] ees4

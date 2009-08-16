@@ -1,7 +1,6 @@
 \relative c {
   \key a \major
   \time 3/4
-  \autoBeamOff
   
   R2.*50
   r4 a e' ~

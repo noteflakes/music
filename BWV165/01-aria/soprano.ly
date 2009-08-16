@@ -1,6 +1,5 @@
 \relative c' {
   #(set-accidental-style 'voice)
-  \autoBeamOff
   \key g \major
   \time 4/4
 

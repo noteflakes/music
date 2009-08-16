@@ -1,7 +1,6 @@
 \relative c' {
   \key e \minor
   \time 4/4
-  \autoBeamOff
   
   R1*4
   r4 fis32([ g a8]) g32[ fis] g16([ dis]) e([ b]) c8. d16

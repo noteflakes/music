@@ -1,7 +1,6 @@
 \relative c {
   \key d \minor
   \time 4/4
-  \autoBeamOff
   \tempo "Largo"
   r4 d d d 
   d4. d8 d2

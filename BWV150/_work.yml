@@ -3,11 +3,9 @@ composer: Johann Sebastian Bach
 parts:
   violoncello:
     desc: composite part for performance without fagotto
-    clef: bass
     no_score: true
   organo:
     desc: composite part for performance without fagotto
-    clef: bass
     no_score: true
 score:
   order:

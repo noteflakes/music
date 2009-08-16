@@ -1,7 +1,6 @@
 \relative c' {
   \key g \minor
   \time 4/4
-  \autoBeamOff
   
   \tempo "Andante molto"
   R1*4

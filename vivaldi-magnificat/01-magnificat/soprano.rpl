@@ -1,7 +1,6 @@
 \relative c' {
   \key d \minor
   \time 4/4
-  \autoBeamOff
   
   \tempo "Allegro"
   bb'2 bb4. bb8

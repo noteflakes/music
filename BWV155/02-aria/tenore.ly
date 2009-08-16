@@ -1,7 +1,6 @@
 \relative c' {
   \key a \minor
   \time 4/4
-  \autoBeamOff
   
   R1*4
   r4 c8 c c16[( b)] b[( c)] d8 d

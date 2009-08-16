@@ -1,7 +1,6 @@
 \relative c' {
   \key cs \minor
   \time 4/4
-  \autoBeamOff
   
   r4 gs'8 e cs cs cs bs
   ds ds r bs6 gs fs'8 fs r ds

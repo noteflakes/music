@@ -10,6 +10,11 @@
   gis( gis gis gis) a( a a a)
   
   \bar "||" \time 3/4
+  
+  % set midi tempo
+  \set Score.tempoHideNote = ##t
+  \tempo 4 = 104
+
   d, c b a16 g fis8 d
   g fis g a b c
   d cis d fis e d

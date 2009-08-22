@@ -2,15 +2,15 @@ title: "Cantata 'Wer Dank Opfert, der Preiset Mich' BWV 17"
 composer: Johann Sebastian Bach
 movements:
   01-coro:
-    midi_tempo: 108 4
+    midi_tempo: 105 4
   02-recitativo:
     midi_tempo: 90 4
   03-aria:
-    midi_tempo: 80 4
+    midi_tempo: 86 4
   04-recitativo:
     midi_tempo: 90 4
   05-aria:
-    midi_tempo: 80 4
+    midi_tempo: 82 4
   06-recitativo:
     midi_tempo: 90 4
   07-choral:

@@ -4,6 +4,25 @@ parts:
   violino:
     no_part: true
     title: "Violino I, II"
+movements:
+  01-magnificat:
+    midi_tempo: 76 4
+  02-et-exultavit:
+    midi_tempo: 100 4
+  03-et-misericordia:
+    midi_tempo: 60 4
+  04-fecit-potentiam:
+    midi_tempo: 150 4
+  05-deposuit:
+    midi_tempo: 170 4
+  06-esurientes:
+    midi_tempo: 100 4
+  07-suscepit-israel:
+    midi_tempo: 76 4
+  08-sicut-locutus-est:
+    midi_tempo: 110 4
+  09-gloria-parti:
+    midi_tempo: 76 4
 score:
   order:
     - oboe1

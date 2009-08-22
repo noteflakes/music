@@ -10,8 +10,8 @@
   \tempo "Allegro"
 
   % set midi tempo
-  \set Score.tempoHideNote = ##t
-  \tempo 4 = 126
+  % \set Score.tempoHideNote = ##t
+  % \tempo 4 = 126
 
   a'4 a d, d
   g g c, c
@@ -21,8 +21,8 @@
   g2\fermata \tempo "Adagio"
 
   % set midi tempo
-  \set Score.tempoHideNote = ##t
-  \tempo 4 = 54
+  % \set Score.tempoHideNote = ##t
+  % \tempo 4 = 54
 
     r8 gs gs gs
   gs4 gs8 gs a4 a,

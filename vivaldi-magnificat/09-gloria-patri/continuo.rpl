@@ -12,19 +12,19 @@
   \bar "||" \tempo "Andante"
 
   % set midi tempo
-  \set Score.tempoHideNote = ##t
-  \tempo 4 = 90
+  % \set Score.tempoHideNote = ##t
+  % \tempo 4 = 90
 
   r4 g'8. a6 bb4 g
   c, eb d4. d8
   g,4 g' eb eb
   f2 bb,4 bb'8 bb
-  fs fs g g d4 d,
+  fs fs g g d4 d,\fermata
   \bar "||" \tempo "Allegro"
 
   % set midi tempo
-  \set Score.tempoHideNote = ##t
-  \tempo 4 = 128
+  % \set Score.tempoHideNote = ##t
+  % \tempo 4 = 128
 
   g8 g' bb g c c, d' d,
   g, g' c bb a f bb a

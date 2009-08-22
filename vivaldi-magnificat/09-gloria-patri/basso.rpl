@@ -14,7 +14,7 @@
   c, eb d4. d8
   g,4 g' eb eb
   f2 bb,4 bb'8 bb
-  fs fs6 fs g8 g d4 d
+  fs fs6 fs g8 g d4 d\fermata
   \bar "||" \tempo "Allegro"
   R1*2
   r4 g8 g bb bb6 bb a8 g

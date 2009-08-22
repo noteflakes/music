@@ -14,7 +14,7 @@
   c [g8 a] bb4 a
   bb bb eb d
   c2 d4 d8 d
-  d d6 d d8 d d4 d
+  d d6 d d8 d d4 d\fermata
   \bar "||" \tempo "Allegro"
   r4 d8 d eb eb6 eb d8 c
   b g c bb a f bb a

@@ -14,7 +14,7 @@
   g g g fs
   g g g g 
   f2 f4 f8 g
-  a a6 a g8 g g4 fs
+  a a6 a g8 g g4 fs\fermata
   \bar "||" \tempo "Allegro"
   g2. f4 ~
   f eb2 d8 fs

@@ -4,19 +4,17 @@ require 'hpricot'
 require 'pdf/writer'
 
 class String
-  # Decodes a URI string to a normal string.
+  def uri_escape
+    gsub(/([^ a-zA-Z0-9_.-]+)/n) {'%'+$1.unpack('H2'*$1.size).
+      join('%').upcase}.tr(' ', '+')
+  end
+  
   def uri_unescape
     tr('+', ' ').gsub(/((?:%[0-9a-fA-F]{2})+)/n){[$1.delete('%')].pack('H*')}
   end
-end
-
-PAGE_RE = /([^\/]+)$/
-PAGE_NO_RE = /page(.+)\.jpg$/
-
-class Array
-  def include_page_ref?(href)
-    page = href =~ PAGE_RE && $1
-    !select {|i| i =~ PAGE_RE && page == $1}.empty?
+  
+  def safe_uri_escape
+    gsub(/([^\/]+)$/) {$1.uri_escape}
   end
 end
 
@@ -38,7 +36,7 @@ class Manuscript
     @dfg_docs ||= dfg_links.map do |l|
       begin
         doc = Hpricot(open(l))
-        doc.at('mets:mets') ? doc : nil
+        (doc/'mets:mets').empty? ? nil : doc
       rescue
         nil
       end
@@ -65,10 +63,14 @@ class Manuscript
   def jpg_hrefs
     @jpg_hrefs ||= dfg_docs.inject({}) do |jpgs, d|
       (d/'mets:file mets:flocat').map {|f| f['xlink:href']}.each do |href|
-        if href =~ PAGE_NO_RE
+        if href =~ /page(.+)\.jpg$/
           page = $1
           jpgs[page] ||= []
-          jpgs[page] << href
+          jpgs[page] << href.safe_uri_escape
+        elsif href =~ /(?:ante|post)(\d+)\[(r|v)\]\.jpg$/
+          page = "#{$1}#{$2}"
+          jpgs[page] ||= []
+          jpgs[page] << href.safe_uri_escape
         end
       end
       jpgs
@@ -87,12 +89,13 @@ class Manuscript
   end
   
   def process_jpgs
-    jpg_hrefs.keys.sort.each_with_index do |page, idx|
-      jpg = jpg_hrefs[page].inject(nil) do |i, href|
-        puts "Downloading #{href}"
+    refs = jpg_hrefs
+    refs.keys.sort.each_with_index do |page, idx|
+      jpg = refs[page].inject(nil) do |i, href|
+        puts "Downloading page #{page}..."
         (jpg = open(href)) && (break jpg) rescue nil
       end
-      yield jpg, page, jpg_hrefs[page]
+      yield jpg, page, refs[page]
     end
   end
   
@@ -124,24 +127,28 @@ class Manuscript
   end
 end
 
-manuscripts = YAML.load(IO.read('manuscripts.yml'))
-first = manuscripts.first
-work = first['work']
-if work =~ /^(.+)\//
-  work = $1.strip
+manuscripts = YAML.load(IO.read('manuscripts.yml'))[15..56]
+
+manuscripts.each_with_index do |m, idx|
+  work = m['work']
+  if work =~ /^(.+)\//
+    work = $1.strip
+  end
+  puts "(#{idx}) processing #{work}: #{m['id']}"
+  href = m['href']
+
+  orig_dir = FileUtils.pwd
+  work_dir = File.join(orig_dir, work)
+  FileUtils.mkdir(work_dir) rescue nil
+  FileUtils.cd(work_dir)
+  begin
+    m = Manuscript.new(work, href)
+    m.save_info
+    m.make_pdf
+  ensure
+    FileUtils.cd(orig_dir)
+  end
 end
-puts "processing #{work}"
-href = first['href']
-
-orig_dir = FileUtils.pwd
-work_dir = File.join(orig_dir, work)
-FileUtils.mkdir(work_dir) rescue nil
-FileUtils.cd(work_dir)
-at_exit {FileUtils.cd(orig_dir)}
-
-m = Manuscript.new(work, href)
-m.save_info
-m.make_pdf
 
 # BWV 132
 # 

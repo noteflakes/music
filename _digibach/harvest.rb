@@ -60,6 +60,20 @@ class Manuscript
     @meta
   end
   
+  def dfg_jpg_hrefs(dfg)
+    (dfg/'mets:file mets:flocat').map {|f| f['xlink:href']}
+  end
+  
+  def dfg_info
+    dfg_links.inject([]) do |m, l|
+      begin
+        m << [l, dfg_jpg_hrefs(Hpricot(open(l)))]
+      rescue
+      end
+      m
+    end
+  end
+  
   def jpg_hrefs
     @jpg_hrefs ||= dfg_docs.inject({}) do |jpgs, d|
       (d/'mets:file mets:flocat').map {|f| f['xlink:href']}.each do |href|
@@ -78,14 +92,8 @@ class Manuscript
   end
   
   def save_info
-    orig_dir = FileUtils.pwd
-    target_dir = File.join(orig_dir, title)
-    FileUtils.mkdir(target_dir) rescue nil
-    FileUtils.cd(target_dir)
-    info = @meta.merge('dfg_hrefs' => dfg_links)
-    File.open('info.yml', 'w+') {|f| f << info.to_yaml}
-  ensure
-    FileUtils.cd(orig_dir)
+    info = metadata.merge('hrefs' => dfg_info)
+    File.open("#{title}.yml", 'w+') {|f| f << info.to_yaml}
   end
   
   def process_jpgs
@@ -100,11 +108,6 @@ class Manuscript
   end
   
   def make_pdf
-    orig_dir = FileUtils.pwd
-    target_dir = File.join(orig_dir, title)
-    FileUtils.mkdir(target_dir) rescue nil
-    FileUtils.cd(target_dir)
-    
     pdf = PDF::Writer.new; first = true
     pdf.select_font "Helvetica-Bold"
     process_jpgs do |jpg, page, hrefs|
@@ -122,12 +125,13 @@ class Manuscript
     end
     puts "Saving PDF..."
     pdf.save_as("#{title}.pdf")
-  ensure
-    FileUtils.cd(orig_dir)
   end
 end
 
-manuscripts = YAML.load(IO.read('manuscripts.yml'))[15..56]
+manuscripts = YAML.load(IO.read('manuscripts.yml'))[0..0]
+
+trap('INT') {exit}
+trap('TERM') {exit}
 
 manuscripts.each_with_index do |m, idx|
   work = m['work']
@@ -149,15 +153,4 @@ manuscripts.each_with_index do |m, idx|
     FileUtils.cd(orig_dir)
   end
 end
-
-# BWV 132
-# 
-# m = Manuscript.new(
-#   "http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000922"
-# )
-
-# BWV 248
-# m = Manuscript.new(
-#   "http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000850"
-# )
 

@@ -1,0 +1,28 @@
+--- 
+title: D B Mus. ms. Bach P 60
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=A3D9D2F4F9F67E105173339D8E2B39DB?re_mcrid=BachDigitalSource_source_00000922&se_mcrid=BachDigitalSource_derivate_00000847&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000847/db_bachp0060_page001.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000847/db_bachp0060_page002.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=A3D9D2F4F9F67E105173339D8E2B39DB?re_mcrid=BachDigitalSource_source_00000922&se_mcrid=BachDigitalSource_derivate_00000850&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000850/db_bachp0060_page003.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000850/db_bachp0060_page004.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000850/db_bachp0060_page005.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000850/db_bachp0060_page006.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=A3D9D2F4F9F67E105173339D8E2B39DB?re_mcrid=BachDigitalSource_source_00000922&se_mcrid=BachDigitalSource_derivate_00000853&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000853/db_bachp0060_page006.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000853/db_bachp0060_page007.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=A3D9D2F4F9F67E105173339D8E2B39DB?re_mcrid=BachDigitalSource_source_00000922&se_mcrid=BachDigitalSource_derivate_00000856&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000856/db_bachp0060_page007.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000856/db_bachp0060_page008.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000856/db_bachp0060_page009.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=A3D9D2F4F9F67E105173339D8E2B39DB?re_mcrid=BachDigitalSource_source_00000922&se_mcrid=BachDigitalSource_derivate_00000859&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000859/db_bachp0060_page009.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000859/db_bachp0060_page010.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=A3D9D2F4F9F67E105173339D8E2B39DB?re_mcrid=BachDigitalSource_source_00000922&se_mcrid=BachDigitalSource_derivate_00000862&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000862/db_bachp0060_page011.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000862/db_bachp0060_page012.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000922
+date: Auffuehrungsdatum 22.12.1715
+work: Bach-Werke-Verzeichnis (BWV) 132
+owner: Bach Archiv Leipzig

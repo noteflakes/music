@@ -1,0 +1,34 @@
+--- 
+title: D B Mus. ms. Bach P 83
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=2DD746D316170C749B392359611A156B?re_mcrid=BachDigitalSource_source_00000946&se_mcrid=BachDigitalSource_derivate_00001284&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001284/db_bachp0083_ante001r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001284/db_bachp0083_ante001v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=2DD746D316170C749B392359611A156B?re_mcrid=BachDigitalSource_source_00000946&se_mcrid=BachDigitalSource_derivate_00001287&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001287/db_bachp0083_page001r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001287/db_bachp0083_page001v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001287/db_bachp0083_page002r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001287/db_bachp0083_page002v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=2DD746D316170C749B392359611A156B?re_mcrid=BachDigitalSource_source_00000946&se_mcrid=BachDigitalSource_derivate_00001290&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001290/db_bachp0083_page003r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=2DD746D316170C749B392359611A156B?re_mcrid=BachDigitalSource_source_00000946&se_mcrid=BachDigitalSource_derivate_00001293&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001293/db_bachp0083_page003r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001293/db_bachp0083_page003v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001293/db_bachp0083_page004r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001293/db_bachp0083_page004v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=2DD746D316170C749B392359611A156B?re_mcrid=BachDigitalSource_source_00000946&se_mcrid=BachDigitalSource_derivate_00001296&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001296/db_bachp0083_page004v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=2DD746D316170C749B392359611A156B?re_mcrid=BachDigitalSource_source_00000946&se_mcrid=BachDigitalSource_derivate_00001299&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001299/db_bachp0083_page005r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001299/db_bachp0083_page005v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001299/db_bachp0083_page006r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001299/db_bachp0083_page006v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=2DD746D316170C749B392359611A156B?re_mcrid=BachDigitalSource_source_00000946&se_mcrid=BachDigitalSource_derivate_00001302&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001302/db_bachp0083_post001r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001302/db_bachp0083_post001v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001302/db_bachp0083_post002r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001302/db_bachp0083_post002v.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000946
+date: Auffuehrungsdatum 14.11.1723
+work: Bach-Werke-Verzeichnis (BWV) 90
+owner: Bach Archiv Leipzig

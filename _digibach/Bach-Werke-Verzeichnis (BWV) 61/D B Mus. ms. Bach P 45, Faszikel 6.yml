@@ -1,0 +1,22 @@
+--- 
+title: D B Mus. ms. Bach P 45, Faszikel 6
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=B4610D270C7927169EAC837605348EED?re_mcrid=BachDigitalSource_source_00000882&se_mcrid=BachDigitalSource_derivate_00000738&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000738/db_bachp0045_page048r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000738/db_bachp0045_page048v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=B4610D270C7927169EAC837605348EED?re_mcrid=BachDigitalSource_source_00000882&se_mcrid=BachDigitalSource_derivate_00000742&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000742/db_bachp0045_page051v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=B4610D270C7927169EAC837605348EED?re_mcrid=BachDigitalSource_source_00000882&se_mcrid=BachDigitalSource_derivate_00000744&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000744/db_bachp0045_page052r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000744/db_bachp0045_page052v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=B4610D270C7927169EAC837605348EED?re_mcrid=BachDigitalSource_source_00000882&se_mcrid=BachDigitalSource_derivate_00000746&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000746/db_bachp0045_page052v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000746/db_bachp0045_page053r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=B4610D270C7927169EAC837605348EED?re_mcrid=BachDigitalSource_source_00000882&se_mcrid=BachDigitalSource_derivate_00000748&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000748/db_bachp0045_page053r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=B4610D270C7927169EAC837605348EED?re_mcrid=BachDigitalSource_source_00000882&se_mcrid=BachDigitalSource_derivate_00000750&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000750/db_bachp0045_page053v.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000882
+date: Auffuehrungsdatum Weimar, 2.12.1714 (und Wiederauffuehrung Leipzig, 28.11.1723)
+work: Bach-Werke-Verzeichnis (BWV) 61
+owner: Bach Archiv Leipzig

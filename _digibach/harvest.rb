@@ -155,6 +155,9 @@ class Harvester
     if work =~ /^(.+)\//
       work = $1.strip
     end
+    if work =~ /\(BWV\)\s[\da-z]+/
+      work = $1
+    end
     href = entry['href']
 
     orig_dir = FileUtils.pwd

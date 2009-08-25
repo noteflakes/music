@@ -155,8 +155,8 @@ class Harvester
     if work =~ /^(.+)\//
       work = $1.strip
     end
-    if work =~ /\(BWV\)\s[\da-z]+/
-      work = $1
+    if work =~ /\(BWV\)\s([\da-z]+)/
+      work = "BWV #{$1}"
     end
     href = entry['href']
 
@@ -183,7 +183,7 @@ trap('TERM') {exit}
 # }
 # Harvester.process(entry)
 
-manuscripts = YAML.load(IO.read('manuscripts.yml'))[13..35]
+manuscripts = YAML.load(IO.read('manuscripts.yml'))[0..36]
 manuscripts.each_with_index do |m, idx|
   work = m['work']
   if work =~ /^(.+)\//

@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+trap("INT") {exit}
+trap("TERM") {exit}
+
+require 'fileutils'
+
+files = Dir['_pdf/**/*.pdf']
+
+FileUtils.mkdir('_collate') rescue nil
+
+files.each do |fn|
+  fn =~ /^_pdf\/([^\/]+)\/(.+)\.pdf$/
+  work = $1
+  part = $2
+  p [work, part]
+  
+  FileUtils.mkdir(File.join('_collate', part)) rescue nil
+  part_fn = File.join('_collate', part, "#{work}.pdf")
+  
+  FileUtils.cp(fn, part_fn)
+end

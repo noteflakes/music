@@ -1,7 +1,8 @@
 require 'rubygems'
 require 'open-uri'
-require 'hpricot'
 require 'pdf/writer'
+require 'hpricot'
+require 'pp'
 
 class String
   def uri_escape
@@ -74,13 +75,35 @@ class Harvester
     end
   end
   
+  # Creates a list of jpgs from the dfg docs (a dfg doc is provided for each movement in the work)
   def jpg_hrefs
-    @jpg_hrefs ||= dfg_docs.inject({}) do |jpgs, d|
-      (d/'mets:file mets:flocat').map {|f| f['xlink:href']}.each do |href|
-        if href =~ /((ante|page|post)(.+))\.jpg$/
-          page = $1
-          jpgs[page] ||= []
-          jpgs[page] << href.safe_uri_escape
+    last_label = nil
+    @jpg_hrefs ||= dfg_docs.inject([]) do |jpgs, d|
+      # get all refs: [page_label, fileid]
+      files = (d/'mets:structmap mets:div mets:div').
+        map do |page|
+          label = page['orderlabel']
+          if label =~ /_((page|ante|post).+)$/
+            label = $1
+          end
+          [label, page.at('mets:fptr')['fileid']]
+        end
+        
+      files.each do |file|
+        label = file[0]
+        if (label =~ /Bl\.\s*([^\,]+)/)
+          label = $1
+        end
+        
+        file_tag = (d/"mets:file").select {|f| f['id'] == file[1]}.first
+        if file_tag
+          href = file_tag.at("mets:flocat")['xlink:href'].safe_uri_escape
+          if label != last_label
+            last_label = label
+            jpgs << [label, href]
+          else # same page as before, so we add the ref to the last page tuple
+            jpgs.last << href
+          end
         end
       end
       jpgs
@@ -88,38 +111,42 @@ class Harvester
   end
   
   def save_info
+    # info = metadata.merge('jpg' => jpg_hrefs, 'dfg' => dfg_links)
     info = metadata.merge('hrefs' => dfg_info)
     File.open("#{title}.yml", 'w+') {|f| f << info.to_yaml}
   end
   
   def process_jpgs
-    refs = jpg_hrefs
-    refs.keys.sort.each_with_index do |page, idx|
-      jpg = refs[page].inject(nil) do |i, href|
-        puts "Downloading page #{page}..."
+    jpg_hrefs.each do |page_info|
+      label = page_info.shift
+      # Different refs for the same page may exist in different dfg docs,
+      # here we just grab the first one that works and yield it to the 
+      # supplied block.
+      jpg = page_info.inject(nil) do |i, href|
+        puts "Downloading #{label}..."
         (jpg = open(href)) && (break jpg) rescue nil
       end
-      yield jpg, page, refs[page]
+      yield jpg, label, page_info
     end
   end
   
   def make_pdf
     pdf = PDF::Writer.new; first = true
     pdf.select_font "Helvetica-Bold"
-    process_jpgs do |jpg, page, hrefs|
+    process_jpgs do |jpg, label, hrefs|
       pdf.start_new_page unless first; first = false
       # page identification
-      pdf.text "#{@work} - #{title} - #{page}", :font_size => 9, :justification => :center
+      pdf.text "#{@work} - #{title} - #{label}", :font_size => 9, :justification => :center
       if jpg
         pdf.image jpg, :resize => :full, :justification => :center
       else
-        text = hrefs.inject("Could not load jpg for #{page}:\n") do |t, r|
+        puts "could not load jpg for #{label}"
+        text = hrefs.inject("Could not load jpg for #{label}:\n") do |t, r|
           t << "  #{r}\n"
         end
         pdf.text text, :font_size => 14, :justification => :left
       end
     end
-    puts "Saving PDF..."
     pdf.save_as("#{title}.pdf")
   end
   
@@ -153,7 +180,7 @@ trap('TERM') {exit}
 # }
 # Harvester.process(entry)
 
-manuscripts = YAML.load(IO.read('manuscripts.yml'))[0..76]
+manuscripts = YAML.load(IO.read('manuscripts.yml'))[13..35]
 manuscripts.each_with_index do |m, idx|
   work = m['work']
   if work =~ /^(.+)\//

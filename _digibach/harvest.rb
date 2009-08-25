@@ -147,19 +147,19 @@ end
 trap('INT') {exit}
 trap('TERM') {exit}
 
-entry = {
-  'href' => 'http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000923',
-  'work' => 'Bach-Werke-Verzeichnis (BWV) 87'
-}
-Harvester.process(entry)
+# entry = {
+#   'href' => 'http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000923',
+#   'work' => 'Bach-Werke-Verzeichnis (BWV) 87'
+# }
+# Harvester.process(entry)
 
-# manuscripts = YAML.load(IO.read('manuscripts.yml'))[1..76]
-# manuscripts.each_with_index do |m, idx|
-#   work = m['work']
-#   if work =~ /^(.+)\//
-#     work = $1.strip
-#   end
-#   puts "(#{idx}) processing #{work}: #{m['id']}"
-#   Harvester.process(m)
-# end
+manuscripts = YAML.load(IO.read('manuscripts.yml'))[0..76]
+manuscripts.each_with_index do |m, idx|
+  work = m['work']
+  if work =~ /^(.+)\//
+    work = $1.strip
+  end
+  puts "(#{idx}) processing #{work}: #{m['id']}"
+  Harvester.process(m)
+end
 

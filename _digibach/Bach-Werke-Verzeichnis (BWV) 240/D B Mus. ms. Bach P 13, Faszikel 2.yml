@@ -1,0 +1,12 @@
+--- 
+title: D B Mus. ms. Bach P 13, Faszikel 2
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=0E8DF1929F910EBD358CB4FE84206B38?re_mcrid=BachDigitalSource_source_00000826&se_mcrid=BachDigitalSource_derivate_00000087&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000087/db_bachp0013_page021.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000087/db_bachp0013_page022.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000087/db_bachp0013_page023.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000087/db_bachp0013_page024.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000826
+date: "1742"
+work: Bach-Werke-Verzeichnis (BWV) 240
+owner: Bach Archiv Leipzig

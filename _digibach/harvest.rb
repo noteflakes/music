@@ -18,7 +18,7 @@ class String
   end
 end
 
-class Manuscript
+class Harvester
   def initialize(work, url)
     @work = work
     @url = url
@@ -77,12 +77,8 @@ class Manuscript
   def jpg_hrefs
     @jpg_hrefs ||= dfg_docs.inject({}) do |jpgs, d|
       (d/'mets:file mets:flocat').map {|f| f['xlink:href']}.each do |href|
-        if href =~ /page(.+)\.jpg$/
+        if href =~ /((ante|page|post)(.+))\.jpg$/
           page = $1
-          jpgs[page] ||= []
-          jpgs[page] << href.safe_uri_escape
-        elsif href =~ /(?:ante|post)(\d+)\[(r|v)\]\.jpg$/
-          page = "#{$1}#{$2}"
           jpgs[page] ||= []
           jpgs[page] << href.safe_uri_escape
         end
@@ -113,7 +109,7 @@ class Manuscript
     process_jpgs do |jpg, page, hrefs|
       pdf.start_new_page unless first; first = false
       # page identification
-      pdf.text "#{@work} - #{title} - page #{page}", :font_size => 9, :justification => :center
+      pdf.text "#{@work} - #{title} - #{page}", :font_size => 9, :justification => :center
       if jpg
         pdf.image jpg, :resize => :full, :justification => :center
       else
@@ -126,31 +122,44 @@ class Manuscript
     puts "Saving PDF..."
     pdf.save_as("#{title}.pdf")
   end
-end
+  
+  def self.process(entry)
+    work = entry['work']
+    if work =~ /^(.+)\//
+      work = $1.strip
+    end
+    href = entry['href']
 
-manuscripts = YAML.load(IO.read('manuscripts.yml'))[0..0]
+    orig_dir = FileUtils.pwd
+    work_dir = File.join(orig_dir, work)
+    FileUtils.mkdir(work_dir) rescue nil
+    FileUtils.cd(work_dir)
+    begin
+      m = new(work, href)
+      m.save_info
+      m.make_pdf
+    ensure
+      FileUtils.cd(orig_dir)
+    end
+  end
+end
 
 trap('INT') {exit}
 trap('TERM') {exit}
 
-manuscripts.each_with_index do |m, idx|
-  work = m['work']
-  if work =~ /^(.+)\//
-    work = $1.strip
-  end
-  puts "(#{idx}) processing #{work}: #{m['id']}"
-  href = m['href']
+entry = {
+  'href' => 'http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000923',
+  'work' => 'Bach-Werke-Verzeichnis (BWV) 87'
+}
+Harvester.process(entry)
 
-  orig_dir = FileUtils.pwd
-  work_dir = File.join(orig_dir, work)
-  FileUtils.mkdir(work_dir) rescue nil
-  FileUtils.cd(work_dir)
-  begin
-    m = Manuscript.new(work, href)
-    m.save_info
-    m.make_pdf
-  ensure
-    FileUtils.cd(orig_dir)
-  end
-end
+# manuscripts = YAML.load(IO.read('manuscripts.yml'))[1..76]
+# manuscripts.each_with_index do |m, idx|
+#   work = m['work']
+#   if work =~ /^(.+)\//
+#     work = $1.strip
+#   end
+#   puts "(#{idx}) processing #{work}: #{m['id']}"
+#   Harvester.process(m)
+# end
 

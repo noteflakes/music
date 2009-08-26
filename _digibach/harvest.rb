@@ -91,7 +91,7 @@ class Harvester
         
       files.each do |file|
         label = file[0]
-        if (label =~ /Bl\.\s*([^\,]+)/)
+        if (label =~ /Bl\.\s*([^\,\.]+)/)
           label = $1
         end
         
@@ -183,7 +183,7 @@ trap('TERM') {exit}
 # }
 # Harvester.process(entry)
 
-manuscripts = YAML.load(IO.read('manuscripts.yml'))[0..36]
+manuscripts = YAML.load(IO.read('manuscripts.yml'))[8..36]
 manuscripts.each_with_index do |m, idx|
   work = m['work']
   if work =~ /^(.+)\//

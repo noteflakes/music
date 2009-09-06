@@ -15,8 +15,9 @@ work_range.each do |id|
   url = URL_PATTERN % id
   begin
     h = Hpricot(open(url))
-    title = h.at('div.contentlinecontent table tr td').inner_text.
-      gsub(/\n/, " ").gsub(/\s{2,}/, " ").strip
+    
+    title = h.at('div.contentlinecontent table tr td').inner_html.
+      gsub(/\<.+$/m, "").gsub(/\n/, " ").gsub(/\s{2,}/, " ").strip
     bwv = (title =~ /\(BWV\)\s+(\d+)/) ? $1 : ''
     puts title
     

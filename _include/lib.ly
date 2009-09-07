@@ -1,3 +1,5 @@
+#(ly:set-option 'point-and-click #f)
+
 \header{
   copyright = "Copyright 2009 IBS. All rights reserved."
 }

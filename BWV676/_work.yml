@@ -1,5 +1,8 @@
 title: "Choral-Prelude BWV 676 Allein Gott in der Höh' sei Ehr'"
 composer: "Johann Sebastian Bach"
+parts:
+  choral:
+    auto_beam: false
 score:
   order:
     - violino

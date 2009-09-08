@@ -33,6 +33,12 @@
 #(set-global-staff-size 13)
 
 prepare = {
+	\override Score.BarNumber #'font-size = #2
+	% \override Score.BarNumber  #'stencil
+	%   = #(make-stencil-boxer 0.1 0.4 ly:text-interface::print)
+	% \override Score.BarNumber #'break-visibility = #'#(#f #t #t)
+	% \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)
+	% \override Score.BarNumber #'self-alignment-X = #0
 }
 
 \version "2.12.2"

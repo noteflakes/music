@@ -1,3 +1,16 @@
+\header {
+	copyright = \markup \column {
+		\fill-line { 
+			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+		  	(/ -800 (*staff-size*))
+		  	(/  1600 (*staff-size*))
+			)
+		}
+		\fill-line { "Copyright © 2009 Sharon Rosner" }
+		\fill-line { "All rights reserved." }
+	}
+}
+
 \paper {
   #(set-paper-size "a4")
   print-page-number = ##t

@@ -1,3 +1,16 @@
+\header {
+	copyright = \markup \column {
+		\fill-line { 
+			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+		  	(/ -800 (*staff-size*))
+		  	(/  1600 (*staff-size*))
+			)
+		}
+		\fill-line { "Copyright © 2009 Sharon Rosner" }
+		\fill-line { "Creative Commons Attribution 3.0 License" }
+	}
+}
+
 \paper {
   #(set-paper-size "a4")
   print-page-number = ##t
@@ -54,15 +67,15 @@
     \fill-line { \fontsize #5 "MOVEMENTS" }
 		\fill-line { 
 			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -1200 (*staff-size*))
-		  	(/  2400 (*staff-size*))
+		  	(/ -800 (*staff-size*))
+		  	(/  1600 (*staff-size*))
 			)
 		}
 		\null
   }
 
   tocItemMarkup = \markup \fill-line {
-    \line-width-ratio #(if (< (*staff-size*) 18) 0.5 0.6) \fontsize #3 \fill-line {
+    \line-width-ratio #0.4 \fontsize #3 \fill-line {
       \line { \fromproperty #'toc:text }
       \fromproperty #'toc:page
     }
@@ -73,7 +86,7 @@
 #(set-global-staff-size 13)
 
 prepare = {
-	\override Score.BarNumber #'font-size = #2
+	\override Score.BarNumber #'font-size = #2.5
 	% \override Score.BarNumber  #'stencil
 	%   = #(make-stencil-boxer 0.1 0.4 ly:text-interface::print)
 	% \override Score.BarNumber #'break-visibility = #'#(#f #t #t)

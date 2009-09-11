@@ -34,6 +34,7 @@
 
 prepare = {
   \set Score.skipBars = ##t
+	\override Score.BarNumber #'font-size = #1
 }
 
 \version "2.12.2"

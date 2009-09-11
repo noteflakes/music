@@ -1,9 +1,5 @@
 #(ly:set-option 'point-and-click #f)
 
-\header{
-  copyright = "Copyright 2009 IBS. All rights reserved."
-}
-
 ficta = {
   \once \override AccidentalSuggestion #'avoid-slur = #'outside
   \once \set suggestAccidentals = ##t
@@ -33,5 +29,50 @@ qBeam = {
   #(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
   #(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
 }
+
+% some scheme functions (appropriated from Nicolas Sceaux's amazing work)
+
+#(define-markup-command (when-property layout props symbol markp) (symbol? markup?)
+  (if (chain-assoc-get symbol props)
+      (interpret-markup layout props markp)
+      (ly:make-stencil '()  '(1 . -1) '(1 . -1))))
+
+#(define-markup-command (apply-fromproperty layout props fn symbol)
+  (procedure? symbol?)
+  (let ((m (chain-assoc-get symbol props)))
+    (if (markup? m)
+        (interpret-markup layout props (fn m))
+        empty-stencil)))
+
+#(use-modules (srfi srfi-39))
+#(define-public *staff-size*
+  (make-parameter (let ((module (ly:output-def-scope
+                                 (ly:parser-lookup (eval 'parser (current-module))
+                                                   '$defaultpaper))))
+                    (/ (module-ref module 'staff-height)
+                       (eval 'pt module)))))
+
+
+#(define-markup-command (line-width-ratio layout props width-ratio arg)
+  (number? markup?)
+  (interpret-markup layout props
+   (markup #:override (cons 'line-width (* width-ratio
+                                           (chain-assoc-get 'line-width props)))
+           arg)))
+
+
+\header{
+  copyright = \markup \column {
+		\fill-line { 
+			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+		  	(/ -800 (*staff-size*))
+		  	(/  1600 (*staff-size*))
+			)
+		}
+		\fill-line { "Copyright © 2009 Sharon Rosner" }
+		\fill-line { "Creative Commons Attribution 3.0 License" }
+	}
+}
+
 
 \version "2.12.2"

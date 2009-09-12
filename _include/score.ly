@@ -6,8 +6,7 @@
 		  	(/  1600 (*staff-size*))
 			)
 		}
-		\fill-line { "Copyright © 2009 Sharon Rosner" }
-		\fill-line { "Creative Commons Attribution 3.0 License" }
+		\fill-line { "Copyright © 2009 Sharon Rosner. Creative Commons Attribution 3.0 License" }
 	}
 }
 
@@ -63,6 +62,12 @@
     \fill-line { \fontsize #2 \fromproperty #'header:arrangement }
   }
 
+	scoreTitleMarkup = \markup \column {
+		\fill-line {
+			\fromproperty #'header:piece
+		}
+	}
+
 	tocTitleMarkup = \markup \column {
     \fill-line { \fontsize #5 "MOVEMENTS" }
 		\fill-line { 
@@ -81,6 +86,21 @@
     }
   }
 
+	oddHeaderMarkup = \markup
+	\fill-line {
+	  %% force the header to take some space, otherwise the
+	  %% page layout becomes a complete mess.
+	  " "
+	  \on-the-fly #not-first-page \fromproperty #'header:title
+	  \on-the-fly #print-page-number-check-first \fromproperty #'page:page-number-string
+	}
+
+	evenHeaderMarkup = \markup
+	\fill-line {
+	  \on-the-fly #print-page-number-check-first \fromproperty #'page:page-number-string
+	  \on-the-fly #not-first-page \fromproperty #'header:title
+	  " "
+	}
 }
 
 #(set-global-staff-size 13)

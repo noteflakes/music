@@ -6,8 +6,7 @@
 		  	(/  1600 (*staff-size*))
 			)
 		}
-		\fill-line { "Copyright © 2009 Sharon Rosner" }
-		\fill-line { "All rights reserved." }
+		\fill-line { "Copyright © 2009 Sharon Rosner. All rights reserved." }
 	}
 }
 
@@ -39,8 +38,31 @@
 
   top-margin = 1.4\cm
   bottom-margin = 1.4\cm
-  % left-margin = 1.2\cm
-  % line-width = 18.6\cm
+
+	bookTitleMarkup = \markup {
+	  % \override #'(baseline-skip . 3.5)
+	  \column {
+	    % \override #'(baseline-skip . 3.5)
+	    \column {
+	      \large \larger \bold
+	      \fill-line {
+	        \larger \fromproperty #'header:title
+	      }
+				\null
+	      \fill-line {
+ 					{ \large \larger \bold \underline \fromproperty #'header:instrument }
+ 	        \fromproperty #'header:poet
+        	\fromproperty #'header:composer
+	      }
+	    }
+	  }
+	}
+
+	% scoreTitleMarkup = \markup {
+	% 	\fill-line {
+	% 		\fromproperty #'header:piece
+	% 	}
+	% }
 }
 
 #(set-global-staff-size 17)

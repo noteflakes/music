@@ -8,6 +8,8 @@
 		}
 		\fill-line { "Copyright © 2009 Sharon Rosner. Creative Commons Attribution 3.0 License" }
 	}
+
+	tagline = "Engraved using Lilypond."
 }
 
 \paper {

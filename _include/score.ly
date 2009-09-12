@@ -49,6 +49,9 @@
     \null \null \null \null \null \null
     \fill-line { \fontsize #8
                  \apply-fromproperty #make-smallCaps-markup #'header:title }
+		\null
+    \fill-line { \fontsize #6
+                 \apply-fromproperty #make-smallCaps-markup #'header:subtitle }
     \null \null \null \null \null \null
     \fill-line { 
 			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
@@ -58,10 +61,6 @@
 		}
     \null \null \null \null \null \null
     \fill-line { \fontsize #4 \fromproperty #'header:date }
-    \null
-    \null \null \null \null \null \null
-    \fill-line { \fontsize #2 \fromproperty #'header:editions }
-    \fill-line { \fontsize #2 \fromproperty #'header:arrangement }
   }
 
 	scoreTitleMarkup = \markup \column {

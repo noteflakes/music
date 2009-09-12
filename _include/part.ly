@@ -42,14 +42,11 @@
   bottom-margin = 1.4\cm
 
 	bookTitleMarkup = \markup {
-	  % \override #'(baseline-skip . 3.5)
 	  \column {
-	    % \override #'(baseline-skip . 3.5)
 	    \column {
 	      \large \larger \bold
-	      \fill-line {
-	        \larger \fromproperty #'header:title
-	      }
+	      \fill-line { \larger \fromproperty #'header:title }
+	      \fill-line { \larger \fromproperty #'header:subtitle }
 				\null
 	      \fill-line {
  					{ \large \larger \bold \underline \fromproperty #'header:instrument }

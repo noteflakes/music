@@ -36,3 +36,7 @@ score:
     - tenore
     - basso
     - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

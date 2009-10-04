@@ -60,7 +60,7 @@
   e16 f g8 r4 r
   r g, d' ~
   d c2 ~
-  c4 b d ~
+  c4 a d ~
   d g, c ~
   c b2 
   c8 e b c16 d c8 fis,

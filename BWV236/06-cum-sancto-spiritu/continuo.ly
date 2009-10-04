@@ -28,7 +28,7 @@
   fis8 e fis d b cis16 d
   e8 d e fis16 g a8 a,
   d cis d e fis g
-  a a,16 gis a8 b cis d
+  a a,16 gis a8 b c d
   e e,16 dis e8 fis g a
   b b'16 a b8 fis gis e
   a c fis, a d, fis

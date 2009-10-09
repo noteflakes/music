@@ -1,4 +1,4 @@
 part_macro: \prepare
 score_macro: \prepare
 editor: Sharon Rosner
-lilypond_cmd: ly
+lilypond_dir: /Applications/LilyPond.app/Contents/Resources/bin

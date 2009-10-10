@@ -34,7 +34,7 @@
   b16 c d c b c a b g a fis g
   e8 fis16 g a b cis d e d cis b
   a8 d16 e d8 a4 g16 fis
-  g8 b e16 g, a b a g fis e
+  g8 b e16 g, a b c b a g
   fis4 r16 a d c b a g fis
   e2. 
   d4 r16 fis g a g fis e d

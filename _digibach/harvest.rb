@@ -130,6 +130,10 @@ class Harvester
     end
   end
   
+  def pdf_filename
+    "#{title}.pdf"
+  end
+  
   def make_pdf
     pdf = PDF::Writer.new; first = true
     pdf.select_font "Helvetica-Bold"
@@ -147,7 +151,27 @@ class Harvester
         pdf.text text, :font_size => 14, :justification => :left
       end
     end
-    pdf.save_as("#{title}.pdf")
+    pdf.save_as(pdf_filename)
+  end
+  
+  def self.get_receipts
+    if File.file?('receipts.yml')
+      YAML.load(IO.read('receipts.yml'))
+    else
+      {}
+    end
+  end
+  
+  def self.set_receipts(r)
+    File.open("receipts.yml", 'w+') {|f| f << r.to_yaml}
+  end
+  
+  def self.already_processed?(href)
+    get_receipts[href]
+  end
+  
+  def self.record_receipt(href)
+    set_receipts(get_receipts.merge(href => true))
   end
   
   def self.process(entry)
@@ -160,16 +184,19 @@ class Harvester
     end
     href = entry['href']
 
-    orig_dir = FileUtils.pwd
-    work_dir = File.join(orig_dir, work)
+    if work =~ /BWV\s(\d+)(.*)/
+      work_dir = "BWV%04d%s" % [$1.to_i, $2]
+    else
+      work_dir = work
+    end
     FileUtils.mkdir(work_dir) rescue nil
-    FileUtils.cd(work_dir)
-    begin
-      m = new(work, href)
-      m.save_info
-      m.make_pdf
-    ensure
-      FileUtils.cd(orig_dir)
+    Dir.chdir(work_dir) do
+      unless already_processed?(href)
+        m = new(work, href)
+        m.save_info
+        m.make_pdf
+        record_receipt(href)
+      end
     end
   end
 end
@@ -177,13 +204,7 @@ end
 trap('INT') {exit}
 trap('TERM') {exit}
 
-# entry = {
-#   'href' => 'http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000923',
-#   'work' => 'Bach-Werke-Verzeichnis (BWV) 87'
-# }
-# Harvester.process(entry)
-
-manuscripts = YAML.load(IO.read('manuscripts.yml'))[8..36]
+manuscripts = YAML.load(IO.read('manuscripts.yml'))
 manuscripts.each_with_index do |m, idx|
   work = m['work']
   if work =~ /^(.+)\//

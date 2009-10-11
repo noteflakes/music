@@ -86,7 +86,7 @@ class Harvester
           if label =~ /_((page|ante|post).+)$/
             label = $1
           end
-          [label, page.at('mets:fptr')['fileid']]
+          [label, page.at('mets:fptr')['fileid'], page['id']]
         end
         
       files.each do |file|
@@ -95,9 +95,19 @@ class Harvester
           label = $1
         end
         
+        label.strip!
+        
         file_tag = (d/"mets:file").select {|f| f['id'] == file[1]}.first
         if file_tag
           href = file_tag.at("mets:flocat")['xlink:href'].safe_uri_escape
+          if label.empty?
+            if file[2] =~ /((page|post|pre|ante)(.+))$/
+              label = $1
+            else
+              label = file[2]
+            end
+          end
+          
           if label != last_label
             last_label = label
             jpgs << [label, href]

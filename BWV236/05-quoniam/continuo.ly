@@ -2,10 +2,12 @@
   \key e \minor
   \time 4/4
   
-  #(revert-auto-beam-setting '(end 1 32 4 4) 1 8 'Staff)
-  #(revert-auto-beam-setting '(end 1 32 4 4) 3 8 'Staff)
-  #(revert-auto-beam-setting '(end 1 32 4 4) 5 8 'Staff)
-  #(revert-auto-beam-setting '(end 1 32 4 4) 7 8 'Staff)
+  \overrideBeamSettings #'Staff #'(4 . 4) #'end #'(((1 . 32) . (8 8 8 8))) 
+  
+  %#(revert-auto-beam-setting '(end 1 32 4 4) 1 8 'Staff)
+  %#(revert-auto-beam-setting '(end 1 32 4 4) 3 8 'Staff)
+  %#(revert-auto-beam-setting '(end 1 32 4 4) 5 8 'Staff)
+  %#(revert-auto-beam-setting '(end 1 32 4 4) 7 8 'Staff)
   
   e,,8 e'4 dis8 e16 fis g4 fis8
   g e' fis, dis' e, g c c,

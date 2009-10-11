@@ -1,0 +1,12 @@
+--- 
+title: D B Mus. ms. Bach P 13, Faszikel 5
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=B82891A3E0865CD64A00ECB9A118E980?re_mcrid=BachDigitalSource_source_00000829&se_mcrid=BachDigitalSource_derivate_00000093&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000093/db_bachp0013_page035.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000093/db_bachp0013_page036.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000093/db_bachp0013_page037.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000093/db_bachp0013_page038.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000829
+date: Erstauffuehrung  Weihnachten 1723
+work: BWV 238
+owner: Bach Archiv Leipzig

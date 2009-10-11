@@ -1,0 +1,31 @@
+--- 
+title: D B Mus. ms. Bach P 103
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=6CDD5E927292A32F8AD1A71567F46E54?re_mcrid=BachDigitalSource_source_00000970&se_mcrid=BachDigitalSource_derivate_00001639&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001639/db_bachp0103_page001r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=6CDD5E927292A32F8AD1A71567F46E54?re_mcrid=BachDigitalSource_source_00000970&se_mcrid=BachDigitalSource_derivate_00001642&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001642/db_bachp0103_page001v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001642/db_bachp0103_page002r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001642/db_bachp0103_page002v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001642/db_bachp0103_page003r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=6CDD5E927292A32F8AD1A71567F46E54?re_mcrid=BachDigitalSource_source_00000970&se_mcrid=BachDigitalSource_derivate_00001645&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001645/db_bachp0103_page003v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=6CDD5E927292A32F8AD1A71567F46E54?re_mcrid=BachDigitalSource_source_00000970&se_mcrid=BachDigitalSource_derivate_00001648&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001648/db_bachp0103_page003v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001648/db_bachp0103_page004r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=6CDD5E927292A32F8AD1A71567F46E54?re_mcrid=BachDigitalSource_source_00000970&se_mcrid=BachDigitalSource_derivate_00001651&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001651/db_bachp0103_page004v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001651/db_bachp0103_page005r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=6CDD5E927292A32F8AD1A71567F46E54?re_mcrid=BachDigitalSource_source_00000970&se_mcrid=BachDigitalSource_derivate_00001654&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001654/db_bachp0103_page005r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001654/db_bachp0103_page005v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=6CDD5E927292A32F8AD1A71567F46E54?re_mcrid=BachDigitalSource_source_00000970&se_mcrid=BachDigitalSource_derivate_00001657&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001657/db_bachp0103_page005v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001657/db_bachp0103_page006r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001657/db_bachp0103_page006v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001657/db_bachp0103_page007r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001657/db_bachp0103_page007v.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000970
+date: "1714"
+work: BWV 182
+owner: Bach Archiv Leipzig

@@ -1,0 +1,29 @@
+--- 
+title: D B Mus. ms. Bach P 134
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=DBC86C2B99172D3DAA1991A4DF1A7367?re_mcrid=BachDigitalSource_source_00001001&se_mcrid=BachDigitalSource_derivate_00002273&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002273/db_bachp0134_ante001r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002273/db_bachp0134_ante001v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=DBC86C2B99172D3DAA1991A4DF1A7367?re_mcrid=BachDigitalSource_source_00001001&se_mcrid=BachDigitalSource_derivate_00002276&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002276/db_bachp0134_page001r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002276/db_bachp0134_page001v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002276/db_bachp0134_page002r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=DBC86C2B99172D3DAA1991A4DF1A7367?re_mcrid=BachDigitalSource_source_00001001&se_mcrid=BachDigitalSource_derivate_00002279&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002279/db_bachp0134_page002r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002279/db_bachp0134_page002v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002279/db_bachp0134_page003r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=DBC86C2B99172D3DAA1991A4DF1A7367?re_mcrid=BachDigitalSource_source_00001001&se_mcrid=BachDigitalSource_derivate_00002282&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002282/db_bachp0134_page003v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=DBC86C2B99172D3DAA1991A4DF1A7367?re_mcrid=BachDigitalSource_source_00001001&se_mcrid=BachDigitalSource_derivate_00002285&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002285/db_bachp0134_page003v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=DBC86C2B99172D3DAA1991A4DF1A7367?re_mcrid=BachDigitalSource_source_00001001&se_mcrid=BachDigitalSource_derivate_00002289&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002289/db_bachp0134_page003v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002289/db_bachp0134_page004r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=DBC86C2B99172D3DAA1991A4DF1A7367?re_mcrid=BachDigitalSource_source_00001001&se_mcrid=BachDigitalSource_derivate_00002292&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002292/db_bachp0134_page004v.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002292/db_bachp0134_post001r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002292/db_bachp0134_post001v.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00001001
+date: Auffuehrungsdatum 6.2.1724
+work: BWV 144
+owner: Bach Archiv Leipzig

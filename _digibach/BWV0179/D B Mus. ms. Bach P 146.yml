@@ -1,0 +1,14 @@
+--- 
+title: D B Mus. ms. Bach P 146
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=4020EE8609A913125BCB7B82C552823D?re_mcrid=BachDigitalSource_source_00001013&se_mcrid=BachDigitalSource_derivate_00002478&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002478/db_bachp0146_page002v.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=4020EE8609A913125BCB7B82C552823D?re_mcrid=BachDigitalSource_source_00001013&se_mcrid=BachDigitalSource_derivate_00002484&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002484/db_bachp0146_page004r.jpg
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=4020EE8609A913125BCB7B82C552823D?re_mcrid=BachDigitalSource_source_00001013&se_mcrid=BachDigitalSource_derivate_00002490&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002490/db_bachp0146_page006r.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00002490/db_bachp0146_page006v.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00001013
+date: "1723"
+work: BWV 179
+owner: Bach Archiv Leipzig

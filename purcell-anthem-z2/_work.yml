@@ -1,0 +1,20 @@
+title: "Behold, I Bring You Glad Tidings"
+composer: Henry Purcell
+parts:
+  oboe1:
+    source: soprano
+  oboe2:
+    source: alto
+score:
+  order:
+    - violin1
+    - violin2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [violin1, violin2]
+    - bracket: [soprano, alto, tenore, basso]

@@ -1,0 +1,243 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+  
+  \tempo "Very slow"
+  \mark \default
+  r8 c e e e4 c
+  r8 e g g g4 e
+  r8 g c c c4 g
+  e c r8 g' e e
+  c c g g c c e g
+  e4 c d2
+  \repeat volta 2 {
+    \tempo "Quick"
+    \mark \default
+    R1
+    r2 r8 g e c
+    f a d, g e g c, f
+    d f b, e c e a, d
+    bb d g, c a a'6 g f g a8
+    g4 r8 g e c f a
+    d, b c e c a b d
+    b g a c a f g4
+    c8 e a, d b d g, c
+    a c f d g4 a ~
+    a8 f g4 ~ g8 e f4 ~
+    f8 d e4 ~ e8 c d4 ~
+    d8 b c g a4 g
+    g r8 a' f d4 g8
+    e cs d f a4. a8
+    f d r d e4. c8
+    d4. bb8 c4. a8
+    bb4. g8 a4. a'8
+    b4. g8 a4. fs8
+    gs e c a b c6 d e8 e
+    c a r a' e e6 f g8 g
+    d d6 e f8 f c e6 f g4 ~
+    g8 g a bb a4 g ~
+    g8 d g d g b g e 
+    c c6 d e8 e6 f g4 r8 d
+    e g e g c, f c f
+    d4 e f4. g8
+  }
+  \alternative {
+    {\time 2/4 
+      e2 }
+    {\time 4/4 \tempo "Very slow" \mark \default 
+      e8 c e e  }
+  }
+            e4 c
+  r8 e g g g4 e
+  r8 g c c c4 g
+  e2 r4 r8 e ~
+  g2 r4 r8 g ~
+  c1 ~
+  b2 c8 [c\f c c,] ~
+  e f g bb a4 g
+  g2 r8 e\p a a 
+  gs fs e d c b a4
+  e'4. e8 d b c d
+  e2 r8 e e e 
+  ds b g a b4. b8
+  b b b cs d cs b4
+  b2 r
+  r8 a a a a4. a8
+  a d d d a a d d 
+  d2 r8 d d d
+  d4. d8 d g g d
+  d4. d8 d4 b
+  r8 c e4 r r8 e
+  g2 r4 r8 g
+  c4. b6 a g8 c c c
+  a4 b c8 e, g g
+  c b6 a g8 f e d c e
+  d2 c4 c
+  d8 e f4 e4. d8
+  c c' a4 f4.\trill e8 \bar "||"
+  \time 3/4
+  \mark \default
+  e2 r4 ~
+  R2.*11
+  r4 r g
+  c g g
+  c g g
+  a g g
+  g2 r4
+  R2.*5
+  r4 r b,
+  e b gs'
+  b gs e
+  gs e b
+  b2 r4
+  R2.*5
+  r4 r a'
+  c a r
+  r r d
+  d a r
+  R2.*3
+  r4 r d
+  d4. c8 bb4
+  bb e, f
+  f bb a
+  a f r
+  r r b
+  c c, r
+  c' r r
+  r r g
+  c g g 
+  g c b8. a6
+  g4 e r
+  R2.*16
+  c4 e g
+  f4. e8 f4
+  e8. f6 g4 c
+  c b4. a8
+  g2 r4
+  g,4 b d
+  c4. b8 c4
+  b8. a6 b8. c6 b4
+  a2 d4
+  d b d
+  b e2
+  e4 f4. g8
+  a4 e2
+  e2 r4
+  r a, d
+  c8. b6 a8. b6 c8. d6
+  e2 d4
+  g, e' g
+  d8. c6 b8. c6 d8. e6
+  c4 e a
+  a g8. a6 b4
+  a2 g8. a,6
+  b8. c6 d4 b8. c6
+  d4 g a8. g6
+  f8. e6 d4 a
+  b g g'
+  a f4. e8
+  e4 c e8. d6
+  c8. b6 a4. a8
+  b4 g g'
+  a f4. e8 \bar "||"
+  \time 4/4
+  \mark \default
+  e2 r
+  R1
+  c'4 c8. c6 c4 c
+  c8 e c g c g e4 \bar "||"
+  \key c \minor
+  \time 3/4
+  \mark \default
+  R2.*5
+  c'2 c4
+  f, bb2
+  g4 f4. e8
+  f4 c2
+  c2.
+  a4 g2
+  g2. \bar "||"
+  \key d \minor
+  \time 4/4
+  \mark \default
+  a'4 a8. a6 a4 a
+  a8 cs a e a e cs4 \bar "||"
+  \time 3/4
+  \mark \default
+  R2.*5
+  d'2 d4
+  g, c r
+  f, bb r
+  e, a2
+  d,2.\fermata \bar "||"
+  \key g \major
+  \time 4/4
+  \mark \default
+  R1*2
+  b'4 b8. b6 b4 b
+  b8 d b g b g d4 \bar "||"
+  \key g \minor
+  \time 3/4
+  \mark \default
+  R2.*10
+  bb4. b8 c4
+  (c a) r
+  (bb g) r
+  a2 d4
+  d d4. d8
+  d2.
+  \mark \default
+  \repeat volta 2 {
+  g4 g4. fs8
+  g4 d d
+  d4. d8 d4
+  d bb g'
+  g f2
+  f4 g f
+  eb eb4. f8
+  d4 d2 }
+  \mark \default
+  \repeat volta 2 {
+  f4 g4. g8
+  g4 f2
+  f4 e4.\trill d6 e
+  f4 f4. f8
+  f4. f8 f4
+  e2 d4
+  d cs4. d8
+  d4 f4. e8
+  d4 b4. g'8
+  g4. g8 c,8. d6
+  eb4 fs,4. d'8
+  d4 eb d
+  c d4. g,8
+  a4. \ficta fs8 g4
+  g' d4. d8
+  d4 d2\fermata }
+  \key c \major
+  \time 4/4
+  \mark \default
+  R1*3
+  r2 r4 a'8 g
+  g f e8. e6 e8 c r4
+  R1*5
+  r4 e8 c d b r4
+  r4 e8 c d b c g'
+  f a6 g f e d b g8 g r4
+  R1*2
+  r4 d''8 c c bb a a
+  a f r4 r2
+  r2 r4 c'8 c
+  c c r4 r2
+  R1*3
+  \tempo "Slow"
+  R1*2 \bar "||"
+  \mark \default
+  e,4 e8. e6 e4 e
+  (e8 f g2.)
+  g4 g8. g6 g4 a8 b
+  c1
+  a4 a8. a6 a4 a
+  (a8 b c2.)
+  r4 c c2\fermata
+}

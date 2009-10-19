@@ -1,0 +1,131 @@
+\relative c{
+  \key c \major
+  \time 4/4
+  
+  \tempo "Very slow"
+  \mark \default
+  R1*6
+  \repeat volta 2 {
+    \tempo "Quick"
+    \mark \default
+    R1*27
+  }
+  \alternative {
+    {\time 2/4 
+      R2 }
+    {\time 4/4 \tempo "Very slow" \mark \default 
+      r2 }
+  }
+    r2
+  R1*2
+  r4 r8 c (d e4.)
+  r4 r8 e (fs g4) g8
+  g g4 ([a6 b] [c8 b6 a] [g8 f6 e]
+  f4 ~ [f6 g a g]) e8 c4.
+  R1
+  r4 c'6 c8 c6 ([c d] e4. ~
+  [e8 d6 c] [b a gs fs] [e8 d6 c] [b a gs fs])
+  e1
+  r4 gs'6 gs8 gs6 ([gs a] b4. ~
+  [b8 a6 g] [fs e ds cs]) b2 ~
+  b8 b6 b e g,8. (a8 b4.)
+  e,4. e8 r fs' fs fs
+  fs fs a8. a6 cs,4. d8
+  d8 d4. r2
+  r8 d g g b b d8. d6
+  fs,4. g8 g g g6 b,8.
+  d4. d8 g,2
+  r4 r8 c (d e4.)
+  r4 r8 e (fs g4) g8
+  g g4 ([a6 b] [c8 b6 a] [g8 f6 e]
+  f4 ~ [f6 g a g]) e8 c4.
+  r8 g' c c c c e8. e6
+  gs,4. gs8 a a c6 e,8.
+  ([fs8 g] ~ g8.) g6 c,2
+  e,4 f g4. g8
+    \bar "||"
+  \time 3/4
+  \mark \default
+  c2 r4
+  R2.*97 \bar "||"
+  \time 4/4
+  \mark \default
+  R1*2
+  c4 c8. c6 c4 c
+  c'1 \bar "||"
+  \key c \minor
+  \time 3/4
+  \mark \default
+  R2.*12 \bar "||"
+  \key d \minor
+  \time 4/4
+  \mark \default
+  a,4 a8. a6 a4 a
+  a'1 \bar "||"
+  \time 3/4
+  \mark \default
+  R2.*10 \bar "||"
+  \key g \major
+  \time 4/4
+  \mark \default
+  R1*2
+  g,4 g8. g6 g4 g
+  g'1 \bar "||"
+  \key g \minor
+  \time 3/4
+  \mark \default
+  R2.*2
+  g4. g8 c,4
+  f2 r4
+  R2.
+  d2 r4
+  R2.
+  r4 r d
+  bb d4. d8
+  g,2.
+  g'4. g8 c,4
+  f2 r4
+  eb2 r4
+  d2 c4
+  bb d4. d8
+  g,2.
+  \mark \default
+  \repeat volta 2 {
+  R2.*8 }
+  \mark \default
+  \repeat volta 2 {
+  R2.*16 }
+  \key c \major
+  \time 4/4
+  \mark \default
+  r4 c8 c c' c, e c
+  g' g g g g g g a
+  b g c c, g' g e c
+  f d e e, a a r4
+  r2 r4 a'8 gs
+  a a f d g g e b
+  c a d d, g g r4
+  r c'8 a b g r4
+  r4 g8 e f d e c
+  f d g g, c c r4
+  R1*2
+  r2 r4 c8 c
+  f f f f bb bb g g
+  a a a f bb g a a,
+  d d r4 r2
+  r4 d8 d g g e e 
+  a a f f c' c r4
+  r4 c8 b a g bb a
+  g f e d c b a8. a6
+  g1 ~
+  g1 ~
+  g8 g r4 \tempo "Slow" fs'4. fs8
+  g2 c, \bar "||"
+  \mark \default
+  c4 c8. c6 c4 c
+  (c8 d e2.)
+  R1*2
+  a,4 a8. a6 a4 a
+  (a8 b c2.)
+  r4 c c2\fermata
+}

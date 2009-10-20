@@ -3,50 +3,50 @@
   \time 4/4
   
   \tempo "Very slow"
-  \mark \default
+  \mark \default %A
   R1*6
   \repeat volta 2 {
     \tempo "Quick"
-    \mark \default
+    \mark \default %B
     R1*27
   }
   \alternative {
     {\time 2/4 
       R2 }
-    {\time 4/4 \tempo "Very slow" \mark \default 
+    {\time 4/4 \tempo "Very slow" \mark \default %C 
       r2 }
   }
     r2
   R1*27 \bar "||"
   \time 3/4
-  \mark \default
+  \mark \default %D
   R2.*98 \bar "||"
   \time 4/4
-  \mark \default
+  \mark \default %E
   R1*2
   c'4 c8. c6 c4 c
   (c8 d e2.) \bar "||"
   \key c \minor
   \time 3/4
-  \mark \default
+  \mark \default %F
   R2.*12 \bar "||"
   \key d \minor
   \time 4/4
-  \mark \default
+  \mark \default %G
   cs4 cs8. cs6 cs4 cs
   (cs8 d e2.) \bar "||"
   \time 3/4
-  \mark \default
+  \mark \default %H
   R2.*10 \bar "||"
   \key g \major
   \time 4/4
-  \mark \default
+  \mark \default %J
   R1*2
   b4 b8. b6 b4 b
   (b8 c d2.) \bar "||"
   \key g \minor
   \time 3/4
-  \mark \default
+  \mark \default %K
   R2.*2
   d4. d8 eb4
   (eb d) r
@@ -54,27 +54,27 @@
   (c4 a) r
   R2.
   r4 r a
-  d bb4.\trill a6 g
+  d bb4.\trill [a6 g]
   g2.
   d'4. d8 eb4
   (eb d) r
   (d c) r
   (c a) a
-  d bb4.\trill a6 g
+  d bb4.\trill [a6 g]
   g2.
-  \mark \default
+  \mark \default %L
   \repeat volta 2 {
   R2.*8 }
-  \mark \default
+  \mark \default %M
   \repeat volta 2 {
   R2.*16 }
   \key c \major
   \time 4/4
-  \mark \default
+  \mark \default %N
   R1*22
   \tempo "Slow"
   R1*2 \bar "||"
-  \mark \default
+  \mark \default %O
   c4 c8. c6 c4 c
   (c8 d e2.)
   R1*2

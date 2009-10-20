@@ -1,0 +1,171 @@
+\relative c'{
+  \key c \major
+  \time 4/4
+  
+  \tempo "Very slow"
+  \mark \default %A
+  R1*6
+  \repeat volta 2 {
+    \tempo "Quick"
+    \mark \default %B
+    R1*27
+  }
+  \alternative {
+    {\time 2/4 
+      R2 }
+    {\time 4/4 \tempo "Very slow" \mark \default  %C
+      r2 }
+  }
+    r2
+  R1*27 \bar "||"
+  \time 3/4
+  \mark \default %D
+  r4 r e
+  g e ([e8. f6]
+  [g8. a6 g8. f6 e8. f6]
+  [e8. f6 g8. f6] e4)
+  d d r
+  R2.*2
+  d4 d d (g [f8 e d c]
+  [b c d e] [f6 d8.])
+  e2 e4
+  g e e 
+  g e r
+  R2.*3
+  r4 r d4
+  g d g
+  (g4. fs8 [g8. a6]
+  [g8. fs6 g8. a6 g8. fs6])
+  g4. fs8 e4
+  e4. fs8 ds4
+  e e r
+  R2.*3
+  r4 r e
+  e c e
+  a e e
+  ([g8 f g e a g])
+  ([f e]) ([f e]) ([d c])
+  b4. b8 e4
+  c a r
+  r r a'
+  a f r
+  r r a
+  ([bb8 a g a g f])
+  e4. e8 a4
+  f4. g8 ([f e])
+  f4 ([e8 d]) r4
+  R2.*3
+  r4 r f
+  f8 d g4 r
+  r e2
+  r4 a2
+  g4 g r
+  R2.*2
+  r4 r ([e8. f6]
+  [g8. a6 g8. f6 e8. f6]
+  [e8. f6 g8. a6 g8.]) (f6
+  e4) c g'
+  ([a8 g a g f e])
+  d4. d8 g4
+  e4. f8 ([e d])
+  e4 c r8 e
+  a2 r4 
+  d,2 g4
+  e4. f8 ([e d])
+  e4 c r
+  R2.*36 \bar "||"
+  \time 4/4
+  \mark \default %E
+  e4 e8. e6 e4 e
+  ([e8 f] g2.)
+  e4\p e8. e6 e4 e
+  ([e8 f] g2.) \bar "||"
+  \key c \minor
+  \time 3/4
+  \mark \default %F
+  g4. g8 ab4
+  (ab g) r
+  (g f4.) f8
+  f4 eb4. d8
+  d2.
+  R2.*7 \bar "||"
+  \key d \minor
+  \time 4/4
+  \mark \default %G
+  e4 e8. e6 e4 ([fs8 gs])
+  a1 \bar "||"
+  \time 3/4
+  \mark \default %H
+  a4. a8 bb4
+  (bb a) r
+  (a g4.) g8
+  g4 f4. e8
+  e2.
+  R2.*5
+   \bar "||"
+  \key g \major
+  \time 4/4
+  \mark \default %J
+  g4 g8. g6 g4 g
+  ([g8 a] b2.)
+  d,4 d8. d6 d4 ([e8 fs])
+  g1 \bar "||"
+  \key g \minor
+  \time 3/4
+  \mark \default %K
+  d4. d8 eb4
+  (eb d) r
+  g4. g8 g4
+  a2 r4
+  (d, c) r
+  d2 a4
+  d bb4. a8
+  a2 fs'4
+  g g4. fs8
+  g2.
+  g4. g8 g4
+  a2 r4
+  g2 r4
+  fs2 fs4
+  g g4. fs8
+  g2.
+  \mark \default %L
+  \repeat volta 2 {
+  R2.*8 }
+  \mark \default %M
+  \repeat volta 2 {
+  R2.*16 }
+  \key c \major
+  \time 4/4
+  \mark \default %N
+  r4 e8 e g e c e
+  d d d e f d g g
+  g f f8. e6 d8 d e e 
+  c d b e c a r4
+  r2 r4 e'8 e
+  e e f f f d g d 
+  e c a d b g g' e
+  f d r4 r g8 e
+  f d r4 r g8 e
+  ([a6 g]) ([f e]) d8 g e c r4
+  R1*2
+  r2 r4 g'8 g 
+  a a a a f f g g 
+  e e e a a ([g6 f]) ([g f]) ([e d])
+  d8 d r4 r2
+  r4 f8 f d d g g
+  e e a a a g r4
+  r g8 g g g g g 
+  g g g g g g g8. fs6
+  g8 g g f e d f e
+  d c b a g c b8. c6
+  d8 g, r4 \tempo "Slow" eb'4. d8
+  (eb8 d4 c8) c2 \bar "||"
+  \mark \default %O
+  e4 e8. e6 e4 e
+  (e8 f g2.)
+  R1*2
+  c,4 c8. c6 c4 ([d8 e])
+  f1
+  r4 e e2\fermata
+}

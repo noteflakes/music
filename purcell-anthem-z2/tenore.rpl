@@ -44,7 +44,7 @@
   c a c
   e c c
   ([b8 a b g] c4)
-  c4 ([b8 c] [b a])
+  c4 ([b8 c]) ([b a])
   a4. b8 gs4
   a e r
   r r e'

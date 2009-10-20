@@ -21,7 +21,7 @@
   #(define page-breaking ly:optimal-breaking)
   % #(define page-breaking ly:minimal-breaking)
   page-limit-inter-system-space = ##t
-  page-limit-inter-system-space-factor = 1.4
+  page-limit-inter-system-space-factor = 1.2
 
   page-top-space = #(* 5 mm)
   left-margin = 12\mm
@@ -31,17 +31,14 @@
   ragged-bottom = ##f
   ragged-last-bottom = ##f
 
-  % between-system-space = 10 \mm
-  after-title-space = 5 \mm
-  before-title-space = 10 \mm
-  between-title-space = 2 \mm
-  between-system-padding = 4 \mm
-
+  after-title-space = 5\mm
+  before-title-space = 10\mm
+  between-title-space = 2\mm
+  % between-system-space = 20\mm
+  between-system-padding = 4\mm
 
   top-margin = 1.4\cm
   bottom-margin = 1.4\cm
-  % left-margin = 1.2\cm
-  % line-width = 18.6\cm
 
 	bookTitleMarkup = \markup \when-property #'header:title \abs-fontsize #12 \column {
     \null \null \null \null \null \null
@@ -117,4 +114,4 @@ prepare = {
 	% \override Score.BarNumber #'self-alignment-X = #0
 }
 
-\version "2.12.2"
+\version "2.12.1"

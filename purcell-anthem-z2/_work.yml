@@ -6,6 +6,7 @@ parts:
   oboe2:
     source: alto
 score:
+  hide_empty_staves: false
   order:
     - violin1
     - violin2

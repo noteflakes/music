@@ -10,14 +10,34 @@ segno = {
   \mark \markup { \musicglyph #"scripts.segno" }
 }
 
-dalsegno = {
-  \once \override Score.RehearsalMark #'break-visibility = #begin-of-line-invisible
-  \once \override Score.RehearsalMark #'self-alignment-X = #RIGHT
+segnobottom = {
   \once \override Score.RehearsalMark #'direction = #DOWN
-  \mark \markup {
-    "Dal Segno"
-  }
+  \once \override Score.RehearsalMark #'font-size = #-2
+  \mark \markup { \musicglyph #"scripts.segno" }
 }
+
+dalsegno = {
+  \once \override Score.RehearsalMark #'direction = #DOWN
+  \once \override Score.RehearsalMark #'self-alignment-X = #LEFT
+  \once \override Score.RehearsalMark #'font-size = #-2
+  \mark \markup { \musicglyph #"scripts.segno" dal segno }
+}
+
+dalsegnoadlib = {
+  \once \override Score.RehearsalMark #'direction = #DOWN
+  \once \override Score.RehearsalMark #'self-alignment-X = #LEFT
+  \once \override Score.RehearsalMark #'font-size = #-2
+  \mark \markup { \musicglyph #"scripts.segno" ad lib }
+}
+
+%dalsegno = {
+%  \once \override Score.RehearsalMark #'break-visibility = #begin-of-line-invisible
+%  \once \override Score.RehearsalMark #'self-alignment-X = #RIGHT
+%  \once \override Score.RehearsalMark #'direction = #DOWN
+%  \mark \markup {
+%    "Dal Segno"
+%  }
+%}
 
 barNumbers = {
   \override Score.BarNumber #'break-visibility = #'#(#f #t #t)
@@ -25,11 +45,11 @@ barNumbers = {
 }
 
 qBeam = {
-  \overrideBeamSettings #'Staff #'(2 . 2) #'end #'(((1 . 16) . (4 4 4 4))) 
+  %\overrideBeamSettings #'Staff #'(2 . 2) #'end #'(((1 . 16) . (4 4 4 4))) 
 
-  %#(override-auto-beam-setting '(end 1 16 2 2) 1 4 'Staff)
-  %#(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
-  %#(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
+  #(override-auto-beam-setting '(end 1 16 2 2) 1 4 'Staff)
+  #(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
+  #(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
 }
 
 % some scheme functions (appropriated from Nicolas Sceaux's amazing work)

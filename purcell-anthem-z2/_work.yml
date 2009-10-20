@@ -2,9 +2,17 @@ title: "Behold, I Bring You Glad Tidings"
 composer: Henry Purcell
 parts:
   oboe1:
-    source: soprano
+    source: violin1
   oboe2:
-    source: alto
+    source: violin2
+  soprano:
+    no_part: true
+  alto:
+    no_part: true
+  tenore:
+    no_part: true
+  basso:
+    no_part: true
 score:
   hide_empty_staves: false
   order:

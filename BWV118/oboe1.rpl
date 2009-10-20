@@ -1,0 +1,115 @@
+\relative c' {
+  \key c \major
+  \time 2/2
+  
+  r4 (c' c c)
+  \segno
+  r (f f f)
+  r (d d d)
+  r e8 f g2 ~
+  g4 f8 e f2 ~
+  f4 e8 d e4 a
+  d,2 r
+  d2. e8 f
+  e2. fs8 g
+  fs2. g8 a
+  g4 d g2 ~
+  g4 f8 e a4 g
+  f1 ~
+  f4 e8 d g4 f
+  e c r g
+  g'1 ~
+  g4 f r a
+  g f8 e f4 d
+  c2 r
+  R1*9
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 (f f f)
+  r (g g g)
+  r (g g g)
+  r f8 e f2 ~
+  f4 e8 d e2 ~
+  e4 d8 c d2 ~
+  d4 g, g' r
+  r2 r4 a8 g
+  fs4 r r g8 f
+  e4 r r2
+  r4 b'8 a g4 r
+  r a8 g fs4 r
+  r (d d d)
+  r (c f f)
+  r e8 d e f g a 
+  b4 (d, d d)
+  r (g g g)
+  r (a a a)
+  b4 d, g2 ~
+  g8 f e f g a g a
+  f g f g e f e f
+  d4 r r2
+  R1*2
+  
+  r4 (e e e)
+  r (f f f)
+  r (e e e)
+  r (d d d)
+  r (e e e)
+  r (a a a)
+  r (d, a' a)
+  r (g g g)
+  r (a a fs)
+  d2. e8 f!
+  e2. fs8 g
+  fs2. g8 a
+  g4 d g2 ~
+  g4 f8 e a4 g
+  f1 ~
+  f4 e8 d g4 f
+  e2. d8 c
+  g'2 r
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  r4 (e e e)
+  r (d d d)
+  r (c g g)
+  R1*2
+  
+  r4 (a' a a)
+  r (d, d d)
+  r (c c c)
+  r (e f f)
+  r (g b b)
+  r a8 g a4 f
+  g (c, c c)
+  \segnobottom
+  r (f f f)
+  r (d d d)
+  r e8 f g2 ~
+  g4 f8 e f2 ~
+  f4 e8 d e4 a
+  d,2 r
+  d2. e8 f
+  e2. fs8 g
+  fs2. g8 a
+  g4 d g2 ~
+  g4 f8 e a4 g
+  f1 ~
+  f4 e8 d g4 f
+  e c r g
+  g'1 ~
+  g4 f r a
+  g f8 e f4 d
+  c1\fermata
+}

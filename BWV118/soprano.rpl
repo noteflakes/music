@@ -1,0 +1,115 @@
+\relative c' {
+  \key c \major
+  \time 2/2
+  
+  R1
+  \segno
+  R1*17
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  c'1
+  c
+  c
+  (a2. b4)
+  c1
+  (d2. c4)
+  b1
+  a1 ~
+  a1 ~
+  a1 ~
+  a1
+  R1*4
+  
+  
+  
+  a1
+  b
+  c
+  d
+  (g,2. a4)
+  b1
+  a
+  g ~
+  g ~
+  g ~
+  g
+  R1*6
+  
+  
+  
+  
+  
+  d'1
+  e
+  e
+  (c2. d4)
+  e1
+  f
+  e
+  d ~
+  d ~
+  d ~
+  d2 r
+  R1*17
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  c1
+  d
+  e
+  d
+  c
+  c
+  b
+  c ~
+  c ~
+  c ~
+  c ~
+  c2 r
+  \segnobottom
+  R1*18
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}

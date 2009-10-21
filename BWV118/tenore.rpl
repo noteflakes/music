@@ -1,0 +1,116 @@
+\relative c' {
+  \key c \major
+  \time 2/2
+  
+  R1
+  \segno
+  R1*17
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 c
+  c (c4 b)
+  (a b) c2
+  (c4 [b8 c] d4) d
+  c2 r4 c
+  g2 a
+  b4 g d' [cs8 d]
+  e2. [f8 g]
+  [f e f g] a4 d,
+  f2 e
+  f r
+  R1*5
+  
+  
+  
+  
+  r2 b, ~
+  b4 [a8 b] c2 ~
+  c4 [b8 c] d2 ~
+  d4 ([c8 d] e2)
+  d2 r4 g,
+  e' c (a [b8 c]
+  [d e] f2) f4
+  e2 d
+  c2 ~ [c8 d] e4
+  d2 r
+  R1*2
+  
+  r2 d
+  e e
+  (c4 d) e2
+  f2. e4
+  d2 d ~
+  d4 c b2
+  a r4 g
+  a2. [gs8 a]
+  b4 b e e,
+  a2 r4 d
+  bb2 r4 a
+  a'2. fs4
+  d2 c
+  bb4 d g2 ~
+  g4 [fs8 e] fs4 fs
+  g2 r2
+  R1*6
+  
+  
+  
+  
+  
+  r2 c,
+  d e
+  d1 ~
+  d2 c
+  c b
+  c4 a d2 ~
+  d4 [e8 f] e4 [d8 c]
+  g'4 d f2 ~
+  f4 e e [d8 c]
+  b2. [c8 d]
+  c4 e f2 ~
+  f4 d g2 ~
+  g4 e a2 ~
+  a4 f d2
+  r4 e, e'2 ~
+  e4 a, d2 ~
+  d4 [e8 f] e4 d
+  c f ~ [f8 g e f]
+  g4 e c2 ~
+  c4 [g'8 f] [e d c bb]
+  a2 ~ [a8 g] a4
+  g2 r
+  \segnobottom
+  R1*18
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}

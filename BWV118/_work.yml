@@ -5,7 +5,7 @@ parts:
   violino:
     no_part: true
     title: "Violino I, II"
-midi_tempo: 58 2
+midi_tempo: 50 2
 score:
   order:
     - oboe1

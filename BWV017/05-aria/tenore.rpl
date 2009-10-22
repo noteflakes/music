@@ -1,0 +1,48 @@
+\relative c' {
+  \key d \major
+  \time 4/4
+  
+  R1*10
+  r4 r8 a d e fs e
+  [e8. fs3 g] fs4 [a,6 d cs b a8] g
+  fs4 r8 a d e fs e
+  [e8. fs3 g] fs4 [a,6 d cs b a8] g
+  fs4 r8 fs' gs, a d cs
+  cs b r e ds e cs b
+  a gs r a' d, cs gs' a
+  b, a ds4 ~ [ds8. e3 fs] ds4
+  e r8 e, a b cs b
+  [b8. cs3 d] cs8 a d e fs e
+  [e8. fs3 g] fs8 e a [gs6 fs] e8 d
+  [cs6 b cs d] e4. a,8 gs d'
+  cs4 r r2
+  R1*5
+  r4 r8 e cs b cs a
+  [d8. e3 fs] fs4 [b,6 d cs b e8] cs
+  as4 r8 fs b cs d cs
+  [cs8. d3 e] e4 ds8 e fs e
+  [e8. fs3 g] g4. [fs6 e d cs] [d b]
+  fs'4 r8 fs d cs b cs
+  [as8. b3 cs] fs,4 fs' r8 as,
+  b cs d g as, b e d 
+  [d cs] r4 r2
+  R1*3
+  r2 cs4 r8 fs,
+  d' e fs b, g' fs e g
+  cs, [d6 e] [d cs] [b a] fs'8 e d fs
+  [b,6 a g a] [b e d e] [cs b a b] [cs fs e fs]
+  [d cs b cs] [d g fs g] [e d cs d] [e a g a]
+  fs8 e g fs e [d6 cs] d8 e
+  [cs b6 cs] a8 r r2
+  R1
+  a'4 r8 a, d e fs e
+  [e8. fs3 g] fs4 a,8 d a g
+  [fs6 e d e] [fs g a b] [cs d e fs g8] fs
+  fs e r a, gs a fs' e
+  d cs r d cs d a r
+  r4 r8 e d' b e d
+  cs [b6 a] r8 e' a [d, cs] g'
+  [fs6 e g fs] [e d cs b a8] [d6 cs] [cs8. d6]
+  d4 r4 r2
+  R1*10
+  }

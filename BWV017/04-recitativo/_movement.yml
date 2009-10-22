@@ -1,0 +1,5 @@
+parts:
+  tenore:
+    after_include: continuo
+  continuo:
+    before_include: tenore

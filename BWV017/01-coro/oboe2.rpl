@@ -1,0 +1,119 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+
+  e4 a2 ~
+  a8 gs r6 gs a b a gs fs e
+  d'8 cs e2 ~
+  e4 d2 ~
+  d4 cs2 ~
+  cs4 b2 ~
+  b8 a r6 a b cs b a gs fs
+  gs'8 fs r6 b, cs ds cs b a gs
+  a'8 gs r6 cs, ds e ds cs b a
+  b'8 a r6 ds, e fs e ds cs b
+  e4 r6 gs, a b a gs fs e
+  gs8 fs fs'2 ~
+  fs8 e r6 gs, a b a gs fs e
+  d'8 cs r6 fs, gs a gs fs e ds
+  cs'8 b r6 e, fs gs fs e ds cs
+  b'8 a r6 ds, e fs e ds cs b
+  a'8 gs cs4. b8
+  b a d4. cs8
+  cs b e4. d8
+  d cs r6 cs d e d cs b a
+  a'2. ~
+  a ~
+  a ~
+  a ~
+  a6 gs fs e fs gs a cs b a gs fs
+  a gs fs e b'2 ~
+  b8 e, a a,4 gs8
+  a4 r r
+  r e b' ~
+  b a2 ~
+  a4 fs b ~
+  b e, a ~
+  a gs2
+  a4 e a ~
+  a6 gs fs e ds8 b ds fs
+  e2. ~
+  e6 fs e d cs8 ds6 e fs8 gs6 a
+  b8 r r4 r
+  R2.*6
+  r8 a6 gs a8 e d cs
+  b cs6 d e fs gs a b a gs fs
+  e4. e8 a cs,
+  d fs b2 ~
+  b8 e, cs e a4 ~
+  a gs2
+  a4 ~ a6 b gs a fs gs e8
+  cs' fs, b a6 gs fs8 e
+  ds6 fs gs a b cs b a gs a b gs
+  e4 r6 a b cs d cs b a
+  gs4 r6 b e d cs b a gs
+  fs2.\trill
+  e4 r6 gs a b a gs fs e
+  gs8 fs fs'2 ~
+  fs8 e r6 gs, a b a gs fs e
+  d'8 cs r6 fs, gs a gs fs e ds
+  cs'8 b r6 e, fs gs fs e ds cs
+  b'8 a r6 ds, e fs e ds cs b
+  a'8 gs e'4. d8
+  cs6 b a gs a cs d e d cs b a
+  b a gs fs gs b cs d cs b a gs
+  a gs fs e fs a b cs b a gs fs
+  gs fs e ds e gs a b a gs fs e
+  cs'2. ~
+  cs8 fs,6 gs a b cs e ds cs b a
+  gs fs gs a b a cs b a gs fs gs
+  e4 r6 gs a b a gs fs e
+  gs8 fs fs'2 ~
+  fs8 e r4 r
+  R2.*5
+  r4 r6 fs, g a g fs e d
+  fs8 e e'2 ~
+  e8 d r6 fs, g a g fs e d
+  fs8 e a2 ~
+  a2. ~
+  a4 g2 ~
+  g4 fs2 ~
+  fs4 e2 
+  fs4 ~ fs6 e d cs d cs b a
+  e'2. ~
+  e8 fs6 gs a b cs d e8 r
+  R2.*4
+  r4 b, e ~
+  e8 d6 cs d8 e fs g
+  cs,4 cs fs ~
+  fs8 e6 d e8 d cs b
+  a4 a d ~
+  d8 cs6 b cs d e fs g4 ~
+  g8 fs6 e fs g a b c4 ~
+  c8 b6 a b8 g a6 g fs e
+  a g a b a g fs a g fs e d
+  g8 g6 fs g8 b a g
+  fs gs6 a b cs d cs b cs a b
+  a gs fs e a8 e d cs
+  b cs6 d e fs gs a b a gs fs
+  e4. e8 a cs,
+  d fs b2 ~
+  b8 e, cs e a4 ~
+  a gs2 
+  a8 e a2 ~
+  a8 gs r6 gs a b a gs fs e
+  d'8 cs e2 ~
+  e4 d2 ~
+  d4 cs2 ~
+  cs4 b2 ~
+  b8 a r6 cs d e d cs b a
+  a'2. ~
+  a ~
+  a ~
+  a ~
+  a6 gs fs e fs gs a cs b a gs fs 
+  a gs fs e b'2 ~
+  b8 e, a a,4 gs8
+  a4 r r
+  
+  }

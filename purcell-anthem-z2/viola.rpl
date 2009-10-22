@@ -230,8 +230,8 @@
   r2 r4 c'8 c
   c c r4 r2
   R1*3
-  \tempo "Slow"
-  R1*2 \bar "||"
+  r2 \tempo "Slow" r2
+  R1 \bar "||"
   \mark \default
   e,4 e8. e6 e4 e
   (e8 f g2.)

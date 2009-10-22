@@ -1,5 +1,0 @@
-parts:
-  alto:
-    after_include: continuo
-  continuo:
-    before_include: alto

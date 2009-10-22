@@ -1,0 +1,95 @@
+\relative c' {
+  \key c \major
+  \time 3/4
+  \tempo "Adagio"
+  
+  r4 (g'8. f6) (g8. a6) ~
+  \segno
+  f4 r8 g d8. d6
+  e4 r8 f (d8. g6)
+  (g8. a6) d,4 d
+  (c8. d6) e4. d8
+  (c8. b6) a4 d
+  g,4. d'8 (c8. d6)
+  d4 ~ d8. a'6 (b8. c6)
+  (b8. a6) (g8. a6) (f8. g6)
+  e4 r8 e a8. a6
+  d,4 r8 d g8. g6
+  (g8. f6) (e8. f6) (g8. a6)
+  (f8. e6) d4 r8. d6
+  (g8. a6) (bb8. c6) (fs,8. g6)
+  a4 r8. c,6 (d8. f6)
+  (e8. a6) (g4 f)
+  e\fermata r r
+  R2.*8
+  
+  
+  
+  
+  
+  
+  
+  r4 (g,8.\p a6) (b8. g6)
+  d'4 r r
+  r (a8. b6) (c8. a6)
+  e'4 b e ~
+  e8. ds6 (e8. fs6) (g8. fs6)
+  (e8. c6) a4 g ~
+  g r r
+  r a' d, ~
+  d (e8. d6) (c8. a6)
+  b4 a g ~
+  g8. b6 c4. a8
+  e'4 g g, ~
+  g8. f'6 (e8. d6) c8 r
+  r8. e6 cs4 bb'
+  r8. a,6 (d8. c!6) (bb8. a6)
+  g4 r r
+  r (d'8.\f c6) (d8. e6)
+  c4 r8 d a8. a6
+  b4 r8 c (a8. d6)
+  (d8. e6) a,4 a'
+  (g8. a6) b4. a8
+  (g8. fs6) e4 a
+  d, r8 a' (g8. g6)
+  a4 ~ a8. e6 (fs8. g6)
+  (fs8. e6) (d8. e6) (c8. d6)
+  b4 r8 b e8. e6
+  a,4 r8 a d8. d6
+  (d8. c6) b4.\trill a8
+  a4 r r8. a6
+  (d8. e6) (f8. g6) (cs,8. d6)
+  e4 r8. g,6 (a8. c6)
+  (b8. e6) (d4 c)
+  b8. e6 (d8.\p c6) (b8. a6)
+  gs4 r r
+  r8. bb'6 (a8. g6) (f8. e6)
+  (d8. gs6) a4 r
+  r e a, ~
+  a8. e'6 (d8. a'6) (b8. gs6)
+  (a8. f6) b,4 e ~
+  e (a,8. b6) (c8. d6)
+  (e8. d6) (e8. fs6) (g8. a6)
+  (b8. c6) (b8. c6) (b8. a6)
+  (gs8. a6) e4 e
+  e r r
+  R2.
+  r4 a, d ~
+  d8. bb'6 (bb8. a6) (g8. a6)
+  (a8. g6) (f8. a6) (g8. a6)
+  d,4 ~ d8. g6 (b8. d6)
+  (g,8. f6) g4 (c,8. bb6)
+  a4 ~ a8. b!6 c4
+  g d' (g8. f6)
+  (e8. c6) g'2 ~
+  g8. d6 (e8. f6) (g8. c,6)
+  ab'4. f8 (g8. ab6)
+  (g8. a!6) (bb8. g6) (f8. g6)
+  (c,8. a'6) (a,8. f'6) (e8. g6)
+  (f8. g6) a4 d, ~
+  (d8. b6) c4 r
+  R2.*2
+  
+  r4 (g'8.\f f6) (g8. a6)
+  \dalsegno
+}

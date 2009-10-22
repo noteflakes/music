@@ -1,5 +1,0 @@
-parts:
-  basso:
-    after_include: continuo
-  continuo:
-    before_include: basso

@@ -17,10 +17,11 @@ segnobottom = {
 }
 
 dalsegno = {
+  \once \override Score.RehearsalMark #'break-visibility = #begin-of-line-invisible
   \once \override Score.RehearsalMark #'direction = #DOWN
-  \once \override Score.RehearsalMark #'self-alignment-X = #LEFT
+  \once \override Score.RehearsalMark #'self-alignment-X = #RIGHT
   \once \override Score.RehearsalMark #'font-size = #-2
-  \mark \markup { \musicglyph #"scripts.segno" dal segno }
+  \mark \markup {"dal segno "   \musicglyph #"scripts.segno"}
 }
 
 dalsegnoadlib = {

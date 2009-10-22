@@ -1,0 +1,24 @@
+title: Cantata BWV 58
+subtitle: "\"Ach Gott, wie manches Herzeleid\""
+composer: Johann Sebastian Bach
+parts:
+  violino:
+    no_part: true
+    title: "Violino I, II"
+score:
+  order:
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - violino
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

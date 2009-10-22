@@ -1,0 +1,95 @@
+\relative c {
+  \key c \major
+  \time 3/4
+  \tempo "Adagio"
+  
+  c4 c'2 ~
+  \segno
+  c4 b bb ~
+  bb8. g6 (a8. c6) (b8. d6)
+  (c8. f,6) g4 g,
+  c8. g'6 (c8. d6) (c8. b6)
+  (a8. d,6) (d'8. e6) (d8. c6)
+  (b8. g6) (c8. b6) (a8. d6)
+  (b8. g6) d'4 d,
+  g, g'2 ~
+  g8. e6 (a8. g6) f4 ~
+  f8. d6 (g8. f6) (e8. cs6)
+  (d8. g6) a4 a,
+  d8. a'6 (d8. c6) (b8. a6)
+  (g8. c,6) (c'8. bb6) (a8. g6)
+  fs4 f4. d8
+  (e8. f6) g4 g,
+  c\fermata r r
+  (c8.\p b6) (c8. d6) (c8. c6)
+  (f8. e6) (d8. f6) (e8. g6)
+  (fs8. d6) (e8. fs6) g4 ~
+  g (fs8. g6) (e8. fs6)
+  g4 r c,
+  f r8 e (d8. c6)
+  (b8. c6) g'4 g,
+  (c8. b6) (c8. d6) (c8. c6)
+  g'4 r r
+  r (d8. e6) (f8. d6)
+  a'4 r r
+  r (e8. fs6) (g8. e6)
+  (b'8. a6) (g8. fs6) (e8. d6)
+  (c8. a6) (d8. c6) (b8. g6)
+  c4 ~ c8. g6 (a8. c,6)
+  d8. g6 d'4 d,
+  (g8. fs6) (g8. b6) (a8. c6)
+  (b8. c6) (d8. c6) (b8. d6)
+  g4 ~ g8. fs6 (e8. ds6)
+  (e8. f!6) (e8. d!6) (c8. b6)
+  (c4 c c)
+  (cs cs cs)
+  (d8. c!6) (bb8. a6) (g8. fs6)
+  g4 d' d,
+  g g'2\f ~
+  g4 fs f ~
+  f8. d6 (e8. g6) (fs8. a6)
+  (g8. c,6) d4 d,
+  g8. d'6 (g8. a6) (g8. fs6)
+  (e8. a,6) (a'8. b6) (a8. g6)
+  (fs8. d6) (g8. fs6) (e8. a6)
+  (fs8. d6) a'4 a,
+  d, d'2 ~
+  d8. b6 (e8. d6) c4 ~
+  c8. a6 (d8. c6) (b8. gs6)
+  (a8. d6) e4 e,
+  a8. e'6 (a8. g6) (fs8. e6)
+  (d8. g,6) (g'8. f!6) (e8. d6)
+  cs4 c4. a8
+  (b8. c6) d4 d,
+  g r r
+  r8. f'6\p (e8. d6) (c8. b6)
+  a2. ~
+  a4 a'2 ~
+  a4 gs g ~
+  g8. e6 (f8. a6) (gs8. b6)
+  (a8. d,6) e4 e,
+  a r r
+  R2.*2
+  
+  r4 e' e,
+  a a'2 ~
+  a4 (g8. f6) (e8. d6)
+  (cs8. a6) (d8. c6) (bb8. a6)
+  (g8. g'6) a4 a,
+  d8. a'6 (d8. c6) (b8. a6)
+  (g8. a6) (g8. f6) (e8. d6)
+  (c8. g'6) (c8. b6) (a8. g6)
+  (f8. g6) (f8. e6) (d8. c6)
+  (b8. g6) (a8. b6) (c8. a6)
+  (e8. f6) (g8. f6) g4
+  c,8. g''6 (c8. bb6) (ab8. g6)
+  (f8. ab6) (bb8. ab6) (g8. f6)
+  e4 r8 c (d8. e6)
+  f4 r8 a, (b8. cs6)
+  d8. a'6 (d8. c6) (b8. a6)
+  (g8. c,6) (c'8. bb6) (a8. g6)
+  fs4 f r8 b,
+  (eb8. f6) (g8. f6) (g8. g,6)
+  c4 c'2
+  \dalsegno
+}

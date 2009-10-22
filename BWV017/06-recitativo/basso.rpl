@@ -1,0 +1,23 @@
+\relative c {
+  \time 4/4
+  \key d \major
+  
+  r4 r8 cs fs fs as fs
+  cs'4 r8 cs cs e, g fs
+  d4 r8 d' r g,6 a b8 g
+  e4 r8 e a e cs a
+  fs'4 r8 d a' a b cs
+  d b fs a gs gs r b
+  e a, [d6 cs] d8 cs4 r8 a
+  fs a, d cs a a r4
+  r cs' r es,8 r6 gs
+  gs8. cs,6 cs8 r6 cs cs'8 gs b a
+  a4 r r8 fs ds b
+  ds fs b fs ds ds c' b
+  gs4 r8 e b' b b cs
+  d4 r8 b e b gs e
+  cs' cs r gs a fs ds ds
+  bs'4 r8 gs e' ds bs cs
+  cs gs r4 r2
+  
+  }

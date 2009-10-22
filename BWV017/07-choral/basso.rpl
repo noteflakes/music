@@ -1,0 +1,50 @@
+\relative c' {
+  \time 3/4
+  \key a \major
+
+  \partial 4 
+  
+  \repeat volta 2 {
+            a4
+    fs2 cs4
+    d2 d4
+    (cs d e)
+    a,2\fermata a'4
+    es2 cs4
+    (fs e) d
+    (cs d) e
+    a,2\fermata
+  }
+  
+            a4
+  d2 a'4
+  (gs fs) es
+  fs b, cs
+  fs,2\fermata ds'4
+  e2 d!4
+  (cs a) b
+  e2\fermata cs4
+  (fs e) fs
+  (gs fs) e
+  a2 a,4
+  d2\fermata cs4
+  (b [b'8 a]) ([g fs])
+  ([e fs] g4) fs
+  b,2\fermata e4
+  (a gs) fs
+  (b a) g
+  cs,2.
+  d2\fermata a'4
+  ds,2 e4
+  a, b2
+  e2\fermata cs4
+  fs2 e4
+  b2 cs4
+  d2 ds4
+  e2\fermata es4
+  (fs gs) a
+  (e fs d)
+  e2.
+  a,2\fermata
+  
+  }

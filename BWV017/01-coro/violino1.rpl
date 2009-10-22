@@ -1,0 +1,100 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+
+  a''4 r6 cs, d e d cs b a
+  cs8 b b'2 ~
+  b8 a r6 cs, d e d cs b a
+  g'8 fs r6 b, cs d cs b a gs
+  fs'8 e r6 a, b cs b a gs fs
+  e'8 d r6 gs, a b a gs fs e
+  d'8 cs fs4. e8
+  e ds gs4. fs8
+  fs e a4. gs8
+  gs fs b4. a8
+  gs b, e2 ~
+  e8 ds r6 ds e fs e ds cs b
+  a'8 gs b2 ~
+  b4 a2 ~
+  a4 gs2 ~
+  gs4 fs2 ~
+  fs8 e r6 e, fs gs fs e d cs
+  d'8 cs r6 fs, gs a gs fs e d
+  e'8 d r6 gs, a b a gs fs e
+  fs'8 e a4. g8
+  fs6 e d cs d fs g a g fs e d
+  e d cs b cs e fs g fs e d cs
+  d cs b a b d e fs e d cs b
+  cs b a gs a cs d e d cs b a
+  fs'2. ~
+  fs8 b,6 cs d e fs a gs fs e d
+  cs b cs d e d fs e d cs b cs
+  a4 r r
+  R2.
+  r4 e cs' ~
+  cs8 fs, b6 a gs fs gs fs e d
+  cs8 e a6 gs fs e fs e d cs
+  b8 d gs6 fs e d e d cs b
+  a8 r r4 r
+  R2.*10
+  r4 e' a ~
+  a8 gs6 fs gs a b cs d4 ~
+  d8 cs6 b cs d e fs g4 ~
+  g8 fs6 e fs8 d e6 d cs b
+  e d e fs e d cs e d cs b a
+  d8 d6 cs d8 fs e d
+  cs6 d e d cs d b cs a b gs a
+  fs8 gs6 a b cs ds e fs e ds cs
+  b4. b8 e gs,
+  a cs fs2 ~
+  fs8 b, gs b e4 ~
+  e ds2
+  e8 b e2 ~
+  e8 ds r6 ds e fs e ds cs b
+  a'8 gs b2 ~
+  b4 a2 ~
+  a4 gs2 ~
+  gs4 fs2 ~
+  fs8 e r6 gs, a b a gs fs e
+  e'2. ~
+  e ~
+  e ~
+  e ~
+  e6 ds cs b cs ds e gs fs e ds cs
+  e ds cs b fs'2 ~
+  fs8 b, e e,4 ds8 
+  e4 r r
+  R2.*3
+  r4 r6 cs' d e d cs b a
+  cs8 b b'2 ~
+  b8 a r4 r
+  R2.*5
+  r4 a, fs' ~
+  fs8 b, e6 d cs b cs b a g
+  fs8 a d6 cs b a b a g fs
+  e8 g cs6 b a g a g fs e
+  d8 r r4 r
+  R2.*17
+  r4 e a ~
+  a8 gs6 fs gs a b cs d4 ~
+  d8 cs6 b cs d e fs g4 ~
+  g8 fs6 e fs8 d e6 d cs b
+  e d e fs e d cs e d cs b a
+  d8 d6 cs d8 fs e d
+  cs4 r6 cs d e d cs b a
+  cs8 b b'2 ~
+  b8 a r6 cs, d e d cs b a
+  g'8 fs r6 b, cs d cs b a gs!
+  fs'8 e r6 a, b cs b a gs fs
+  e'8 d r6 gs, a b a gs fs e
+  d'8 cs a'4. g8
+  fs6 e d cs d fs g a g fs e d
+  e d cs b cs e fs g fs e d cs
+  d cs b a b d e fs e d cs b
+  cs b a gs a cs d e d cs b a
+  fs'2. ~
+  fs8 b,6 cs d e fs a gs fs e d
+  cs b cs d e d fs e d cs b cs
+  a4 r r
+
+  }

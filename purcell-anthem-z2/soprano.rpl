@@ -72,8 +72,8 @@
   \time 4/4
   \mark \default %N
   R1*22
-  \tempo "Slow"
-  R1*2 \bar "||"
+  r2 \tempo "Slow" r2
+  R1 \bar "||"
   \mark \default %O
   c4 c8. c6 c4 c
   (c8 d e2.)

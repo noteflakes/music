@@ -1,0 +1,95 @@
+\relative c' {
+  \key c \major
+  \time 3/4
+  \tempo "Adagio"
+  
+  r4 (e'8. d6) (e8. f6)
+  \segno
+  d4 r8 d g8. g6
+  c,4 r8 c f8. f6
+  (f8. e6) (d8. e6) (f8. g6)
+  e4 r8. g6 a8. b6
+  c4 r8. a6 b8. c6
+  d4 ~ d8. g,6 (c8. a6)
+  (b8. c6) a4.\trill g8
+  (g8. f6) (e8. f6) (d8. e6)
+  (cs8. d6) e4. d8
+  (g8. a6) bb4. a8
+  (a8. d,6) cs4.\trill d8
+  d8. e6 f2 ~
+  f4 e eb ~
+  eb8. c6 (d8. f6) (b,8. d6)
+  (g8. f6) (e4 d8.\trill) c6
+  c4\fermata (e,8.\p^"oboe I tacet" d6) (e8. f6)
+  g4 (g'8. f6) g4 ~
+  g (f8. d6) (e8. c6)
+  (a8. b6) (c8. e6) (d8. e6)
+  c8. b6 a4 a' ~
+  a8. d,6 (g8. f6) (e8. d6)
+  (c8. e6) (d8. c6) (b8. d6)
+  g,4 r r
+  r (e'8. f6) (g8. a6)
+  d,4 (g8. fs6) (g8. b,6)
+  a4 a d ~
+  d (c8. d6) (e8. f6)
+  (b,8. fs'6) (g8. a6) (b8. c6)
+  fs,4 d g ~
+  g fs f ~
+  (f8. e6) (d8. g6) (e8. a6)
+  (fs8. g6) (g4 fs8.\trill) g6
+  g4 r r
+  r a, d
+  b ~ (b8. g6) (a8. fs6)
+  g4 e' d ~
+  d8. b6 (c8. d6) (e8. fs6)
+  g4 ~ (g8. fs6) (g8. a6)
+  fs8. d6 (g8. a6) (bb8. c6)
+  (bb8. g6) (eb8. d6) (c8. a'6)
+  b,8. a6 (b8.\f^"oboe I col violino I" a6) (b8. c6)
+  a4 r8 a d8. d6
+  g,4 r8 g c8. c6
+  (c8. b6) (a8. b6) (c8. d6)
+  b4 d2 ~
+  d4 cs c ~
+  c8. a6 (b8. d6) (cs8. e6)
+  (d8. e6) cs4.\trill d8
+  (d8. e6) f4. f8
+  (e8. fs6) gs4. a8
+  (f8. e6) (d8. a6) (gs'8. b6)
+  (e,8. f6) (b,8. c6) (d8. e6)
+  (c8. b6) c2 ~
+  c4 b bb ~
+  bb8. g6 (a8. c6) (fs,8. a6)
+  (d8. c6) (b4 a8.\trill) g6
+  g4 b\p^"oboe I tacet" d ~
+  d8. b6 gs4. a8
+  a4 b cs
+  (d8. b6) (c8. d6) (b8. a6)
+  (f'8. d6) e2 ~
+  (e8. cs6) (d8. f6) b,4 ~
+  (b8. a6) (gs8. a6) (fs8. gs6)
+  a4 e' a ~
+  a gs g ~
+  g (fs8. a6) (gs8. b6)
+  (e,8. a6) gs4.\trill a8
+  a4 r r
+  r b, g' ~
+  g (f8. e6) (d8. cs6)
+  (d8. e6) cs4.\trill d8
+  d8. e6 f2 ~
+  f8. d6 b8. g6 g'4 ~
+  g8. b,6 (c8. d6) (e8. f6)
+  d4 d, g4 ~
+  (g8. e6) (f8. d6) (e8. c6)
+  g'4 r r
+  r g c ~
+  c8. ab6 (f8. d'6) (e8. f6)
+  (g8. f6) (e8. f6) g4 ~
+  (g8. f6) (e8. d6) e4 ~
+  (e8. cs6) (d8. e6) f4 ~
+  f e eb ~
+  eb8. c6 (d8. f6) (b,8. d6)
+  (g8. c,6) (c4 b8.\trill) c6
+  c4 (e8.\f^"oboe I col violino I" d6) (e8. f6)
+  \dalsegno
+}

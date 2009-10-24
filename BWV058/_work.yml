@@ -2,9 +2,10 @@ title: Cantata BWV 58
 subtitle: "\"Ach Gott, wie manches Herzeleid\""
 composer: Johann Sebastian Bach
 parts:
-  violino:
-    no_part: true
-    title: "Violino I, II"
+  continuo:
+    breaks: 03-aria
+  violino1:
+    breaks: 03-aria
 score:
   order:
     - oboe1

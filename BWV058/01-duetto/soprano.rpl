@@ -1,0 +1,34 @@
+\relative c' {
+  \key c \major
+  \time 3/4
+  \tempo "Adagio"
+  
+  R2.
+  \segno
+  R2.*15
+  r4 r c'
+  c2 c4
+  (a b) c
+  (d c) b
+  a2 r4
+  R2.*11
+  r4 r a
+  b2 c4
+  d2 g,4
+  b a2
+  g r4
+  R2.*20
+  r4 r d'
+  (e d) e
+  (c d) e
+  f2 e4
+  d2 r4
+  R2.*12
+  r4 r c
+  d2 e4
+  d2 c4
+  c b2
+  c2 r4
+  R2.*8
+  \dalsegno
+}

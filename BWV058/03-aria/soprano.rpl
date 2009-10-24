@@ -1,0 +1,56 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+  \partial 8 r8
+  R1*11
+  r2 r4 r8 a'
+  ([d a]) ([a bb]) ([bb\trill a]) r a
+  ([e' a,]) ([a bb]) ([bb a]) a r
+  R1
+  r2 r4 r8 a
+  ([d a]) [(a bb]) ([bb a]) r a
+  e' a, a bb ([bb a]) a r
+  r a f'4 r8 bb, g'4 ~
+  [g6 f] [e d] [cs8 d6] e cs4 r8 a
+  ([d a]) ([a c!]) ([c bb]) r d
+  g d d f ([f e]) e4
+  a, r f' r8 e
+  d c [b6 c] a8 gs4 r8 e
+  e'4 e ([e8 d6 c b8]) a
+  b4 gs a r
+  R1*4
+  r2 r4 r8 e'
+  (c d4) b8 ([c6 b] a4) gs8
+  (a g'4) [f6 e] f8 ([e6 f] d8) c
+  (b c4) a8 ([b6 a] g4) fs8
+  (g f'4) [e6 d] e8 ([d6 e c8]) e
+  ([fs g]) r eb (cs d4) bb8
+  ([g8. a6]) ([a8.\trill g6]) g4 r
+  R1*3
+  r2 r4 r8 a
+  [bb6 c d8] ([d c]) c2 ~
+  c8 d eb c [f \appoggiatura eb!6 d8] \appoggiatura c6 bb8 d
+  g, bb bb a a2 ~
+  [a8 bb] [c a] [d c6 bb] \appoggiatura a6 g8 d'
+  [g f] r e e a, g4 ~
+  [g6 e f8] ~ [f6 d] e8 d bb' ([bb a])
+  r d ([d c]) r bb [bb6 g a8] ~
+  [a6 f g8] ~ [g6 e] f8 ([d' cs]) r e
+  ([f cs]) r d ([bb gs]) r a
+  [d, g] ~ [g6 f] [e d] a'4 r8 a
+  ([d a]) ([a bb]) ([bb a]) r a
+  ([e' a,]) ([a bb]) ([bb a]) a r
+  R1
+  r2 r4 r8 a
+  ([d a]) ([a bb]) ([bb a]) r a
+  e' a, a bb ([bb a]) a r
+  r a f'4 r8 bb, g'4 ~
+  [g6 f] [e d] ([cs8 d6]) e cs4 r8 cs
+  ([d a]) ([a c!]) ([c bb]) r bb
+  f' c c eb ([eb d]) d4
+  g, r4 e'! r8 a,
+  f' [e6 d] e8 cs d4 r8 a
+  g'4 e [d6 cs b a d8] d,
+  f4 ([e6 d e8]) d4 r
+  R1*12
+}

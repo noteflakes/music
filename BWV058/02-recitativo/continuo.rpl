@@ -1,0 +1,24 @@
+\relative c {
+  \key c \major
+  \time 4/4
+  
+  gs1
+  ds'1
+  e2 d!
+  g, f
+  r4 e a2
+  cs c ~
+  c ab
+  g c
+  a g ~
+  g e ~
+  e f
+  g r4 a
+  d2 c ~
+  c bb ~
+  bb1
+  a2. g4 ~
+  g fs g2
+  bb1
+  db4 r c f,
+}

@@ -40,6 +40,11 @@ dalsegnoadlib = {
 %  }
 %}
 
+editF = \markup { \center-align \concat { \bold { \italic ( }
+  \dynamic f \bold { \italic ) } } }
+editP = \markup { \center-align \concat { \bold { \italic ( }
+  \dynamic p \bold { \italic ) } } }
+
 barNumbers = {
   \override Score.BarNumber #'break-visibility = #'#(#f #t #t)
   \set Score.barNumberVisibility = #(every-nth-bar-number-visible 5)

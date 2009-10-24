@@ -1,0 +1,21 @@
+\relative c {
+  \key c \major
+  \time 4/4
+  
+  f4 r r2
+  b,!4 r r2
+  cs4 r r2
+  d4 f r e \bar "||"
+  \tempo "Arioso"
+  a,8 a' gs e r a g e
+  f a d, f g, g' f d
+  e g c, d6 e f4 r8 d
+  e fs gs e a, a' gs e
+  a, a' g! e f bb g a
+  d, e f d g, g' fs d
+  g, g' f! d e a f g
+  c, e c a d f d b
+  e d c b a a' gs e
+  a d, e e, f f' d e
+  a,1\fermata
+}

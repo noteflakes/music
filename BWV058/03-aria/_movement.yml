@@ -1,3 +1,4 @@
 parts:
   violino1:
     title: Violino Solo
+midi_tempo: 90 4

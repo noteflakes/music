@@ -52,5 +52,6 @@
   f' [e6 d] e8 cs d4 r8 a
   g'4 e [d6 cs b a d8] d,
   f4 ([e6 d e8]) d4 r
-  R1*12
+  R1*11
+  r2 r4 r8
 }

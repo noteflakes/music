@@ -1,0 +1,5 @@
+parts:
+  soprano:
+    after_include: continuo
+  continuo:
+    before_include: soprano

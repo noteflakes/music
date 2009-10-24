@@ -1,0 +1,20 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+  r4 r8 c' a a c f,
+  d' d r6 d e f g,8 g g a
+  bb bb r a e' f g e
+  f a, gs c a4 r \bar "||"
+  \tempo "Arioso"
+  r4 r8 e' c a4 ([b6 cs]
+  d8) e f d [b6 a] g8 r b
+  c d e4. a,8 d b
+  [gs6 fs] e8 r e' c b4 c6 d
+  c b a8 r6 a b cs [d8 e6] f e8 a,
+  [f'6 e] d8 r c! b (a4 [b6 c])
+  ([b a]) g8 r6 g a b [c8 d6] e d8 g,
+  [e'6 d] c8 r6 a gs a [f' e] [d c] [b8 c6] d
+  gs,8 fs6 e [fs gs] [a b] [c b] d8 r6 f e d
+  ([c gs]) ([a d]) ([c8 b6 a]) a4 r
+  R1
+}

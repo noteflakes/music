@@ -1,0 +1,25 @@
+title: Weihnachts Oratorium BWV 248
+subtitle: "Fünfter Theil \"Ehre sei dir, Gott, gesungen\""
+composer: Johann Sebastian Bach
+movements:
+  01-coro:
+    midi_tempo: 105 4
+parts:
+  oboe1: "Oboe d'amore I"
+  oboe2: "Oboe d'amore II"
+score:
+  order:
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

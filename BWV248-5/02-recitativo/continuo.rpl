@@ -1,0 +1,12 @@
+\relative c {
+  \key a \major
+  \time 4/4
+  
+  fs,1 ~
+  fs
+  gs
+  as ~
+  as ~
+  as2 b4 d \bar "||"
+  \key b \minor
+}

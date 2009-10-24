@@ -1,0 +1,17 @@
+\relative c {
+  \key a \major
+  \time 4/4
+  \partial 4 fs4
+  cs' b8 a gs4 a ~
+  a8 g fs e fs d e e,
+  a2\fermata r4 d
+  ds8 e4 es fs8 gs a
+  gs e b' b, e4\fermata a8 gs
+  fs e d cs b4 e8 d
+  cs b a4 e'\fermata a,
+  d8 e d cs b4\fermata fs'
+  g8 fs e4 d\fermata a
+  e'2 ~ e8 fs gs e
+  a gs fs e d b e4
+  a,2.\fermata
+}  

@@ -1,0 +1,76 @@
+\relative c {
+  \key c \major
+  \time 2/4
+  R2*30
+  c4 e
+  g r8 f
+  [e6 d e f g8] c
+  [b a] g4
+  c, e
+  a r
+  b, d
+  g r8 g
+  [a e] [c e]
+  [a b] c a
+  ([d c6 b a8]) ([b6 g])
+  [fs8 e] d4
+  r g ~
+  [g8 fs] [fs e]
+  f!2 ~
+  f4 eb
+  r8 d' [g,6 a b g]
+  [c b c d] [c b a c]
+  [b a b c] [b a g b]
+  [e,8 fs6 g] [a b] c8
+  fs,4 d ~
+  ([d8 cs]) ([cs b])
+  c!2 ~
+  c8 a' [d, e6 fs]
+  [g a b a] [c b a g]
+  e'8 c a d
+  [c6 b a g a8] fs
+  g4 r
+  R2*8
+  c,4 e
+  g4 ~ [g6 c, d e]
+  [f g a \ficta bb] [c d c d]
+  [bb a bb c] [bb c bb c]
+  [a g a bb] [a c b d]
+  [c b c d] [c b a g]
+  fs8 d d'4 ~
+  [d8 c] ([b a])
+  gs4 r
+  e gs
+  [a6 e fs gs] [a b c d]
+  e8 d cs e
+  f, d4 f8
+  a d, d' b
+  [b a6 gs] a4 ~
+  [a8 gs] [a b6 c]
+  f,2 ~
+  f8 d gs a
+  [b gs] e4 
+  R2
+  c4 e 
+  a ~ [a6 g a b]
+  [c b c d] [c d e c]
+  [a b c b] [a g f e]
+  d8 g, g'4 ~
+  [g6 a] bb4 [a6 g]
+  a8 c4 f,8
+  [e6 c d e] [f g a bb]
+  c8 f, e f
+  [g6 f g8] c,4
+  f a
+  d r
+  e, g 
+  c r
+  f, f
+  f2 ~
+  [f6 g ab8] ~ [ab6 g ab8] ~
+  [ab g] r d'
+  [g, f6 e f8] d
+  c [d6 e] [f g a b]
+  c8 [e,6 f g8] g,
+  c2\fermata
+}

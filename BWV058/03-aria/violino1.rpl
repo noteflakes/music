@@ -16,7 +16,7 @@
   (f a d) e-. f8 e\trill d4 r
   r8 f,\p (f g) (g6 bb e) f-. g8 r
   r cs,, (cs d) (cs6 e a) cs-. d a\f cs e
-  f8 (e d cs) ~ c6 (g' f e) d8 cs
+  f8 (e d cs) ~ cs6 (g' f e) d8 cs
   d6 (a' g f) e8 d (cs b a) g\p
   f f' (f g) g4 ~ g6 (f e d)
   cs2 ~ cs8 d6 e a, cs e g
@@ -32,7 +32,7 @@
   (f a d) e f c! b a b g c g d' f, e d
   (e g c) d e b a gs a f b f c' e, d c
   (d f b) c d a gs fs gs e a e b' d, c b
-  (c e a) b-. a8 b a4 r
+  (c e a) b-. c8 b a4 r
   r6 (a6\p gs) (f' e) (a, gs) d' (c8 d4) b8
   (c6 b a8) r4 r2
   r6 (g6 fs) (e' d) (g, fs) c' (b8 c4) a8

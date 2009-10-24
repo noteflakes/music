@@ -1,0 +1,99 @@
+\relative c' {
+  \key c \major
+  \time 2/4
+  
+  c4 g
+  c4. c6 d
+  e8 d c f
+  d c b d
+  g, r c r
+  g' r c, r
+  d r b r
+  g r b r
+  e e e e
+  e e e e 
+  d d fs fs
+  fs fs d d
+  g b a a 
+  g r r d
+  d d d c
+  b4 r
+  R2*8
+  r8 d\f d d 
+  d fs fs d
+  d b c a
+  g r r d' 
+  d d d c
+  b4 r
+  e,\p g
+  c4. c6 d
+  e8 d c f
+  d c b d
+  g, r c r
+  c r c r
+  d r b r
+  g r b r
+  e e e e 
+  e e a, a
+  a a d d 
+  d d d d 
+  d r r g
+  e r r c
+  g' r r g,
+  c r r4
+  b4 e ~
+  e8 c a a 
+  b r r g'
+  g r r a
+  a r r fs
+  g r r g
+  c, r r a'
+  a r r a
+  g r r g 
+  a r r d,
+  d r r4
+  R2
+  e8\f r a r
+  e r c r 
+  a r fs' r
+  a r r c,
+  g' g e a
+  g c, d d 
+  d d d c
+  b4 r
+  e,\p g
+  c r
+  R2*7
+  b4\p e
+  e ~ e6 d c b
+  a8 g' e a
+  a r d, r
+  f r gs, r
+  gs r c r
+  a' r a, r
+  gs' gs gs gs
+  f f f f 
+  e e e e
+  gs gs e e
+  e e e e 
+  f f d d 
+  e4 g
+  f r
+  R2*2
+  a,4\f f
+  g4. c8
+  c c c c
+  c d e c
+  c r f r
+  f r f r
+  g r e r
+  c r e r
+  a a a a
+  a a a a
+  d, d d d
+  b' b b b
+  g g d d
+  a' g6 f e d c b
+  e8 g g f
+  e2\fermata
+}

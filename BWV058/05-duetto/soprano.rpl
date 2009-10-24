@@ -1,0 +1,45 @@
+\relative c' {
+  \key c \major
+  \time 2/4
+  R2*16
+  c'2
+  c
+  c
+  (a4. b8)
+  c2
+  (d4. c8)
+  b2
+  a
+  R2*17
+  a2
+  b
+  c
+  d
+  (g,4. a8)
+  b2 
+  a 
+  g
+  R2*16
+  d'2
+  e 
+  e
+  (c4. d8)
+  e2
+  f
+  e
+  d
+  R2*11
+  e2
+  e
+  e
+  d
+  c
+  c
+  b
+  c ~
+  c ~
+  c ~
+  c ~
+  c
+  R2*12
+}

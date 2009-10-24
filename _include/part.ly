@@ -71,4 +71,8 @@ prepare = {
 	\override Score.BarNumber #'font-size = #1
 }
 
+pageTurn = {
+  \pageBreak
+}
+
 \version "2.12.2"

@@ -114,4 +114,8 @@ prepare = {
 	% \override Score.BarNumber #'self-alignment-X = #0
 }
 
+pageTurn = {
+  \pageTurn
+}
+
 \version "2.12.1"

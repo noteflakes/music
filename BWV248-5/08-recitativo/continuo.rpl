@@ -1,0 +1,9 @@
+\relative c {
+  \key a \major
+  \time 4/4
+  es,1
+  fs
+  gs
+  a4 cs d fs
+  r e a,2
+}

@@ -1,0 +1,194 @@
+\relative c {
+  \key b \minor
+  \time 2/4
+  
+  b8 r cs r
+  d r e r
+  fs b, as b
+  fs fs'6 gs as8 fs
+  b cs d cs
+  b cs b a
+  gs r b r
+  gs r e r
+  a b cs b 
+  a b a g
+  fs r a r
+  fs r d r
+  g a g fs
+  e fs g e
+  fs g fs e
+  d e fs d
+  e d cs d
+  e cs as fs
+  b d fs fs,
+  b b' as fs
+  b,\p r cs r
+  d r e r
+  fs b, as b
+  fs fs'6 gs as8 fs
+  b r cs, r 
+  d r e r
+  e d as b
+  fs fs' as, fs
+  b cs d cs
+  b cs b a!
+  gs r b r
+  gs r e r
+  a b cs b 
+  a b a g!
+  fs r a r 
+  fs r d r
+  g' fs e d
+  cs b6 a b8 cs
+  d fs, g a
+  d, e fs g
+  a b cs a
+  d e fs g
+  a b cs b
+  as gs as fs
+  b, cs d e
+  fs gs as fs
+  b, cs d e
+  fs gs as fs
+  b cs d b
+  cs b a b 
+  cs b cs cs,
+  fs, gs a b
+  cs b a gs
+  fs cs' fs fs,
+  b r e r
+  a, r d r
+  gs, r cs r
+  fs, fs' e d 
+  cs4 r8 cs'
+  d b cs cs,
+  fs\f r gs r
+  a r b r
+  cs fs, es fs
+  cs' cs,6 ds es8 cs
+  fs gs a gs
+  fs gs fs e!
+  ds r fs r
+  ds r b r
+  e fs gs fs
+  e fs e d!
+  cs r e r 
+  cs r a r
+  d e d cs
+  b cs d b
+  cs d cs b
+  a b cs a
+  b a gs a
+  b gs' es cs
+  fs a cs cs,
+  fs\p gs a fs
+  gs fs gs as
+  b r r b,
+  fs' e fs b, 
+  e r r e, 
+  b' a b e,
+  a r r a
+  e' d e a,
+  d, d'6 cs d8 b
+  gs e a r
+  r e'6 ds e8 cs
+  as fs b r
+  r fs'6 es fs8 fs,
+  r cs''6 b cs8 cs,
+  r fs6 gs a8 fs
+  b a gs b
+  e,4 r8 d
+  cs fs d e
+  a,\f r b r
+  cs r d r
+  e a, gs a
+  e e'6\p d cs8 b
+  fs'6 e fs g fs e d cs
+  b8 cs d b
+  cs b cs ds
+  e r r e, 
+  b' a b e,
+  a r r a 
+  e' d e a,
+  d r r d, 
+  a' g a d,
+  g g'6 fs g8 e
+  cs a d r
+  r a'6 gs a8 fs
+  ds b e r
+  r b'6 as b8 b,
+  r fs'6 e fs8 fs,
+  r b6 cs d8 b
+  e d cs e
+  a,4 r8 g
+  fs b g a
+  d\f r e r
+  fs r g r
+  a d, cs d
+  a a'6\p g fs8 e
+  b'6 c b a g fs e ds
+  e8\f r d! r
+  a! r b r
+  a fs' g a 
+  b b, ds b
+  e\p r fs r
+  g r a r
+  b e, ds e
+  b' b,6 cs ds8 b
+  e, r fs r
+  g r a r
+  a g ds e
+  b' b' ds, b
+  e fs g fs
+  e fs e d
+  cs r e r
+  cs r a r
+  d e fs e 
+  d e d c
+  b r d r 
+  b r g r
+  c b a g
+  fs e6 d e8 fs
+  g b c d
+  g, a b c
+  d e fs d
+  g, a b c
+  d e fs e
+  ds cs ds b
+  e, fs g a
+  b cs ds b
+  e, fs g a
+  b cs ds b
+  e g fs e
+  fs e d e
+  fs e fs fs,
+  b cs d e
+  fs e d cs
+  b fs' b b,
+  e r a, r
+  d r g, r
+  cs r fs, r
+  b b' a g
+  fs4 r8 e
+  d b fs' fs,
+  b\f r cs r
+  d r e r
+  fs b, as b
+  fs fs'6 gs as8 fs
+  b cs d cs
+  b cs b a 
+  gs r b r 
+  gs r e r
+  a b cs b 
+  a b a g
+  fs r a r 
+  fs r d r
+  g a g fs
+  e fs g e
+  fs g fs e
+  d e fs d
+  e d cs d
+  e cs as fs
+  b d fs fs,
+  b2\fermata
+}

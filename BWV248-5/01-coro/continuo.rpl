@@ -1,0 +1,133 @@
+\relative c {
+  \key a \major
+  \time 3/4
+  \tempo "Vivace"
+  
+  a8 (a' a a a a)
+  a a, a cs e e,
+  a (a' a a a a)
+  a a, a cs e e,
+  a a' r cs, a cs
+  d d' a fs d cs
+  ds b r b ds b
+  e e' b gs e b
+  e, e' r gs b d
+  cs a cs a cs a
+  d fs, fs d d a'
+  a a, a fs fs b
+  b e e gs, gs e
+  a gs6 a b8 a6 b cs8 b6 cs
+  d8 cs6 d e8 d6 e fs8 e6 fs
+  gs8 e a, cs6 d e8 e,
+  a a' a a a a 
+  a a, a' g fs d
+  a a' a, cs e e,
+  a' a, a a' gs a
+  e e, e e e e 
+  e e'6 fs gs8 e a a,
+  e' e, e e e e
+  e e' e gs b b,
+  e e, e d' cs e
+  fs fs, fs fs' e d
+  cs cs' b a gs fs
+  e e, e' fs cs e
+  a a, a cs e e,
+  a a'6 gs a8 cs,6 b cs8 a
+  d cs b a gs a
+  e e'6 fs gs8 b gs e
+  a gs fs e ds e
+  b' b,6 cs ds8 fs ds b
+  e e,6 fs gs8 b gs e
+  a a'6 b cs8 e cs a
+  d cs b a gs a
+  e' e,6 fs gs8 b gs e
+  a gs fs e ds e
+  b' b,6 cs ds8 fs ds b
+  e e, r gs e gs
+  a a' e cs a gs
+  as fs r fs as fs
+  b b' fs ds b fs'
+  b b, r ds fs a
+  gs e gs e gs e 
+  a cs cs a a e'
+  e e, e cs cs fs
+  fs b b ds, ds b
+  e ds6 e fs8 e6 fs gs8 fs6 gs
+  a8 gs6 a b8 a6 b cs8 b6 cs
+  ds8 b e gs,6 a b8 b,
+  e e, e e e e
+  e e' e gs b b,
+  e e, e e e e 
+  e e' e gs b b,
+  e e, e e'6 fs e8 d
+  cs cs, cs cs'6 b cs8 a
+  gs e e gs6 fs gs8 e
+  a a' a a a a
+  a a, a cs e e,
+  a a' a a a a
+  a a, a cs e e,
+  a a' a a,6 b a8 g
+  fs fs' fs fs,6 e fs8 d
+  cs a'' a cs,6 b cs8 a
+  d d' d d d d
+  d, d' d d, cs b
+  cs cs' cs cs cs cs
+  cs, cs' cs cs, b a
+  b b' b a, gs fs
+  gs gs' gs gs, fs e
+  a fs' cs b cs d
+  e e,6 d e8 gs6 fs gs8 e
+  a gs fs gs a cs
+  d cs b gs cs a
+  fs' d b fs gs a
+  e e'6 fs gs8 b gs e
+  a a,6 b cs8 e cs a
+  d, d'6 e fs8 a fs d
+  g fs e d cs d
+  a' a,6 b cs8 e cs a
+  d cs b a gs a
+  e' e,6 fs gs8 b gs e
+  a a' r cs, a cs
+  d d' a fs d cs
+  ds b r b ds b
+  e e' b gs e b
+  e e, r gs' b d
+  cs a cs a cs a
+  d fs, fs d d a'
+  a a, a fs fs b
+  b e e gs, gs e
+  a gs6 a b8 a6 b cs8 b6 cs
+  d8 cs6 d e8 d6 e fs8 e6 fs
+  gs8 e a cs,6 d e8 e,
+  a\fermata cs e a6 b a8 gs
+  fs gs a b cs cs,
+  fs fs, fs fs fs fs
+  fs fs' fs a cs cs,
+  fs fs, fs' e ds b
+  e fs gs fs gs as
+  b (b, b b b b)
+  bs (bs' bs bs bs bs)
+  cs cs, cs' b a fs
+  b b, b' a gs e
+  a a, a' gs fs ds
+  gs as bs gs as bs
+  cs a! e a fs gs
+  cs, (cs' cs cs cs cs)
+  cs cs, cs e gs gs,
+  cs cs' b a gs fs
+  e d cs b as fs
+  b (b' b b b b)
+  b b, b d fs fs,
+  b b' b, cs6 d e8 d
+  cs cs, cs a' e' e,
+  a (a' a a a a)
+  as (as, as as as as)
+  b as b cs d b
+  e e, e' d cs a
+  d d, d' cs b gs
+  cs ds es cs ds es
+  fs d! a d b cs
+  fs,4 r r
+  \dacapo
+}
+  

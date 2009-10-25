@@ -1,0 +1,37 @@
+\relative c' {
+  \key b \minor
+  \time 4/4
+
+  r2 r4 fs
+  r fs r8 fs b fs
+  g e ds e6 fs g8 e g4
+  r8 e a e fs d cs d6 e
+  fs8 d fs4 r8 d e e \bar "||"
+  \tempo "Recitativo"
+  fs2 ~ fs2\p
+  g e
+  ds4 r r ds \bar "||" \grace s8 % Lilypond hack
+  \tempo "Coro"
+  b4 r r8 b\f b cs
+  d d d e fs fs g fs
+  e cs b a b g' fs e
+  d fs fs gs a a g fs
+  e e e e fs b, cs es
+  cs cs b b b d g fs
+  fs8. e6 d8 cs cs a r4
+  cs8 cs d d6 cs d8 a4 gs8
+  a4 a8 cs d2 ~
+  d8 fs e ds e cs d fs
+  b, d g4 cs, fs\p ~ \bar "||"
+  \tempo "Recitativo"
+  fs2. cs4
+  d fs e2
+  fs1 ~
+  fs2 b
+  b,1 ~
+  b2 cs
+  fs, gs
+  cs1
+  bs2 gs4 fs ~
+  fs8 a d4 gs,2
+}

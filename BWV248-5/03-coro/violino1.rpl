@@ -1,0 +1,37 @@
+\relative c' {
+  \key b \minor
+  \time 4/4
+
+  r2 r4 d'
+  r fs r8 d fs d
+  b b b cs6 ds e8 b b'4
+  r8 cs, e cs a a a b6 cs
+  d8 a a'4 r8 g e a \bar "||"
+  \tempo "Recitativo"
+  a2 ~ a4\p^"Oboe I tacet" ds,
+  e1
+  fs4 r r (a8 g) \bar "||"
+  \tempo "Coro"
+  \appoggiatura fs8 e4 r r2
+  r2 r8 cs\f^"Oboe I col violino I" cs d
+  e e e fs g d d e 
+  fs fs e d a' e e fs 
+  b, b b cs d d cs b
+  cs e ~ e ds e d cs fs
+  b, fs' ~ fs es fs cs (cs b)
+  a4. g8 fs a d4 ~
+  d8 cs cs a d e fs4 ~
+  fs8 e6 ds e8 fs (g fs) fs4 ~
+  fs8 e6 d! (e8 es) fs2\p^"Oboe I tacet" ~ \bar "||"
+  \tempo "Recitativo"
+  fs1 ~
+  fs4 d2 cs4
+  d1 ~
+  d2 fs ~
+  fs4 ds e2 ~
+  e2. as,4
+  b2 d
+  cs1
+  ds4 gs2 a4 ~
+  a gs8 fs es2
+}

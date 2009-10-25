@@ -1,3 +1,2 @@
-parts:
-  continuo:
-    before_include: [tenore, basso]
+blah: blah
+midi_tempo: 90 4

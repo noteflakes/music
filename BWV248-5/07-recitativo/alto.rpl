@@ -1,0 +1,14 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+  \tempo "(Arioso)"
+  r4 r8 gs' e e ds cs
+  as' as r fs as as as b
+  cs as fs r6 cs fs8 fs gs as
+  b b r4 a r8 a6 fs
+  ds8 e fs r6 b, a'8 a cs b
+  gs gs r e b' b cs d!
+  cs r6 cs a8 fs ds' e a, gs
+  e e r4 r2 \bar "||"
+  R1*19
+}

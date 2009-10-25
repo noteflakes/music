@@ -1,0 +1,35 @@
+\relative c {
+  \key a \major
+  \time 4/4
+  
+  \tempo "(Arioso)"
+  cs1 
+  e ~
+  e
+  ds ~
+  ds
+  e 
+  a,2. cs4 
+  r b e,2 ~ \bar "||"
+  \tempo "(Recitativo)"
+  e2 fs
+  gs1
+  a ~
+  a2 b
+  cs d ~
+  d e ~
+  e fs ~
+  fs ds
+  \tempo "Andante"
+  e8 ds e fs g fs g a
+  b b, c d e d e fs
+  g g, a b c b c a
+  d e fs d g fs g e
+  as fs b g fs g fs e
+  d cs! d b e d e cs
+  fs e fs d g fs e d
+  cs d cs b as4. b6 cs
+  fs,8 e' d g fs e fs fs,
+  b b' a fs g, g' fs d
+  e cs fs fs, b2
+}

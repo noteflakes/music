@@ -1,0 +1,11 @@
+parts:
+  continuo:
+    before_include: [alto, tenore]
+score:
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+  combine:
+    - [alto, tenore]
+  indent: 2.5\cm
+  hide_empty_staves: all

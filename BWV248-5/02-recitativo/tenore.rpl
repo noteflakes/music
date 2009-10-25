@@ -1,0 +1,12 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+  
+  r8 cs fs fs6 cs a8 a a b
+  cs8. fs,6 fs8 r r fs ds' ds6 e
+  e8 e r b gs r6 e d' d d fs
+  cs8 cs r4 g'8 e r cs
+  fs fs6 cs as8 as6 b cs8 cs as fs
+  e' e fs cs d4 r8 b \bar "||"
+  \key b \minor
+}

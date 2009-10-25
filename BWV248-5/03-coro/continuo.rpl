@@ -4,8 +4,7 @@
 
   r4 fs b, r
   as4 r8 fs b4 r8 b'
-  g g b g
-  e e e fs6 g
+  g g b g e e e fs6 g
   a8 a, r a' fs fs a fs
   d d d e6 fs g8 g, r c' \bar "||"
   \tempo "Recitativo"
@@ -23,7 +22,7 @@
   fs'8 e d4. cs8 b e
   a a, a' g fs e d e6 fs
   g8 a g fs e4 d8 b
-  g2 fs4 as\p ~
+  g2 fs4 as\p ~ \bar "||"
   \tempo "Recitativo"
   as1
   b2 e4 a,

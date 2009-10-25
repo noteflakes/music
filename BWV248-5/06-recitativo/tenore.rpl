@@ -1,0 +1,29 @@
+\relative c {
+  \key a \major
+  \time 4/4
+  r8 e gs a b b6 b e8 b
+  cs cs r cs a' gs r ds6 gs
+  e8 cs a gs6 fs ds'8. gs6 \appoggiatura fs8 e4 \bar "||"
+  R1*7
+  r2 r4 r8 e, \bar "||"
+  b' b b cs d d fs d
+  b b6 b e8 b gs e d' d6 cs
+  cs4 r8 a6 b cs8 cs cs d
+  e e r a, g'4 g
+  e8 e6 e a8 e fs fs r d6 d
+  d8 a fs r6 d c'8 c c r
+  r c e e6 c a8 a r a
+  ds ds ds ds6 e fs8 fs6 fs ds8 b
+  \tempo "Andante"
+  g' g r4 b,4 e
+  e8. d6 d4 r8 g, c c6 c
+  ([c8 b]) b4 r e,8 a
+  fs d r d' b g e'4 ~
+  e8 d6 cs! d8 b fs'4 fs,
+  r8 fs4 b8 [gs!6 fs] gs4 cs8
+  [as6 gs] as4 d8 ([b8 as]) b4
+  r8 b e fs g fs e4 ~
+  e8 [d6 cs] fs8 b, (d4 cs)
+  b4 r r2
+  R1
+}

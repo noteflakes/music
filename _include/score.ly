@@ -115,7 +115,7 @@ prepare = {
 }
 
 pageTurn = {
-  \pageTurn
+  \pageBreak
 }
 
 \version "2.12.1"

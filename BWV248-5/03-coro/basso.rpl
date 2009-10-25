@@ -9,7 +9,7 @@
   d d d e6 fs g8 g c r \bar "||"
   \tempo "Recitativo"
   ds,4 r r2
-  R1*2 \bar "||"
+  R1*2 \bar "||" \grace s8 % Lilypond hack
   \tempo "Coro"
   r8 e e fs g g g a
   b b r g fs4 [e8 d]

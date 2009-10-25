@@ -10,7 +10,7 @@
   \tempo "Recitativo"
   ds,2 ~ d4\p b
   e2 a,
-  c r4 b \bar "||"
+  c r4 b \bar "||" \grace s8 % Lilypond hack
   \tempo "Coro"
   e,8 e'\f e fs g g g a
   b b, a g fs fs' e d

@@ -1,0 +1,9 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+  gs'1
+  fs4 a2.
+  gs4 b2.
+  cs2. (b6 gs a8)
+  r4 (e6 cs d8) cs2
+}

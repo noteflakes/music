@@ -5,8 +5,10 @@ movements:
   01-coro:
     midi_tempo: 105 4
 parts:
-  oboe1: "Oboe d'amore I"
-  oboe2: "Oboe d'amore II"
+  oboe1: 
+    title: "Oboe d'amore I"
+  oboe2: 
+    title: "Oboe d'amore II"
 score:
   order:
     - oboe1

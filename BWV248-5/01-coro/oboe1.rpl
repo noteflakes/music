@@ -1,0 +1,125 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+  \tempo "Vivace"
+  r8 cs6 d e8 e fs6 e d fs
+  e8 r a-. r b-. r
+  cs a6 b cs d b cs d cs b d
+  cs8 r e-. r gs-. r
+  a4 e2 ~
+  e8 a,4 d fs8
+  b,2. ~
+  b8 gs4 b d8
+  e,2. ~
+  e8 e'4 (g fs6 e)
+  fs8 d4 (fs e6 d)
+  e8 cs4 (e d6 cs)
+  d8 b4 (d cs6 b)
+  cs8-. a-. d-. a-. e'-. a,-.
+  fs'-. d-. gs-. d-. a'-. d,-.
+  b'-. d, cs e cs b6 a
+  a4 r r
+  R2.
+  r8 cs,6 d e8 e fs6 e d fs
+  e8 r a-. r b-. r
+  cs a6 b cs d b cs d cs b a
+  gs8 r r4 r
+  R2.
+  r8 e'6 fs gs8 gs a6 gs fs a
+  gs8 r b-. r ds,-. r
+  e b6 cs d! e cs d e d cs b
+  a8 r r4 r
+  R2.
+  r8 gs6 a b cs a b cs b a gs
+  a8 r e'-. r gs-. r
+  a-. r r4 r
+  R2.*5
+  r4 r8 e4 cs8
+  (a b6 cs d e) fs8-. e d6 cs
+  b8 (gs6 a b cs) d8-. d4 ~
+  d8 (cs6 b cs ds) e8-. fs6 gs fs e
+  (ds e fs4) ds8 b ds
+  e2. ~
+  e8 e,4 a cs8
+  fs2. ~
+  fs8 ds4 fs a8
+  b,2. ~
+  b8 gs'4 (b a6 gs)
+  a8 cs,4 (a' gs6 fs)
+  gs8 b,4 (gs' fs6 e)
+  fs8 a,4 (fs' e6 ds)
+  e2. ~
+  e8 fs b,2 ~
+  b8 ds e e e ds
+  e gs,6 a b8 b cs6 b a cs
+  b8 r e-. r fs-. r
+  gs e6 fs gs a fs gs a gs fs a
+  gs8 r b,-. r ds-. r
+  e-. r r4 r
+  R2.*2
+  r8 cs6 d e8 e fs6 e d fs
+  e8 r a,-. r b-. r
+  cs a6 b cs d b cs d cs b d
+  cs8 r e-. r gs-. r
+  a-. r r4 r
+  R2.*2
+  r4 r8 d,6 e fs8 r
+  r4 r8 gs,6 a b8 r
+  r4 r8 a6 d e8 r
+  r4 r8 fs,6 gs a8 r
+  r4 d2 ~
+  d2. ~
+  d8 cs6 d e d fs e d cs b a
+  (cs8 b) b-. r d-. r
+  cs-. r fs-. r e-. r
+  e-. r d-. r cs-. r
+  cs-. r b-. r e-. r
+  e-. r d-. r b-. r
+  a-. r e'-. r cs-. r
+  fs-. r d-. r c-. r
+  b-. r e-. r r4
+  r r8 e4 cs8
+  (a b6 cs d e) fs8-. e d6 cs
+  b8 (gs6 a b cs) d8-. d4 ~
+  d8 cs4 e g8
+  fs2. ~
+  fs8 ds4 fs a8
+  gs2. ~
+  gs8 b,4 e gs8
+  a e4 (g fs6 e)
+  fs8 d4 (fs e6 d)
+  e8 cs4 (e d6 cs)
+  d8 b4 (d cs6 b)
+  cs8-. a-. d-. a-. e'-. a,-.
+  fs'-. d-. gs-. d-. a'-. d,-.
+  b'-. d, cs e cs b6 a
+  a4\fermata r r
+  R2.
+  r8 a6 b cs8 cs d6 cs b d
+  cs8 r fs-. r gs-. r
+  a-. r r4 r
+  R2.*2
+  r8 ds,6 e (fs gs e fs) (gs fs e ds)
+  e4. fs6 gs fs8 e
+  ds4. e6 fs e8 ds
+  cs4. ds6 e ds8 cs
+  bs6 cs ds bs gs8 gs' \appoggiatura gs6 fs8 \appoggiatura e6 ds8
+  (e6 gs) (fs a) gs8 cs, (e6 ds) (cs bs)
+  cs8 cs6 ds e8 e fs6 e ds fs
+  e8 r gs-. r bs,-. r
+  cs-. r r4 r 
+  R2.
+  r8 (d6 e) (fs g e fs g fs e g)
+  fs8 r b,-. r cs-. r
+  d-. r r4 r
+  R2.
+  r8 (a6 b) (cs d b cs d cs b d)
+  cs2.
+  b8 fs'6 e d e cs d b4 ~
+  b8 cs6 d cs8 b (e6 d cs b)
+  (a cs b a gs a b cs) d cs d8 ~
+  d cs6 b cs8 b6 a b a gs b
+  a cs b d cs8 fs, a6 gs fs es
+  fs4 r r
+  \dacapo
+}

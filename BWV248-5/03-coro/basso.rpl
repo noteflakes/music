@@ -1,0 +1,27 @@
+\relative c' {
+  \key b \minor
+  \time 4/4
+
+  r2 b4 r
+  as4 r8 fs b4 r8 b
+  g g b g e e e fs6 g
+  a8 a r a fs fs a fs
+  d d d e6 fs g8 g c r \bar "||"
+  \tempo "Recitativo"
+  ds,4 r r2
+  R1*2 \bar "||"
+  \tempo "Coro"
+  r8 e e fs g g g a
+  b b r g fs4 [e8 d]
+  a' a, r4 r8 b' b cs
+  d d cs b cs cs r ds
+  e d cs4 b8 b a gs
+  fs fs b b e, e r e'
+  d cs [b cs] fs,4 r
+  fs8 e d4 d8 cs b e
+  a4 a,8 g' fs e [d e6 fs]
+  [g8 a] g fs e4 [d8 b]
+  g2 fs4 r4 \bar "||"
+  \tempo "Recitativo"
+  R1*10
+}

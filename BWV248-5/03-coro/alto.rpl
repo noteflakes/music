@@ -1,0 +1,37 @@
+\relative c' {
+  \key b \minor
+  \time 4/4
+
+  r2 fs4 r
+  fs4 r8 fs fs4 r8 fs
+  g g fs [g6 a] b8 b g a6 b
+  a8 a r e fs fs e [fs6 g]
+  a8 a fs g6 a g8 g a r \bar "||"
+  \tempo "Recitativo"
+  b4 r b8^"Solo" fs6 g a8 g
+  g4 r8 e c' c r4
+  ds,8 r6 fs a8 g e4 r4 \bar "||"
+  \tempo "Coro"
+  R1
+  r8 fs fs g a a a b
+  cs cs r a g4 [fs8 e]
+  b' b, r4 r8 e e fs
+  b, b r4 r8 fs' fs gs
+  a a g! fs g g r as
+  b a! gs4\trill fs a8 gs
+  fs4 fs8 e [d e] [fs e]
+  e4 e8 e [fs g] [a g6 fs]
+  b2 ~ [g8 as] b d,
+  d e [e es] fs4 r8 fs^"Solo" \bar "||"
+  \tempo "Recitativo"
+  cs'4 r8 cs as fs e' d
+  d d r6 b b fs g8 g e a
+  fs fs r d' [d a] fs4
+  a8 r6 d, c'8 b b4 r6 ds, ds e
+  fs8 b, a' g g g r e
+  b'4 r8 b as cs e cs
+  d r6 d d8 b gs gs b gs
+  es es r gs cs4 r8 fs,
+  bs ds ds gs, cs4 r8 cs,
+  fs fs ([b3 cs d6]) fs,8 gs4 r
+}

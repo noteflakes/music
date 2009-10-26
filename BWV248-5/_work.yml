@@ -3,7 +3,7 @@ subtitle: "Fünfter Theil \"Ehre sei dir, Gott, gesungen\""
 composer: Johann Sebastian Bach
 movements:
   01-coro:
-    midi_tempo: 105 4
+    midi_tempo: 110 4
 parts:
   oboe1: 
     title: "Oboe d'amore I"

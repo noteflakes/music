@@ -1,0 +1,124 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+  \tempo "Vivace"
+  e'8 cs r4 r
+  r6 e a e cs e a, cs gs d' cs b
+  cs8 a r4 r
+  r6 cs e cs a cs e, a d, fs e d
+  cs e a e cs e a, e' cs e a, e'
+  fs a d a fs a d, a' fs a d, a'
+  fs a ds a fs a ds, a' fs a ds, a'
+  gs b e b gs b e, b' gs b e, b'
+  d gs b gs d gs b, gs' d gs b, gs'
+  a e cs e a e a cs e g, fs e
+  fs d a d fs d fs a d fs, e d 
+  e cs a cs e cs e a cs e, d cs
+  d b gs b d b d gs b d, cs b
+  cs a b cs d b cs d e cs d e 
+  fs d e fs gs e fs gs a fs gs a
+  b d, cs b cs e cs a e8 gs
+  a4 r r
+  R2.*2
+  r6 e' a e cs e a, cs gs d' cs b
+  cs8 a r4 r
+  R2.*3
+  r6 b e b gs b e, gs ds a' gs fs
+  gs8 e r4 r
+  R2.*3
+  r6 e' a e cs e a, cs gs d' cs b
+  cs8 a r4 r
+  R2.
+  b8-. e-. r4 r
+  R2.
+  fs8-. b,-. r4 r
+  R2.
+  cs8-. a'-. r4 r
+  R2.
+  gs8-. e-. r4 r
+  R2.
+  r6 fs b fs ds fs b, ds fs, a gs fs
+  e b' e b gs b e, b' gs b e, b'
+  cs e a e cs e a, e' cs e a, e'
+  cs e as e cs e as, e' cs e as, e'
+  ds fs b fs ds fs b, fs' ds fs b, fs'
+  a, ds fs ds a ds fs, ds' a ds fs, ds'
+  e b gs b e b e gs b d, cs b
+  cs a e a cs a cs e a cs, b a
+  b gs e gs b gs b e gs b, a gs
+  a fs ds fs a fs a ds fs a, gs fs
+  gs e fs gs a fs gs a b gs a b
+  cs a b cs ds b cs ds e cs ds e
+  fs a, gs fs gs b gs e b8 ds'
+  e b r4 r
+  r6 b' e b gs b e, gs ds a' gs fs
+  gs8 e r4 r
+  r6 gs b gs e gs b, e a, cs b a
+  gs b e b gs b e, b' gs b e, b'
+  a cs e cs a cs e, cs' a cs e, cs'
+  b d e d b d e, d' b d e, d'
+  cs8 a r4 r
+  r6 e' a e cs e a, cs gs d' cs b
+  cs8 a r4 r
+  r6 cs e cs a cs e, a d, fs e d
+  cs e a e cs e a, e' cs e a, e'
+  d fs a fs d fs a, fs' d fs a, fs'
+  e g a g e g a, g' e g a, g'
+  fs8 d r4 r8 fs'
+  b, r r4 r8 b
+  e r r4 r8 e
+  a, r r4 r8 a
+  d6 fs b fs d fs b, fs' d fs b, fs'
+  d e b' e, d e b e d e b e 
+  (d e) (cs d) (e d) (fs e) (d cs) (b a)
+  (cs8 b) b-. r r4
+  cs8-. a-. r4 r
+  a8-. cs-. r4 r
+  cs8-. fs-. r4 r
+  gs8-. e-. r4 r
+  e8-. a-. r4 r
+  a8-. fs-. r4 r
+  b8-. g-. r4 r
+  g8-. e-. r4 r
+  R2.
+  r6 b e b gs b e, gs b, d cs b
+  a e' a e cs e a, e' cs e a, e'
+  fs a d a fs a d, a' fs a d, a'
+  fs a ds a fs a ds, a' fs a ds, a'
+  gs b e b gs b e, b' gs b e, b'
+  d gs b gs d gs b, gs' d gs b, gs'
+  a e cs e a e a cs e g, fs e
+  fs d a d fs d fs a d fs, e d
+  e cs a cs e cs e a cs e, d cs
+  d b gs b d b d gs b d, cs b
+  cs a b cs d b cs d e cs d e
+  fs d e fs gs e fs gs a fs gs a
+  b d, cs b cs e cs a e8 gs
+  a4\fermata r r
+  R2.*2
+  r6 a' cs a fs a cs, fs b, gs' fs es 
+  fs8 cs r4 r
+  R2.
+  ds2. ~
+  ds2. ~
+  ds8 cs6 bs cs e fs gs (fs gs) (e fs)
+  (ds cs b a b) (ds e fs) (e fs) (ds e)
+  (cs b a gs a) (cs ds e) (ds e) (cs ds)
+  bs cs ds bs gs8 gs' \appoggiatura gs6 fs8 \appoggiatura e6 ds8
+  (e6 gs) (fs a) gs8 cs, (e6 ds) (cs bs)
+  cs4 r r
+  r6 gs' cs gs e gs cs, e bs fs' e ds
+  e8 cs r4 r
+  R2.*2
+  r6 fs b fs d fs b, d as e' d cs
+  d8 b r4 r
+  R2.*2
+  r8 (cs6 d) (e fs) (d e) (fs e) (d cs)
+  d e fs e d e cs d b fs d fs
+  gs b cs d cs8 b e6 d cs b
+  (a cs b a) (gs a b cs) d cs d8 ~
+  d cs6 b cs8 b6 a b a gs b
+  a cs b d cs8 fs, (a6 gs) (fs es)
+  fs4 r r
+  \dacapo
+}

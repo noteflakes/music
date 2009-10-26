@@ -1,0 +1,124 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+  \tempo "Vivace"
+  cs'8 a r4 r
+  r6 cs e cs a cs e, a b,8 gs'
+  a e r4 r
+  r6 a cs a e a cs, e b8 b
+  a e' r a a a 
+  a4 r8 a a a
+  b fs r b b b
+  b b, r b' b b
+  b4 r8 b b b
+  a e' e cs a a
+  a d d a a a 
+  a cs cs a a a 
+  fs gs gs e e fs6 gs
+  a8 r fs r e r
+  d r d r cs r
+  b e e e e e
+  e4 r r
+  R2.*2
+  r6 cs' e cs a cs e, a b,8 gs'
+  a e r4 r
+  R2.*3
+  r6 gs b gs e gs b, e b8 ds
+  e gs r4 r
+  R2.*3
+  r6 cs e cs a cs e, a b,8 gs'
+  a e r4 r
+  R2.
+  gs8-. b-. r4 r
+  R2.
+  b8-. ds,-. r4 r
+  R2.
+  e8-. cs'-. r4 r
+  R2.
+  e8-. gs,-. r4 r
+  R2.
+  r4 r8 ds fs ds
+  e b' r b gs b
+  e, cs' r a a e
+  fs fs' r cs cs cs
+  b ds r b b b
+  ds b r b b b
+  b e e b b e
+  cs e e cs cs e
+  gs, b e e cs cs
+  a b b fs fs b
+  b r a r e r 
+  e' r ds r cs r
+  b ds e e,6 fs gs8 a
+  gs e r4 r
+  r6 gs' b gs e gs b, e fs,8 ds'
+  e b r4 r
+  r6 e gs e b e gs, b fs8 fs
+  e b r cs'6 a b8 gs
+  a e r a6 gs a8 a
+  b b, r b'6 a b8 gs
+  e cs r4 r
+  r6 cs' e cs a cs e, a b,8 gs'
+  a e r4 r
+  r6 a cs a e a cs, e b8 b
+  a e' r fs6 d e8 cs
+  d a r d'6 cs d8 d
+  e e, r e'6 d e8 cs
+  d a r4 r8 d,
+  e r r4 r8 gs
+  a r r4 r8 e
+  fs r r4 r8 fs
+  fs d r b' b b 
+  b4 r8 b b b 
+  b a6 b cs8 gs a a
+  (a gs) gs-. r r4
+  a8-. e-. r4 r
+  fs8-. a-. r4 r
+  a8-. d-. r4 r
+  e8-. b-. r4 r
+  a8-. cs-. r4 r
+  fs8-. a,-. r4 r
+  g'8-. b,-. r4 r
+  e,8-. cs'-. r4 r
+  R2.
+  r4 r8 b, e e
+  e e' r a, a a
+  a a, r a' a a
+  b fs r b b b
+  b b, r b' b b
+  b4 r8 b b b
+  a e' e cs a a 
+  a d d a a a 
+  a cs cs a a a 
+  fs gs gs e e e'6 d
+  cs8 r fs, r e r
+  d r d r cs r
+  b e e e e e
+  e4\fermata r r
+  R2.*2
+  r6 fs' a fs cs fs a, cs gs8 cs
+  cs a r4 r
+  R2.
+  b2.
+  gs2. ~
+  gs4. a6 b cs8-. a-.
+  fs4. gs6 a b8-. gs-.
+  e4. fs6 gs a8-. fs-.
+  ds4 ~ ds6 cs ds e fs8 gs ~
+  gs fs e e a gs
+  gs4 r r
+  r6 e' gs e cs e gs, cs gs8 bs
+  cs gs r4 r
+  R2.*2
+  r6 d' fs d b d fs, b fs8 as
+  b fs r4 r
+  r2.*2
+  r8 (e6 fs) g8 cs, cs fs
+  fs4. as8 b a
+  gs4. a6 b a8 gs
+  fs4. gs6 a gs8 fs
+  es fs gs es fs gs ~
+  gs fs6 es fs8 fs d cs
+  cs4 r r
+  \dacapo
+}

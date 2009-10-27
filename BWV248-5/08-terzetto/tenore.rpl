@@ -1,0 +1,123 @@
+\relative c' {
+  \key b \minor
+  \time 2/4
+  R2*24
+  d8 (cs4 b8)
+  (fs' g4) b,8
+  [as6 b cs d e8] d
+  \appoggiatura e8 d8 cs e r
+  r4 ([b8 as])
+  r cs ([d6 cs]) d8
+  d2 ~
+  d8 b gs' e
+  [cs b] a r
+  ([a gs]) r e
+  a c c a
+  d d, c r
+  r4 [g'6 fs g8]
+  a r r4
+  R2
+  d4 r8 d
+  [d cs] r e
+  fs4. fs8
+  fs e r4
+  R2
+  b4 r8 b
+  [b as] r cs
+  d4. d8
+  d cs r4
+  R2*3
+  cs4 r
+  r8 gs cs b
+  (a as4) as8
+  [b6 as b8] ~ [b6 d cs b]
+  [a! gs a b] [a cs b a]
+  [gs fs gs8] ~ [gs6 b a gs]
+  [fs es fs gs] [a b cs d]
+  [gs, a b8] b r
+  R2*20
+  cs4 fs ~
+  fs8 [e6 d] e8 cs
+  [d6 cs d e] [d cs b d]
+  [cs b cs d] [cs e ds fs]
+  e8 b b e ~
+  e [d6 cs] d8 b
+  [cs6 b cs d] [cs b a cs]
+  [b a b cs] [b d cs e]
+  d8 a d4 ~
+  d8 [cs6 b] cs8 ds
+  e b e4 ~
+  e8 [d!6 cs] d8 b
+  [cs6 b cs d] [cs b a cs]
+  [b a b cs] [b a gs b]
+  a2 ~
+  [a6 fs gs a] [b cs] d8
+  d [b a] gs
+  ([e' d6 cs d8]) b
+  a4 r
+  R2*2
+  r4 r8 b ~
+  b as fs' e
+  d4 r
+  R2
+  b4 e ~
+  e8 [d6 cs] d8 b
+  [cs6 b cs d] [cs b a cs]
+  [b a b cs] [b d cs e]
+  d8 a a d ~
+  d [c6 b] c8 a
+  [b6 a b c] [b a g b]
+  [a g a b] [a c b d]
+  [c b c d] [c b a c]
+  [b a b c] [b d cs e]
+  [d cs d e] [d cs b d]
+  [cs b cs d] [cs b as cs]
+  [b cs d e] [fs g] a8
+  g g4 [fs6 e]
+  d8 cs [b a] 
+  r [g'6 fs g8] e
+  d4 r
+  R2
+  r4 r8 d ~
+  d cs a' g
+  \appoggiatura g8 fs4 r
+  R2*4
+  g,8 (fs4 e8)
+  (b' c4) e,8
+  ([ds6 e fs g a8]) g
+  g fs b r
+  r a'4 [g6 fs]
+  [e d] [c b] a8 c
+  (c b4) e8
+  e ds r4
+  b8 r r4
+  ([e8 ds]) r b
+  e g g e
+  a a, g' r
+  r4 ([d8 cs])
+  r8 e, [f6 e] f8
+  f2 ~
+  f8 d' b g
+  [e' d] c r
+  [a'6 g a8] c, r
+  R2
+  b4 r8 b
+  [b a] r4
+  r8 d g g
+  g fs r4
+  R2
+  b,4 r8 g'
+  [g fs] r4
+  r8 b, e e 
+  e ds r4
+  R2*3
+  r4 fs
+  r4 r8 fs, 
+  b a g fs
+  [g6 fs g8] ~ [g6 b a g]
+  [fs e fs g] [fs a g fs]
+  [e d e8] ~ [e6 g fs e]
+  [d cs d e] [fs gs as b]
+  as8 [gs6 as fs8] r
+  R2*21
+}

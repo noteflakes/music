@@ -1,0 +1,57 @@
+\relative c' {
+  \key b \minor
+  \time 2/4
+  R2*36
+  r4 b'
+  r8 e4 g,8
+  fs a fs [e6 d]
+  d4 a' 
+  r a
+  r a
+  r a8 cs
+  cs fs, fs fs
+  d'4 fs,
+  r fs
+  r fs
+  r fs8 e
+  d fs b gs
+  es d' cs b
+  a4 gs
+  fs r
+  ([fs8 es]) r4
+  R2
+  r8 b' \appoggiatura a8 gs4 ~
+  gs8 cs, fs4 ~
+  fs8 ([b6 gs]) \appoggiatura fs8 es4
+  r cs'
+  r8 gs es cs
+  [fs8. b6] [gs8. fs6]
+  fs4 r
+  R2*84
+  r4 e'
+  r8 a,4 c8
+  b d b [a6 g]
+  g4 d'
+  r d
+  r d
+  r d,8 fs
+  fs b, b b
+  g'4 b
+  r b
+  r b
+  r b8 a
+  g b [cs6 d3 e] [d6 cs]
+  \appoggiatura b8 as8 g fs e
+  d4 cs
+  b r
+  ([b'8 as]) r4
+  R2
+  r8 e cs'4 ~
+  cs8 fs, b4 ~
+  b8 [as6 gs] as4
+  r fs
+  r8 cs' as fs
+  b fs \appoggiatura e8 d8 [cs6 b]
+  b4 r
+  R2*19
+}

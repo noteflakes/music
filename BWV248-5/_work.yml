@@ -6,6 +6,8 @@ movements:
     midi_tempo: 110 4
   05-aria:
     midi_tempo: 90 4
+  08-terzetto:
+    midi_tempo: 95 4
 parts:
   oboe1: 
     title: "Oboe d'amore I"

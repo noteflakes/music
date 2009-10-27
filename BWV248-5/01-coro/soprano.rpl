@@ -1,0 +1,102 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+  \tempo "Vivace"
+  R2.*16
+  r8 [cs'6 d e8] e [fs6 e] fs8
+  e e4 cs8 a a'
+  a r r4 r
+  e8 e a a e e
+  e [e6 d cs8] r r4
+  R2.
+  r8 [gs6 a b8] b [cs6 b] cs8
+  b r r4 r
+  b8 b e e b b
+  b [b6 a gs8] r r4
+  R2.
+  r8 [cs6 d e8] e [fs6 e] fs8
+  gs r r4 r
+  a8 e e e e d
+  cs [cs6 b a8] r r4
+  R2.*5
+  r4 r8 e'4 cs8
+  ([a b6 cs d e]) fs8 e [d6 cs]
+  b8 ([gs6 a b cs]) d8 d4 ~
+  d8 ([cs6 b cs ds]) e8 fs [fs6 e]
+  ds8 fs4 ds8 b ds
+  e2. ~
+  e2. ~
+  e8 as,4 cs8 cs e
+  ds2. ~
+  ds8 fs,4 b8 b ds
+  e b4 d! [cs6 b]
+  cs8 a4 cs [b6 a]
+  b8 gs4 b [a6 gs]
+  a8 fs4 a [gs6 fs]
+  gs8 r a r b r
+  [cs b6 cs] [ds8 cs6 ds] [e8 ds6 e]
+  [fs8 e6 ds] e8 b gs [fs6 e]
+  e4 r r
+  R2.*3
+  r8 [gs6 a] [b8 cs6 d] e4 ~
+  e2. ~
+  e8 b d d d d 
+  cs [cs6 b a8] r r4
+  R2.*4
+  r8 [fs6 g a8] [b6 cs] d8 fs,
+  e cs'4 e8 a, cs
+  d [d6 e fs8] fs [fs6 e] fs8
+  b, b4 gs8 e b'
+  e [cs6 d e8] e [e6 d] e8
+  a, a4 fs8 d a'
+  d [fs6 e d8] d d d 
+  d [b6 cs d8] d d d
+  d [cs6 d e8] [fs6 e] [d cs] [b a]
+  ([cs8 b]) b r r4
+  R2.*7
+  r4 r8 e4 cs8
+  ([a b6 cs d e]) fs8 e [d6 cs]
+  b8 ([gs6 a b cs]) d8 d4 ~
+  d8 ([cs6 d]) e2 ~
+  e8 a,4 d8 d fs
+  b,2. ~
+  b8 gs4 b8 b d
+  e,2. ~
+  e8 cs'4 e [d6 cs]
+  d8 a4 d [cs6 b]
+  cs8 a4 cs [b6 a]
+  b8 gs4 b [a6 gs]
+  a2. ~
+  a8 b e,2 ~
+  e8 d' cs e cs [b6 a]
+  a4\fermata r8 cs4 cs8
+  [cs6 fs e d cs8] b [a6 b] gs8
+  a4 r r
+  R2.
+  r4 r8 [b6 cs b8] a
+  gs a ([b cs6 ds e cs]) fs8
+  ds4 r r
+  R2.
+  r4 r fs8 e
+  ds4. ([e6 fs e8]) ds
+  cs4. [ds6 e] ds8 cs
+  ([bs6 cs ds bs]) gs8 gs' fs ds
+  ([e fs\trill]) gs cs, ([e6 ds]) cs bs
+  cs4 r r
+  R2.
+  r8 gs4 a8 b4 ~
+  [b8 cs6 d e fs] g8 fs e
+  d4 r r
+  R2.
+  r8 b4 a8 gs4 ~
+  gs8 [a6 b] [cs d e8] ~ [e6 cs] d8
+  cs4 r r
+  R2.
+  r4 d8 cs b4 ~
+  b8 [cs6 d cs8] b ([e6 d cs b]
+  [a cs b a] [gs a]) [b cs] d8 d
+  [d cs] cs [b6 a] b8 gs
+  [a b] cs fs, [a6 gs] fs es
+  fs4 r r
+  \dacapo
+}

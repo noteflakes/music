@@ -1,0 +1,14 @@
+\relative c' {
+  \repeat volta 2 {
+    \key a \major
+    \time 4/4
+    e4 e a [a8 gs]
+    [gs fs] [fs e] [e ds] b4\fermata
+    [d!8 cs] b4 e e
+    [e8 fs] e4 e2
+  }
+  a4 a [e8 fs] gs4
+  fs [e8 fs] [gs fs] gs4\fermata
+  [cs,8 d] e4 [e8 d6 cs] fs4
+  e e [e8 d] e4\fermata
+}

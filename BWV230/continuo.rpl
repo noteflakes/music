@@ -48,7 +48,7 @@
   a4 b8 c d e d c b4 g c8 d e4 ~
   e d8 c d2 c8 b c d e4 c
   f2 ~ f8 g f e d c d e fs4 d
-  g g, b d g b, c g'
+  g g, b d g b, d g
   b c8 b a g fs e fs4 b8 c d2 ~
   d4 e8 d c b a gs a4 a, a'2 ~
   a4. g!8 fs4. e8 d4 e8 fs g2 ~
@@ -98,7 +98,8 @@
   d'2 g4 b, c2 r4 d
   g, g'8 fs g4 g, a g a b
   c g c, c' d c d e
-  f c f2. e8 d e4 c g'2 g, c, r \bar "||"
+  f c f2. e8 d e4 c 
+  g'2 g, c, r \bar "||"
   \time 3/4
   R2.*4
   g''8 a b a g b

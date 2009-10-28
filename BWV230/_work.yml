@@ -1,0 +1,19 @@
+title: Motet BWV 230
+subtitle: "\"Lobet den Herrn, alle Heiden\""
+composer: Johann Sebastian Bach
+parts:
+  violino1:
+    source: soprano
+  violino2:
+    source: alto
+  viola:
+    source: tenore
+score:
+  order:
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - bracket: [soprano, alto, tenore, basso]

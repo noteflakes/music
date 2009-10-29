@@ -1,0 +1,166 @@
+\relative c {
+  \time 4/2
+  \key c \major
+  
+  R\breve*4
+  
+  
+  
+  r4 c e g c e, g c
+  e [f8 e] [d c] [b a] b4 [g'8 f] [e d c b]
+  c4 c d d g, [a8 b] c2 ~
+  c4 [bb8 a] bb2. [a8 g] a4 d
+  b! g g' f8 e d4 d2 g,4
+  g' e r2 r1
+  r4 (g, b) d (g [a8 g]) f4 e
+  d [a'8 g] [f e d cs] d4 a a d ~
+  d [c!8 d] [e d c b] c4 a f' e
+  f1 ~ f4 g, a e'
+  e c [e8 d c b] c4 [a8 b] [c d] e4
+  ds e ds e b2 r
+  r4 g b d g b, c g'
+  a [g8 f] e4 d e [g8 f] [e d] [c b]
+  c4 g c2. [b8 c] d4 d
+  d d r g2 f8 f f4 b,
+  c c ~ [c8 b c e] d4 d d [e8 f]
+  e4 [f8 g] [f e d c] d4 d [c8 b a g]
+  a4 d g, d' d d r2
+  R1*3*2
+  r1 r2 r4 d
+  [e8 f e d] [c d c b] a4 g8 a b4 [a8 b]
+  c4 [d8 e] f2. [g8 f] [e d] [c b]
+  c4 c r c f f,8 f c'4 c
+  c c r [g'8 f] [e d e g] [f e d c]
+  d4 d d d c c r g
+  [a8 \ficta bb a g] a4 a [b8 c] [b a] b4 b
+  [c8 d c bb] c4 c [d8 e] [d c] d4 [g8 f]
+  e4 f [g8 f] [e f] d4 d [d8 e d c]
+  [b c b a] g4 a8 b c4 c [c8 d c bb]
+  [a bb a g] f4 a d2 ~ [d8 c b a]
+  gs4 a2 gs4 e' c c2 ~
+  c4 [b8 c] d4 a b g r e'
+  d a [d8 c b a] b4 gs e e'
+  c d8 d b4 e c2 ~ [c8 e d c]
+  d4 g g g g b, r2
+  r4 c, e g c e, g c
+  e [f8 e] [d c] [b a] d4 r r ([e8 d]
+  c4) [d8 e] d2 g, r4 g
+  [a8 bb a g] [f e f g] a4 f d d'
+  d1 ~ d4. c8 [b a g fs]
+  e4 [e'8 d] [c b a gs] a4 gs8 a b4 b
+  e, e r2 r4 e' [e8 f e d]
+  [c d c b] a4 b8 c d4 d [d8 e d c]
+  [b c b a] g4 a g g'2 [fs8 e]
+  ds4 e c b b g e'2 ~
+  e4 d! e2 d4 [d8 e] f2 ~
+  f4 e d g c, c r2
+  r4 [g'8 f] [e d] [c b] a4 [a'8 g] [f e] [d c]
+  d4 [e8 f] g4 g e c r a'
+  d, g c,8 [d c b] a4 f g2 
+  g r4 e' e2 d
+  d1 d2 e
+  (e a,) a r
+  r f'4 e d b e d
+  c [b8 c] d4 c b gs (a b)
+  c2 (b4 a) b2 r4 e
+  (e d) (c b) a2 g4 f
+  g1 g2 a
+  a4 g a2 g r
+  r bb4 a g e a g
+  f [e8 f] g4 f e cs (d e)
+  f2 (e4 d) e2 r4 cs'
+  a2 a a1
+  a2 cs d4 cs d2 ~
+  d4 cs (d b) cs [d8 e] f4 e
+  d2 g,4 [a8 bb] c2 f,4 [g8 a]
+  bb2. [a8 g] a2. [g8 f]
+  g2. [f8 g] a4 g2 c4
+  c2. b4 c g ([c8 b]) c4
+  b2 g4 a (b g g') f8 g
+  (e4 d) (e c) b [c8 d] [e d c b]
+  a4 g a b c g c2 ~
+  c b (c4 b) (c d)
+  (e f) (e d) c (e4. d8) e4
+  c2. c8 d (e4 d) c f ~
+  f e f g2 [f8 e] d4 c
+  bb a g c2 bb4 a g
+  (a bb) (a g) f (f'4. g8) [f \ficta es]
+  d2 d4 g g c, r ([f8 e]
+  d4) d g, g a ([d8 c] d4) e
+  a, a a d cs [d8 e] a,2 ~
+  a4 [d8 cs] d4 e2 [a8 g] f4 cs
+  [d8 e cs e] [d e f d] [e g] ([f e]) d4 a
+  f f' g e d r r2
+  r1 r2 d
+  d\breve ~
+  d1. c2
+  (c4 b) r b (c b) (c d)
+  d2 c4 bb (a c) f g ~
+  g [f8 e] d4 d g2 r4 e
+  (d c) d2 c r \bar "||"
+  \time 3/4
+  R2.*3
+  ([c8 d e d]) ([c e])
+  d4 g, g' ~
+  g ([f8 e]) ([f d])
+  ([e f] g4) r
+  r ([b,8 c]) ([d b])
+  ([c b]) ([c d]) ([e c])
+  a4 [b8 c] d4
+  [c8 b] a4. g8
+  g4 r r
+  r a d ~
+  d [c8 b] [a c]
+  b4 ([e8 d]) ([c b])
+  a4 [b8 a] [g fs]
+  [e fs] fs4. g8
+  g4 r a ~
+  a d f
+  b, [a8 b c a]
+  [d c b d] [c b]
+  a4 r r
+  r b fs'
+  e2 b4
+  r e c 
+  b4. b8 b4
+  c b2
+  b4 r r
+  R2.*2
+  ([g8 a b a]) ([g b])
+  a4 d, d' ~
+  d [c8 b] [c a]
+  [b a b d cs e]
+  d4 a d ~
+  d ([c8 d] e4)
+  (e b) g
+  (c a) f'
+  gs, e' c
+  (f d) b
+  c e f
+  (d b) e
+  [a,8 b c b a c]
+  ([b c d c]) ([b d])
+  [c d e d c e]
+  [d c b d c b]
+  [a c b a b g]
+  ([g' f e f]) ([g e])
+  a4 d, r
+  ([c8 d e d]) ([c e])
+  [d c] b4 r
+  ([c8 bb a bb]) ([c d])
+  b!4 g e' ~
+  e [d8 c] d4 ~
+  d [c8 b] c4 ~
+  c8 d b4. c8
+  [c g a b c d]
+  ([e d c d]) ([e c])
+  d4 g r
+  ([c,8 b a b]) ([c a])
+  b4 e r
+  ([a,8 g f g]) ([a f])
+  g4 ([c8 b] c4)
+  f2. ~
+  f4 [e8 d] e4 ~
+  [e8 f] (d4. e8)
+  e2.\fermata
+}

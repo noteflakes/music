@@ -1,6 +1,7 @@
 title: Motet BWV 230
 subtitle: "\"Lobet den Herrn, alle Heiden\""
 composer: Johann Sebastian Bach
+midi_tempo: 96 2
 parts:
   violino1:
     source: soprano

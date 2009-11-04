@@ -1,4 +1,5 @@
-title: "Aria BWV 165/1 O Heiliges Geist- und Wasserbad"
+title: Aria BWV 165/1
+subtitle: "\"O Heiliges Geist- und Wasserbad\""
 composer: "Johann Sebastian Bach"
 score:
   order:
@@ -7,4 +8,9 @@ score:
     - viola
     - fagotto
     - soprano
+    - continuo
+vocal:
+  order:
+    - soprano
+    - [violino1, violino2, viola]
     - continuo

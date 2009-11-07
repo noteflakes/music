@@ -184,21 +184,31 @@ class Harvester
     set_receipts(get_receipts.merge(href => true))
   end
   
-  def self.process(entry)
-    work = entry['work']
-    if work =~ /^(.+)\//
-      work = $1.strip
-    end
-    if work =~ /\(BWV\)\s([\da-z]+)/
-      work = "BWV #{$1}"
-    end
-    href = entry['href']
-
-    if work =~ /BWV\s(\d+)(.*)/
-      work_dir = "BWV%04d%s" % [$1.to_i, $2]
+  def self.format_bwv_dir_name(bwv)
+    case bwv
+    when /^(\d+)(.*)$/
+      "BWV%04d%s" % [$1.to_i, $2]
+    when /^Anh/
+      "BWV#{bwv}"
     else
+      bwv
+    end
+  end
+  
+  def self.process(entry)
+    bwvs = entry.map {|i| i['BWV']}.uniq
+    if bwvs.size > 1
+      range = "%s to %s" % [format_bwv_dir_name(bwvs[0]), format_bwv_dir_name(bwvs[-1])]
+      work = range
+      work_dir = range
+      href = entry[0]['href']
+    else
+      entry = entry[0]
+      work = format_bwv_dir_name(entry['BWV'])
+      href = entry['href']
       work_dir = work
     end
+
     FileUtils.mkdir(work_dir) rescue nil
     Dir.chdir(work_dir) do
       unless already_processed?(href)
@@ -214,13 +224,18 @@ end
 trap('INT') {exit}
 trap('TERM') {exit}
 
-manuscripts = YAML.load(IO.read('manuscripts.yml'))
-manuscripts.each_with_index do |m, idx|
-  work = m['work']
-  if work =~ /^(.+)\//
-    work = $1.strip
-  end
-  puts "(#{idx}) processing #{work}: #{m['id']}"
+manuscripts = YAML.load(IO.read('manuscripts.yml')).inject({}) do |m, w|
+  href = w['href']
+  (m[href] ||= []) << w
+  m
+end
+
+idx = 1
+
+manuscripts.each do |h, m|
+  works = m.map {|i| Harvester.format_bwv_dir_name(i['BWV'])}.join(',')
+  puts "(#{idx}) processing #{works}: #{m.first['id']}"
   Harvester.process(m)
+  idx += 1
 end
 

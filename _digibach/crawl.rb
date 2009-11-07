@@ -17,9 +17,20 @@ work_range.each do |id|
     h = Hpricot(open(url))
     
     title = h.at('div.contentlinecontent table tr td').inner_html.
-      gsub(/\<.+$/m, "").gsub(/\n/, " ").gsub(/\s{2,}/, " ").strip
-    bwv = (title =~ /\(BWV\)\s+(\d+)/) ? $1 : ''
+      gsub(/\<br\s?\/?\>/m, " ").gsub(/\n/, " ").gsub(/\s{2,}/, " ").strip
+    bwv = ''
+    case title
+    when /\(BWV\)\s+(\d+[a-z]?)/
+      bwv = $1
+    when /\(BWV\)\s(Anh\.\s+\d+[a-z]?)/
+      bwv = $1
+    when /\(BC\)\s([A-Z]+\s(\w+))/
+      bwv = "BC #{$1}"
+    when /deest \((.+)\)/
+      bwv = $1
+    end
     puts title
+    puts bwv
     
     digital_refs = (h/'a').select {|a| a.inner_text =~ /Digitalisat/}
     

@@ -1,0 +1,14 @@
+--- 
+title: D LEb Go. S. 300
+hrefs: 
+- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=F7F80A373C8B5431C608477BF3CB9459?re_mcrid=BachDigitalSource_source_00003172&se_mcrid=BachDigitalSource_derivate_00000059&step=commit&todo=buildMetsMods
+  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-01.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-02.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-03.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-04.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-05.jpg
+    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-06.jpg
+url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00003172
+date: "1707"
+work: BWV0524
+owner: Bach Archiv Leipzig

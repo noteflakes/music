@@ -3,4 +3,4 @@ parts:
     after_include: continuo
   continuo:
     before_include: tenore
-end_bar: "||"
+end_bar: none

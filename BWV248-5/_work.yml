@@ -9,10 +9,34 @@ movements:
   08-terzetto:
     midi_tempo: 95 4
 parts:
+  continuo:
+    breaks: 
+      - 02-recitativo
+      - 05-aria
+      - 06-recitativo
+      - 08-terzetto
+  violino1:
+    breaks:
+      - 02-recitativo
+      - 08-terzetto
+      - 08-terzetto
+  violino2:
+    breaks:
+      - 08-terzetto
+  viola:
+    breaks:
+      - 08-terzetto
   oboe1: 
     title: "Oboe d'amore I"
+    breaks:
+      - 02-recitativo
   oboe2: 
     title: "Oboe d'amore II"
+    breaks:
+      - 02-recitativo
+      - 05-aria
+      - 05-aria
+      - 06-recitativo
 score:
   order:
     - oboe1

@@ -158,6 +158,7 @@
   d8 (cs4 b8)
   (fs' g) r4
   R2*7
+  \partOnly {{\pageBreak}}
   d8\f (cs4 b8)
   (fs' g4) b,8
   (as6 b cs d e8) d-.

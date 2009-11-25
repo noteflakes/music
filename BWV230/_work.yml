@@ -5,7 +5,11 @@ midi_tempo: 96 2
 parts:
   violino1:
     source: soprano
+  oboe1:
+    source: soprano
   violino2:
+    source: alto
+  oboe2:
     source: alto
   viola:
     source: tenore

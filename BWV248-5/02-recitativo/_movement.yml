@@ -1,1 +1,4 @@
 end_bar: none
+parts:
+  continuo:
+    before_include: tenore

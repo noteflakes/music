@@ -93,7 +93,7 @@
   g1 ~
   g4 c, f8 e f4
   e2 g ~
-  \segnobottom
+  \dalsegno \bar "||"
   g4 f8 e f2 ~
   f4 f8 e f2 ~
   f4 e8 d e4 c'

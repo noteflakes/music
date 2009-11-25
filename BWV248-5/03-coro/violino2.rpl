@@ -2,18 +2,41 @@
   \key b \minor
   \time 4/4
 
-  r2 r4 b'
+  \partOnly {{
+    \partial 8
+    \tempo "attacca"
+
+    <<
+      {
+        \voiceOne
+        { \set fontSize = #-3
+        b'8^"tenore" \bar "||" b8 fs r4}
+      }
+      \new Voice {
+        \voiceTwo
+        r8 r2
+      }
+    >> \oneVoice
+  
+    \set fontSize = #0
+      r4 b
+  }}
+  
+  \scoreOnly {{ 
+    r2 r4 b'
+  }}
+  
   r cs r8 b d b
   b g fs b6 a b8 g e'4
   r8 a, cs a a fs e fs6 g
   a8 fs d'4 r8 b a c \bar "||"
   \tempo "Recitativo"
-  b2 ~ b2\p^"Oboe II tacet" ~
+  b2 ~ b2\p ~
   b2 c
   a4 r r (c8 b) \bar "||" 
   \tempo "Coro"
   \appoggiatura a8 g4 r r2
-  r8 fs\f^"Oboe II col violino II" fs g a a a b
+  r8 fs\f fs g a a a b
   cs cs cs ds e b a g
   fs a a b e, a a a 
   g g gs as b fs fs gs
@@ -22,7 +45,7 @@
   fs4. e8 (d e) (fs e)
   e4 e8 e fs g a g6 fs
   b2 ~ b8 as b d ~
-  d8 (cs6 b) (cs as) b8 as4 cs\p^"Oboe II tacet" ~ \bar "||"
+  d8 (cs6 b) (cs as) b8 as4 cs\p ~ \bar "||"
   \tempo "Recitativo"
   cs1
   b2. a4

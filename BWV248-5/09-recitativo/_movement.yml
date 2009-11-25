@@ -3,4 +3,4 @@ parts:
     before_include: [oboe1, oboe2]
     after_include: continuo
   continuo:
-    before_include: [oboe1, oboe2, alto]
+    before_include: alto

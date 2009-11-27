@@ -1,0 +1,50 @@
+\relative c' {
+  \key b \minor
+  \time 4/4
+
+  \partOnly {{
+    \partial 8
+    \tempo "attacca"
+
+    <<
+      {
+        \voiceOne
+        { \set fontSize = #-3
+        b'8^"tenore" \bar "||" b8 fs r4}
+      }
+      \new Voice {
+        \voiceTwo
+        r8 r2
+      }
+    >> \oneVoice
+  
+    \set fontSize = #0
+      r4 b
+  }}
+  
+  \scoreOnly {{ 
+    r2 r4 b'
+  }}
+  
+  r cs r8 b d b
+  b g fs b6 a b8 g e'4
+  r8 a, cs a a fs e fs6 g
+  a8 fs d'4 r8 b a c \bar "||"
+  \tempo "Recitativo"
+  b2 r
+  R1*2 \bar "||" 
+  \tempo "Coro"
+  R1
+  r8 fs\f fs g a a a b
+  cs cs cs ds e b a g
+  fs a a b e, a a a 
+  g g gs as b fs fs gs
+  a! a g! fs g b4 as8
+  b a! gs4\trill a8 fs a gs
+  fs4. e8 (d e) (fs e)
+  e4 e8 e fs g a g6 fs
+  b2 ~ b8 as b d ~
+  d8 (cs6 b) (cs as) b8 as4 r \bar "||"
+  \tempo "Recitativo"
+  R1*10
+}

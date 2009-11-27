@@ -93,7 +93,7 @@
   r (c g' g)
   r f8 e f4 d
   e (e, e e)
-  \segnobottom
+  \dalsegno \bar "||"
   r (c c c)
   r (g' g g)
   r (c c c)

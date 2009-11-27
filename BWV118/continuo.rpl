@@ -93,7 +93,7 @@
   (e e c c)
   (f f f, f)
   (c' c c c)
-  \segnobottom
+  \dalsegno \bar "||"
   (c c c c)
   (c c c c)
   c2. d8 e

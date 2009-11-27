@@ -33,8 +33,6 @@ parts:
   oboe2: 
     title: "Oboe d'amore II"
     breaks:
-      - 02-recitativo
-      - 05-aria
       - 05-aria
       - 06-recitativo
 score:

@@ -1,10 +1,6 @@
 end_bar: ||
 midi_tempo: 80 4
 parts:
-  oboe1:
-    source: violino1
-  oboe2:
-    source: violino2
   violino1:
     title: "violino I, oboe I"
   violino2:

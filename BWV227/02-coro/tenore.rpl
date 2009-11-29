@@ -1,0 +1,93 @@
+\relative c' {
+  \time 3/2
+  \key e \minor
+  
+  b2 b c
+  b r r
+  b\p r r
+  r (c4\f b) (a g)
+  fs2. fs4 fs b
+  b ds (e c) (b a)
+  g2 g ([a8 b]) c4
+  fs,2 r r
+  
+  b2\p b c
+  b r r
+  b\pp r r
+  r (c4\p b) (a g)
+  fs2. fs4 fs b
+  b ds (e c) (b a)
+  g2 g ([a8 b]) c4
+  fs,2 r r
+
+  b4\f b b b b c
+  d gs,2 a b4
+  c d c b a g!
+  fs a g fs g a
+  b [cs8 ds] e4 d cs b
+  as fs fs' e d cs
+  b [d8 cs] b4 a! gs fs 
+  e gs b e2 e,4
+  a b2 c4 cs ds
+  e, fs g a b cs
+  ds e fs a g fs
+  e2 cs r
+  fs,4 fs fs fs gs as
+  b1. ~
+  b4 e, e' fs g2
+  fs2. e4 d cs
+  b2 fs' r
+  r b, fs
+  (b e4 d) cs2
+  d1 r2
+
+  d d e
+  d r r
+  fs\p r r
+  r b,\f (cs4 d)
+  e2. e4 cs cs
+  b2. as4 b cs
+  fs, b (b as) b2
+  fs'2 r r
+  
+  fs\p d e
+  d r r
+  fs\pp r r
+  r b,\p (cs4 d)
+  e2. e4 cs cs
+  b2. as4 b cs
+  fs, b (b as) b2
+  fs'2 r r
+
+  R1.*2
+  r4 gs, b a b gs
+  a2 b4 c d b
+  e2. d4 c b
+  a2. g4 a fs
+  b2. c4 b a
+  g2 r r4 b
+  c d c a d b
+  c2 r r4 d
+  c b a b c2 ~
+  c4 b b2 b
+  b r b
+  c b4 a g fs
+  e e' d c b a
+  gs d' c b a gs
+  a2. b4 c2 ~
+  c4 [b8 a] b1\mordent
+  e,2 r r
+  e'4 a, a a b cs
+  d gs,2 a b4
+  c e2 d c4
+  b a gs2 (a4 b)
+  c fs, (fs' [e8 ds] e4) a,
+  g fs g a g fs
+  e1. ~
+  e4 [a8 b] c4 b a g
+  fs [e8 ds] [e fs g a] [b c a b]
+  [c b] c4 b2 r
+  r b e
+  (a, fs) b
+  b1.\fermata
+}

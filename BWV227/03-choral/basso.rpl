@@ -1,0 +1,26 @@
+\relative c {
+  \time 4/4
+  \key e \minor
+  
+  e2 ~ e8 ds e c
+  (a4 b) e2\fermata
+  g2 ~ g8 fs g e
+  c2 b\fermata
+  [g'8 c] [b a] b4 b,
+  e1\fermata
+
+  e2 ~ e8 ds e c
+  (a4 b) e2\fermata
+  g2 ~ g8 fs g e
+  c2 b\fermata
+  [g'8 c] [b a] b4 b,
+  e1\fermata
+  
+  e2 ~ e8 fs g e
+  [c a] d4 g,2\fermata
+  g'2 ~ g8 fs g e
+  [cs as'] [b g] (e4 fs)
+  b,2\fermata e ~
+  e8 ds e c (a4 b)
+  e1\fermata
+}

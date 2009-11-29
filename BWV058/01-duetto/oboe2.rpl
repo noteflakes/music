@@ -1,0 +1,44 @@
+\relative c' {
+  \key c \major
+  \time 3/4
+  \tempo "Adagio"
+  r4 (c'8. b6) (c8. d6)
+  \segno
+  a4 r8 d (d8. g,6)
+  g4 r8 a (d8. b6)
+  c4 ~ c8. b6 (a8. b6)
+  c4 g2 ~
+  g4 fs f ~
+  f8. d6 (e8. g6) (fs8. a6)
+  (g8. a6) fs4.\trill g8
+  (g8. a6) bb4. bb8
+  (a8. b6) cs4. d8
+  (bb8. a6) (g8. g'6) (cs,8. e6)
+  (a,8. bb6) a4. a8
+  a4 r8. a6 (d8. c6)
+  (b8. a6) (g8. c,6) (c'8. bb6)
+  a4 ab (g8. b!6)
+  (c8. d6) (c4 b8.\trill) g6
+  g4\fermata r2
+  R2.*24
+  r4 (g8.\f fs6) (g8. a6)
+  e4 r8 a (a8. d,6)
+  d4 r8 e (a8. fs6)
+  g4 ~ g8. fs6 (e8. fs6)
+  g4 r8 d (e8. fs6)
+  g4 r8 e (fs8. g6)
+  a4 r8 d, (g8. e6)
+  (fs8. g6) e4.\trill d8
+  (d8. c'6) (b8. c6) (a8. b6)
+  (gs8. a6) b4. a8
+  (d8. e6) f4. e8
+  (e8. a,6) gs4.\trill a8
+  a4 r8. e6 (a8. g6)
+  (fs8. e6) (d8. g,6) (g'8. f6)
+  e4 eb (d8. fs6)
+  (g8. a6) (g4 fs8.\trill) d6
+  d4 r2
+  R2.*28
+  r4 (c'8.\f b6) (c8. d6)
+  \dalsegno
+}

@@ -1,0 +1,55 @@
+\relative c' {
+  \key c \major
+  \time 2/4
+  
+  c4 c
+  e4. e6 f
+  g8 b c a
+  g fs g d
+  e r g r 
+  c r a r
+  a r d, r
+  b r d r
+  a' a a a
+  a a a a
+  a a a a
+  a a c c
+  b d e d
+  d r r c
+  b d b\trill a6 g
+  g4 r
+  R2*8
+  r8 fs\f fs fs
+  a a a a
+  a g e' d
+  d r r c 
+  b d b\trill a6 g
+  g4 r
+  R2*28
+  a8\f r e' r 
+  c r a r
+  d, r a' r
+  fs r r c'
+  d b e d6 c
+  b8 c a fs
+  g d' b\trill a6 g
+  g4 r
+  R2*26
+  c,4\f c
+  e4. f6 g
+  a bb c d c8 a
+  g f g bb
+  a r c r
+  f r d r
+  d r g, r
+  e r g r
+  d' d d d
+  d d d d
+  d d d d
+  d d d d
+  c g g g
+  e f6 g a b c d
+  g,8 c c b
+  g2\fermata
+  
+}

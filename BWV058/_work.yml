@@ -13,10 +13,11 @@ parts:
   oboe1:
     breaks: 
       - 05-duetto
+  oboe2:
+    breaks: 
+      - 05-duetto
 score:
   order:
-    - oboe1
-    - oboe2
     - violino1
     - violino2
     - violino

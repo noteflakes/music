@@ -20,7 +20,7 @@
   f4 e eb ~
   eb8. c6 (d8. f6) (b,8. d6)
   (g8. f6) (e4 d8.\trill) c6
-  c4\fermata (e,8.\p^"oboe I tacet" d6) (e8. f6)
+  c4\fermata (e,8.\p\scoreOnly{{^"oboe I tacet"}} d6) (e8. f6)
   g4 (g'8. f6) g4 ~
   g (f8. d6) (e8. c6)
   (a8. b6) (c8. e6) (d8. e6)
@@ -45,7 +45,7 @@
   g4 ~ (g8. fs6) (g8. a6)
   fs8. d6 (g8. a6) (bb8. c6)
   (bb8. g6) (eb8. d6) (c8. a'6)
-  b,8. a6 (b8.\f^"oboe I col violino I" a6) (b8. c6)
+  b,8. a6 (b8.\f\scoreOnly{{^"oboe I col violino I"}} a6) (b8. c6)
   a4 r8 a d8. d6
   g,4 r8 g c8. c6
   (c8. b6) (a8. b6) (c8. d6)
@@ -61,7 +61,7 @@
   c4 b bb ~
   bb8. g6 (a8. c6) (fs,8. a6)
   (d8. c6) (b4 a8.\trill) g6
-  g4 b\p^"oboe I tacet" d ~
+  g4 b\p\scoreOnly{{^"oboe I tacet"}} d ~
   d8. b6 gs4. a8
   a4 b cs
   (d8. b6) (c8. d6) (b8. a6)
@@ -90,6 +90,6 @@
   f e eb ~
   eb8. c6 (d8. f6) (b,8. d6)
   (g8. c,6) (c4 b8.\trill) c6
-  c4 (e8.\f^"oboe I col violino I" d6) (e8. f6)
+  c4 (e8.\f\scoreOnly{{^"oboe I col violino I"}} d6) (e8. f6)
   \dalsegno
 }

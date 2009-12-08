@@ -8,7 +8,7 @@
   a8 a, r a' fs fs a fs
   d d d e6 fs g8 g, r c' \bar "||"
   \tempo "Recitativo"
-  ds,2 ~ d4\p b
+  ds,2 ~ ds4\p b
   e2 a,
   c r4 b \bar "||" \grace s8 % Lilypond hack
   \tempo "Coro"

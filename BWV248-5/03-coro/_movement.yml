@@ -4,7 +4,7 @@ parts:
     before_include: continuo_alto_aux
   continuo_alto_aux:
     auto_beam: false
-    title: Alto
+    title: ""
     no_part: true
 score:
   order:

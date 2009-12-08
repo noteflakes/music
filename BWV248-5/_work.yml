@@ -11,8 +11,7 @@ movements:
 parts:
   continuo:
     breaks: 
-      - 02-recitativo
-      - 05-aria
+      - 04-choral
       - 06-recitativo
       - 08-terzetto
   violino1:

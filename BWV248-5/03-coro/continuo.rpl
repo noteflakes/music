@@ -2,7 +2,31 @@
   \key b \minor
   \time 4/4
 
-  r4 fs b, r
+  \partOnly {{
+    \tempo "attacca"
+
+    <<
+      {
+        \voiceOne
+        { \set fontSize = #-2
+        \clef "treble_8"
+        b'8^"tenore" fs}
+      }
+      \new Voice {
+        \voiceTwo
+        r4
+      }
+    >> \oneVoice
+  
+    \set fontSize = #0
+    \clef bass fs4 b, r
+  }}
+  
+  \scoreOnly {{ 
+    r4 fs b, r
+  }}
+  
+
   as4 r8 fs b4 r8 b'
   g g b g e e e fs6 g
   a8 a, r a' fs fs a fs

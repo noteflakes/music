@@ -33,7 +33,7 @@
   fs r b r b, r
   [e ds6 e] [fs8 e6 fs] [gs8 fs6 gs]
   [a8 gs6 a] [b8 a6 b] [cs8 b6 cs]
-  [ds8 b] [e gs,6 a b8] b,
+  ds8 b [e gs,6 a b8] b,
   e4 r r
   R2.*3
   r4 r8 [e6 fs e8] d

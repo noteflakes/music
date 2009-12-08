@@ -2,13 +2,14 @@
   \key b \minor
   \time 4/4
   
-  R1
+  \clef "treble_8"
+  b8 fs r4 r2
   R1
   R1
   R1
   R1 \bar "||"
   \tempo "Recitativo"
-  r2 b'8^"Solo" fs6 g a8 g
+  r2 \clef treble b'8^"Alto solo" fs6 g a8 g
   g4 r8 e c' c r4
   ds,8 r6 fs a8 g e4 r4 \bar "||" \grace s8 % Lilypond hack
   \tempo "Coro"

@@ -7,6 +7,7 @@ parts:
     title: "Violino I, II"
 midi_tempo: 50 2
 score:
+  staff_size: 12
   order:
     - oboe1
     - oboe2

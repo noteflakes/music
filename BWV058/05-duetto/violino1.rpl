@@ -17,7 +17,7 @@
   d8 g a, fs'
   g fs6 e d c b a
   b8 g d fs
-  g4 ~ g6 a\p\scoreOnly{{^"oboe I tacet"}} g f
+  g4 ~ g6 a\p{{^"oboe I tacet"}} g f
   e-. (c b c) g-. (c b c)
   e-. (c b c) c' bb a g
   a-. (f e f) c-. (f e f)
@@ -26,13 +26,13 @@
   a-. (fs e fs) d' c b a
   g-. (d c d) b-. (d c d)
   e-. (c b c) a' g fs e
-  fs-. (a\f\scoreOnly{{^"oboe I col violino I"}} g a) d,-. (a' g a)
+  fs-. (a\f{{^"oboe I col violino I"}} g a) d,-. (a' g a)
   c-. (e d e) a g fs e
   d8 g a, fs'
   g fs6 e d c b a
   b8 g d fs 
   g4 r
-  c,\p\scoreOnly{{^"oboe I tacet"}} e
+  c,\p{{^"oboe I tacet"}} e
   g4. a6 b
   c d e f g8 c,
   b a g4
@@ -59,7 +59,7 @@
   d,8 (g'6 fs) (e d c b)
   (a g fs e) (d c b a)
   g8 r r4
-  r6 d'\f\scoreOnly{{^"oboe I col violino I"}} e fs g a b g
+  r6 d'\f{{^"oboe I col violino I"}} e fs g a b g
   c-. (a g a) e-. (a g a)
   c-. (a g a) e' d c b
   c-. (a g a) d,-. (a' g a)
@@ -68,7 +68,7 @@
   g fs6 e d c b a
   b8 g d fs
   g4 r
-  c,\p\scoreOnly{{^"oboe I tacet"}} e
+  c,\p{{^"oboe I tacet"}} e
   g ~ g6 e f g
   a bb c d c (f g f)
   e f g a (bb a g) a
@@ -94,7 +94,7 @@
   a4 ~ a6 d, e f
   (g a b c) (d c b a)
   (g f e d) c8 r
-  f,4\f\scoreOnly{{^"oboe I col violino I"}} a
+  f,4\f{{^"oboe I col violino I"}} a
   c4. d6 e
   f g a bb c8 f,
   e\trill d c4

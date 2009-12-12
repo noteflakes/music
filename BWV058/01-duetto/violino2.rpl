@@ -19,7 +19,7 @@
   (b8. a6) (g8. c,6) (c'8. bb6)
   a4 ab (g8. b!6)
   (c8. d6) (c4 b8.\trill) g6
-  g4\fermata (c,8.\p\scoreOnly{{^"oboe II tacet"}} b6) (c8. d6)
+  g4\fermata (c,8.\p{{^"oboe II tacet"}} b6) (c8. d6)
   e4 (e'8. d6) c4 ~
   c4 (d8. b6) g4
   r8. fs6 (g8. a6) (b8. g6)
@@ -44,7 +44,7 @@
   e' ~ (e8. d6) (e8. \ficta fs6)
   d4 r r
   R2.
-  r4 (g,8.\f\scoreOnly{{^"oboe II col violino II"}} fs6) (g8. a6)
+  r4 (g,8.\f{{^"oboe II col violino II"}} fs6) (g8. a6)
   e4 r8 a (a8. d,6)
   d4 r8 e (a8. fs6)
   g4 ~ g8. fs6 (e8. fs6)
@@ -60,7 +60,7 @@
   (fs8. e6) (d8. g,6) (g'8. f6)
   e4 eb (d8. fs6)
   (g8. a6) (g4 fs8.\trill) d6
-  d4 r8. e6\p\scoreOnly{{^"oboe II tacet"}} (d8. c6)
+  d4 r8. e6\p{{^"oboe II tacet"}} (d8. c6)
   b4 b' e, ~
   (e8. g6) (f8. e6) (a8. g6)
   (f8. d6) (a8. a'6) (b8. c6)
@@ -87,6 +87,6 @@
   (a8. e6) (f8. a6) (g8. a6)
   (b8. d6) c4 r
   R2.*2
-  r4 (c8.\f\scoreOnly{{^"oboe II col violino II"}} b6) (c8. d6)
+  r4 (c8.\f{{^"oboe II col violino II"}} b6) (c8. d6)
   \dalsegno
 }

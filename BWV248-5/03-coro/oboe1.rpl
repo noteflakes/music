@@ -2,7 +2,7 @@
   \key b \minor
   \time 4/4
 
-  \partOnly {{
+  [[
     \partial 8
     \tempo "attacca"
     <<
@@ -19,9 +19,9 @@
   
     \set fontSize = #0
       r4 d'
-  }}
+  ]]
   
-  \scoreOnly {{ 
+  {{ 
     r2 r4 d'
   }}
   

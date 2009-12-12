@@ -11,7 +11,7 @@
   g,1\fermata
   \bar "||" \tempo "Andante"
 
-  \midiOnly {{\tempo 4 = 90}}
+  m{{\tempo 4 = 90}}
 
   r4 g'8. a6 bb4 g
   c, eb d4. d8
@@ -20,7 +20,7 @@
   fs fs g g d4 d,\fermata
   \bar "||" \tempo "Allegro"
 
-  \midiOnly {{\tempo 4 = 128}}
+  m{{\tempo 4 = 128}}
 
   g8 g' bb g c c, d' d,
   g, g' c bb a f bb a

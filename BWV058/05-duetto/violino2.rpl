@@ -19,13 +19,13 @@
   b d b\trill a6 g
   g4 r
   R2*8
-  r8 fs\f\scoreOnly{{^"oboe II col violino II"}} fs fs
+  r8 fs\f{{^"oboe II col violino II"}} fs fs
   a a a a
   a g e' d
   d r r c 
   b d b\trill a6 g
   g4 r
-  g,\p\scoreOnly{{^"oboe II tacet"}} c
+  g,\p{{^"oboe II tacet"}} c
   e4. e6 f
   g8 b c a
   g fs g d
@@ -53,7 +53,7 @@
   e r r fs
   g r r4
   R2
-  a8\f\scoreOnly{{^"oboe II col violino II"}} r e' r 
+  a8\f{{^"oboe II col violino II"}} r e' r 
   c r a r
   d, r a' r
   fs r r c'
@@ -61,7 +61,7 @@
   b8 c a fs
   g d' b\trill a6 g
   g4 r
-  g,\p\scoreOnly{{^"oboe II tacet"}} c 
+  g,\p{{^"oboe II tacet"}} c 
   e r
   R2*7
   e4\p b'
@@ -80,7 +80,7 @@
   g4 c
   d r
   R2*2
-  c,4\f\scoreOnly{{^"oboe II col violino II"}} c
+  c,4\f{{^"oboe II col violino II"}} c
   e4. f6 g
   a bb c d c8 a
   g f g bb

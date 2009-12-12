@@ -2,7 +2,7 @@
   \key b \minor
   \time 4/4
 
-  \partOnly {{
+  [[
     \partial 8
     \tempo "attacca"
 
@@ -20,16 +20,16 @@
   
     \set fontSize = #0
     r4 fs'
-  }}
+  ]]
   
-  \scoreOnly {{ 
+  {{ 
     r2 r4 fs
   }}
   
   r fs r8 fs b fs
   g e ds e6 fs g8 e g4
   r8 e a e fs d cs d6 e
-  fs8 d fs4 r8 d e e \bar "||"  \partOnly {{\break}}
+  fs8 d fs4 r8 d e e \bar "||"  [[\break]]
   \tempo "Recitativo"
   fs2 ~ fs2\p
   g e

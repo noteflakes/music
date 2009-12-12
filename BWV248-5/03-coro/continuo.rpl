@@ -22,7 +22,7 @@
     \clef bass fs4 b, r
   }}
   
-  \scoreOnly {{ 
+  {{ 
     r4 fs b, r
   }}
   
@@ -59,3 +59,7 @@
   gs4 fs es fs
   d d' cs2
 }
+
+\partOnly {{
+  \addlyrics { \override LyricText #'font-size = #-2 spra- chen }
+}}

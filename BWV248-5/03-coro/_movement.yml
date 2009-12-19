@@ -1,4 +1,9 @@
 midi_tempo: 90 4
+parts:
+  violino1:
+    title: "violino I, oboe I"
+  violino2:
+    title: "violino II, oboe II"
 score:
   order:
     - violino1

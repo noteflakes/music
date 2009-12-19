@@ -2,7 +2,7 @@
   \key b \minor
   \time 4/4
 
-  \partOnly {{
+  [[
     \tempo "attacca"
 
     <<
@@ -20,7 +20,7 @@
   
     \set fontSize = #0
     \clef bass fs4 b, r
-  }}
+  ]]
   
   {{ 
     r4 fs b, r
@@ -60,6 +60,6 @@
   d d' cs2
 }
 
-\partOnly {{
+[[
   \addlyrics { \override LyricText #'font-size = #-2 spra- chen }
-}}
+]]

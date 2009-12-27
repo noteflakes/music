@@ -9,7 +9,7 @@
 		\fill-line { "Copyright © 2009 Sharon Rosner. All rights reserved." }
 	}
 	
-	tagline = "Engraved using Lilypond."
+	tagline = ""
 }
 
 \paper {

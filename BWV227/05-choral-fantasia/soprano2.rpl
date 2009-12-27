@@ -1,0 +1,69 @@
+\relative c' {
+  \time 3/4
+  \key e \minor
+
+  b'4 r r
+  a r8 b g4.
+  fs8 (e4 ds)
+  e e8 fs g e 
+  b' b, fs'4 r
+  a r8 b c4.
+  fs,8 (b4 a)
+  b4 b8 cs ds b
+  e e, g4 r8 b
+  c4 b2
+  b4 b r8 b\p
+  ([b8 a]) c4\f r8 a\p
+  ([a g]) a4\f r8 fs\p
+  ([fs e]) e\f a g4 ~
+  g4 fs2
+  g4 b8 gs r4
+  r a8 e r4
+  r g8 e b'4 
+  r8 e (e4 ds)
+  e4 e,8 fs g e
+  b' b, fs'4 r
+  a2 a4
+  r8 b b2
+  b4 b8 cs ds b
+  e e, e'4 d!
+  c b2
+  a4 b [e8 d]
+  (c4 b) a
+  g gs\p r8 b
+  b a a2 ~
+  [a8 g] g4 r8 g
+  g fs fs2 ~
+  fs4 e8\f fs g4 ~
+  [g8 fs] e4 ds
+  e2. ~
+  e ~
+  e4 [gs8 a] [b gs]
+  a4 a2 ~
+  a4 [fs8 g] [a fs]
+  g2. ~ 
+  g4 a b
+  c c2
+  (b4 [a8 g]) fs4
+  g g r8 a
+  a4 d, r
+  r a' r8 b
+  b4 e, r
+  r cs' b
+  as b r8 d,\p
+  d4 cs r
+  r cs'\f [b8 a]
+  g4 fs as
+  r8 b\p (b4 as)
+  b r r
+  r b\f r8 gs
+  a4 r a ~
+  a [g8 fs g fs]
+  [e g fs e] fs4 ~
+  fs e2 ~
+  e4 fs cs
+  b4. ds8 e4
+  r8 e (e4 ds)
+  e2.\fermata
+  \bar "||" \time 4/4
+}

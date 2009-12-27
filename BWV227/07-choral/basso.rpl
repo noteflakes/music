@@ -22,5 +22,5 @@
   [gs as b g] ([e es] fs4)
   b,2 r8 e g e
   c' r r b [a fs] [b a]
-  ([gs e a a,]) e2\fermata
+  ([gs e a a,]) e'2\fermata
 }

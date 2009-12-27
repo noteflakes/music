@@ -1,0 +1,29 @@
+\relative c {
+  \time 12/8
+  \key c \major
+  \tempo "Andante"
+
+  c4. c' ~ c4 b8 a4 d,8
+  g4 g,8 a4 b8 [c d] e [f e] f
+  [e f] g c,4. ~ c4 b8 a4 d8
+  g,4 r8 r r f' e4 d8 cs4 cs8
+  d4. ~ d4 c'8 (b4 a8) gs4.
+  a ~ a4 g!8 fs4 e8 ds4 ds8
+  (e4 d!8) cs4 a8 [d e] f! g a b
+  c4 bb8 a4 g8 fs2. ~
+  fs4 r8 r fs d g4 c,8 d4.
+  g,4 r8 r r g' [a6 g a b g a] [b a b c a b]
+  c8 c bb [a g] f [bb6 a] g4 [c6 bb] a4
+  d8 d, d' [bb g] bb c c, c' a f a
+  bb4. ~ [bb8 g] e cs4. ~ [cs6 b! cs d b cs]
+  d8 bb' g (a4 a,8) d4 c!8 b!4 g8
+  c b c d4. g,4 r8 r4.
+  r r r8 r c [g'6 a g f e d]
+  c8 f e [d g] f [e6 d e f d e] [f e f g e f]
+  [d c d e c d] [bb a bb c a bb g8] g' f [e6 d e f d e]
+  [f e f g e f d8] d' c [b6 a b c a b] [g f g a g a]
+  [g f g a g a] [g f g a f g e8] d c (g'4 g,8)
+  c4 c'8 [b a] gs a2. ~
+  [a8 d6 c b a] [gs a gs fs gs e] a8 c a f4.\trill
+  e r4 r8 r2.
+}

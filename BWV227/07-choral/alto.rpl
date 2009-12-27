@@ -1,0 +1,26 @@
+\relative c' {
+  \time 4/4
+  \key e \minor
+ 
+  r8 g' b g (g fs4) e8
+  ([e ds6 cs] ds4) e8 ds e fs
+  ([g6 fs]) g8 r e a4. [g6 fs]
+  g8 [a6 b] a4\trill b r8 (c
+  [b a]) [g b] [c a] fs4
+  b8 ([gs8 e]) a gs2
+  
+  r8 g! b g (g fs4) e8
+  ([e ds6 cs] ds4) e8 ds e fs
+  ([g6 fs]) g8 r e a4. [g6 fs]
+  g8 [a6 b] a4\trill b r8 (c
+  [b a]) [g b] [c a] fs4
+  b8 ([gs8 e]) a gs2
+  
+  ([g!8 a]) ([a g]) ([g8 a]) ([a g])
+  g4 fs g8 ([d e]) fs
+  g d g4 r8 (a4 [g6 fs]
+  e8) g fs b (b4 as)
+  b8 fs b a! g2 ~
+  g8 fs4 e8 [e d6 cs] d4 ~
+  [d8 e6 d] [c! b c8] b2\fermata
+}

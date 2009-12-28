@@ -1,0 +1,111 @@
+\relative c' {
+  \time 2/4
+  \key a \minor
+
+  c'4. c8
+  ([c b]) r4
+  a4.^"(piano)" a8
+  ([a gs]) r4
+  e'4.^"(forte)" e8
+  ([e d]) r4
+  f,4. f8
+  f e b'4 ~
+  [b8 a b cs]
+  [d e] f4 ~
+  [f8 e] ([e d])
+  [cs d] e4 
+  [e8 d] r4
+  [b8 c] d4
+  [d8 c] c4.
+    b8 b4.
+    gs8 a4 ~
+  (a gs)
+  a e'4.
+    d8 c b
+  (a4. [b6 c]
+  b4) e,
+  f4 [e8 d]
+  e ([c' d]) e
+  f2 ~
+  [f8 d] [g f]
+  e2 ~
+  [e8 f6 g] [f e d c]
+  d2 ~
+  d8 f e d
+  ([c b] a4 ~
+  a4.) gs8
+  a4 e' ~
+  e d
+  d c
+  b r
+  c4. c8
+  ([c b]) r4
+  e4. e8
+  ([e d]) r4
+  f,4. f8
+  f e b'4 ~
+  [b8 a b cs]
+  [d e] f4 ~
+  [f8 e] ([e d])
+  [cs d] e4
+  [e8 d] r4
+  [b8 c] d4
+  [d8 c] c4.
+    b8 b4.
+    gs8 a4 ~
+  (a4 gs)
+  a e'4.
+    d8 c b
+  (a4. [b6 c]
+  b4) e,
+  f [e8 d]
+  e ([c' d]) e
+  f2 ~
+  f8 d g f
+  e2 ~
+  [e8 f6 g] [f e] [d c]
+  d2 ~
+  [d8 f] [e d]
+  c b a4 ~
+  a4. gs8
+  a4 e'
+  e d
+  ([d8 cs]) r4
+  e4. e8
+  [e d] r4
+  f,4. f8
+  (f e4.)
+  r8 gs a b
+  c cs4 cs8
+  d r c!4 ~
+  c4. b8
+  c ([bb a6 g]) a8
+  g e' f d
+  e ([c d]) b
+  c4 r
+  R2
+  r8 b4 cs8
+  d a d d
+  [d c6 b] [c8 b]
+  b e4 d8
+  c d c b
+  a fs ds8. ds6
+  e8 e'4 fs8
+  g d g g
+  [g f!6 e] [d c b a]
+  [e' d e f] [e d c d]
+  [b a b c] [b a gs fs]
+  [e d c d] [e g! f! e]
+  d2 ~
+  d8 c r4
+  a'4. a8
+  ([a gs]) r4
+  g!4. g8
+  ([g f]) r4
+  f4. f8
+  ([f e]) r4
+  d'4. e8
+  c4 r8 f
+  (c4 b)
+  a2\fermata
+}

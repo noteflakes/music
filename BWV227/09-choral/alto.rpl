@@ -1,0 +1,53 @@
+\relative c' {
+  \time 2/4
+  \key a \minor
+  
+  R2*8
+  e4 e
+  d c
+  b2
+  a
+  R2*6
+  e'4 e
+  fs gs
+  a2 
+  gs
+  R2*8
+  [a8 b] c4
+  [b8 a] b4
+  a2 ~
+  a
+  R2*8
+  e4 e
+  d c
+  b2
+  a
+  R2*6
+  e'4 e
+  fs gs
+  a2 
+  gs
+  R2*8
+  [a8 b] c4
+  [b8 a] b4
+  a2 ~
+  a
+  R2*6
+  e4 e
+  f e
+  [d8 c] d4
+  c2
+  R2*6
+  e4 fs
+  g e
+  a g
+  fs2
+  e
+  R2*6
+  e4 e
+  d c
+  b2
+  a ~
+  a
+  R2*6
+}

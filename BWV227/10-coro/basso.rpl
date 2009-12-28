@@ -1,0 +1,44 @@
+\relative c {
+  \time 3/2
+  \key e \minor
+  
+  e2 g fs
+  g r r
+  gs r r
+  a, a'4 g fs e
+  ds2. ds4 ds b
+  e2. fs4 g fs
+  (g e) c1
+  b2 r r
+
+  g'2. b4 a c
+  (b a) (g a) b cs
+  d c! (b c b) a
+  gs2. gs4 gs e
+  a2. a4 a2
+  g4 a (g fs) g fs
+  (e fs) g e (as fs)
+  (b e,) fs1
+  b,2 r r
+  
+  r b' a
+  gs e e'4 e,
+  (a b) (a g!) (fs e)
+  ds b b' a g fs
+  e2 e r
+  R1.*5
+  b4 b b b cs ds
+  e (as,2 b) cs4
+  d1. ~
+  d4 [cs8 b] cs4 d e fs
+  g1. ~
+  g4 [fs8 e] fs4 g a b
+  c fs,2 g a4
+  b e,2 fs g4
+  a g a2 r
+  r gs4 fs gs e
+  a a, a'2 r
+  r r as
+  b b,1
+  e1.\fermata
+}

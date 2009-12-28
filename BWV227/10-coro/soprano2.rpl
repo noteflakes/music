@@ -1,0 +1,46 @@
+\relative c' {
+  \time 3/2
+  \key e \minor
+
+  g'2 b a
+  b r r
+  b r r
+  a a4 a a a
+  a2. a4 b fs
+  e2. ds4 (e fs)
+  b, b' (b2 a)
+  b2 r r
+  d2. b4 c a
+  b2. c4 d a
+  a d, d'2 d
+  d2. d4 e b
+  a2. gs4 a2
+  e4 d (e fs) e fs
+  (g a) b e e2
+  (d4 cs) (b2 as)
+  b r r
+  r b b
+  b4 e, (b' a) (a gs)
+  e'2. e,4 c'2 ~
+  c4 (b2 c4) (b a)
+  g fs e b' as b
+  cs2 fs, r
+  R1.
+  e4 e e e fs gs
+  a (ds,2 e) fs4
+  g a b a g [fs8 e]
+  b'2 fs r4 fs
+  g e'2 (d4 cs) b
+  as e' d cs b cs
+  d1. ~
+  d4 fs, g a g fs
+  e1. ~
+  e4 [a8 b] c4 b a g
+  fs [e8 ds] [e fs g a] [b c a b]
+  [c b] c4 b2 r
+  r b4 a b gs
+  a gs a2 r
+  r r fs
+  (g4 a) (fs2. e4)
+  e1.\fermata
+}

@@ -4,9 +4,9 @@
 
   a'4. a8
   ([a gs]) r4
-  c4.^"(piano)" c8
+  c4._\editP c8
   ([c b]) r4
-  g!4.^"(forte)" g8
+  g!4._\editF g8
   ([g f]) r4
   d4. d8
   d2 ~

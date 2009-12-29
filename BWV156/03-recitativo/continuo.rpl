@@ -1,0 +1,24 @@
+\relative c {
+  \key f \major
+  \time 4/4
+
+  d1 ~
+  d
+  c
+  g
+  gs2 c4 r
+  e a,2. ~
+  a2 fs ~
+  fs g ~
+  g4 f eb2 ~
+  eb2. eb4 ~
+  eb2 d
+  f b
+  g c ~
+  c1
+  d2 g,
+  cs1
+  d2 \tempo "Arioso" r8 d8 e fs
+  g e f! g a f g a
+  bb a6 g a8 a, d2\fermata
+}

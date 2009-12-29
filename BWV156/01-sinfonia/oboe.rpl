@@ -1,0 +1,28 @@
+\relative c' {
+  \key f \major
+  \time 4/4
+  \tempo "Adagio"
+
+  a'4 ~ a6 bb c d g,4 ~ g6 a bb c
+  f,8 f'6 d bb4 ~ bb6 g' e c bb8\trill a6 bb
+  a8 g6 f r4 f'4 ~ f6 d e f
+  g,4 ~ g6 b d f e4 ~ e6 c a g
+  f4 ~ f6 a c e d4 ~ d6 b g f
+  e g b c c4 ~ c6 d f a b,8. c6
+  c4 r eb ~ eb6 c a g
+  fs4 ~ fs6 g a bb c d eb fs a8 c,
+  bb a6 g bb'4 ~ bb6 a g a3 fs g4 ~
+  g6 f! eb d c bb a fs' g8. a6 a8. g6
+  g4 r bb,4 ~ bb6 a g bb
+  a4 ~ a6 f g a bb c d eb f eb3 d eb8 ~
+  eb d r6 g, a bb 
+    \set tupletSpannerDuration = #(ly:make-moment 1 8)
+    \times 2/3 { [e,!6 d e] [f e f] [g f g] [a g a]
+  [bb a bb] } g'8 ~ g6 a, bb g (a c) (f d) (c bb) e f
+  a,8 g r4 a ~ a6 bb c d
+  g,4 ~ g6 a bb c f,8 f'6 d bb4 ~
+  bb6 g' e c bb8 a6 bb a c a f eb8 d6 eb
+  (d e!) (e f) f4 ~ f6 e f d e8. f6 ~
+  f a d b c4 ~ c6 f g a b,8. c6
+  c1\fermata
+}

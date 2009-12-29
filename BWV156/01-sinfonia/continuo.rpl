@@ -1,0 +1,26 @@
+\relative c {
+  \key f \major
+  \time 4/4
+  \tempo "Adagio"
+ 
+  f4 r8 f e4 r8 e
+  d4 r8 d c4 r8 c
+  f4 r8 e d4 r8 c
+  b4 r8 b c4 r8 c
+  a4 r8 a b4 r8 b
+  c4 r8 e f d g g,
+  c4 r8 bb a4 r8 c
+  d4 r8 eb fs,4 r8 d
+  g4 r8 g' f4 r8 f
+  eb4 r8 eb d c d d,
+  g4 r8 f' e4 r8 c
+  f4 r8 eb d4 r8 f
+  bb,4 r8 a g4 r8 f
+  e4 r8 c f a d bb
+  c4 r8 e f4 r8 f
+  e4 r8 e d4 r8 d
+  c4 r8 c f4 r8 f,
+  bb4 r8 b c bb c c,
+  f4 r8 e d2
+  c1\fermata
+}

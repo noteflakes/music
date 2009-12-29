@@ -1,0 +1,24 @@
+\relative c {
+  \key f \major
+  \time 4/4
+
+  r4 r8 a' cs,4 r8 cs
+  bb'4 r8 g e' g, a e
+  fs r6 d a'8 a d a fs a
+  bb bb r8 g g d f e
+  e r6 d' c8 b e a, a e
+  r2 r8 e a e
+  c c eb d d d r a'
+  c, c a d bb bb r d
+  g r6 g b8 g c r r g
+  eb eb g c, a'8. a6 c8 a
+  f a d a bb r6 f d8 f
+  \ficta b, b f' g ab r6 f f8 d
+  b d f eb eb eb r6 eb f g
+  c,8 r6 g' c8 d eb c a f
+  bb r6 bb bb8 g e! g c g
+  a r6 e e8 f g g bb a
+  f f r a \tempo "Arioso" a4. c,8
+  bb4 r8 e cs'4. d8
+  ([d a]) r4 r2\fermata
+}

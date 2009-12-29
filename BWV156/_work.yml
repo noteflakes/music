@@ -2,23 +2,22 @@ title: Cantata BWV 156
 subtitle: "\"Ich steh' mit einem fuß im Grabe\""
 composer: Johann Sebastian Bach
 movements:
-  01-coro:
-    midi_tempo: 105 4
-  02-recitativo:
+  01-sinfonia:
+    midi_tempo: 50 4
+  02-aria:
     midi_tempo: 90 4
-  03-aria:
+  03-recitativo:
     midi_tempo: 86 4
-  04-recitativo:
+  04-aria:
     midi_tempo: 90 4
-  05-aria:
+  05-recitativo:
     midi_tempo: 82 4
-  06-recitativo:
+  06-choral:
     midi_tempo: 90 4
-  07-choral:
-    midi_tempo: 86 4
 score:
   order:
     - oboe
+    - violini
     - violino1
     - violino2
     - viola

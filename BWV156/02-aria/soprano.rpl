@@ -1,0 +1,49 @@
+\relative c'{
+  \key f \major
+  \time 3/4
+
+  \partial 8 r8
+  R2.*15
+  r4 r [f8 g]
+  a2 bb4
+  c2 c4
+  bb2 a4
+  g2. ~
+  g4 r r
+  R2.*3
+  r4 r c
+  d2 e4
+  f2 e4
+  d2.
+  c2. ~
+  c4 r r
+  R2.*13
+  r4 r [f,8 g]
+  a2 bb4
+  c2 c4
+  bb2 a4
+  g2. ~
+  g4 r r
+  R2.*3
+  r4 r c
+  d2 e4
+  f2 e4
+  d2.
+  c2. ~
+  c4 r r
+  R2.*5
+  r4 r c
+  f2 eb4
+  d2 c4
+  bb2 a4
+  g2. ~
+  g4 r r
+  R2.*16
+  r4 r c
+  bb2 a4
+  g2 bb4
+  ([a8 g]) g2
+  f2. ~
+  f4 r r
+  R2.*21
+}

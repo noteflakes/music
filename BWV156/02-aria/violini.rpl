@@ -1,0 +1,118 @@
+\relative c'{
+  \key f \major
+  \time 3/4
+
+  \partial 8 c8
+  f2. ~
+  f ~
+  f8 c d c c f
+  bb,2 a4
+  r8 a' ~ a6 g f e d8 c
+  b g' ~ g6 f e d c8 b
+  a f' (e6\p d c b) c8 d
+  g,8 f'\pp (eb6 d c b) c8 d
+  g,4. d''8_\editF eb b
+  c fs, g d eb b
+  c a b4. c8
+  c2 r4
+  r8 f4 eb d8 ~
+  d c4 bb a8 ~
+  a a' bb a4 a,8
+  g g' ~ g6 f e d c8 bb
+  a f'4 e d8
+  c4 r r
+  R2.
+  r8 f ~ f6 e d c b8 r
+  r4 bb'2 ~
+  bb8 a ~ a6 g f e d8 c
+  b g' ~ g6 f e d c8 b
+  a f' ~ f6 e d c b8 a
+  g2. ~
+  g ~
+  g8 g' ~ g6 f e d c8 bb
+  a d' ~ d6 c b a g8 f
+  e g ~ g6 f e d c8 bb
+  a a' ~ a6 g f e d8 c
+  b f' e6 d c b c8 d
+  g, f' eb6\p d c b c8 d
+  g,4. d''8 eb b 
+  c fs, g d eb b
+  c a b4. c8
+  c2 g'4
+  c2. ~
+  c ~
+  c8 g a g g c
+  f,2 e8 a ~
+  a6 g f e d8 c bb g' ~
+  g6 f e d c8 bb a d' ~
+  d6 c bb a g8 f eb c' ~
+  c6 bb a g f8 eb d r
+  r f4 e d8
+  c4 r r 
+  R2.
+  r8 f ~ f6 e d c b8 r
+  r4 bb'2 ~
+  bb8 a ~ a6 g f e d8 c
+  b g' ~ g6 f e d c8 b!
+  a f' ~ f6 e d c b8 a
+  g2. ~
+  g ~
+  g8 g' ~ g6 f e d c8 b
+  a d' ~ d6 c b a g8 f
+  e e' ~ e6 d c b a8 g
+  f6 e f8 ~ f6 e d c b8 a
+  gs d'' c6 b a gs a8 b!
+  e, d' c6 b a gs a8 b!
+  e,4. b'8 c gs
+  a ds, e b c gs
+  a a' gs4. a8
+  a e ~ e6 d c b a8 a' ~
+  a6 g f e d8 c c bb
+  bb4 r f'
+  c'2. ~
+  c ~
+  c8 g a g g c
+  f,2 e4
+  r8 c' ~ c6 bb a g f8 eb
+  d d' ~ d6 c bb a g8 f
+  eb eb' ~ eb6 d c bb a8 g
+  fs c' bb6 a g fs g8 a
+  d, c' bb6 a g fs g8 a
+  c,2. ~
+  c
+  r8 ab' ~ ab6 g f eb d8 c
+  b f' ~ f6 eb d c b!8 d
+  g,2. ~
+  g ~
+  g8 a' bb fs g4 ~
+  g8 fs g d eb4 ~
+  eb8 b c g ab c
+  eb4 d2 ~
+  d8 g fs4. g8
+  g4 r r
+  R2.
+  r8 g ~ g6 f e d c8 bb
+  a c' ~ c6 bb a g f8 eb
+  d d' eb d d d,
+  c c' ~ c6 bb a g f8 eb
+  d d' ~ d6 c bb a g8 f
+  e! bb' ~ bb6 a g f e8 d
+  c2. ~
+  c8 bb' ab6 g f e f8 g
+  c,4 r r
+  r8 g' ~ g6 f e d c8 bb
+  a4 r r
+  r r f'
+  bb2. ~
+  bb ~
+  bb8 f g f f bb
+  eb,2 d4
+  r8 d' ~ d6 c bb a g8 f
+  e! c' ~ c6 bb a g f8 eb
+  d bb' a6 g f e! f8 g
+  c, bb' ab6 g f e f8 g 
+  c,4. g'8 ab e!
+  f b, c g ab c
+  f d e4. f8
+  f2.\fermata
+}

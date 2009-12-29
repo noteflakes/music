@@ -1,0 +1,132 @@
+\relative c' {
+  \key f \major
+  \time 2/2
+
+  R1*2
+  f2 a 
+  g f
+  e4 d c bb' ~
+  bb a2 g4
+  f eb d g
+  c, f (f e!)
+  f2 a
+  g2. f4
+  e2 [d8 f e d]
+  a'2. g4
+  f e d g
+  c, f bb,2
+  a' bb
+  a g
+  fs4 d g a
+  fs g2 f4 ~
+  f eb d c 
+  d2. d4
+  c e! a g ~
+  g f2 e4
+  f2 f
+  g4 a bb g
+  eb [d8 c] d2
+  d4 g f bb
+  g e a g
+  fs d g2 ~
+  g4 [f8 eb] f2 ~
+  f4 [eb8 d] eb4 [f8 eb]
+  d4 [eb8 f] d2
+  c4 [d8 e!] f4 [g8 a]
+  bb,4 d g [a8 bb]
+  c,4 [d8 eb] d4 g ~
+  g [a8 g] f4 [g8 a]
+  d,4 g eb ab
+  f d g f
+  eb2 eb
+  d4 eb f2 ~
+  f e
+  \barlineFermata \bar "||" 
+  
+  f2 e
+  f g4 g
+  a bb c eb,
+  d bb'2 a4
+  bb2 c,
+  d4 bb' g4. f8
+  f4 g a f
+  bb2 c
+  f, r
+  r4 d2 cs4
+  d2 e4 e
+  f g a c,!
+  bb g'2 fs4
+  g2 f!4 d
+  g a8 g f4 g 
+  c, d e [d8 e]
+  f4 e d c
+  c2 d4 c8 d 
+  eb4. f8 g4 [a8 bb]
+  a2. a4
+  d,2 g ~
+  g4 f8 eb f2 ~
+  f4 ([eb8 d]) eb4 [ab8 g]
+  (eb4 d) d2
+  c r
+  R1*3
+  f2. eb8 d
+  eb2. [d8 c]
+  d2. [c8 bb]
+  c2 f
+  e g ~
+  g4 f8 e f4 [g8 a]
+  d,4 g4. [f8 eb d]
+  c4 f4. [d8 c bb]
+  a4 c f a
+  d,2 c4 [d8 eb]
+  f4 [g8 ab] g2
+  r g ~
+  g4 f8 eb f2 ~
+  f4 [eb8 d] eb4 [f8 eb]
+  d2. [e!8 f]
+  f2 e
+  \barlineFermata \bar "||" 
+ 
+  R1*4
+  f2 a
+  g f
+  e4 f g g, ~
+  g a2 b4
+  c r r2
+  r4 [c8 d] [e c d e]
+  [f e f g] [a f] [g a]
+  bb4 r r2
+  c,2 a
+  bb c
+  d4 c bb bb' ~
+  bb a2 g4
+  f2 r
+  r4 [f8 e] [d f] [e d]
+  c4 [d8 e] [f e f g]
+  a4 a, a2
+  a' bb
+  a g
+  f4 g a a, ~
+  a b2 cs4
+  d [cs8 d] [e cs d e]
+  [f d e f] [g e f g]
+  a4 f [bb8 a] [g f]
+  [e g f e] [d f] [e d]
+  c4 (c f) [d8 c]
+  b2 cs
+  d4 [c!8 bb!] a4 a' ~
+  a g2 [f8 e]
+  d2 r
+  c a
+  bb c
+  d4 c bb bb' ~
+  bb a2 g4
+  f d2 c4
+  d2 eb
+  f4 eb d f
+  [bb,8 f' g a] bb2 ~
+  bb1 ~
+  bb2 (a4 g)
+  a1
+  \barlineFermata
+}

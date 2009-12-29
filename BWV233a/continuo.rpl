@@ -1,0 +1,138 @@
+\relative c {
+  \key f \major
+  \time 2/2
+  
+  f,4 f' bb, bb' ~
+  bb a2 g4
+  f e d c
+  b c a b
+  c d8 e f4 g
+  a f g e
+  f a bb e,
+  a f c' c,
+  f e d c
+  bb bb' e, g
+  a, e' f g
+  a2 a,
+  d d'4 bb
+  c a bb g
+  a f g e
+  f d e a,
+  d bb c a
+  bb g a d
+  g, g' ab2
+  g f
+  e!4 c f bb
+  a d g, c
+  f, eb d eb8 f
+  eb4 c g' bb,
+  c a d d,
+  g g'8 a bb4 c8 d
+  e,4 f8 g a4 bb8 c
+  d,4 e8 fs g4 a8 bb
+  c,4 d8 eb d4 d'
+  b g eb ab
+  f d g f
+  e c f2 ~
+  f4 eb8 d eb2 ~
+  eb4 d bb eb
+  c a d c
+  b g c2 ~
+  c4 b8 a b2
+  c4 d eb f 
+  g2 g,
+  c,1
+  \barlineFermata \bar "||" 
+
+  f'4 c'2 bb4
+  a f2 e4
+  f eb d c
+  bb d eb f
+  bb, a8 g f4 f' 
+  bb g c c,
+  d e f a
+  bb g c, c'
+  d4. c8 bb4 c
+  f,4. g8 a2
+  g2. e4
+  a2 d,
+  g4 eb c d
+  g,2 g'4 f
+  e! f8 e d4 g
+  c bb a g
+  f d' bb c
+  f,4. eb8 d4 eb8 f
+  eb4 c g' bb,
+  c a d c
+  b a b g
+  c c' ab f
+  bb8 ab g f eb d c bb
+  ab g ab f g4 g'
+  c, d8 eb d4 eb8 f
+  b,4 g c8 bb a! g
+  a4 f bb eb
+  f eb f f,
+  bb8 f' g a bb d, c bb
+  c g' a bb a c, bb a
+  bb f' g a g bb, a g
+  a e' f g f a, g f
+  c'4 d e c
+  f e d c
+  b g c bb
+  a f bb2
+  f f' ~
+  f4 eb8 d eb4 d8 c 
+  b2 ~ b8 b a g
+  c2 ~ c8 eb d c
+  g'2 ~ g8 b a g
+  c2 ~ c8 eb, d c
+  g'2 g,
+  c,1
+  \barlineFermata \bar "||" 
+ 
+  r4 f' bb, bb' ~
+  bb a2 g4
+  f e8 d c d c bb
+  a c bb a g4 c
+  f,2 f'
+  c4 c' a b
+  c b8 a g a g f
+  e g f e d4 g
+  c, e a, c
+  f, f'2 e4 
+  d e f d
+  g2 g,
+  f4 a'8 g f g f e
+  d4 g c, a
+  d,2. bb'4
+  f' d g c,
+  f2 c
+  f,4 d'8 c bb d c bb
+  a4 bb8 c d c d e
+  f4 cs d d,
+  a' a' g8 bb a g
+  f4 e8 d cs a b cs
+  d cs d e \ficta fs d e \ficta fs!
+  g a g f e4 a
+  d,2 a
+  d,4 bb' a g
+  f a' d, g
+  c, f bb, bb'
+  a8 bb a g f2
+  e4 d cs a
+  d d, d'2 ~
+  d4 e f d
+  bb g c c,
+  f8 c' d eb f eb d c
+  bb d c bb a f g a
+  bb a bb c d c d eb
+  f eb f g a f g a
+  bb4 a8 g f g f eb
+  d4 g c, f
+  bb,1 ~
+  bb
+  f ~
+  f ~
+  f
+  \barlineFermata
+}

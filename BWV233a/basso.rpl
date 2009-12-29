@@ -1,0 +1,89 @@
+\relative c {
+  \key f \major
+  \time 2/2
+
+  R1*8
+  f1
+  g 
+  a ~
+  a
+  R1*10
+  a2 ab
+  g1 ~
+  g2 fs
+  g1 ~
+  g2 r
+  R1*2
+  r4 g eb ab
+  f d g f
+  e! c f2 ~
+  f4 [eb8 d] eb2 ~
+  eb4 d bb eb
+  c a d c
+  b g c2 ~
+  c4 [b8 a] b2 
+  (c4 d) (eb f)
+  g2 g, 
+  c1
+  \barlineFermata \bar "||" 
+
+  R1*10
+  g'1
+  a
+  R1*5
+  (a2 ab)
+  g1 ~
+  g2 fs
+  g1 ~
+  g2 r
+  R1*2
+  ab2. g8 f
+  g2. [f8 eb]
+  f4 [g8 a] bb2 ~
+  bb4 c a4. bb8
+  bb2 r
+  c,2. bb8 a
+  bb2. [a8 g]
+  a2. [g8 f]
+  c'4 d e c
+  f e d c
+  b g c bb
+  a f bb2
+  f f' ~
+  f4 eb8 d eb4 [d8 c]
+  b2. [a8 g]
+  c2 ~ [c8 eb d c]
+  g'2 ~ [g8 b a g]
+  c2 ~ [c8 eb, d c]
+  g'2 g,
+  c1
+  \barlineFermata \bar "||" 
+ 
+  R1*8
+  a'2. g4
+  f2. e4
+  d1
+  g
+  f ~
+  f2 e
+  f1 ~
+  f2 r
+  R1*12
+  f1 
+  e
+  d ~
+  d4 e f2 ~
+  f e
+  f1 ~
+  f ~
+  f ~
+  f ~
+  f ~
+  f ~
+  f ~
+  f ~
+  f ~
+  f ~
+  f
+  \barlineFermata
+}

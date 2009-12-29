@@ -43,6 +43,8 @@ editF = \markup { \center-align \concat { \bold { \italic ( }
   \dynamic f \bold { \italic ) } } }
 editP = \markup { \center-align \concat { \bold { \italic ( }
   \dynamic p \bold { \italic ) } } }
+  
+barlineFermata = { \mark \markup { \musicglyph #"scripts.ufermata" } }
 
 barNumbers = {
   \override Score.BarNumber #'break-visibility = #'#(#f #t #t)

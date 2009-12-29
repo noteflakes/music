@@ -1,0 +1,78 @@
+\relative c' {
+  \key f \major
+  \time 2/2
+
+  R1*7
+  f2 g
+  a a 
+  bb1
+  a1
+  R1*10
+  a2 g
+  a b
+  c bb
+  a1
+  R1*6
+  r2 a 
+  g1 
+  (f2 g) 
+  a1 
+  g1 ~
+  g ~
+  g ~
+  g ~
+  g
+  \barlineFermata \bar "||" 
+  
+  R1*8
+  f2 g
+  a a 
+  bb1
+  a1
+  R1*4
+  a2 g
+  a b
+  c bb
+  a1
+  R1*13
+  a1 
+  g1 
+  (f2. g4) 
+  a1 
+  g1 ~
+  g ~
+  g ~
+  g ~
+  g ~
+  g ~
+  g
+  \barlineFermata \bar "||" 
+ 
+  R1*9
+  f2 g
+  a a 
+  bb1
+  a1
+  R1*3
+  a2 g
+  a bb
+  c bb
+  a1
+  R1*8
+  a1 
+  g1 
+  f2. g4
+  a1 
+  g1
+  R1*2
+  d'1
+  c
+  bb ~
+  bb2 c
+  d1 ~
+  d ~
+  d2 c4. bb8
+  c1 ~
+  c
+  \barlineFermata
+}

@@ -1,0 +1,14 @@
+title: BWV 233a
+subtitle: "Kyrie \"Christe, du Lamm Gottes\""
+composer: Johann Sebastian Bach
+midi_tempo: 90 2
+score:
+  order:
+    - soprano1
+    - soprano2
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - bracket: [soprano1, soprano2, alto, tenore, basso]

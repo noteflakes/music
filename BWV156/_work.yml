@@ -15,8 +15,15 @@ movements:
   06-choral:
     midi_tempo: 90 4
 parts:
+  violino1:
+    breaks: [04-aria]
+  violino2:
+    breaks: [04-aria]
   violini:
     no_part: true
+  continuo:
+    breaks:
+      - 03-recitativo
 score:
   order:
     - oboe

@@ -1,0 +1,19 @@
+\relative c {
+  \key f \major
+  \time 4/4
+
+  r8 d' d a fs d c' bb
+  bb bb r6 g bb d eb8 g, c bb
+  g g r4 r8 d g a
+  bb bb a g c r6 g e8 f
+  g g c g a a6 a e'8 g, 
+  g a bb a
+  f r6 a d8 a
+  bb d, g f d d r4
+  r8 d a' bb c f, eb' d
+  d r r bb d, d d e!
+  f r6 c f8 g a a c a
+  fs4 r8 d d' a c b
+  gs4 r8 f e a, gs'!8. a6
+  ([a8 e]) r4 r2\fermata
+}

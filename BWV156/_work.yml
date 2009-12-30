@@ -9,7 +9,7 @@ movements:
   03-recitativo:
     midi_tempo: 86 4
   04-aria:
-    midi_tempo: 90 4
+    midi_tempo: 88 4
   05-recitativo:
     midi_tempo: 82 4
   06-choral:

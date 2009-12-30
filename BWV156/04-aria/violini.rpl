@@ -1,0 +1,82 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  
+  R1
+  r8 bb' d, eb f d' ~ d6 c bb a
+  bb c d c bb d c eb d eb f d g f eb d
+  eb8 g, eb'4 ~ eb8 g, f a
+  bb6 a g a bb a bb a bb a g a bb a bb a
+  g8 e'6 f g f g f e f e f g f g f 
+  e8 r r4 r8 f b, cs
+  d a ~ a6 g f e f4 r 
+  r2 r8 f ~ f6 eb d c
+  d c d c bb d c eb d eb f d f eb d c
+  d8 bb' d, eb f bb eb, f
+  bb, bb' f'4 ~ f8 g6 f eb8 d
+  eb2 ~ eb6 d eb c d bb a g
+  f2 ~ f8 ab g4 ~
+  g ~ g6 bb ab g f eb d c d eb f d
+  bb c' bb g bb ab g f g ab bb g bb ab g f
+  eb f g eb g f eb d c8 f6 d f eb d c
+  d c d bb d c bb a bb8 r r4
+  r8 g'6 a bb a bb a bb a g a bb a bb a
+  g8 e'6 f g f g f e f e f g f g f e8 r r4 r2
+  R1
+  r8 f a, bb c a' ~ a6 g f e
+  f g a g f a g bb a bb c a c bb a g
+  a8 c, c'4 ~ c8 eb, d fs
+  g6 a bb g e g f a g a bb a c bb a g
+  a8 g6 a bb a bb a bb a g a bb a bb a 
+  bb8 e,6 f g f g f e f e f g f g f 
+  e8 g a, bb c a' ~ a6 g f e
+  f8 c ~ c6 bb a g a4 r
+  R1
+  r8 a ~ a6 g fs e fs4 r
+  R1
+  r8 f! ~ f6 eb d c d4 r8 d ~
+  d c r c ~ c bb r fs' ~
+  fs6 g fs g a g a g bb g e fs g \ficta fs g e
+  e8 d r4 r8 a'' d, fs
+  g, r r4 r2
+  r8 f'!6 d b d c eb (d eb f eb) g f eb d
+  eb8 g, eb'4 ~ eb8 g, f a
+  bb c6 bb a g a g fs g fs g a g a g 
+  fs8 a,6 bb c bb c bb c bb a bb c bb c bb
+  c8 [a'' bb, c] d bb' ~ bb6 a g fs
+  g8 d ~ d6 c bb a g8 g bb, c
+  d bb' ~ bb6 a g fs g a bb a g bb a c
+  bb c d bb d c bb a bb c d c b d c eb
+  d8 d,6 eb f eb f eb f eb d eb f eb f eb
+  d c b c d c d c b c b c d c d b
+  c8 g'6 ab bb ab bb g c4 r8 f, ~
+  f eb r8 d ~ d6 eb d eb f eb f eb
+  c' a fs g a g a fs fs8 g b, c
+  g r r4 r2
+  r r8 c bb'4 ~
+  bb8 db, c e f6 g ab f d f eb g
+  f g ab g bb ab g f g8 a6 bb c bb c bb
+  a bb a bb c bb c bb a g f g eb d eb d
+  eb d c d eb d eb d eb8 r r4
+  r8 bb' e, fs g d ~ d6 c bb a
+  bb4 r4 r8 f' ~ f6 eb d c
+  d c d c bb d c eb d eb f d f eb d c 
+  d8 bb' d, eb f bb eb, f 
+  bb, bb' f'4 ~ f8 g6 f eb8 d
+  eb2 ~ eb6 d eb c d bb a g
+  f2 ~ f8 ab g4 ~
+  g ~ g6 c ab g f eb d c d eb f d
+  bb c' bb g bb ab g f g ab bb g bb ab g f 
+  eb f g eb g f eb d c d eb c eb d c bb
+  a bb c d eb d eb d eb d c d eb d eb d 
+  c8 a'6 bb c bb c bb a bb a bb c bb c bb
+  a8 r r4 r2
+  R1*2
+  r8 bb d, eb f d' ~ d6 c bb a 
+  bb c d c bb d c eb d eb f d g f eb d 
+  eb8 c ab'4 ~ ab8 c, bb d
+  eb6 d c d eb d eb d eb d c d eb d eb d 
+  eb8 a,6 bb c bb c bb a bb a bb c bb c bb
+  a8 c d, eb f d' ~ d6 c bb a 
+  bb8 f ~ f6 eb d c d4\fermata r
+}

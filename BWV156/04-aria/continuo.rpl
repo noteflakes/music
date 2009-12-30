@@ -1,0 +1,84 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+
+  bb4 r r8 bb' eb, f
+  bb,4 r r8 bb' eb, f
+  bb, bb' d, f bb, d b g
+  c c' c, eb a, c a f
+  bb bb' e, f g bb e, g
+  c, bb' e, f g bb e, g
+  c,6 d e c f a g bb a g f e! f g a8
+  d,6 e f8 bb, c f, f' ~ f6 eb d c
+  bb4 r r8 bb' eb, f
+  bb,4 r bb r
+  bb r bb r
+  r8 bb' bb, d eb4 r
+  r8 c' c, eb f4 r8 f,
+  bb bb' d, f bb, d b g
+  c g' c, eb d f bb, d
+  eb4 r r8 eb' g, bb
+  c, c' c, eb a, bb eb, f
+  bb4 r r8 bb' d, f
+  e bb' e, f g bb e,! g
+  c, bb' e, f g bb e,! g
+  c,6 d c d e d e c f g f g a g a f
+  bb c bb c d c d bb c8 bb c c,
+  f,4 r r8 f' bb, c
+  f,4 r r8 f' bb, c
+  f, f' a, c f, a fs d
+  g g' g, bb e, g e c
+  f c'' e, f g bb e, g
+  c, bb' e, f g bb e, g
+  c,6 d e c f a g bb a g f e! f g a8
+  d,6 e f8 bb, c f,4 r
+  r8 c' f, g a c' ~ c6 bb a g
+  fs8 d fs, a d, d' ~ d6 c bb a
+  g8 bb' ab6 g f eb d8 f bb, c
+  b g' b, d g,4 r8 g
+  c c c d eb eb eb eb
+  d d d d d d d d 
+  d d' ~ d6 c bb a bb8 d fs, a
+  g bb c, f! bb, eb c d
+  g, b' d, f b,! d b g
+  c c' c, eb a, c a f
+  bb d fs g a c fs, a
+  d, d' fs, g a c fs, a
+  d,6 e fs d g bb a c bb a g fs! g8 a
+  bb g c, d g,4 r
+  r8 g' c, d g,4 r
+  r8 g' c, d g,4 r
+  r8 g' b, c d f b, d
+  g, g' b, c d f b, g
+  c c c c f, f f g
+  ab ab ab ab g g g g 
+  g g g g g g' ~ g6 f eb d 
+  eb8 g b, d c eb f, ab
+  eb ab f g c, e'' g, bb
+  e, g e c f f, f' ab
+  d, f d bb eb eb' a,! bb
+  c a f c' f, eb a, bb
+  c eb a, c f,6 g a f bb d c eb
+  d c bb a bb c d8 g,6 a bb8 eb, f
+  bb4 r r8 bb' eb, f 
+  bb,4 r bb r 
+  bb r bb r
+  r8 bb' bb, d eb4 r
+  r8 c' c, eb f4 r8 f,
+  bb bb' d, f bb, d b g
+  c g' c, eb d f bb, d 
+  eb4 r r8 eb' g, bb
+  c, c' c, eb a,! f' a, c
+  f, eb'' a, bb c eb a, c
+  f, eb a, bb c eb a, c
+  f,6 g a bb a g a f bb c d eb d c d bb
+  eb f g ab g f g eb f8 eb f f,
+  bb4 r r8 bb' eb, f
+  bb,4 r r8 bb' eb, f 
+  bb, bb' d, f bb, d b g
+  c c' f, ab d, f d bb
+  eb eb' a, bb c eb a, c
+  f, c' a, bb c eb a, c
+  f,6 g a f bb d c eb d c bb a bb c d8
+  g,6 a bb8 eb, f bb4\fermata r
+}

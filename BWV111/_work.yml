@@ -2,6 +2,8 @@ title: Cantata BWV 111
 subtitle: "\"Was mein Gott will, das g'scheh allzeit\""
 composer: Johann Sebastian Bach
 movements:
+  05-recitativo:
+    midi_tempo: 60 4
   06-choral:
     midi_tempo: 90 4
 score:

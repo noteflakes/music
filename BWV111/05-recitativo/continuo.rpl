@@ -1,0 +1,18 @@
+\relative c {
+  \key a \minor
+  \time 4/4
+
+  e1 ~
+  e
+  d2 a
+  fs f
+  e a ~
+  a1 ~
+  a2 e' ~
+  e b
+  \tempo "Adagio"
+  (gs8 gs gs gs) (a a a a)
+  (g! g g g) (f f f f)
+  (d d ds ds) (e e e e)
+  a1\fermata
+}

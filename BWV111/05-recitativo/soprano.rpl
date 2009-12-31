@@ -1,0 +1,18 @@
+\relative c' {
+  \key a \minor
+  \time 4/4
+
+  r8 g' c8. d6 bb8 bb d bb
+  g4 r6 g c e g g, g a bb8 a
+  f'4 r6 d a bb c8 r6 f, eb' eb g f
+  d8 d r d g d b! d
+  gs, gs b e, c'4 r8 c
+  f, e e ds b' b r b
+  fs' a, c b g g r b 
+  g' r6 b, b8 c d d b g
+  \tempo "Adagio"
+  ([f' e]) r e c4 ~ [c6 a] [gs a]
+  a4 r8 a (d4 ~ [d6 a gs a]
+  f'8) a, a4 ~ [a8 e] e4
+  r1\fermata
+}

@@ -1,0 +1,22 @@
+\relative c' {
+  \key a \minor
+  \time 4/4
+
+  \partial 4
+    e4
+  g a g c
+  c b c\fermata c
+  b a d4. c8
+  (b4 c b2)
+  a2. \bar ":|" a4
+  a a (b4. a8
+  b4) g g fs
+  g2.\fermata g4
+  a b c b
+  a2 b4 e,
+  g a g c
+  c b c\fermata c
+  b a d4. c8
+  (b4 c b2)
+  a2.\fermata
+}

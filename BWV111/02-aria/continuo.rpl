@@ -1,0 +1,62 @@
+\relative c {
+  \key e \minor
+  \time 4/4
+
+  \partial 8
+    e8
+  c' b r c6 d e8 c a6 g a8
+  r d, b' a r b6 c d8 b
+  g6 fs g8 c a fs6 e fs8 a fs
+  ds e a, b e,4 r
+  r8 b'_\editP g' e r a6 b c8 a
+  fs6 e fs8 g d b' g r g6 a
+  b8 g e6 ds e8 a fs ds!6 cs ds8
+  g e c' a r b6 c d8 d,
+  g d b' a r b6 cs d8 a
+  fs6 e fs8 g e cs6 b cs8 fs d
+  b6 a b8 g a d,4 r8 a'
+  fs' e r fs6 g a8 e cs6 b cs8
+  r g e' d r e6 fs g8 e
+  as,6 gs as8 r b6 a g!8 e [fs fs']\f
+  b as r b6 cs d8 b gs6 fs gs8
+  r e a gs r a6 b cs8 a
+  fs6 e fs8 b g! e6 d e8 g e
+  cs d g, a d,4 r8 a'\p
+  fs' e r8 fs6 g a8 fs d6 cs d8
+  g d b6 a b8 d b g d'
+  f e r b'6 c d8 b gs6 fs gs8
+  r e c' a r fs6 g a8 fs
+  ds6 cs ds8 fs ds b6 a b8 ds b
+  g b e ds r fs6 g a8 fs
+  ds6 cs ds8 b' g e6 d e8 g e
+  cs6 b cs8 a' fs d6 c d8 d' b
+  g6 fs g8 b g c,6 b c8 a d
+  g, d c' b r c6 d e8 c
+  a6 gs a8 a' f d6 c d8 g! e
+  c6 bb c8 f d b6 a b8 d b
+  gs a d, e a4 r8 e'
+  cs' b r cs6 d e8 cs as6 gs as8
+  b fs ds6 cs ds8 e b gs6 fs gs8
+  e' c a6 gs a8 a' e c6 b c8
+  b' fs ds6 cs ds8 e4 r8 g,
+  e' d g6 fs g8 fs e fs fs,
+  b4 r8 b\f g' fs r fs6 g
+  a8 fs ds6 cs ds8 r e c'! b
+  r b6 c d8 b gs6 fs gs8 c a
+  fs6 e fs8 a fs ds e a, b
+  e,4 r r8 b'\p g' e
+  r a6 b c8 a fs6 e fs8 g d
+  b' g r g6 a b8 g e6 ds e8
+  a fs ds6 cs ds8 g e c'! a
+  r b6 c d8 d, g g, e' d
+  r e6 fs g8 d b6 a b8 c a
+  fs6 e fs8 b g e c' d d,
+  r g e' d r e6 fs g8 cs,
+  d a fs6 e fs8 r b a' g
+  r a6 b c8 a ds,6 cs ds8 fs a,
+  g6 fs g a b8 b e,4 r8 e'\f
+  c' b r c6 d e8 c a6 g a8 
+  r d, b' a r b6 c d8 b
+  g6 fs g8 c a fs6 e fs8 a fs
+  ds e a, b e,4 r
+}

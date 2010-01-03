@@ -1,0 +1,126 @@
+\relative c {
+  \key a \minor
+  \time 4/4
+
+  a'4 gs a e \segno
+  a gs a e
+  a g! fs d
+  g f! e c
+  f e d b
+  e e, r2
+  e'4 e, r2
+  e'4 e, r2
+  $m1 a b c d c b c d e f e d 
+  e fs gs a gs fs gs a b c b a $$
+  e'4 d cs a
+  d c! b g
+  c b a fs
+  b a gs e
+  $m1 a gs a b a gs $$ a4 e
+  $m1 a, b c d c b $$ c8 d e e,
+  a2\fermata ~ a8 a' g f
+  e f e d c e d c
+  b b' c c, b b' a a,
+  g g' f e d g g, g'
+  c,4 c, r2
+  c'4 c, r2
+  c''4 b a fs
+  b a g e
+  a g fs d
+  $m1 g g, a b a g $$ d'4 r
+  $m1 r d e f e d $$ e4 r
+  $m1 r e d c d e a, a' g f g a $$
+  d,8 f e d e4 e,
+  a' a, r2
+  a'4 a, r2
+  a'4 gs a e
+  a gs a e
+  a g! fs d
+  g f! e c
+  f e d b 
+  e e, r2
+  e'4 e, r2
+  e'4 e, r2
+  $m1 a b c d c b c d e f e d 
+  e fs gs a gs fs gs a b c b a $$
+  e'4 d cs a
+  d c! b g
+  c b a fs
+  b a gs e
+  $m1 a gs a b a gs $$ a4 e
+  $m1 a, b c d c b $$ c8 d e e,
+  a2 ~ a8 a' g f
+  e f e d c e d c
+  b b' c c, b b' a a,
+  g g' f e d g g, g'
+  c,4 c, r2
+  c'4 c, r2
+  c''4 b a fs
+  b a g e
+  a g fs d
+  $m1 g g, a b a g $$ d'4 r
+  $m1 r d e f e d $$ e4 r
+  $m1 r e d c d e a, a' g f g a $$
+  d,8 f e d e4 e,
+  a' a, r2
+  a'4 a, r2
+  a'4 a, r2
+  g'4 g, r2
+  f'4 f, r2
+  e'4 e, r2
+  d'4 cs d a
+  d cs d a
+  d c! bb g
+  c bb a f
+  bb a g e
+  a a' r2
+  a,4 a' r2
+  a,4 a' r2
+  d,4 d, r2
+  $m1 g b c d e fs $$ g4 g,
+  r2 g'4 g,
+  c bb a d
+  g g, r2
+  g'4 g, r2
+  $m1 g a b c b a b c d e d c
+  d e fs g fs e fs g a b a g $$
+  d'4 c b g
+  c b a fs
+  b a g e
+  a g fs d
+  $m1 g fs g a g fs $$ g4 d
+  $m1 g, a b c b a $$ b8 c d d,
+  g a b g c d c b
+  a b c a d c b e
+  a, e' a a, b b' c c,
+  d e fs g a b c d6 c
+  b4 b, r2
+  b'4 b, r2
+  e4 ds e b
+  e ds e b
+  $m1 e, fs g a g fs g a b c b a 
+  b cs ds e ds cs ds e fs g fs e $$
+  b'4 a gs e
+  a g! fs d
+  g fs e cs
+  fs e ds b
+  $m1 e ds e fs e ds $$ e4 b
+  $m1 e, fs g a g fs $$ g8 a b b
+  e, b' gs e a a' g f
+  e f e d c e d c
+  b b' c c, b b' a a,
+  g g' f e d g g, g'
+  c,4 c, r2
+  c'4 c, r2
+  c''4 b a fs
+  b a g e
+  a g fs d
+  $m1 g g, a b a g $$ d'4 r
+  $m1 r d e f e d $$ e4 r
+  $m1 r e d c d e a, a' g f g a $$
+  d,8 f e d e4 e,
+  a' a, r2
+  a'4 a, r2
+  a'4 gs a e
+  \dalsegno
+}

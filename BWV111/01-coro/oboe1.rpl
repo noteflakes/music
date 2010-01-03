@@ -1,0 +1,113 @@
+\relative c'' {
+  \key a \minor
+  \time 4/4
+
+  a'4 e $m1 c b c d c b $$ \segno
+  c4 e $m1 c b c d c b $$
+  $m2 c a b c b a 
+  b g a bb a g
+  a b! c d d c $$
+  d4. f6 e d8 f6 e d4
+  r8 e6 d c4 $m1 r c d e d c $$
+  d4 $m1 r d c b d c $$ b4
+  r b2 a4
+  r f'2 e4
+  $m3 b c d e f g
+  a, b c d e f
+  g, a b c d e
+  fs, gs a b c d $$
+  a'4 e $m1 c b c d c b
+  c d e $$ fs gs a b e,8 d c b
+  a4\fermata r r2
+  R1*3
+  c'4 g $m1 e d e f e d $$
+  e4 g $m1 f d e f e d $$
+  $m2 c c d e d c
+  d b c d c b
+  c a b c b a $$
+  b4 r $m1 r a b cs d e $$
+  f4 r $m1 b, a b c b a $$
+  d4 r r2
+  R1*3
+  a'4 e $m1 c b c d c b $$
+  c4 e $m1 c b c d c b $$
+  $m2 c a b c b a 
+  b g a bb a g
+  a b! c d d c $$
+  d4. f6 e d8 f6 e d4
+  r8 e6 d c4 $m1 r c d e d c $$
+  d4 $m1 r d c b d c $$ b4
+  r b2 a4
+  r f'2 e4
+  $m3 b c d e f g
+  a, b c d e f
+  g, a b c d e
+  fs, gs a b c d $$
+  a'4 e $m1 c b c d c b
+  c d e $$ fs gs a b e,8 d c b
+  a4 r r2
+  R1*3
+  c'4 g $m1 e d e f e d $$
+  e4 g $m1 f d e f e d $$
+  $m2 c c d e d c
+  d b c d c b
+  c a b c b a $$
+  b4 r $m1 r a b cs d e $$
+  f4 r $m1 b, a b c b a $$
+  d4 r r2
+  R1*3
+  a'4 e $m1 c b c d c b
+  cs cs d e f g $$ a4 r
+  d a $m1 f d e f e d
+  cs cs d e e f $$ g4 r
+  d a r2
+  d4 a r2
+  $m1 a' d, e f g a $$ bb4 r
+  $m1 g c, d e f g $$ a4 r
+  $m1 f bb, c d e f $$ g4 r
+  r8 g6 f e4 $m1 r e f g f e $$
+  f4 $m1 r f e d f e $$ d4
+  r8 e6 d cs4 $m1 r cs d e d cs $$
+  d4. eb6 d c!8 eb6 d c8 fs
+  g4 d r8 ab'6 g f!4
+  $m1 r f g ab g f $$ eb4. g6 f
+  $m1 eb g f eb f g c, a b! c b a $$
+  g'4 d r2
+  c'4 g $m1 fs a g fs g a $$
+  d,4 r r c ~
+  c b r g' ~
+  $m1 g a, b c d e $$ f!4 r
+  $m1 r g, a b c d $$ e4 r
+  $m1 r fs, g a b c $$ d4 r
+  $m1 r e, fs g a b $$ c4 r
+  g' d $m1 b a b cv b a
+  b c d $$ e fs g a d,8 c b a
+  $m1 g d' e f! e d $$ e4 r
+  R1*2
+  a4. c6 b a8 c6 b a4
+  r8 b6 a g4 $m1 r g a b a g $$
+  a4 $m1 r a g fs a g $$ fs4
+  e b r2
+  e4 b r2
+  $m1 g a b c b a b cs ds e ds cs
+  ds e fs g fs e fs g a b a g $$
+  fs4 d ~ $m1 d b c d c b $$
+  $m2 c a b c b a
+  b g a b a g
+  a fs g a g fs
+  g fs g a g fs $$
+  g8 a6 b cs ds e fs b,8 a g fs
+  e4 r r2
+  R1*3
+  c''4 g $m1 e d e f e d $$
+  e4 g $m1 f d e f e d $$
+  $m2 c c d e d c
+  d b c d c b
+  c a b c b a $$
+  b4 r $m1 r a b cs d e $$
+  f4 r $m1 b, a b c b a $$
+  d4 r r2
+  R1*3
+  a'4 e $m1 c b c d c b $$
+  \dalsegno
+}

@@ -1,0 +1,126 @@
+\relative c' {
+  \key a \minor
+  \time 4/4
+
+  e4 e r2 \segno
+  e4 e r2
+  a4 e a, r
+  g' d g, r
+  f' c f, r
+  gs'8 gs gs gs gs gs gs gs
+  a a a a a a a a 
+  e e e e e e e e 
+  e4 d8 g c,4 r
+  b' a8 b6 c b4 r
+  b, b' a r
+  a, a' g r
+  g, g' f r
+  b d, b r
+  e2. gs4
+  $m1 e d c b c d $$ e8 f e d 
+  c6 a' g f e d c b c d c b a c b a
+  g8 a6 b c d e f e d c e a, c b a
+  d c b d g, b c d e c d e f g a f
+  g g, a b c d e c f e d e f a g f 
+  $m1 e e f g a b $$ c4 r
+  e e, r2
+  c'4 g e r
+  b' fs d r
+  a' e a, r
+  r6 d e fs g a b cs d8 cs6 b a g f e
+  d a b cs d e f g e b c d e fs gs a
+  e a gs fs e d c b a d' c b a g f e
+  f e d c d c b a e' fs gs a b c d e
+  c4 c, r6 a b c d e f! g!
+  a8 a, a a a a gs gs
+  c4 e r2
+  e4 e r2
+  a4 e a, r
+  g' d g, r
+  f' c f, r
+  gs'8 gs gs gs gs gs gs gs
+  a a a a a a a a 
+  e e e e e e e e 
+  e4 d8 g c,4 r
+  b' a8 b6 c b4 r
+  b, b' a r
+  a, a' g r
+  g, g' f r
+  b d, b r
+  e2. gs4
+  $m1 e d c b c d $$ e8 f e d 
+  c6 a' g f e d c b c d c b a c b a
+  g8 a6 b c d e f e d c e a, c b a
+  d c b d g, b c d e c d e f g a f
+  g g, a b c d e c f e d e f a g f 
+  $m1 e e f g a b $$ c4 r
+  e e, r2
+  c'4 g e r
+  b' fs d r
+  a' e a, r
+  r6 d e fs g a b cs d8 cs6 b a g f e
+  d a b cs d e f g e b c d e fs gs a
+  e a gs fs e d c b a d' c b a g f e
+  f e d c d c b a e' fs gs a b c d e
+  c4 c, r6 a b c d e f! g!
+  a8 a, a a a a gs gs
+  c4 a a'8 a a a 
+  cs4 a a,8 a a a 
+  a4 d d8 d d d
+  bb'4 g e8 e e e
+  a,4 a' r2
+  a,4 a' r2
+  a,4 d g, r
+  g c f, r
+  f bb e, r
+  cs'8 cs cs cs cs cs cs cs
+  d d d d d d d d
+  a a a a a a a a
+  a fs' fs fs fs fs fs fs
+  $m1 d g a b c d $$ g,4 r8 d
+  $m1 g ab g $$ f4 $m1 r c' b $$ c4
+  r8 g g g fs fs fs fs
+  b4 g $m1 d d eb f eb d $$
+  c4 c' r2
+  d,4 (c8 d6 e) b4 r
+  a' (g8 a6 b) fs4 r
+  a, a' d, r
+  g, g' c, r
+  fs, fs' b, r
+  e, e' a, r
+  d2. fs4
+  $m1 d c b a b c $$ d8 e d c
+  b6 g' fs e d c b a g d' e f g e f g
+  c, a' g f e d c b a c b a gs b c d 
+  e d c b a a' b c d c b a g b a g
+  d'8 fs, fs fs fs fs fs fs
+  fs e e e e e e e
+  e ds b' b b b b b 
+  b4 b, r2
+  b'4 b, r2
+  b4 a8 d g, g' e a
+  fs b g c a ds, e b'
+  b4 fs e r
+  e' e, d r
+  d' d, c r 
+  c' a fs r
+  b,2. ds4
+  $m1 b a g fs g a $$ b8 c b a
+  g8 e'6 f! e d c b c d c b a c b a
+  g8 a6 b c d e f e d c e a, c b a
+  d c b d g, b c d e c d e f g a f
+  g g, a b c d e c f e d e f a g f
+  $m1 e e f g a b $$ c4 r
+  e e, r2
+  c'4 g e r
+  b' fs d r
+  a' e a, r
+  r6 d e fs g a b cs d8 cs6 b a g f e
+  d a b cs d e f g e b c d e fs gs a
+  e a gs fs e d c b a d' c b a g f e 
+  f e d c d c b a e' fs gs a b c d e 
+  c4 c, r6 a b c d e f! g!
+  a8 a, a a a a gs gs
+  c4 e r2
+  \dalsegno
+}

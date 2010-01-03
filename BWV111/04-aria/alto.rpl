@@ -1,0 +1,82 @@
+\relative c' {
+  \key g \major
+  \time 3/4
+
+  \partial 4
+    r4
+  R2.*27
+  r4 r g
+  $a1 d' e fs g a d, $$
+  ([g8. a3 b]) a4 d8. a6
+  ([b8. g6 a8. fs6 g8.]) e6
+  ([fs8. g3 a]) $a1 d, g fs c' $$
+  ([b6 a b c] d8.) f,6 $a1 f e
+  e c' b d, $$ $a2 d c
+  c b b a a g $$
+  g2 e'4
+  e8. d6 g4. fs8
+  [e8. d6] $a1 d d fs a
+  b a $$ $8.6 a g g fs $$
+  $a3 fs a c a
+  fs d c' a $$
+  [b8. g6] d8 g b8. c6
+  d4. b8 g8. c6
+  a4 r r
+  r r r8 b,
+  $a1 e fs gs a b e, $$
+  ([c'8. d3 e]) a,4 r8 a,
+  $a1 d e fs g a d, $$
+  ([b'8. c3 d]) $a1 g, f f e
+  e c' $$ $a2 b d, d c $$
+  c4. d8 e8. fs6
+  g4 r g,
+  $a1 c d e f g c, $$
+  ([f8. g3 a]) g4 c8. g6
+  ([a8. f6 g8. e6 f8.]) d6
+  ([e8. f3 g]) $a1 c, g' fs c' $$
+  ([b6 a b c d8.]) f,6 $a1 f e
+  e c' b d, $$ $a2 d c
+  c b b a a g $$
+  g4 r8 d' g8. b6
+  c4. r6 b [a8. g6] 
+  ([fs8. g3 a]) c,2
+  b4 r r8 d
+  $a1 e fs g a b c $$
+  d4 d, r8 a'
+  $a1 a b b c fs, g $$
+  $a3 g b d b
+  g d d' b $$
+  [c8. g6] e8 g c,8. d6
+  e4. c8 a8. d6
+  b4 r r8 c
+  $a1 d e f g a b $$
+  ([c8. d3 e]) $a1 a, g g fs!
+  d' d, $$ $a2 d c c b $$
+  b4 r r
+  R2.*22
+  r4 r b'
+  $a1 e, fs g a b e, $$
+  ([c'6 b a gs] [a e a b] c8.) a6
+  $a1 d, e fs g a d, $$
+  [b'6 a g fs] [g d g a] b4 ~
+  [b6 gs a b] $a1 e, d' c b
+  c b $$ $a2 a g fs e $$
+  $a1 ds e $$ $a2 fs g a b $$
+  (c4. a8) ([fs8. e6])
+  ds4 r8 c' $a1 as b
+  b ds, e fs $$ ds4
+  e r r
+  R2.*4
+  r4 r b'
+  $a1 e, fs g a b e, $$
+  [cs'6 b a gs] [a e a b] [cs d b cs]
+  d4 ~ [d8 cs6 b] [a g fs g]
+  [a fs g a] ds,8. fs6 b4 
+  r8 r6 a $a1 g fs e d
+  cs b $$ $a2 as b cs d $$
+  (e4. d8) [e8. fs6]
+  $a1 g g fs e d cs
+  d e $$ (cs4. b8)
+  b4 r 
+  \dacapo
+}

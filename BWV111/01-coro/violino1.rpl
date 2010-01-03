@@ -1,0 +1,126 @@
+\relative c'' {
+  \key a \minor
+  \time 4/4
+
+  a'4 e r2 \segno
+  a4 e r2
+  $m1 e c d e fs g $$ a4 r
+  $m1 d, b c d e f! $$ g4 r
+  $m1 c, a b c d e $$ f4 r
+  $m1 r f e $$ d4 $m1 r d e f e d $$
+  e4 $m1 r e d c e d $$ c4
+  $m1 r d c $$ b4 $m1 r b c d c b
+  c d e f e d e fs gs a gs fs
+  gs a b c b a b c d e d c 
+  b e, f $$ g4 ~ $m1 g e f g f e $$
+  $m2 f d e f e d 
+  e c d e d c 
+  d b c d c b 
+  c b c d c b $$
+  c8 d6 e fs gs a b e,8 d c b
+  a8 g6 f e d c b c d c b a c b a
+  g8 a6 b c d e f e d c e a, c b a
+  d c b d g, b c d e c d e f g a f
+  g g, a b c d e c f e d e f a g f 
+  $m1 e e f g a b $$ c4 r
+  c' g r2
+  $m1 r e f g a b $$ c4 r
+  $m1 r d, e fs g a $$ b4 r
+  $m1 r c, d e fs g $$ a4 r
+  r6 d,, e fs g a b cs d8 cs6 b a g f e
+  d a b cs d e f g e b c d e fs gs a
+  e a gs fs e d c b a d' c b a g f e
+  f e d c d c b a e' fs gs a b c d e
+  c4 a r6 a, b c d e f! g!
+  $m1 a a b c d e f d e f e d $$
+  a'4 e r2
+  a4 e r2
+  $m1 e c d e fs g $$ a4 r
+  $m1 d, b c d e f! $$ g4 r
+  $m1 c, a b c d e $$ f4 r
+  $m1 r f e $$ d4 $m1 r d e f e d $$
+  e4 $m1 r e d c e d $$ c4
+  $m1 r d c $$ b4 $m1 r b c d c b
+  c d e f e d e fs gs a gs fs
+  gs a b c b a b c d e d c 
+  b e, f $$ g4 ~ $m1 g e f g f e $$
+  $m2 f d e f e d 
+  e c d e d c 
+  d b c d c b 
+  c b c d c b $$
+  c8 d6 e fs gs a b e,8 d c b
+  a8 g6 f e d c b c d c b a c b a
+  g8 a6 b c d e f e d c e a, c b a
+  d c b d g, b c d e c d e f g a f
+  g g, a b c d e c f e d e f a g f 
+  $m1 e e f g a b $$ c4 r
+  c' g r2
+  $m1 r e f g a b $$ c4 r
+  $m1 r d, e fs g a $$ b4 r
+  $m1 r c, d e fs g $$ a4 r
+  r6 d,, e fs g a b cs d8 cs6 b a g f e
+  d a b cs d e f g e b c d e fs gs a
+  e a gs fs e d c b a d' c b a g f e
+  f e d c d c b a e' fs gs a b c d e
+  c4 a r6 a, b c d e f! g!
+  $m1 a a b c d e f d e f e d
+  e c d e fs gs $$ a4 r
+  a e $m1 cs cs d e d cs
+  d f g a b cs $$ d4 r
+  g, e $m1 cs a b cs d e $$
+  d4 a $m1 f e f g f e $$
+  f4 a $m1 f e f g f e $$
+  $m2 f d e f e d
+  e c b eb d c
+  d e f g g f $$
+  g4. bb6 a g8 bb6 a g4
+  $m1 r a g $$ f4 $m1 r f g a g f $$
+  g4 $m1 r g f e g f $$ e4
+  $m1 r eb' d $$ c4 $m1 r c d eb d c
+  b g a b c d $$ g,4 $m1 r f' eb
+  d f eb $$ d4 $m1 r eb d $$ c4
+  $m1 r c d eb d c $$ c'4 r
+  g d $m1 b b c d c b $$ 
+  g'4 eb r2
+  $m1 b c d e! d c d e fs g fs e
+  fs g a b a g a b c d c b $$
+  $m2 a d, e f! e d
+  e c d e d c
+  d b c d c b
+  c a b c b a
+  b a b c b a $$
+  b8 c6 d e fs g a d,8 c b a
+  g8 fs6 e d c b a g d' e f g e f g
+  c, a' g f e d c b a c b a gs b c d 
+  e d c b a a' b c d c b a g b a g
+  $m1 d' c b $$ a4 $m1 r fs g $$ a8 fs
+  g4 $m1 r b' a g b a $$ g4
+  $m1 r a g $$ fs4 $m1 r fs g a g fs $$
+  g4 fs $m1 e ds e fs e ds $$
+  e4 b $m1 g fs g a g fs $$
+  g4 r r a' ~
+  a g r e' ~
+  $m1 e fs, g a b c $$ d4 r
+  $m1 r e, fs g a b $$ c4 r
+  $m1 r d, e fs g a $$ b4 r
+  $m1 r cs, ds e fs g $$ a4 r
+  e b $m1 g fs g a g fs
+  g a b $$ cs ds e fs b,8 a g fs
+  e6 d e f! e d c b c d c b a c b a
+  g8 a6 b c d e f e d c e a, c b a
+  d c b d g, b c d e c d e f g a f
+  g g, a b c d e c f e d e f a g f
+  $m1 e e f g a b $$ c4 r
+  c' g r2
+  $m1 r e f g a b $$ c4 r
+  $m1 r d, e fs g a $$ b4 r
+  $m1 r c, d e fs g $$ a4 r
+  r6 d,, e fs g a b cs d8 cs6 b a g f e
+  d a b cs d e f g e b c d e fs gs a
+  e a gs fs e d c b a d' c b a g f e 
+  f e d c d c b a e' fs gs a b c d e 
+  c4 a r6 a, b c d e f! g!
+  $m1 a a b c d e f d e f e d $$
+  a'4 e r2
+  \dalsegno
+}

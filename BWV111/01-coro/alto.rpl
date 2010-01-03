@@ -1,0 +1,67 @@
+\relative c' {
+  \key a \minor
+  \time 4/4
+
+  R1 \segno
+  R1*16
+  r4 c e f
+  d g g f
+  e c d g
+  g g g f
+  g e f f 
+  e2 r
+  R1*2
+  r4 g f e
+  a4. a8 [gs e] e a
+  b4 ([a8 gs]) a4 a
+  [a8 gs a b] gs2
+  a4 c ([c8 b]) ([b a])
+  d4 c b2
+  a4 r r2
+  R1*16
+  r4 c, e f
+  d g g f
+  e c d g
+  g g g f
+  g e f f 
+  e2 r
+  R1*2
+  r4 g f e
+  a4. a8 [gs e] e a
+  b4 ([a8 gs]) a2 ~
+  [a8 gs] [a b] gs2
+  a4 c ([c8 b]) ([b a])
+  d4 c b2
+  a4 r r2
+  R1*11
+  r4 fs fs fs
+  g2 r4 d
+  g b, [c8 d] [eb f]
+  g4 g c a
+  b d, d d
+  eb4. d8 [c b] ([c d6 eb])
+  d4 r r2
+  R1*8
+  r4 e fs gs
+  a a g!2
+  fs4 d ds ds
+  g8 b, b'4 ~ [b8 e,6 ds] [e8 b]
+  a'4. [b6 c] ds,4. b'8
+  g4 r r2
+  R1*10
+  r4 c, e f
+  d g g f
+  e c d g
+  g g g f
+  g e f f
+  e2 r2
+  R1*2
+  r4 g f e
+  a4. a8 [gs e] e a
+  b4 ([a8 gs]) a4 a
+  [a8 gs a b] gs2
+  a4 c ([c8 b]) ([b a])
+  d4 c b2
+  a4 r r2
+  \dalsegno
+}

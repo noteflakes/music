@@ -1,0 +1,60 @@
+\relative c {
+  \key a \minor
+  \time 4/4
+
+  R1 \segno
+  R1*17
+  r4 e g a
+  g [f8 e] f4 g
+  c, e g a
+  g c c b
+  c2 r
+  R1*3
+  r2 r4 a
+  gs ([fs8 e]) a4. g8
+  f4 [e8 d] e2
+  a,4 a' e [f8 g]
+  [f d] a'4 (a gs)
+  a r r2
+  R1*17
+  r4 e g a
+  g [f8 e] f4 g
+  c, e g a
+  g c c b
+  c2 r
+  R1*3
+  r2 r4 a
+  gs ([fs8 e]) a4. g8
+  f4 [e8 d] e2
+  a,4 a' e [f8 g]
+  [f d] a'4 (a gs)
+  a r r2
+  R1*11
+  r4 d, d' d,
+  g2 r4 g,
+  f' d eb g
+  c, bb a d
+  g, r r8 g' g g 
+  g2 ~ g8 g g fs
+  g4 r r2
+  R1*9
+  r4 a b c
+  d d c2
+  b4 r8 b g4. [a6 b]
+  fs4. [g6 a] b,2
+  e4 r r2
+  R1*11
+  r4 e g a
+  g [f8 e] f4 g
+  c, e g a
+  g c c b
+  c2 r
+  R1*3
+  r2 r4 a
+  gs ([fs8 e]) a4. g8
+  f4 [e8 d] e2
+  a,4 a' e [f8 g]
+  [f d] a'4 (a gs)
+  a r r2
+  \dalsegno
+}

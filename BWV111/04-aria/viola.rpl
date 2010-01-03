@@ -1,0 +1,130 @@
+\relative c' {
+  \key g \major
+  \time 3/4
+
+  \partial 4
+    $8.6 g a
+  b c d d g g 
+  g g g d b' g 
+  g g g g fs fs $$
+  d4 r g
+  d e e 
+  e d d 
+  d d a 
+  $v2 fs a c
+  a c fs
+  b, d g
+  d g b $$
+  fs,2.
+  d4 g g 
+  g e a 
+  a fs b
+  b a a 
+  (d8. e6) fs2
+  g4 g, a
+  a g g 
+  g g d'
+  $v2 b d f
+  e g c
+  c, fs a $$
+  d,4 r r
+  $v1 d\p b a g
+  c b a g
+  g' c, d a
+  g' g a cs,
+  e a, g d'
+  b d e fs
+  b, a d g
+  e d c c $$
+  r8 r6 g $8.6 g g g g 
+  g g g g g g 
+  g g g g g g
+  g fs $$ d4 r8 b'
+  $v3 cs d e b
+  cs a d b
+  b cs a a $$
+  $v2 fs a c! 
+  a c fs
+  b, d g
+  d g b $$
+  fs2.
+  d
+  b
+  a ~
+  a
+  g ~
+  $8.6 g a b c d f
+  e fs! fs g e c $$
+  g'4 r r
+  $v1 f e d c
+  b c d e
+  c e g b
+  g, a b c $$
+  r8 r6 g $8.6 g g g g 
+  g g g g g g 
+  g g g g g g
+  g f f f f f 
+  e e e e e e 
+  fs fs fs fs fs fs $$
+  $v3 g b d d
+  g, b a e'
+  fs d g, g
+  g d' d a $$
+  $v2 g b d r
+  b d f
+  c e g
+  e g c $$
+  r4 $8.6 d,, g f e $$
+  d4 r r 
+  R2.
+  r4 r r8 a'\f
+  (b8. c6) d4 $8.6 g g
+  g g g d b' g
+  g g g g fs fs $$
+  d4 r g
+  d e e 
+  e d d 
+  d d a
+  $v2 fs a c
+  a c fs
+  b, d g
+  d g b $$
+  fs,2.
+  d4 g g
+  g e a
+  a fs b
+  b a a 
+  (d8. e6) fs2
+  g4 g, a
+  a g g 
+  g g d'
+  $v2 b d f
+  e g c
+  c, fs a $$
+  d,4\fermata r r
+  R2.*2
+  r4 r fs,\p
+  (b8. c6) d4 b
+  gs gs' r
+  R2.
+  fs,2. ~
+  fs ~
+  fs4 r r 
+  R2.
+  r4 r e'\f
+  e a a 
+  $8.6 a fs e e e ds
+  ds e e b b b $$
+  b4 r r
+  R2.*2
+  r4 r cs_\editP
+  (fs8. g6) a4 fs
+  ds ds' r
+  R2.
+  fs,,2.
+  e ~
+  e4 r r 
+  R2.
+  r4 r 
+  \dacapo
+}

@@ -1,0 +1,130 @@
+\relative c' {
+  \key g \major
+  \time 3/4
+
+  \partial 4
+    d4
+  $8.6 g a b c d g,
+  e' c d b g' d
+  e c d g, c a $$
+  (b8. c3 d) $8.6 g, b' b a
+  a d, cs g' b,\trill a
+  a g' fs a, a\trill g
+  g\trill fs fs\trill e e cs' $$
+  d,4 ~ d6 fs a c! fs a fs c
+  d,4 ~ d6 fs a c! fs a fs c
+  d,4 ~ d6 g b d g b g d
+  d,4 ~ d6 g b d g b g d
+  c, d b d c d b d c d a d 
+  $8.6 b c d e f g, 
+  e' c b\trill a a g'
+  fs d c\trill b b a'
+  g e d\trill c c b'
+  a d, $$ (c'4. d6 e)
+  $8.6 d f, e d' c e,
+  d c' b d, d\trill c
+  c\trill b b\trill a a fs' $$
+  g,4 ~ g6 b d f b d b f
+  g,4 ~ g6 c e g c e c g
+  g,4 ~ g6 eb' a c fs a fs c
+  <g, d' b' g'>4 r r
+  $v1 d'\p g a b
+  g b c d
+  e fs g a
+  d, e fs g
+  r g fs e d
+  r d c b a
+  r b cs d e $$
+  r8 e, $8.6 fs g a d,
+  g a b c d g,
+  e' c d b g' d
+  e c d g, c a $$
+  (b8. c3 d) $8.6 g, b' b a
+  a d, cs g' b,\trill a
+  a g' fs a, a\trill g
+  g\trill fs fs\trill e e cs' $$
+  d,4 ~ d6 fs a c fs a fs c
+  d,4 ~ d6 fs a c fs a fs c
+  d,4 ~ d6 g b d g b g d
+  d,4 ~ d6 g b d g b g d
+  c, d b d c d b d c d a d
+  b d a d b d a d b d g, d'
+  d e c e d e c e d e b e 
+  c e b e c e b e c e a, e'
+  c d b d c d b d c d a d 
+  b d a d b d a d b d g, d'
+  c d a d b d a d b d g, d'
+  c d a d b d g, d' a d c d
+  b d a d g, b d f b d b f
+  g,4 ~ g6 c e g c e c g
+  c,4 ~ c6 e g c e g e bb
+  c,4 ~ c6 e g b! d f d b
+  c,4 ~ c6 fs a d fs a g fs
+  $8.6 g a, b c d g,
+  e' c d b g' d
+  e c d g, c a $$
+  (b8. c3 d) g,6 d f g b d b f
+  g,4 ~ g6 c e g c e c g
+  g,4 ~ g6 eb' a c fs a fs c
+  <g, d' b' g'>8. d''6 $8.6 b g f\trill e
+  e d' c e, e\trill d
+  d c' b d, d\trill c
+  c\trill b b\trill a a fs' $$
+  g,4 ~ g6 b d f b d b f
+  g,4 ~ g6 b d f b d b f
+  g,4 ~ g6 c e g c e c g
+  g,4 ~ g6 c e g c e c g
+  $8.6 g, a b c d e $$
+  f4 r r
+  R2.
+  r4 r r8 fs!\f
+  $8.6 g a b c d g, 
+  e' c d b g' d
+  e c d g, c a $$
+  (b8. c3 d) $8.6 g, b' b a
+  a d, cs g' b,\trill a
+  a g' fs a, a\trill g
+  g\trill fs fs\trill e e cs' $$
+  d,4 ~ d6 fs a c! fs a fs c
+  d,4 ~ d6 fs a c! fs a fs c
+  d,4 ~ d6 g b d g b g d
+  d,4 ~ d6 g b d g b g d
+  c, d b d c d b d c d a d 
+  $8.6 b c d e f g,
+  e' c b\trill a a g'
+  fs d c\trill b b a'
+  g e d\trill c c b'
+  a d, $$ (c'4. d6 e)
+  $8.6 d f, e d' c e,
+  d c' b d, d\trill c
+  c\trill b b\trill a a fs' $$
+  g,4 ~ g6 b d f b d b f
+  g,4 ~ g6 c e g c e c g
+  g,4 ~ g6 eb' a c fs a fs c
+  <g, d' b' g'>4\fermata r4 r
+  R2.*2
+  r4 r d'\p
+  $8.6 g a b c d g, 
+  f' d $$ e4 r
+  R2.
+  ds,4 ~ ds6 fs a c fs a fs c
+  ds,4 ~ ds6 fs a c fs a fs c
+  a,4 r r
+  R2.
+  r4 r8 d'\f $8.6 d\trill c
+  c a' ds, a' e a
+  fs a g b, b\trill a
+  a\trill g g\trill fs fs ds' $$
+  e4 r r
+  R2.*2
+  r4 r a,\f
+  $8.6 d e fs g a d,
+  c' a $$ b4 r
+  R2.
+  as,,4 ~ as6 cs e g cs e cs g
+  as,4 ~ as6 cs e g cs e cs g
+  as,4 r r
+  R2.
+  r4 r
+  \dacapo
+}

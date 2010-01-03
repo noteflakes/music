@@ -10,6 +10,29 @@ movements:
     midi_tempo: 60 4
   06-choral:
     midi_tempo: 90 4
+parts:
+  oboe1:
+    breaks:
+      - 05-recitativo
+  oboe2:
+    breaks:
+      - 05-recitativo
+  violino1:
+    breaks:
+      - 04-aria
+      - 04-aria
+      - 05-recitativo
+  violino2:
+    breaks:
+      - 04-aria
+      - 04-aria
+  viola:
+    breaks:
+      - 04-aria
+  continuo:
+    breaks:
+      - 02-aria
+      - 04-aria
 score:
   order:
     - oboe1

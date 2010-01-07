@@ -36,7 +36,7 @@
   R1*11
   r2 a
   a a
-  (b2. [b8 a])
+  b2. ~ [b8 a]
   b2 g
   g fs
   g1 ~ 

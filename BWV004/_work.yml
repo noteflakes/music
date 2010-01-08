@@ -1,0 +1,22 @@
+title: Cantata BWV 4
+subtitle: "\"Christ lag in Todesbanden\""
+composer: Johann Sebastian Bach
+score:
+  order:
+    - violino1
+    - violino2
+    - viola1
+    - viola2
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - brace: [viola1, viola2]
+    - bracket: [soprano, alto, tenore, basso]
+macros:
+  d1: "#8 #6 #"
+  d2: "#6 # #8"
+  v1: "r6 # # # #4"

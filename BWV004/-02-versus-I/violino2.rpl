@@ -1,0 +1,102 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+  \tempo "Allegro"
+ 
+  R1
+  r4 r8 e' ds4 b
+  as r6 as gs as b4 r6 cs b cs
+  d4 r6 d cs d e4 r6 e fs e
+  d4 r6 d e d cs4 r6 cs d cs
+  b4 r6 e d e cs4 r6 fs e fs
+  g4 r6 fs e fs ds4 r6 e d e 
+  c4 r6 b a b g4 r6 b a b
+  g4 r6 g fs g a4 r6 a g a
+  b4 r6 b a b g4 r6 g a g
+  fs4 r6 e ds e fs4 r6 fs g fs
+  e4 r6 e' d e a,4 r6 e' ds e
+  e,8 b' g! a b2 ~
+  b8 b e fs b, c6 b a8 b6 a
+  g8 a b d cs cs b as
+  b4 r8 fs b4 cs
+  ds8 ds b c b fs g a
+  g4. fs8 e fs6 g a8 fs
+  b g fs g6 a b4 r6 b cs b
+  as4 r6 as gs as b4 r6 cs b cs
+  d4 r6 d cs d e4 r6 e fs e 
+  d4 r6 d e d cs4 r6 cs d cs
+  b4 r6 b a b c!4 r6 fs, g fs
+  e4 r8 c' fs, e6 fs g8 fs6 g
+  a8 g6 a b8 a6 b g8 fs6 g a8 g6 a 
+  fs8 e6 fs e8 b' a b6 c b4 ~
+  b8 e, a fs b4. b8
+  fs'4. d8 g4. fs8
+  b4. b,8 cs4. d6 cs
+  b4 ~ b6 c a c b4 r6 b a b
+  g4 r6 g fs g a4 r6 a g a
+  b4 r6 b a b g4 r6 g a g 
+  fs4 r6 e ds e fs4 r6 fs g fs
+  e4 r6 b' c b a4 r6 b c b
+  e,4 r6 e' ds e e,8 b' e d
+  c2 ~ c6 c d c b b c b 
+  a4 ~ a6 a b a g4 ~ g6 g a g
+  fs4 fs\trill e8 b'6 a g a g fs
+  e8 e'6 d c e d c b8 b e g,
+  a6 c b a g a g fs
+  e8 g b d
+  e6 fs e d c8 c fs6 g fs e d8 d
+  e c b8. b6 b6 c b a g a g fs
+  e4 ~ e6 ds e fs g4 ~ g6 e fs g
+  a4 ~ a6 b, c a e'4 ~ e6 ds e fs
+  g4 ~ g6 e fs g a4 ~ a6 c b a
+  b8 b b6 c b a g8 g c6 d c b
+  a8 a d6 e d c b d c b a8. g6
+  g4 r8 b6 a g8 c b6 a g fs
+  e8 g' cs, cs d fs e cs
+  fs b6 a g8 fs fs b, c b
+  b a b e6 d c8 d6 c b8 b
+  e, a6 g fs8 fs e fs6 g a8 fs
+  b c6 b a8 b b4 r8 b
+  e4 r8 e ds4 r8 ds
+  e4 r8 e fs4 r8 fs6 e
+  d4 r8 d cs4 r8 cs
+  b ds6 cs b8 b b b'6 a g8. a6
+  b8 fs g r r a, g r 
+  r d' fs r r g, c r 
+  r c g r r b c r 
+  r b d r r a d r
+  r e d r r e d r 
+  r e cs r r b g r
+  r d' b r r d b r
+  r d a r r g fs r
+  r g b r r a d r 
+  r d g r r e c! ds
+  \bar "||" \tempo "Alla breve"
+  b r r4 r2 
+  R1
+  r2 r8 d4 c8
+  b4 a g8 gs a b
+  c cs d e fs d4 c8
+  b b cs ds e ds e fs 
+  g e, fs gs a gs a b
+  c a b cs d cs d e 
+  fs fs, g a b b cs ds 
+  e g, a b c c4 b8
+  a4 g fs8 d'4 c8
+  b4 a g8 g'4 f8
+  e4 d c8 c4 b8
+  a4 g fs8 b4 a8
+  g4 fs e8 e'4 d8
+  c4 b a8 r r e'
+  ds r r e b a g fs
+  e r r4 r8 g a b
+  c e, fs g a r r4
+  r8 b4 a8 g4 fs
+  e8 r r ds' e r r ds
+  e4 r8 b' b,4 r8 b'
+  b,4 r8 b' b,4 r8 b' 
+  b,4 r8 b' b,4 r8 b' 
+  b,4 r8 b' b,4 r8 b' 
+  b,4 r8 e, e4 ds
+  e1\fermata
+}

@@ -1,0 +1,19 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+
+  r4 e fs fs
+  e e fs fs
+  e r r cs
+  e r r cs
+  d e fs fs 
+  fs e fs gs
+  fs e fs e
+  e fs g e
+  fs fs g a
+  b8 g a b c2 ~
+  c8 d c b a4 b8 c
+  b2 a4 r
+  r cs, fs b,
+  b1\fermata
+}

@@ -3,6 +3,7 @@ subtitle: "\"Christ lag in Todesbanden\""
 composer: Johann Sebastian Bach
 score:
   order:
+    - violini
     - violino1
     - violino2
     - viola1

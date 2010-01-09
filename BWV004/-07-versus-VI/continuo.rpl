@@ -1,0 +1,48 @@
+\relative c {
+  \key e \minor
+  \time 4/4
+ 
+  $d e e fs fs g e c' c
+  b a g fs e d c a
+  b g a b e fs g g 
+  fs e d cs b a g e
+  fs d' e fs b, a' g fs
+  e c b a g g c c 
+  a a b b g g c c 
+  a a b b e, e c' c
+  b a g fs e d' c a
+  b g a b e fs g g 
+  fs e d cs b a g e
+  fs d e fs b a' g fs
+  e c b a g g c c 
+  a a b b g g c c 
+  a a b b e e fs fs
+  g e c' c b a g fs 
+  e d c a b g a b
+  e e d d c c a a 
+  e' e d d c c b b 
+  a a d, d g a' g fs
+  e d c b a fs b b 
+  e, e' as, as $$ b4 r
+  $d r b' as fs $$ b4 r
+  b, r $d b e fs fs,
+  b b cs cs d b g' g 
+  fs e d cs d b b' b
+  a g fs e fs d g b,
+  c a d d, g d' g g 
+  fs e d c b a g g'
+  fs e d c b a g fs
+  e e' b' b, b' gs a a,
+  a' fs g g, g' e fs fs,
+  fs' ds e b c g a b
+  e e fs fs g a g fs
+  e d c b a g' fs e
+  d c b a g fs' e d 
+  c b a g fs e' ds cs
+  b a g fs e d' c b $$
+  a4 r a r
+  $d b b' g e ds e a, b
+  e b' e d c b a g 
+  fs ds e b c a b b $$
+  e,4 r r2\fermata
+}

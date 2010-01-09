@@ -1,0 +1,90 @@
+\relative c' {
+  \key e \minor
+  \time 3/4
+  
+  \partial 4 r4
+  R2.*5
+  r4 r d
+  cs2 d4 
+  fs2 e4
+  g d e
+  ds fs2
+  e e4
+  b2 e4
+  fs2 fs4
+  e2 fs4
+  e2 fs4
+  ds e8 fs g e
+  e c b2
+  b4 r e
+  fs2 fs4
+  g e a
+  fs ds b8 a 
+  g4 g' e
+  e e a
+  g d2
+  cs d4
+  fs2 e4
+  g d4. fs8
+  gs2. ~
+  gs4 cs,2
+  ds4 fs2
+  e e4
+  b2 e4
+  fs2 fs4
+  g2 b,4
+  e c e
+  d fs8 b, e4
+  e8 c b2
+  b r4
+  R2.
+  r4 a' b
+  c r r 
+  R2.*3
+  g4 r8 b g b
+  g4 r8 c a c
+  a4 r8 fs d fs
+  d e d4 d
+  d d ds
+  e r r 
+  r c c 
+  d2.
+  c4 c c 
+  b2.
+  r4 r b
+  b2.
+  e2 cs4
+  fs2.
+  r4 b, d
+  e cs fs
+  fs2 fs4
+  g2 a4
+  b2 r4
+  r d, d
+  r8 b gs b d b
+  gs b gs b d b
+  d gs, fs4 fs'
+  fs2 fs,4
+  g fs2
+  fs r4
+  r a' b
+  r d, d 
+  r4 a' g
+  a r r
+  R2.*6
+  r4 r e
+  d2 d4
+  d2 d4
+  b8 e c a b4
+  b r cs
+  e r fs
+  a r g,
+  b r a
+  e' fs fs
+  g r e
+  r b8 ds e4
+  r4 r8 c fs, b
+  b4 r r 
+  b8 b b4 b
+  b2.\fermata
+}

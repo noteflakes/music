@@ -12,6 +12,10 @@ To process BWV676 run the following:
 
     ripple BWV676
     
-To process all pieces, run ripple without any arguments.
+To process all pieces, run ripple without any arguments (yes, this is going to take a while...)
 
-All PDF files are placed in the \_pdf\_ directory.
+For a full list of options run:
+
+    ripple -h
+
+All PDF files are placed in the \_pdf subdirectory.

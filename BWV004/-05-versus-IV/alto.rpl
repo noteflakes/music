@@ -1,0 +1,37 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+
+  R1*4
+  r4 fs es fs 
+  a b a gs
+  fs r r2
+  R1
+  r2 r4 fs
+  d e fs d
+  [cs8 b] cs4 b r
+  R1*4
+  r2 r4 fs' 
+  es [fs8. gs6] a4 b
+  a gs fs r
+  R1*2
+  r4 fs d e
+  fs d [cs8 b] cs4
+  b r r2
+  R1*3
+  b4 d e b
+  d e fs r
+  R1*2
+  r2 r4 fs 
+  b (as b) [cs8 b]
+  a!4 gs fs r
+  R1
+  r4 fs a fs
+  a e d cs
+  b r r2
+  R1
+  fs'2 e
+  d cs
+  b1
+  R1*3
+}

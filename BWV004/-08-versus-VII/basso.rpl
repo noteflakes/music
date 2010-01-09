@@ -1,0 +1,18 @@
+\relative c {
+  \key e \minor
+  \time 4/4
+  
+  \partial 4 e4
+  [fs8 e] [d cs] b4 as
+  b fs b\fermata ds
+  e fs [g8 fs] e4
+  [a,8 b6 c] b4 e,\fermata \bar ":|" r
+  e'4. d8 [c b] a4
+  e'4 fs g\fermata [g8 fs]
+  (e4 fs) gs as
+  b fs b,\fermata e
+  d g [b,8 c] d4
+  e b c2\fermata
+  (g'4 ds) (e c)
+  (a b) e,2\fermata
+}

@@ -1,0 +1,55 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+
+  r6 e' ds e e, e' ds e c b a g fs b a b
+  g g' fs g g, g' fs g e d c b a d c d 
+  b b' a b b, b' a b g fs e d cs a' g a 
+  ds, a' g a e g fs g a, c fs a, g e' fs, ds'
+  e, e' ds e e, e' d e cs b as gs fs fs' e fs
+  b, b' a b b, b' a b b, d fs b, g' b, e as,
+  d fs e fs b, b' a b g fs e d cs a' g a 
+  ds, a' g a e g fs g a, c fs a, g e' fs, ds'
+  e, e' ds e e, e' a g fs e ds cs b fs' e d
+  c! g fs e ds c' b a g a g fs e e' ds e
+  c b a g fs b a b g g' fs g g, g' fs g
+  e d c b a d c d b b' a b b, b' a b
+  g fs e d cs a' g a ds, a' g a e g fs g
+  a, c fs a, g e' fs, ds' e, e' ds e e, e' d e
+  cs b as gs fs fs' e fs b, b' a b b, b' a b
+  b, d fs b, g' b, e as, d fs e fs b, b' a! b
+  g fs e d cs fs e fs ds fs e fs b, e d e
+  c b a g fs b a b e, e' ds e e, e' a g
+  fs e ds cs b fs' e d c g fs e ds c' b a
+  gs a gs fs e g'! fs g e d c b a d c d 
+  b c b a g b' a b g fs e d cs a' g a
+  ds, a' g a e g fs g a, c fs a, g e' fs, ds'
+  /1 e4 /2 e,4 /u r4 r6 e' ds e a, e' ds e
+  b e ds e e, a' gs a /1 ds,8 ds ds ds
+  <e b> <e b> e e fs e ds cs
+  b e fs fs b,
+    /2 r8 <b, fs'> <b fs'> <b fs'>
+  <b e> <b e> a' <g b> <a b> r a fs 
+  g b a a g
+    /u r \tempo "Adagio" r4
+  r4 r8 d' b d6 as b4 ~
+  b8 cs6 gs as8. b6 \tempo "Allegro" b\f fs' e fs b, b' a! b
+  g fs e d cs fs e fs ds fs e fs b, e d e
+  c b a g fs b a b g b a b e, g' fs g
+  a, a' g a g, g' fs g a, a' g, g' fs, fs' ds fs
+  e e, b' e c a ds, a' g b a b e, e' d! e
+  c e d e a, fs' e fs ds fs e fs b, b' a b
+  g fs g a g a fs g e8 /1 g a b
+  c e, fs gs a6 gs a b
+    /2 b,8 c d
+  e g, a b c6 r r8
+    /u a'6 b g a
+  fs d e fs g a fs g e8 fs ds8. e6
+  e b c d e e, fs gs a e' fs gs a fs g a
+  a, fs' g, e' c a fs b g e' ds e e, e' ds e
+  c b a g fs b a b g g' fs g g, g' fs g
+  e d c b a d c d b b' a b b, b' a b
+  g fs e d cs a' g a ds, a' g a e g fs g
+  a, c fs a, g e' fs, ds'
+  /1 e4\fermata /2 e, /u r
+}

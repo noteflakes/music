@@ -1,0 +1,38 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+  
+  R1*4
+  r4 b as [b8 cs]
+  d4 e d cs
+  b r r2
+  r2 r4 b
+  g a b g
+  [fs8 e] fs4 e2
+  R1*3
+  r2 r4 b'
+  as [b8 cs] d4 e
+  d cs b r
+  R1
+  r4 b g a
+  b g [fs8 e] fs4
+  e r r2
+  R1*2
+  e4 g a [e8 fs]
+  g4 a b r
+  r2 r4 b
+  e ds e8 r \tempo "Adagio" r fs
+  d2. ~ [d8 e6 cs]
+  [d8. e6] cs4 \tempo "Allegro" b4 r
+  R1
+  r2 r4 b
+  d b d a
+  g fs\trill e r
+  R1
+  r8 [b'6 a] [b c] [a b] g8 [g6 fs] [g a] [fs g]
+  e8 [e'6 d] [e fs] [d e] [c b c d] [c d b c]
+  [a fs g a] [b c a b g8] a fs8. e6
+  e4 r6 [g a b] c4 r6 [a b c]
+  [ds,8 e] e8. ds6 e4 r
+  R1*4
+}

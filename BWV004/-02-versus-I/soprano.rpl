@@ -1,0 +1,75 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+  \tempo "Allegro"
+ 
+  b'1 ~
+  b
+  as2 b
+  d e
+  d cs
+  b r
+  R1
+  r2 b
+  g a 
+  b g
+  fs4 e fs2
+  e1
+  R1*6
+  r2 b'
+  as b
+  d e 
+  d cs
+  b r
+  R1*6
+  r2 b 
+  g a
+  b g
+  fs4 e fs2
+  e1 ~
+  e2 r
+  R1*7
+  e2 g 
+  a e 
+  g a 
+  b r
+  R1*6
+  r2 b
+  e ds 
+  e fs
+  d cs
+  b1 
+  R1*6
+  r4 b d b
+  d a g fs
+  e8 r r e' d r r g
+  fs r r fs fs e e ds
+  \bar "||" \tempo "Alla breve"
+  e4 r r2
+  R1
+  r2 r8 d4 c8
+  b4 a g8 gs a b
+  c cs d e fs d4 c8
+  b b cs ds e ds e fs 
+  g e, fs gs a gs a b
+  c a b cs d cs d e 
+  fs fs, g a b b cs ds
+  e g, a b c c4 b8
+  a4 g fs8 d'4 c8
+  b4 a g8 g'4 f8
+  e4 d c8 c4 b8
+  a4 g fs8 b4 a8
+  g4 fs e8 e'4 d8
+  c4 b a8 r r e'
+  ds r r e b a g fs 
+  e r r4 r8 g a b
+  c e, fs g a r r4
+  r8 b4 a8 g4 fs
+  e8 r r ds' e r r ds
+  e b4 a8 g4. fs8
+  e ds e fs g fs g a 
+  b b4 a8 g4. fs8
+  e ds e fs g fs g a 
+  b ds e e, e4 ds
+  e1\fermata
+}

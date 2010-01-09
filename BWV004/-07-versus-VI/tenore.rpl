@@ -37,7 +37,7 @@
   $t c d c b c b $$ a8 g fs4
   $t b c b a b a $$ g8 fs e4
   $t a b a g a g fs g fs e fs e $$
-  ds8  ds' $t e d e fs g e $$ ds4
+  ds8  ds' $t e ds e fs g e $$ ds4
   e4 r r2
   R1
   r1\fermata

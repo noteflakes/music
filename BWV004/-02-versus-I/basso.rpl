@@ -1,0 +1,101 @@
+\relative c {
+  \key e \minor
+  \time 4/4
+  \tempo "Allegro"
+
+  r2 r4 r8 e
+  ds ds e e b4 e,8 r
+  r fs' e fs d d cs4
+  b r8 b cs4. cs8
+  d4. g8 [es cs fs e]
+  [ds b] e4. fs6 e ds8 b
+  (e4 fs) b, c
+  a b e,8 e r4
+  r8 e' ds d cs a d4
+  g,8 g' g fs e4 r8 e
+  [a, b c b] [as gs6 as b8 a]
+  [gs8 fs6 gs] [a8 b] [c b] a4
+  e r r2
+  R1
+  r2 r8 e' d cs
+  b fs' [gs as] [b6 fs] b4 as8
+  b4 e, ds e
+  g a (g fs)
+  e r8 e ds e g g 
+  fs4 ~ [fs6 g e fs] d8 d' [d cs]
+  b r r4 r2
+  r8 a g fs e cs fs4
+  b, r8 g [a fs] b4
+  e, r r2
+  R1
+  r2 r4 r8 b'
+  gs4 a b g
+  [fs8 e] fs4 e e'
+  $d3 e fs e d e d $$ cs4 fs
+  b, e $d3 e fs e ds cs ds
+  e g fs e d e c b c $$ d4
+  g, r r r8 e'
+  e ds e [c6 b] [a8 g6 fs] b4
+  e, r8 e' a a, gs gs'
+  a4 a, e r
+  R1
+  R1
+  R1
+  r2 e'4 g
+  a e [g6 a g fs] [e fs e d]
+  [c d c b a8] a [d6 e d c b8] b
+  c a b8. b6 e,4 r
+  a8 c e e, [e'6 fs e d] [c d c b]
+  a8 a [a'6 c b a] [g a b a] [g a g fs]
+  [e fs g fs] [e fs e d] [c d c b a8] d
+  g,4 r r2
+  R1
+  R1
+  R1
+  R1
+  r4 e' a gs
+  a b g fs
+  e8 e [fs b6 a g8] e b' b
+  [b cs6 b as8] as b4 r8 b,
+  e e r e [e fs6 e d8] cs
+  [b a] [g fs] es4 fs
+  b r8 b [e8 e,6 fs g8] e
+  b'4 r r8 fs' g r 
+  r d ds b e c a b
+  e,4 e' g e
+  g d c b
+  a8 a d r r a d r 
+  r a as fs b g' e fs
+  b, d g4 r8 fs g4
+  r8 d ds b e c a b
+  e, r r e' fs r r g 
+  d r r ds e c a b
+  \bar "||" \tempo "Alla breve"
+  e, r r4 r8 e'4 d8
+  c4 b a8 a'4 g8
+  fs4 e d8 d e fs
+  g b, cs ds e e fs gs
+  a g fs e d r r4
+  r8 b'4 a8 g4 fs
+  e8 e4 d8 c4 b
+  a8 a'4 g8 fs4 e
+  d8 d e fs g g4 fs8
+  e4 d c8 e fs gs
+  a a, b cs d d e fs 
+  g g4 fs8 e4 d
+  c8 c'4 b8 a4 g
+  fs8 fs4 e8 e4 ds
+  e r r8 e fs gs
+  a a4 g8 fs r r g
+  fs r r g ds b cs ds
+  e e4 d8 c4 b
+  a8 a'4 g8 fs4 e
+  ds8 b cs ds e e4 d8
+  c4 r8 c b4 r8 c'
+  b a g fs e ds e fs
+  g fs g a b b4 a8
+  g4. fs8 e ds e fs 
+  g fs g a b b4 a8
+  g4 r8 a, b4 b
+  e,1\fermata
+}

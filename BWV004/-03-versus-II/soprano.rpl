@@ -1,0 +1,58 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+  
+  R1
+  R1
+  r4 b' as r
+  r b as r
+  r b as [b8 cs]
+  d2 e ~
+  e4 (d cs) cs\trill
+  b r r2
+  r2 r4 b
+  g2 a
+  b2. a4 ~
+  a g fs2
+  e4 r r2
+  R1
+  r4 b' as r
+  r b as r
+  r b as [b8 cs]
+  d2 e ~
+  e4 (d cs) cs\trill
+  b r r2
+  r r4 b
+  g2 a
+  b2. a4 ~
+  a g fs2
+  e4 r r2
+  R1
+  e4 g a2 ~
+  a4 e g2
+  r4 g a2
+  r4 a b [c8 b]
+  b2 r
+  r r4 b
+  e2 r4 e
+  fs2. d4
+  (e2. d4
+  cs) cs b r
+  R1
+  r2 r4 b
+  d2. b4
+  d2. ds4
+  e e, e2 ~
+  e4 e8 e e4 ds
+  e4 r b'2 
+  a g
+  fs e
+  r4 d'2 cs4 ~
+  cs b2 as4
+  b2 r4 b ~
+  b a2 (g4
+  fs) g a [b8 a]
+  g4 fs e2 ~
+  e1
+  r1\fermata
+}

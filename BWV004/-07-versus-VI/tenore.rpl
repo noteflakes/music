@@ -1,0 +1,44 @@
+\relative c' {
+  \key e \minor
+  \time 4/4
+  
+  R1*2
+  r2 r4 b
+  as b d e
+  d cs b b 
+  g a b g
+  $t a g a fs e fs b a b g fs g
+  a g a $$ fs4 e e
+  ds e g a
+  g fs e r8 e'
+  fs2. b,4 ~ 
+  b as b r \override TupletNumber #'stencil = ##f
+  r8 e fs fs g g $t e ds e
+  fs e fs ds cs ds g fs g e ds e
+  fs e fs $$ ds4 e r
+  R1*2
+  r2 a,4 c
+  e e, $t fs e fs g fs g
+  a g a $$ fs4 g b
+  e2. ds4
+  e fs $t d cs d e d e
+  cs b cs d cs d b as b cs b cs
+  d cs d as gs as b cs b $$ as4
+  b r r2
+  R1*3
+  r2 r4 b
+  d b d (ds
+  e) e $t d! c! b $$ c4 ~
+  $t c b a $$ b4 ~ $t b a g $$ a4 ~
+  $t a g fs $$ g4 ~ $t g fs e $$ ds4
+  e r r2
+  $t e' fs e d e d $$ c8 b a4
+  $t d e d c d c $$ b8 a g4
+  $t c d c b c b $$ a8 g fs4
+  $t b c b a b a $$ g8 fs e4
+  $t a b a g a g fs g fs e fs e $$
+  ds8  ds' $t e d e fs g e $$ ds4
+  e4 r r2
+  R1
+  r1\fermata
+}

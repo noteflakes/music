@@ -1,0 +1,26 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  \tempo "Molto adagio"
+
+  r4 (g'8 g g) (g6 f) (f8 eb6 d)
+  d8 (c6 bb) eb8 eb (ab ab ab ab)
+  (ab6 g) g8 (g6 f) (f eb) d8 (eb6 f) d8. eb6
+  (eb8 eb g g) (f f f f)
+  (g g g g) (g g g g)
+  (ab ab ab ab) (ab ab ab ab)
+  (f f f f) (g g g g)
+  (f f f f) (f f) (f6 ab) (ab g)
+  (g8 g g g) (c, f eb eb)
+  (d d f f) (f f f f)
+  (g g g g) (g g g g)
+  (ab ab c, c) (f f f e)
+  (f f c c) (f f f f)
+  (eb eb g g) (eb eb g g)
+  (eb eb ab ab) (f f a a)
+  (f f f f) (eb eb f f)
+  (g g ab g) (f f f f)
+  (g g g g) (g g g g)
+  (ab ab ab ab) (ab ab f f)
+  g1\fermata
+}

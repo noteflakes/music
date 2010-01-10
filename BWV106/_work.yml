@@ -1,6 +1,11 @@
 title: Cantata BWV 106
-subtitle: "\"Gottes Zeit ist die allerbeste Zeit\" (Actus Tragics)"
+subtitle: "\"Gottes Zeit ist die allerbeste Zeit\""
 composer: Johann Sebastian Bach
+parts:
+  viola-da-gamba1:
+    clef: alto
+  viola-da-gamba2:
+    clef: tenor
 score:
   order:
     - flauto1

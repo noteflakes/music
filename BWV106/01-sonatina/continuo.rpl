@@ -1,0 +1,26 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+  \tempo "Molto adagio"
+  
+  (eb,8 eb eb eb) (ab ab ab ab)
+  (ab ab g g ) (f f' d d)
+  (eb eb ab, ab) (bb bb bb bb)
+  eb, eb eb eb eb eb eb eb
+  eb eb eb eb eb eb eb eb
+  ab ab ab ab ab ab ab ab
+  ab ab ab' ab g g c c
+  a! a f f bb bb bb, bb
+  e, e e e f f f f 
+  (bb bb bb' bb) (ab ab ab ab)
+  (g g eb eb) (c c bb' bb)
+  (ab ab f f) (db bb c c)
+  (f, f f' f) (d d bb bb)
+  (eb eb eb eb) (g, g eb eb)
+  ab ab ab ab a a f f 
+  (bb bb ab ab) (g g ab ab)
+  (bb bb c c) (ab ab bb bb)
+  eb, eb eb eb eb eb eb eb
+  eb eb eb eb eb eb eb eb
+  eb1\fermata
+}

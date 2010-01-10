@@ -1,0 +1,24 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+  \tempo "Molto adagio"
+
+  R1*3
+  f'4 r6 (c f e) e8 r r (bb'6 e,)
+  f4 r6 (c f eb) eb8 r r (c'6 eb,)
+  d4 r6 (c d bb) g'8 r r (bb6 d,)
+  e8 (d6 c) r6 (g' c e,) f8. e6 f8. e6
+  f8. eb6 f8. d6 eb4 r
+  r4 r8 (a6 c,) b8 (c6 d) b8. c6
+  c4 r8 (c'6 e,) e8 r r (c'6 e,)
+  f8. e6 f8. e6 f8 r r (d'6 fs,)
+  g8. fs6 g8. fs6 g8. a6 a8.\prall g6
+  g4 r6 (a bb a) bb8. a6 bb8. c6
+  a4 r6 (c, f eb) eb8. d6 eb8. f6
+  d4 r6 (d g f) f8. e6 f8. g6
+  e4 r6 (e c' e,) f8. c6 f8. e6
+  f8. c6 f8. e6 f8. g6 e8. f6
+  f4 r6 (f c' eb,) eb8 r r (c'6 eb,)
+  d4 r6 (d bb' e,) e8 (bb'6 e,) e8.\prall e6
+  f1\fermata
+}

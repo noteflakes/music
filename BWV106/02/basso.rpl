@@ -1,0 +1,128 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+  
+  r2 r4 g'8 eb
+  bb'4 g8 eb ab ab ab4.
+    ([bb6 ab]) g8 ([f6 eb]) ab8 ([g6 f]) bb8 bb,
+  eb4 r8 c g'4. ([f6 eb])
+  f8 ([f6 eb]) d8 eb f bb, f' f,
+  bb4 r r2
+  \bar "||" \time 3/4 \tempo "Allegro"
+  R2.*6
+  r4 eb eb
+  ([bb'8 ab]) bb4 r
+  ([ab8 bb ab bb ab bb]
+  c4) ([g8 ab g ab]
+  [bb c bb c ab bb]
+  g4) eb g
+  bb bb, r
+  r r f'
+  c' c, r
+  R2.*3
+  
+  
+  r4 bb bb
+  ([eb8 d]) eb4 r
+  [d8 eb d eb d eb]
+  f4 [c8 d c d]
+  eb4 c f
+  bb, bb r
+  R2.*3
+  
+  
+  r4 r g'
+  ab f bb
+  eb, r r
+  R2.*3
+  r4 eb c
+  \bar "||" \time 4/4 \tempo "Adagio assai"
+  fs, f f eb
+  ab4. ab8 g4 r
+  r c'8 g ab4 a
+  bb bb8 f [g d] ([eb6 b c8])
+  f4 f8 f f4 ([eb8 ab])
+  g4 g, c r
+  ab4. ab8 g2\fermata
+  \bar "||" \time 4/4 \tempo "Lento"
+  R1*23
+  \bar "||" \time 3/8 \tempo "Vivace"
+  r8 r c
+  eb d c 
+  g'4 r8
+  R4.
+  r8 r c,
+  eb d c
+  g'4 r8
+  c c g
+  (ab e4
+  f8) c4
+  db8 db c
+  (bb6 c db eb f g)
+  (ab db,) eb4
+  ab, r8
+  R4.*4
+  c'8 c g
+  ab f4
+  bb8 bb f
+  g eb4
+  eb8 ab g
+  f4 f8
+  f bb ab
+  ([g6 f g ab bb d,])
+  ([eb ab,]) bb4\prall
+  eb r8
+  g c bb
+  ab f4
+  c8 f eb
+  [db6 f bb ab bb g]
+  [e g c bb c g]
+  [ab c db c db f,]
+  [g bb c bb c eb,]
+  [f ab bb ab bb d,]
+  e8 c4
+  c'8 ([bb6 ab]) ([g f])
+  [db' a bb \ficta e, f c]
+  ([db bb]) c4
+  f, f'8
+  ab g f
+  c'4 r8
+  R4.*17
+  \bar "||" \time 4/4 \tempo "Andante"
+  R1*3
+  r4 c, db bb
+  e,4. e8 f4 r
+  r8 f' ab ab (ab4 [g8 f] ~
+  [f e]) e c' f,4 r8 bb
+  g4 r8 g c f, f e
+  f f, r f' d4 r8 g 
+  c,4 r r eb
+  f db g,4. g8
+  ab4 r8 ab' d,4 e
+  f8 f r bb, eb4 r8 eb
+  a,4 bb c8 bb ab g
+  (fs4 g) c r
+  R1*13
+  r4 c db bb
+  e,4. e8 f4 r
+  r8 ab c d eb4 eb
+  r8 bb d e f4 f
+  r8 c d e f f, ab bb
+  c c, r e' f bb, c4
+  f, r r2
+  R1*2
+  r2 r8 f' bb bb
+  ([bb ab]) ab c, db bb eb4
+  ab, r r2
+  R1*4
+  r4 f' ab f
+  b,4. b8 c4 r
+  r8 f f f ([gb f]) f4
+  r8 eb db c bb bb b b
+  c4 c r2
+  r4 r8 c f eb ([db c]
+  bb4. c8 [db eb f g]
+  [a! bb c db] g,8) g r4
+  R1*2
+  r1\fermata
+}

@@ -1,0 +1,102 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  
+  R1*2
+  r4 bb8 bb (c ab bb) bb
+  bb r r4 r2
+  r4 d8 (c6 bb) a8 (bb6 c) bb8 (a6 bb)
+  bb4 bb8\p g f f f f
+  \bar "||" \time 3/4 \tempo "Allegro"
+  f4 r r
+  R2.*4
+  r4 bb_\editF bb
+  (eb8 f eb f eb f)
+  (d eb d eb d eb)
+  (f g f g f g)
+  (eb8 f eb f eb f)
+  d eb d eb c d
+  eb4 bb bb 
+  d8 c bb c d bb
+  c bb c4 ab
+  g eb c'
+  (g8 ab bb4) bb
+  (f8 g ab4) ab
+  (g8 ab g ab g ab
+  bb4) (ab8 bb ab bb)
+  g ab g f eb g
+  f g f g f g
+  ab bb c bb c ab
+  eb'4 g, a
+  bb f r
+  r bb eb
+  d8 eb d eb c d
+  eb f g d eb c
+  f4 f, bb
+  ab c bb
+  bb r8 eb, f g
+  ab g ab bb c d
+  eb f eb d c bb
+  ab g ab f bb bb,
+  eb4 bb' c
+  \bar "||" \time 4/4 \tempo "Adagio assai"
+  (c8 d) (d eb) d4 eb
+  eb (d8 c) d4 r
+  r (c8 bb) (c c c c)
+  (bb bb bb ab) (bb b c c)
+  (c c f eb) (d d eb c)
+  (d d d d) (c c c c)
+  (f eb d) (eb6 f) d2\fermata
+  \bar "||" \time 4/4 \tempo "Lento"
+  r4 \clef bass r8 c (b c) [ab (g6 f)]
+  g4 r8 f eb (d6 c) g'8 g,
+  c4 r8 c' (b c) [ab (g6 f)]
+  g4 r8 f eb (d6 c) g'8 g,
+  c4 r8 c' (b c) [ab (g6 f)]
+  g4 r8 f eb (d6 c) g'8 g,
+  c4 r8 c' (b c) [ab (g6 f)]
+  g4 r8 f eb (d6 c) g'8 g,
+  c4 r8 c' (fs, g) [eb d6 c]
+  d4 r8 c bb (a6 g) d'8 d,
+  g4 r r r8 g'
+  (fs g) [eb (d6 c)] d4 r8 c
+  bb (a6 g) d'8 d, g (g'6 fs) fs8 fs,
+  g fs' g r r4 r8 c,
+  bb (a6 g) d'8 d, g4 r8 g'
+  (fs g) [eb (d6 c)] d4 r8 c
+  bb (a6 g) d'8 d, g (g'6 eb) eb4
+  r8 (ab6 f) f8 f, bb eb bb' bb,
+  eb4 r8 \clef tenor eb' d (c6 bb) eb8 (d6 c)
+  f4 r8 f e (d6 c) f8 (eb6 d)
+  g4 r8 g, b (d6 c) b8 (a6 g)
+  c4 r8 c (b c) [ab (g6 f)]
+  g4 r8 f eb (d6 c) g'8 g,
+  \bar "||" \time 3/8 \tempo "Vivace"
+  c r r
+  R4.*59
+  \bar "||" \time 4/4 \tempo "Andante"
+  R1*19
+  r2 r8 \clef bass f ab g
+  f e f bb, c c' bb ab
+  d e f bb, c4 r
+  r8 g ab bb c bb c bb
+  ab4 r r8 c db c
+  bb db g, c f, eb db bb
+  c f c' c, f4 r
+  R1*8
+  r2 r8 \clef tenor f' d bb
+  eb f g d eb4 r8 db
+  c4 bb ab r
+  R1*2
+  r2 r4 (f'8 eb)
+  d e f bb, c c, r4
+  R1*6
+  r2 r4 r8 g'
+  c bb ab g f eb db bb
+  c f c' c, (f f a! a)
+  bb_\editP( bb bb bb) \clef bass (f eb db bb)
+  (f f f f) (f\pp f f f) 
+  (f f f f) r2
+  R1
+  r1\fermata
+}

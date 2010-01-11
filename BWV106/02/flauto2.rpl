@@ -1,0 +1,164 @@
+\relative c'' {
+  \key f \major
+  \time 4/4
+  
+  R1*2
+  r4 f8 a d, g e8. f6
+  f8 r r4 r2
+  r4 g8 (f6 a) d,8 (e6 f) e8 (d6 c)
+  c4 e8\p (d6 c) b8 (c6 d) b8. c6
+  \bar "||" \time 3/4 \tempo "Allegro"
+  c4 c_\editF c
+  (f8 g f g f g)
+  (e f e f e f)
+  (g a g a g a)
+  (f g f g f g)
+  (e f e f d e)
+  f4 c f 
+  g c, r
+  r d d
+  (a'8 g) a4 r
+  r c, c
+  f8 g f g f g
+  e f e f e f
+  g4 d8 e d e
+  f4 a, d
+  c8 d e d c d
+  bb c d c bb d
+  c4 c f
+  e c e
+  f c f
+  g c, c'
+  bb8 a bb c bb c
+  a bb a g f g
+  e4 c f
+  e8 f e g f a
+  g a g a f g
+  a g f a g f
+  e4 c f
+  d g e
+  f2.~\startTrillSpan
+  f2.~\stopTrillSpan
+  f2.~
+  f4 g e
+  f f f
+  \bar "||" \time 4/4 \tempo "Adagio assai"
+  (f8 e) (e d) cs4\prall (a'8 a,)
+  d4. e8 cs4 (a'8 e)
+  f4 fs g (g8 d)
+  eb4 e f f8 f
+  (f eb) (eb g) cs, (b6 a) d4
+  d4. cs8 d (a'6 g) (f e) (d cs)
+  d4. e8 cs2\fermata
+  \bar "||" \time 4/4 \tempo "Lento"
+  r8 (a'6 g) f8 (e6 d) a'8 a d g,
+  g (a6 bb) cs,8 (b6 a) (d e f g3 a) cs,8. d6
+  d8 (a'6 g) f8 (e6 d) a'8 (g6 f) g8 (a6 bb)
+  cs,8 e a cs, (d6 e f g3 a) cs,8. d6
+  d8 (a'6 g) f8 (e6 d) a'8 a d g,
+  g (a6 bb) cs,8 (b6 a) (d e f g3 a) cs,8. d6
+  d8 (a'6 g) f8 (e6 d) a'8 (g6 f) g8 (a6 bb)
+  cs,8 e a cs, (d6 e f g3 a) cs,8. d6
+  d8 (a'6 g) f8 (e6 d) e8 e a d,
+  d (e6 f) gs,8 (e'6 gs,) (a b c d3 e) gs,8.\prall a6
+  a4 r r8 (e''6 d) c8 (b6 a)
+  b8 e, a d, d (e6 f) gs,8 (e'6 gs,)
+  (a b c d3 e) gs,8. a6 a8 (c'6 b) b8 (b,6 a)
+  a8 (b6 a) a8 r r (a'6 d,) b'8 (a6 gs)
+  a8 (b6 c) gs8. a6 a8 (e6 d) c8 (b6 a)
+  e'8 e a d, d (e6 f) gs,8 (e'6 gs,)
+  a (a' b c) gs8. a6 a8 (c6 a) a4
+  r8 (d6 bb) bb8 (d6 d,)
+  e8 (f6 g) e8. f6
+  f8 (c6 bb) a8 (g6 f) c'8 c c f
+  d (d6 c) b!8 (a6 g) d'8 d d g
+  e (e6 d) cs8 (b6 a) e'8 e e a
+  f (a6 g) f8 (e6 d) a'8 (a d g,)
+  g (a6 bb) cs,8 (b6 a) (d e f g3 a) cs,8. d6
+  \bar "||" \time 3/8 \tempo "Vivace"
+  d8 r r
+  R4.
+  r6 a cs e a e
+  cs e a, e' a e
+  f8 d r
+  R4.
+  r6 a cs e a e
+  f8 r r
+  r6 d (d' c d a)
+  bb bb, (bb' a bb fs)
+  g g, (g' f g d)
+  (eb f g a bb c
+  d) bb d, bb' c, a'
+  bb f d f bb, d
+  c f a, c f c
+  d f bb, d g, g'
+  eb g c, e a e
+  fs a d, fs a, g'
+  fs a d, a' d fs,
+  g bb d, g bb fs
+  g c eb, g c eb,
+  f a c, f a f
+  bb bb, d f bb d,
+  eb bb eb g bb eb,
+  c' c, e! g c e,
+  (f e f g a g
+  a) f a, f' g, e'
+  f c a c f a
+  fs d a d fs a
+  g d bb d g bb
+  g d b! d g g,
+  c8 (eb6 d eb c)
+  a8 fs'6 e fs8
+  g8 bb eb
+  eb a, d
+  d g,6 bb eb c
+  a d, fs a d fs,
+  g8 g, r
+  r6 (d'' eb d eb d)
+  c d bb8.\prall (a3 g)
+  g4 r8
+  R4.
+  r6 d fs a d a
+  fs d fs a d a
+  bb g, bb d g d
+  bb g bb d g d
+  eb c eb g c g
+  eb c eb g c g
+  a f, a c f c
+  a f a c f c
+  d bb d f bb g
+  e c e g c a
+  fs d fs a d bb
+  g8 c8. c6
+  c d, fs a c a
+  bb8 bb8. bb6
+  bb c, eb ab c ab
+  fs d fs a! d fs,
+  g bb, [a8. fs'6]
+  g g, bb d g fs
+  \bar "||" \time 4/4 \tempo "Andante"
+  g8 r r4 r2
+  R1*18
+  r2 r4 g,
+  g bb a d
+  c bb a r
+  r a a a
+  bb r r a
+  a a bb8 (a6 g) c4 ~
+  c8 (bb6 c) a8. g6 g4 r
+  R1*8
+  r2 r4 c
+  c r8 (g'6 c,) c4 r8 a
+  bb4 c d r
+  R1*2
+  r2 r4 d
+  c bb a r
+  R1*6
+  r2 r4 a
+  a a bb c ~
+  c8 (bb6 c) a8. g6 g8 (ab6 g) (ab g) (ab g)
+  (ab\p g) (ab g) (ab g) (ab g) g2~\startTrillSpan
+  g2\stopTrillSpan r
+  R1*2
+  r1\fermata
+}

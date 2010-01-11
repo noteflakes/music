@@ -17,10 +17,10 @@
   e1\fermata
   
   b4 b c b 
-  a4. a8 g2\fermata
+  a4 a g2\fermata
   b4 cs d b
-  e [d8 cs] cs2
+  e d cs2
   b\fermata b4 b
-  a [g8 fs] fs2
+  a g fs2
   e1\fermata
 }

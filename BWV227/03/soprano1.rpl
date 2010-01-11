@@ -6,21 +6,21 @@
   fs2 e\fermata
   b'4 cs d b
   e2 ds\fermata
-  [e8 fs] g4 fs4. fs8
+  [e8 fs] g4 fs4. e8
   e1\fermata
 
   b4 b a g
   fs2 e\fermata
   b'4 cs d b
   e2 ds\fermata
-  [e8 fs] g4 fs4. fs8
+  [e8 fs] g4 fs4. e8
   e1\fermata
   
   b4 b c b 
-  a4. a8 g2\fermata
+  a4. g8 g2\fermata
   b4 cs d b
   e [d8 cs] cs2
-  b\fermata b4 b
+  b\fermata [g8 a] b4
   a [g8 fs] fs2
   e1\fermata
 }

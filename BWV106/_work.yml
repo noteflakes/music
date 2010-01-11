@@ -2,6 +2,10 @@ title: Cantata BWV 106
 subtitle: "\"Gottes Zeit ist die allerbeste Zeit\""
 composer: Johann Sebastian Bach
 parts:
+  flauto1:
+    midi_transpose: f eb
+  flauto2:
+    midi_transpose: f eb
   viola-da-gamba1:
     clef: alto
   viola-da-gamba2:

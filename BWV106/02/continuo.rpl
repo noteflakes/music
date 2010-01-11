@@ -1,0 +1,191 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+  
+  m{{\tempo 4=90}}
+  
+  eb4 r r g8 eb
+  bb'4 g8 eb ab ab ab4.
+    (bb6 ab) g8 (f6 eb) ab8 (g6 f) bb8 bb,
+  eb4 r8 c g'4. (f6 eb)
+  f8 (f6 eb) d8 eb f bb, f' f,
+  bb4 bb'8\p eb, f bb, f' f,
+  \bar "||" \time 3/4 \tempo "Allegro" m{{\tempo 4=180}}
+  bb4 r4 r
+  R2.*5
+  r4 eb eb
+  (bb'8 ab) bb4 r
+  (ab8 bb ab bb ab bb)
+  c4 g8 ab g ab
+  bb c bb c ab bb
+  g4 eb g
+  bb bb, bb'
+  f f, f'
+  c c, c''
+  (g8 ab bb4) bb
+  (f8 g ab4) ab
+  (g8 ab g ab g ab
+  bb4) bb, bb
+  (eb8 d) eb4 r
+  (d8 eb d eb d eb
+  f4) (c8 d c d)
+  eb4 c f
+  bb, bb r
+  R2.
+  r4 d bb
+  eb8 d eb f g ab
+  bb c bb ab g eb
+  ab g ab f bb bb,
+  eb4 eb, r
+  R2.*3
+  r4 eb' c
+  \bar "||" \time 4/4 \tempo "Adagio assai" m{{\tempo 4=60}}
+  fs, f2 eb4
+  ab4. ab8 g4 r
+  r (c'8 g) ab4 a
+  bb (bb8 f) (g d) (eb6 b c c,)
+  f4 f2 (eb8 ab)
+  g2 c,4 r
+  ab'2 g\fermata
+  \bar "||" \time 4/4 \tempo "Lento" m{{\tempo 4=70}}
+  c4 r8 c' (b c) ab4
+  g r8 f eb c g' g,
+  c4 r8 c' (b c) ab4
+  g r8 f eb c g' g,
+  c4 r8 c' (b c) ab4
+  g r8 f eb c g' g,
+  c4 r8 c' (b c) ab4
+  g r8 f eb c g' g,
+  c4 r8 c' (fs, g) eb4
+  d r8 c bb g d' d,
+  g4 r8 fs' g4 r8 g
+  (fs g) eb4 d r8 c
+  bb g d' d, g (g' fs) fs,
+  (g fs) (g f) eb4 r8 c'
+  bb g d' d, g4 r8 g'
+  (fs g) eb4 d r8 c
+  bb g d' d, g [g' eb g]
+  ab ab, f f' bb eb, bb' bb,
+  eb4 r8 \clef tenor eb' d bb eb c
+  f4 r8 f e c f d
+  g4 r8 g, (b g) (b g)
+  c4 r8 \clef bass c (b c) ab4
+  g r8 f eb c g' g,
+  \bar "||" \time 3/8 \tempo "Vivace" m{{\tempo 8=180}}
+  c4 c8 
+  eb r c
+  g' r b,
+  g r b
+  c r c
+  eb r c
+  g' r b
+  c r g
+  ab r e
+  f r c
+  db r a
+  bb r bb
+  ab6 db eb8 eb,
+  ab r ab'
+  g r eb
+  ab r ab,
+  bb r bb'
+  c r c,
+  c, r c'
+  f f c 
+  db bb4
+  eb8 eb db
+  c r ab
+  db r db
+  d! r bb
+  eb r r6 ab,
+  g ab bb4
+  eb,8 r eb'
+  c e c
+  f r f,
+  a f a
+  bb r g
+  c r c
+  f, r f'
+  e r eb
+  db r bb
+  c r bb
+  ab r a
+  bb r r6 c
+  (db bb) c8 c,
+  f8 r f'
+  ab r f
+  c' r e,
+  c r e
+  f r ab,
+  f r ab
+  bb r db
+  bb r db
+  eb r g
+  eb r g
+  ab r f 
+  bb r g
+  c r ab
+  db6 c bb ab g f
+  e8 r c
+  f6 g f eb db c
+  bb8 r bb
+  bb r r6 bb
+  ab f c'8 c,
+  f r r
+  \bar "||" \time 4/4 \tempo "Andante" m{{\tempo 4=70}}
+  f8 g ab f bb c db bb
+  c db c bb ab bb ab g
+  f4 r8 f' g f eb d
+  c bb c ab db c bb g'
+  e g e c f e f g
+  ab g f ab b, d b g
+  c d e c f bb, db db
+  db4 c8 bb ~ bb ab g c
+  f,4 r8 f g f eb d
+  c4 r8 f' db bb eb eb,
+  f f' db bb g f g eb
+  ab bb c ab d, d' e c
+  f ab bb bb, eb f g eb
+  a, a' b g, c bb ab g
+  (fs4 g) c8 d e c
+  f g f eb db c bb db
+  eb f eb db c bb ab c
+  db eb db c bb e, f bb
+  c c' bb g ab f e c
+  f bb, c c, f [f' ab g]
+  f e f bb, c c' bb ab
+  d, e f bb, c bb ab f
+  c' [g' ab bb] c bb c bb
+  ab f db bb c [c' db c]
+  bb db g, c f, eb db bb
+  c f, c' c, f [f' g ab]
+  bb db c bb ab bb ab g
+  f eb f d g f eb d
+  c bb c ab db c bb db
+  e, g' e c f f, f' g
+  ab [ab, c d] eb eb, g ab
+  bb [bb d e] f f, ab bb
+  c [c d e] f f, ab bb
+  c4 r8 e f bb, c c,
+  f [f' e c] f, [f' d bb]
+  eb f g d eb f eb db
+  c c' bb bb, ab bb c ab
+  eb' f g eb bb' ab g eb
+  ab g f c db bb eb eb,
+  ab [ab' g f] e c f eb
+  d e f bb, c c' ab f
+  c' bb ab f bb g c c,
+  f, (f'6\p eb) (db c) (bb a) bb8 g c c,\f
+  f eb' db bb c bb ab g
+  f e' f g ab g f f,
+  g f eb d c bb'' ab gb
+  f eb db c bb c db bb
+  f' eb db c bb bb' b g
+  c bb ab g f eb db bb
+  c f c' c, f eb db c
+  (bb\p^"tasto solo" bb bb bb) (bb bb bb bb)
+  (f f f f) (f\pp f f f)
+  (f f f f) (f f f f)
+  R1
+  r1\fermata
+}

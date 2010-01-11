@@ -1,5 +1,5 @@
 \relative c' {
-  \key c \major
+  \key f \major
   \time 4/4
   \tempo "Molto adagio"
 

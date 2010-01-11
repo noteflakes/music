@@ -1,0 +1,103 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  
+  R1*2
+  r4 eb8 eb eb ab f8. g6
+  g8 r r4 r2
+  r4 (f8 g) (f f f f)
+  f4 f8\p (eb6 g) c,8 (d6 eb) c8. d6
+  \bar "||" \time 3/4 \tempo "Allegro"
+  d4 r r
+  r eb_\editF eb
+  (bb'8 c bb c bb c)
+  (ab bb ab bb ab bb)
+  c4 (g8 ab g ab)
+  (bb c bb c ab bb)
+  (g ab g ab g ab)
+  (f g f g f g)
+  ab4 f ab
+  g eb g
+  f d f
+  (g8 ab g ab g ab)
+  f4 d f
+  ab c, f
+  eb c eb 
+  eb bb d
+  c ab c8 d
+  eb f eb d eb c
+  f g f g f g
+  eb f eb f g eb
+  bb'4 f f
+  f eb8 f eb f
+  g f eb d c d
+  bb4 bb r
+  r2.
+  r4 f' bb
+  g8 ab g bb ab g
+  f4 d g
+  eb ab f
+  g r8 g, ab bb
+  c bb c d eb f
+  g ab g f eb g
+  f4 f8 g ab bb
+  g4 g g
+  \bar "||" \time 4/4 \tempo "Adagio assai"
+  a ab g g
+  g f g r
+  r (g8 g) (f f f f)
+  (f f f ab) (g g g bb)
+  (ab ab ab ab) (g g g f)
+  (g g g g) (eb eb eb eb)
+  (c c c c) d2\fermata
+  \bar "||" \time 4/4 \tempo "Lento"
+  r4 r8 eb (d eb) [f (g6 ab)]
+  b,4 r8 d g (f6 eb) d8. c6
+  c8 (eb6 d) c8 g' g g ab c,
+  g' b, b d (eb6 f g ab) g8 g
+  g (eb6 d) c8 (d6 eb) (d8 eb) f (g6 ab)
+  b,4 r8 d g (f6 eb) d8. c6
+  c8 (eb6 d) c8 g' g g ab c,
+  g' b, b d (eb6 f g ab) g8 g
+  g (eb6 d) c8 (d6 eb) a,8 bb c (d6 eb)
+  fs,4 r8 a d (c6 bb) a8. g6
+  g4 r r8 (bb6 a) g8 d'
+  (c bb) c (d6 eb) fs,4 r8 a
+  (bb6 c d eb) a,8. g6 g4 r8 (c6 bb)
+  bb8 (c6 bb) bb8 r r4 r8 a
+  bb (c6 d) a8 d bb4 r8 bb
+  (a bb) c (d6 eb) fs,4 r8 a
+  bb c6 d a8. g6 g8 d' eb4
+  r8 eb f f bb, bb bb bb
+  g4 r8 g' f (eb6 d) g8 g
+  a4 r8 a g (f6 e) a8 a
+  b4 r8 b, d (b6 c) (d8. b6)
+  c4 r8 eb (d eb) [f (g6 ab)]
+  b,4 r8 d g (f6 eb) d8. c6
+  \bar "||" \time 3/8 \tempo "Vivace"
+  c8 r r
+  R4.*59
+  \bar "||" \time 4/4 \tempo "Andante"
+  R1*19
+  r2 r4 f
+  f ~ f ~ f8 e ab4 ~
+  ab8 g ~ g f ~ f e r4
+  r e e e
+  f r r e
+  e e f r8 (g6 d)
+  e8 (f6 g) e8. f6 f4 r
+  R1*8
+  r2 r4 f
+  g r8 (ab6 g) g4 r8 eb
+  f4 g ab r
+  R1*2
+  r2 r4 ab ~
+  ab8 g4 (f8 ~ f e) r4
+  R1*7
+  r8 e e e f4 r8 d
+  e (f6 g) e8. f6 (f8 f c c)
+  (db\p db db db) (db c bb g)
+  (f f f f) (f f f f)
+  R1*2
+  r1\fermata
+}

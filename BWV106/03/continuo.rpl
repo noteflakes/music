@@ -1,0 +1,77 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+  
+  m{{\tempo 4=80}}
+
+  r8 bb6 c db eb f g a f g a bb c db eb
+  f8 \clef alto r6 f (gb f) (gb f) (gb f) (bb eb,) f8 f,
+  bb4 r \clef bass r8 bb,6 c db eb f g
+  a f g a bb c db eb f8 r6 \clef alto f (gb f) (gb f)
+  (gb f) (bb eb,) f8 f, bb8 r r4 \clef bass
+  r8 (f,6 g) (ab bb c d) e c d e f g ab bb
+  c8 r6 c (db c) (db c) (db c) (f bb,) c8 c,
+  f r r4 r8 bb,6 c db eb f g
+  a f g a bb c db eb f8 r6 \clef alto f (gb f) (gb f)
+  (gb f) (bb eb,) f8 f, bb \clef bass bb,6 c db eb f gb
+  ab8 ab,6 bb c db eb f gb8 gb,6 ab bb c db eb
+  f8 (db6 eb) f gb ab bb c ab db gb, ab8 ab,
+  db db, r4 r8 (ab'6 bb) (c db eb f)
+  gb8 eb r4 r8 bb6 c db eb f g
+  a f g a bb c db eb f8 r6 \clef alto f (gb f) (gb f)
+  (gb f) (bb eb,) f8 f, bb \clef bass bb,6 c db c db eb
+  f8 bb,6 c d! eb f d eb8 eb,6 f gb ab bb gb
+  cb4 r6 cb' bb ab gb f gb ab bb8 bb,
+  eb eb6 f gb ab bb c db8 \clef alto f6 eb db c bb ab
+  gb8 \clef bass bb6 ab gb f eb db c8 f6 eb db c bb ab
+  gb f gb eb f8 f bb r6 a' (bb a) (bb a)
+  bb ab gb eb f8 f, bb6 ab gb eb f8 r
+  r8 bb6 c db eb f g a f g a bb c db eb
+  f8 \clef alto r6 f (gb f) (gb f) (gb f) (bb eb,) f8 f,
+  bb \clef bass bb6 ab g8 f6 eb ab bb c ab eb'8. db6
+  c ab g f e8 d6 c f g ab f c'8. bb6
+  ab8 g6 f bb8 ab6 g c8 c,6 d e8 d6 c
+  f4 r8 bb, eb4 ~ eb6 c bb ab
+  db4. g,8 c4 ~ c6 ab g f
+  bb c db bb eb8 eb, ab4 r8 ab'
+  g4 ~ g6 eb d c f4. bb,8
+  eb4 ~ eb6 (c bb ab) db4. g,8
+  c4 ~ c6 ab g f bb8 c db4
+  c r r c'8. bb6
+  ab8 f6 eb d8 c6 bb eb f g eb bb'8. ab6
+  g8 c b c f, g ab4
+  g8. f6 eb8 d6 c f8 ab f eb6 d
+  g8. f6 eb8 d6 c d eb f g a b c d
+  eb8 f, g g, c c, eb'8. d6
+  c c bb ab g f eb d c8 c' eb c
+  d c bb d, e e' fs fs,
+  g g' bb bb, c c' d d,
+  g g, fs fs' g g, a d
+  g,4 r8 g' g, g' bb bb,
+  c c' eb eb, g f eb d
+  c d eb bb c a d d,
+  g4 r8 c f4 ~ f6 d c bb
+  eb4. c8 f eb f f,
+  bb g'6 f eb8 d c eb f f,
+  bb c d bb eb d eb c
+  ab' g f d g f eb c
+  f e f e f d g g,
+  c bb ab g f d g4
+  c, c''8 bb ab f bb ab
+  g eb r4 r8 eb\p f f,
+  bb d eb eb, (bb' bb bb bb)
+  eb [d\f c bb] ab f bb ab
+  g eb ab g f d g g
+  c,4 r c''8 c, eb c
+  d bb d bb eb eb g eb
+  ab bb c g ab f bb bb,
+  eb f g a b g c c,
+  g' g, d' f g f g g,
+  c c, c'' bb ab ab, c ab
+  eb' eb, r4 r8 eb'\p g eb
+  ab [ab, c ab] eb' [c\f eb c]
+  f g ab eb f d g f
+  e c f8. e6 f8. e6 f8 f,
+  c' e f f, c' e f f,
+  c'1\fermata
+}

@@ -1,0 +1,38 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  
+  R1*38
+  r2 r6 (c bb ab g f eb d)
+  c4 r6 (b' c d) eb4 r6 (c d eb)
+  f4 r6 (bb, c d) g,4 r6 (fs g a)
+  d,4 r6 bb' c d eb4 r6 eb d c
+  bb4 r6 c bb a g8 a6 bb a8 fs
+  g6 a bb c d4 r6 bb c d g,4
+  r6 f eb d c4 r6 bb' c d eb4
+  r6 eb d c bb bb a g c8 c c6 a bb c
+  bb4 r6 d c bb a4 r6 f eb d
+  g4 r6 c, d eb f4 r6 g f eb
+  d4 r6 bb' c d eb4 r6 eb d c
+  bb4 r6 bb c d eb4 r6 f eb d
+  c4 r6 d, eb f g4 r6 bb ab g
+  f8 ab6 g f8 ab6 g f4 r6 f eb d
+  c4 r r2
+  r4 r6 g' ab bb c4 r6 f, g ab
+  bb r r8 r4 r8 g'\p f eb
+  d (c6 bb) eb (eb, f g) ab8 (g6 ab) f8. eb6
+  eb4 r6 g\f ab g f4 r6 f g f
+  eb4 r6 eb f eb d8 f6 eb d8. eb6
+  eb4 r6 eb f g c,4 r6 c' d eb
+  f4 r6 eb d c bb4 r6 g ab bb
+  c8 d eb6 g, ab bb c bb ab g f ab g f
+  eb eb' d c b4 r6 d c b c g c8 ~
+  c8. bb6 a d, d' c b c d c b c a b
+  c g a b c4 r6 eb, f g ab g ab f
+  g eb' bb8 \clef bass r6 bb, g eb \clef tenor r8 (g'6 ab) (bb c) (bb c)
+  (bb c) (bb c) (ab bb) (ab bb) g8 eb'6\f d c d bb c
+  ab8 g6 f eb c c' bb ab g f eb d8 bb' ~
+  bb6 g c e, f e f g ab bb c bb ab g ab bb
+  g4 r6 (c f d) e g, c g (ab g) (ab f)
+  (g e) (ab f) (g e) (ab f) g8. g6 c,4\fermata
+}

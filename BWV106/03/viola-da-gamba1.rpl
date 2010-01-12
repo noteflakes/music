@@ -1,0 +1,37 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  
+  R1*39
+  r6 (c eb f g-. g a b) c (eb, f g) c,4
+  r6 a bb c d4 r6 (e fs g) d4
+  r6 a bb c d4 r6 c d eb a,4
+  r6 d c bb a4 r6 bb c d c a bb c
+  bb4 r6 d e fs g4 r6 f eb d
+  c4 r6 d eb f g4 r6 bb, c d
+  eb4 r6 (d eb f) eb e fs g fs8. g6
+  g c, bb a g8 r r6 a g f bb4
+  r6 g f eb eb'4 ~ eb6 a, bb c f,4
+  r6 d' eb f g4 r6 eb f g c,4
+  r6 c d eb f d eb f g bb, c d g,4
+  r6 c d eb f4 r6 g, a b c4
+  r6 f c8 r6 f c8 r6 d eb f b,8. c6
+  c4 r r2
+  r6 b c d eb4 ~ eb6 eb f eb d8 (c6 bb)
+  r2 r8 bb'\p ab (c6 ab)
+  ab4\prall g8 ab6 bb d,8 (eb6 f) d8. eb6
+  eb [bb\f c d] eb4 r6 eb f eb d4
+  r6 d eb d c4 r6 c d c b8. c6
+  c [g a b] c4 r6 eb, f g c,4
+  r6 d' eb f bb,4 r6 bb c d eb4
+  r6 c bb ab g8 eb' ~ eb6 eb f eb d f eb d
+  eb4 r6 g f eb d f eb d eb8. eb6
+  d g, g'8 ~ g f6 eb d eb f eb d eb c d
+  eb4 r6 g, ab bb c4 r6 bb c d
+  eb8. g,6 eb8 r r eb'\p (db6 eb) (db e)
+  (db eb) (db eb) (c db) (c db) bb8 (g'6\f f) eb f g eb
+  ab (d, c b) c4 ~ c6 c d c bb d g g,
+  c8 bb' ~ bb6 (bb ab g) f g ab g f e f g
+  e g, c g (ab g) (ab f) g4 r6 (c f d)
+  (e c) (f d) (e c) (f d) (e b c8) r4\fermata
+}

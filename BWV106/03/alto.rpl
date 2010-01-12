@@ -1,0 +1,58 @@
+ \relative c' {
+  \key bb \major
+  \time 4/4
+  
+  R1*2
+  r8 f db ([c6 bb]) f'8 f r4
+  r8 f db' ([c6 bb]) a8 f r r6 f
+  ([gb f]) ([bb c]) a8. bb6 bb8 ([bb,6 c]) ([db eb]) ([f g])
+  ab8 f r4 r8 c ab' [g6 f]
+  e8 c r r6 c ([db c]) ([f g]) ab8 ([g6 f])
+  f8 ([f6 g]) ([a bb]) ([c a]) db8 bb r4
+  r8 f ([db6 bb]) ([bb' c]) a8 f r r6 a
+  ([bb a]) ([bb c]) a8. bb6 bb8 db db db6 db
+  ([db8 c]) c r r bb bb bb6 bb
+  ([bb8 ab]) ab db gb, ([f6 gb]) eb8. db6
+  db8 ([db6 eb]) ([f gb]) ([ab bb]) c8 ab r4
+  r8 ([eb6 f]) ([gb ab]) ([bb c]) db8 bb r4
+  r8 f ([db6 bb]) ([bb' c]) a!8 ([g6 f]) r8 r6 f
+  ([gb f]) ([a! bb]) db,8 ([c6 bb]) bb8 bb' bb bb6 bb
+  ([bb8 ab]) ab r r gb gb gb6 gb
+  ([gb8 f]) f cb' bb8. eb6 gb,8 ([f6 eb])
+  eb8 gb gb gb6 gb ([gb8 f]) f r
+  r bb bb bb6 bb ([bb8 a!]) a r6 bb
+  ([cb a!]) ([bb c]) db8 ([c6 bb]) bb8 r r r6 f
+  ([gb f]) ([eb f]) db8 ([c6 bb]) bb8 ([bb'6 c]) a8. bb6
+  bb8 r r4 r2
+  R1*15
+  r2 c,
+  g' g
+  f c'
+  bb a 
+  g4 r r2
+  r2 bb
+  g bb
+  (a4 g a2)
+  g r
+  r a
+  bb a
+  bb g
+  (f eb
+  f) d
+  c r
+  g' f
+  (eb4. d8 c2\p)
+  bb1
+  R1*2
+  g'2 eb
+  bb' g (f4 eb) f2
+  g1
+  r2 f
+  eb c
+  bb eb\p ~
+  eb1
+  (d4\f c d2)
+  c1 ~
+  c
+  r1\fermata
+}

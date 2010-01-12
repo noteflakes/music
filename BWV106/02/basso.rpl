@@ -11,7 +11,7 @@
   \bar "||" \time 3/4 \tempo "Allegro"
   R2.*6
   r4 eb eb
-  ([bb'8 ab]) bb4 r
+  ([bb'8 a]) bb4 r
   ([ab8 bb ab bb ab bb]
   c4) ([g8 ab g ab]
   [bb c bb c ab bb]

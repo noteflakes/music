@@ -1,0 +1,90 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  
+  \override Beam #'breakable = ##t
+  
+  r4 g'8 eb bb'4 bb8 eb
+  d4 eb8 g c, c ([f6 eb d c
+  bb8]) bb eb g c, f d8. eb6
+  eb8 g, c4 ~ [c8 bb6 a bb8] eb
+  a, f f' ([eb6 g]) c,8 ([d6 eb]) d8 ([c6 bb])
+  bb4 r r2
+  \bar "||" \time 3/4 \tempo "Allegro"
+  r4 bb bb
+  ([eb8 d]) eb4 r
+  [d8 eb d eb d eb]
+  f4 [c8 d c d]
+  [eb f eb f eb f]
+  d4 bb d
+  bb g r
+  r f f
+  ([c'8 bb]) c4 r
+  ([g8 ab]) bb4 bb
+  bb f r
+  r eb eb
+  ([bb'8 a ]) bb4 r
+  ([ab8 bb ab bb ab bb]
+  c4) [g8 ab g ab]
+  bb4 [f8 g f g]
+  ab4 [eb8 f eb f]
+  g4 eb eb'
+  d bb d
+  eb bb r
+  r d d
+  c c r
+  bb eb c
+  d bb bb 
+  bb2. ~
+  bb ~
+  bb ~
+  bb4 bb eb 
+  c f d
+  eb r r
+  R2.*3
+  r4 eb eb
+  \bar "||" \time 4/4 \tempo "Adagio assai"
+  ([eb8 d]) ([d c]) b4 c
+  c4. d8 b4 g'8 d
+  eb4 e f f8 c
+  db4 d eb eb8 eb
+  ([eb db]) ([db f]) b,4 c
+  c4. b8 c4 r
+  f,4. f8 g2\fermata
+  \bar "||" \time 4/4 \tempo "Lento"
+  R1*23
+  \bar "||" \time 3/8 \tempo "Vivace"
+  R4.*60
+  \bar "||" \time 4/4 \tempo "Andante"
+  R1*14
+  r2 r4 r8 c
+  ab4 r8 c f eb db c
+  bb4 r8 bb eb db c bb
+  ab4 r8 f bb c ab4
+  g db' c r8 bb
+  ab [g6 f] e4 f r
+  r r8 db' c4 r8 c
+  f, g ab ([db6 c]) c4 r8 f
+  e4 r8 g, ([c6 bb]) ([db c]) ([c bb]) ([db c])
+  c8 c f g e4 r
+  R1*6
+  r2 r8 ([eb6 bb]) bb8 ([c6 bb])
+  bb4 r r8 ([f'6 c]) c8 ([db6 c])
+  c4 r r8 ([f6 c]) c8 ([db6 c])
+  c8 ([bb6 db3 c] ~ c8) bb ab ([g6 f]) e4
+  f c' ab r
+  r8 ([eb'6 bb]) bb8 ([c6 bb]) bb8 bb eb4 ~
+  [eb8 db] ([db c]) c ([bb6 ab]) r8 c
+  bb4 r r2
+  r2 r4 ([db8 c])
+  c f eb ([db6 c]) c4 r
+  r8 g ab ([db6 c]) c8 r r f
+  e ([g6 c,]) c8 ([f6 eb]) ([db c]) ([bb ab]) g4
+  f r8 ([f'6\p eb]) ([db c]) ([bb ab]) g4
+  f4 r r2
+  R1*7
+  r8 f'\pp f f, db'2 ~ 
+  [db8 (c6*2/3 db c)] $t2 bb c bb a! bb a $$ [g8 (a6\prall g3 a)] bb8 $t2 bb c db $$
+  bb8\prall a r4 r2
+  r1\fermata
+}

@@ -4,12 +4,28 @@ composer: Johann Sebastian Bach
 parts:
   flauto1:
     midi_transpose: f eb
+    breaks:
+      - "03"
   flauto2:
     midi_transpose: f eb
+    breaks:
+      - "03"
   viola-da-gamba1:
     clef: alto
+    breaks:
+      - "03"
+      - "04"
   viola-da-gamba2:
     clef: tenor
+    breaks:
+      - "03"
+      - "04"
+  continuo:
+    breaks:
+      - "02"
+      - "03"
+      - "03"
+      - "04"
 score:
   order:
     - flauto1

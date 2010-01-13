@@ -1,0 +1,59 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+  
+  m{{\tempo 4=86}}
+
+  r4 eb8 r c r g r
+  d r eb\p r bb' r d\f r
+  eb r r4 r8 bb' ab g
+  c (bb6 ab) bb8 bb, eb4 r8 ab\p
+  g (f6 eb) bb'8 bb, c ab\f bb4
+  eb, r8 eb' r c r g
+  r d' d, eb' r bb r eb
+  r6 c bb ab bb8 bb eb,4 r
+  r2 r4 r8 eb'
+  r d r e r f g a!
+  r6 bb eb,8 f f, bb4 r
+  r2 r4 r8 d
+  r eb r g, r ab bb bb
+  r6 c d bb eb8 ab, bb4 r
+  r2 r4 r8 b
+  r c r f eb eb, r4
+  r2 r4 r8 eb'
+  r bb' r g f f, r4
+  r2 \bar "||" \tempo "Allegro" m{{\tempo 4=100}}
+  r8 f' d bb
+  eb4 d c bb8 ab
+  g4 r8 g'6 f eb8 ab bb bb,
+  eb4 f bb,8 [d6 eb] $c1 f eb f
+  g f g a g a $$ bb8 bb, [c bb6 c]
+  d8 eb f f, bb4 r8 bb
+  eb4 d c bb8 ab
+  g4 f eb8 ab bb4
+  eb8 ab, bb4 eb d
+  c bb8. ab6 g8 eb' d bb
+  eb ab, bb4 eb,8 [eb' c f]
+  d bb f'4 d c
+  bb c $c1 d c d eb d eb $$
+  f8 d c4 bb8 [bb' ab g]
+  f bb, eb eb, f6 g eb f g \ficta ab f g
+  $c1 ab ab' g f eb f $$ g8 ab bb bb,
+  eb4 d c8 c' d4
+  eb8 [c, bb ab] g ab bb4
+  eb,8 eb' [f (eb6 f)] g8 eb [d8. c6]
+  bb8 eb f f, bb8 [d6 eb] $c1 f eb f
+  g f g a g a $$ bb8 bb, [c bb6 c]
+  d8 eb f f, bb8. c6 d8 c6 d
+  eb8 eb' d d, c4 bb8. ab6
+  g4 r8 g'6 f eb8 ab bb bb,
+  eb [bb'6 c] d8 c6 d eb8 [bb,6 c] [d8 c6 d]
+  eb8 eb, eb'4 ~ $c1 eb8 f eb d c d $$
+  eb8. d6 c8. bb6 ab8 f bb4
+  eb,8 c6 d eb8 f $c1 g g a b a b
+  c c d $$ eb8 g c b c bb
+  ab g ab f bb bb r bb
+  bb bb, r bb' bb bb, r bb'6 ab
+  g8 ab bb4 eb,8 r bb4
+  eb,8 r r4 r2\fermata
+}

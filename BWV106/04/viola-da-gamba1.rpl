@@ -1,0 +1,42 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+
+  r4 bb8 r c r eb r
+  f r g\p r f r f\f r
+  g r r4 r8 d eb4
+  eb8 eb eb d eb r r4
+  r2 r8 eb eb d
+  eb4 r8 bb r c r eb
+  r g (f6 g) (eb f) r8 d r eb
+  r c bb ab g4 r8 ab'
+  g eb bb' bb, eb4 r8 bb
+  r bb r g' r f r f
+  r gb f f f4 r8 eb
+  db (gb6 eb) f8 f, bb4 r8 f'
+  r eb r eb r eb d d 
+  r bb eb d6 c d4 r8 bb
+  a bb f' f, bb4 r8 d
+  r c r d eb4 r8 bb
+  c r r d eb4 r8 eb
+  r d r e f4 r8 bb,
+  c bb ab g \bar "||" \tempo "Allegro" f4 r
+  R1*15
+  r2 r8 c'' bb6 c ab bb
+  g8 eb r d eb c bb4
+  bb8 g (ab6 bb g ab bb8) bb6 g' [f8. eb6]
+  d8 bb a4 bb r
+  r8 g' f8. eb6 d8 d c4
+  bb8 r r4 r bb'
+  g f eb f
+  (g6 ab f g ab bb g ab) bb8 c f,8. g6
+  g8 (d6 eb f g eb f g8) f r4
+  r8 eb6 f g ab f g ab bb g ab bb c ab bb
+  g8 bb, eb8. d6 c8 eb d6 eb c d
+  eb f eb d c eb d c b8 b r g'6 g
+  g ab f g eb f d f eb8 eb r eb6 eb
+  eb8 eb r eb6 eb d8 d r f6 f
+  g ab d, eb f g eb f g ab d, eb f g eb f 
+  g8 c f,4\prall g8 r r4
+  r f\p g8 r r4\fermata
+}

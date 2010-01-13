@@ -1,0 +1,52 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+ 
+  R1*5
+  r4 bb c eb
+  (f4. eb8 d4) eb4
+  ([eb8 c]) ([bb ab]) g4 r
+  r2 r4 bb
+  bb ([bb8 g']) ([g f]) \ficta e f
+  ([bb gb]) f4 f r
+  r2 r4 f
+  eb eb eb d
+  ([c8 bb] [eb d6 c]) d4 r
+  r2 r4 d 
+  c d eb r
+  r2 r4 eb 
+  d e f r
+  r2 \bar "||" \tempo "Allegro" r4 bb
+  g f eb f
+  [g6 ab f g] [ab bb g ab] bb8 c [f,8. eb6]
+  eb8 g6 g ([a bb g a] bb8) f r ([f6 eb]
+  d8) g ([f6 g eb f] d8) d r a'6 a
+  bb8 g f4 d8 r r4
+  r8 [g,6 ab] [bb c ab bb] [c d bb c] [d eb c d]
+  [eb f d eb] [f g eb f] g8 ([f6 eb]) ([d8. eb6])
+  eb8 eb6 eb ([d eb c d] eb8) bb ([d6 eb c d]
+  eb8) c r4 r8 g' f d
+  eb c' ([bb6 c ab bb] [g ab f g] [a bb g a]
+  bb8) d, ([c6 d bb c] d8) d r eb6 eb
+  [d eb c d] [eb f d eb] [f g eb f] [g a f g]
+  a8 bb ([bb8. a6]) bb8 d, eb eb
+  f f ([g6 ab f g] [ab bb g ab] bb8) bb
+  eb, eb r ab6 ab g8 c ([f,8. eb6])
+  eb8 r r4 r8 c'6 c ([bb c ab bb]
+  g8) eb r d6 d eb8 c bb4
+  bb8 g6 g ([ab bb g ab] bb8) bb6 g' f8. eb6
+  d8 bb a4 bb r
+  r8 g' f8. eb6 d8 d c4
+  bb8 r r4 r bb'
+  g f eb f
+  [g6 ab f g] [ab bb g ab] bb8 c ([f,8. g6])
+  g8 ([d6 eb] [f g eb f] g8) f r4
+  r8 ([eb6 f] [g ab f g] [ab bb g ab] [bb c ab bb]
+  g8) bb,6 bb eb8. d6 c8 eb [d6 eb c d]
+  [eb f eb d] [c eb d c] b8 b r g'6 g
+  [g ab f g] [eb f d f] eb8 eb r eb6 eb
+  eb8 eb r eb6 eb d8 d r f6 f
+  [g ab d, eb] [f g eb f] [g ab d, eb] [f g eb f]
+  g8 c f,4 eb8 r bb4
+  bb8 r r4 r2\fermata
+}

@@ -1,6 +1,27 @@
 title: Cantata BWV 4
 subtitle: "\"Christ lag in Todesbanden\""
 composer: Johann Sebastian Bach
+parts:
+  violini:
+    no_part: true
+  violino1:
+    breaks:
+      - "-04-versus-III"
+  violino2:
+    breaks:
+      - "-04-versus-III"
+  viola1:
+    breaks:
+      - "-06-versus-V"
+  viola2:
+    breaks:
+      - "-06-versus-V"
+  continuo:
+    breaks:
+      - "-03-versus-II"
+      - "-05-versus-IV"
+      - "-06-versus-V"
+      - "-07-versus-VI"
 score:
   order:
     - violini

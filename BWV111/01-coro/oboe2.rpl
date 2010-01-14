@@ -29,7 +29,7 @@
   d4 r $m1 gs, fs gs a gs fs $$
   b4 r r2
   R1*3
-  a'4 e $m1 a, gs a b a gs $$ \segno
+  a'4 e $m1 a, gs a b a gs $$
   a4 e' $m1 a, gs a b a gs $$
   $m2 a fs g! a g fs
   g e f! g f e

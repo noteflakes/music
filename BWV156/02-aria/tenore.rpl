@@ -56,7 +56,7 @@
   ([c6 b]) d8 c4 ([b6 a b8])
   a4 r r
   r r r8 f' 
-  ([f6 eb d c] b8) a a a'
+  ([f6 eb d c] bb8) a a a'
   ([g6 f]) ([e! d]) c4 r8 c
   e, f g a ([bb6 a]) bb8
   a b ([c b]) c4
@@ -81,7 +81,7 @@
   ([g bb,]) ([bb a]) ([a g])
   c2. ~
   c ~
-  [(c8 f,) (g f)] ([fs bb])
+  [(c8 f,) (g f)] ([f bb])
   eb,2 [d8 f]
   bb2. ~
   bb ~

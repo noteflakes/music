@@ -54,9 +54,9 @@ barNumbers = {
 qBeam = {
   %\overrideBeamSettings #'Staff #'(2 . 2) #'end #'(((1 . 16) . (4 4 4 4))) 
 
-  #(override-auto-beam-setting '(end 1 16 2 2) 1 4 'Staff)
-  #(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
-  #(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
+  %#(override-auto-beam-setting '(end 1 16 2 2) 1 4 'Staff)
+  %#(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
+  %#(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
 }
 
 % some scheme functions (appropriated from Nicolas Sceaux's amazing work)

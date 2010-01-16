@@ -1,0 +1,79 @@
+\relative c, {
+  \key g \minor
+  \time 4/4
+  \tempo "Adagio"
+  
+  fs4. fs8 fs4 r
+  g4. g8 g4 r
+  d4. d8 d4 \tempo "un poc'allegro" r8 d'
+  g d g, d' g c, d d,
+  g [d' g f] eb d c d6 eb
+  f8 g a f bb eb, f f,
+  bb [bb'6\p a] g8 f6 eb d8 eb f f,
+  bb [bb'6\f a g8 fs] g d g, d'
+  g c, d d, g [g'6 f eb8 d]
+  c bb a bb6 c d8 e fs d
+  g c, d d, g [g'6\p f] eb8 d6 c
+  bb8 c d d, g [g'6_\markup { \italic { più \dynamic p } } f] eb8 d
+  c a d d, g4 g'\f
+  \tempo "Adagio"
+  g f eb c
+  ab2 g4 g' ~
+  g2 g
+  ab b,
+  c c'
+  fs, g4. f8
+  eb2 d4 eb8 d
+  cs2 \tempo "Allegro" d4 r8 bb
+  eb4. c8 f4. d8
+  g4. eb8 a4. f8
+  bb eb, f f, bb4 r8 g
+  c4. a8 d4. bb8
+  eb4. c8 f4. d8
+  g c, d d, g [g' bb a]
+  g bb a g f e d4
+  eb e f fs
+  g2. fs4
+  g8. f6 eb d eb c g'4 g,
+  c a d bb'
+  g e8 a d,4 c8 bb
+  a4 d g, g'
+  c, a d2
+  eb4 c8 bb a4 d
+  g, g' e a
+  f bb g8 e a a,
+  d4 d eb e
+  f fs g2 ~
+  g4 fs g a8 g
+  f!4 d g g,
+  a d g, eb'
+  f d g,2 
+  ab4 f d g
+  c ab' f bb
+  g c ab8 f bb bb,
+  eb4 ab f4. eb8
+  d4 g c, c
+  a d bb eb
+  c a8 d bb g bb' a
+  g4 a8 g f4 d
+  eb e f fs
+  g2. fs4
+  g4. e8 a a,4 f'8
+  bb bb,4 g' e8 a a,
+  d4 bb eb c
+  f d g2 
+  a4 d, g g, ~
+  g2 a
+  bb e,4. a8
+  f d4 g'8 eb c4 f8
+  d bb4 eb8 c a4 d8
+  bb g g'2 f4 ~
+  f eb2 d4 ~
+  d c2 bb4
+  a d bb8 c d4
+  g, bb\p a d
+  bb8 c d4 g, \tempo "Adagio" g\f
+  g g g g
+  ab1
+  g\fermata
+}

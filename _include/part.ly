@@ -23,22 +23,25 @@
   % #(define page-breaking ly:page-turn-breaking)
   % #(define page-breaking ly:optimal-breaking)
   % #(define page-breaking ly:minimal-breaking)
-  page-limit-inter-system-space = ##t 
-  page-limit-inter-system-space-factor = 1.4
+  page-limit-inter-system-space = ##f
+  page-limit-inter-system-space-factor = 1
 
   page-top-space = #(* 5 mm)
   left-margin = 12\mm
   right-margin = 12\mm
   #(define line-width (- paper-width (* 24 mm)))
 
-  ragged-bottom = ##f
-  % ragged-last-bottom = ##f
+  % ragged-bottom = ##t
+  % ragged-last-bottom = ##t
 
-  between-system-space = 15 \mm
-  after-title-space = 5 \mm
+  % ragged-bottom = ##f
+  % ragged-last-bottom = ##t
+  
+  between-system-space = 22 \mm
+  after-title-space = 10 \mm
   before-title-space = 10 \mm
   between-title-space = 2 \mm
-  between-system-padding = 4 \mm
+  between-system-padding = 8 \mm
 
   top-margin = 1.4\cm
   bottom-margin = 1.4\cm

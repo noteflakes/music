@@ -1,5 +1,3 @@
-\pageBreak
-
 \relative c, {
   \key g \minor
   \time 4/4

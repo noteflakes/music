@@ -1,0 +1,71 @@
+\relative c'' {
+  \key a \minor
+  \time 4/4
+  \tempo "Adagio"
+  
+  e4. e8 e4 r
+  a4. a8 a4 r
+  b4. b8 b4 \tempo "un poc'allegro" r8 b,
+  $o2 c b c b c b c b $$ c8 d c (b6 a)
+  a4 r r2
+  r2 g'8 a e (d6 c)
+  c4 r r2
+  r4 r8 e (c6 b c b) (c b) (c b)
+  c8 f c (b6 a) a4 r
+  R1
+  e'8 f c (b6 a) a4 r
+  r2 r8 e'\pp $o2 a gs a gs
+  a gs a b $$ gs8.\trill a6 a4 r
+  \tempo "Adagio"
+  R1
+  r2 r4 r6 e f g
+  cs,8 (b6 a) r6 (g' a bb) (a g f e) (d cs) d8 ~
+  d6 cs d8 ~ d6 (d g f) (e g bb a) (g f e f)
+  d4 ~ d6 (f e d) (d8 e6\trill d3 e) f6 e d f
+  b,8 (b' ~ b6 a gs) b e,8 (fs6 gs) a (c, b a)
+  (a' g f a) d,8.\trill d6 e (gs, fs e) a4 ~
+  a6 (a' gs a) c, (a' gs a) \tempo "Allegro" b, [b gs e] c'4
+  r6 c a f d'4 r6 d b g e'4
+  r6 e c a f'4 r6 f d b g'4 ~
+  (g6 e) (a d,) d8.\trill c6 c [g e c] a'4 
+  r6 a fs d b'4 r6 b gs e c'4 
+  r6 c a f d'4 r6 d b g e'4 ~
+  (e6 c) (f b,) c8 (b6 a) a4 r
+  R1*9
+  r8 e' e a a fs fs b
+  b g g c c a b fs
+  g6 a g f e f e d c d c b a8 d
+  d8 [b b e] e c c f
+  f d e b c e d a
+  b6 a' g f e8 b c a a c
+  d b b6 e d e c d c b a8 d
+  d g, r e' e c r f
+  d bb bb d e g g e
+  f6 g a g f e d c bb8 c6 d e f e d
+  c8 d6 e f g f \ficta eb d8 g g c,
+  c f f bb, bb e e a,
+  g e' e g, f (e6 d) (d' e) (d e)
+  d8 e6 f e8. f6 e8 f6 g a \ficta bb a g
+  f g f e d8 e a,6 b c d e8 e
+  \ficta fs8 (g6 a) g8. \ficta fs6 e4 r8 e
+  a, b6 c d e d c b8 c6 d e f e d
+  c8 d6 e f g f e d e d c b e d e
+  c8 a r a a g fs b
+  b a g c c a b fs
+  g g r c c a a d 
+  d b b e e c r f
+  f d d b c4 a8. b6
+  c4 cs d ds
+  e2. d4 ~
+  d c2 b4 ~
+  b a2 gs4
+  a r8 f' d6 e d c b e d e
+  c d c b a d c d b c b a g c b c 
+  a b a g fs b a b gs8 e r a
+  b c d b e (d6 c) b4
+  a r8 a\p b c d b
+  e (d6 c) b4 a \tempo "Adagio" a'\f
+  a a a4. (g6 f)
+  (f8 e6 d) d2 ~ d6 (f e d)
+  a'1\fermata
+}

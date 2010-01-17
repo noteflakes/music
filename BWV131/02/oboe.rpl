@@ -1,0 +1,31 @@
+\relative c'' {
+  \key a \minor
+  \time 4/4
+  \tempo "Vivace"
+
+  a4 r r2
+  c,4 r8 c d e f g
+  e g c, c d e f g
+  e e r4 r2
+  R1*6
+  a,4 r8 a b c d e
+  c c r4 r2
+  R1*10
+  r4 f'8 e d c b a
+  gs4 r8 f' e d6 c b4
+  a8 [e a a] a a gs4\trill
+  a a'8 g fs e e ds
+  e4. (a6 g) fs8 (g6 e) ds8.\trill e6
+  fs8 b, r4 r2
+  R1*3
+  r2 r8 (f'6 e) e8 r
+  r (f6\p e) e8 r r (f6\pp e) e8 r
+  r4 r8 (c6\f d) c8 (b6 a) gs4
+  a r r2 
+  r r8 [(f'6\p e) e8] r
+  r [(f6 e) e8] r r [(f6 e) e8] r
+  r4 r8 (c6\f d) c8 (b6 a) gs4
+  a8 [(f'6\p e) e8] r r [(f6 e) e8] r
+  r [(f6 e) e8] [(d6 c)] [c8 a'] c, (b6 a)
+  a4 r8 gs'\pp a (f6 d) gs,8.\trill a6
+}

@@ -1,0 +1,42 @@
+\relative c' {
+  \key g \minor
+  \time 3/4
+  \tempo "Adagio"
+ 
+  r4 d eb 
+  a, r r
+  r fs' a
+  g r r
+  r g g
+  g eb e
+  a, g g'
+  f f eb
+  f f f 
+  f r r
+  r f f 
+  f f r
+  r f f 
+  a a bb
+  g f c
+  d f b,
+  c r r
+  r r g'
+  a g g
+  a fs d
+  eb eb a
+  a g g
+  g d d
+  d r r
+  r a' g
+  (a8 fs) fs4 r
+  R2.*6
+  r4 fs g
+  (a8 fs) fs4 r
+  R2.*2
+  r4 r g
+  (a8 bb) g4.\trill fs8
+  g4 r r
+  R2.*15
+  c,4 eb g
+  a a d,
+}

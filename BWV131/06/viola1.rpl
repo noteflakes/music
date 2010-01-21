@@ -1,0 +1,6 @@
+\relative c' {
+  \key g \minor
+  \time 12/8
+  
+  R1.*64
+}

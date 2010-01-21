@@ -1,6 +1,11 @@
 title: Cantata BWV 131
 subtitle: "\"Aus der Tiefen rufe ich, Herr, zu dir\""
 composer: Johann Sebastian Bach
+parts:
+  oboe:
+    midi_transpose: a g
+  fagotto:
+    midi_transpose: a g
 score:
   order:
     - oboe

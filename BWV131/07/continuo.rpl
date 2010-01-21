@@ -1,11 +1,11 @@
 \relative c, {
   \key g \minor
   \time 4/4
-  \tempo "Adagio"
+  \tempo "Adagio" m{{\tempo 4=70}}
   
   fs4. fs8 fs4 r
   g4. g8 g4 r
-  d4. d8 d4 \tempo "un poc'allegro" r8 d'
+  d4. d8 d4 \tempo "un poc'allegro" m{{\tempo 4=90}} r8 d'
   g d g, d' g c, d d,
   g [d' g f] eb d c d6 eb
   f8 g a f bb eb, f f,
@@ -16,7 +16,7 @@
   g c, d d, g [g'6\p f] eb8 d6 c
   bb8 c d d, g [g'6_\markup { \italic { più \dynamic p } } f] eb8 d
   c a d d, g4 g'\f
-  \tempo "Adagio"
+  \tempo "Adagio" m{{\tempo 4=65}}
   g f eb c
   ab2 g4 g' ~
   g2 g
@@ -24,7 +24,7 @@
   c c'
   fs, g4. f8
   eb2 d4 eb8 d
-  cs2 \tempo "Allegro" d4 r8 bb
+  cs2 \tempo "Allegro" m{{\tempo 4=100}} d4 r8 bb
   eb4. c8 f4. d8
   g4. eb8 a4. f8
   bb eb, f f, bb4 r8 g

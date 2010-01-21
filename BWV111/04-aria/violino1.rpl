@@ -32,9 +32,9 @@
   g b c d
   e fs g a
   d, e fs g
-  r g fs e d
-  r d c b a
-  r b cs d e $$
+  g fs e d
+  d c b a
+  b cs d e $$
   r8 e, $8.6 fs g a d,
   g a b c d g,
   e' c d b g' d

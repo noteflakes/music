@@ -72,7 +72,7 @@
   d c2 bb4
   a d bb8 c d4
   g, bb\p a d
-  bb8 c d4 g, \tempo "Adagio" g\f
+  bb8 c d4 g, \tempo "Adagio" m{{\tempo 4=70}} g\f
   g g g g
   ab1
   g\fermata

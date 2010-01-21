@@ -1,0 +1,44 @@
+\relative c'' {
+  \key g \minor
+  \time 4/4
+  \tempo "Vivace"
+ 
+  bb4 r8 bb c d eb f
+  d d r4 r2
+  bb4 r8 bb c d eb f
+  d d r4 r2
+  R1*2
+  d4 r8 d d d d cs
+  d d r bb c c c f
+  d bb eb d c bb a g
+  (fs4 r8 eb' [d c6 bb] a4)
+  g r8 g a bb c d
+  bb bb r4 r2
+  R1*3
+  r2 r4 r8 g
+  a a a d bb g d' d
+  d d d cs d d d c
+  bb d cs d ([e a, g' e6 d]
+  cs8 d4 cs8) d4 r8 d
+  d e cs8.\trill d6 d8 c bb d
+  c c d ([eb6 d]) d8 bb r4
+  r eb8 d c bb a g
+  fs4 r8 eb' [d c6 bb] a4
+  g8 d g g g g fs4
+  g g'8 f e d d cs
+  (d4. [g6 f] [e8 f6 d] [cs8.\trill d6]
+  e8) a, r4 r2
+  r2 r4 r8 d,
+  e e e a f d d' c
+  bb g g' f eb c eb d \override Beam #'breakable = ##t
+  c bb a g fs r r [eb'
+  d] r r [eb d] r r eb
+  [d c6 bb] [a8 bb6 c] [bb8 a6 g] fs4
+  g4 g'8 f eb c eb d
+  c bb a g fs4 r8 [eb'
+  d] r r [eb d] r r eb
+  [d c6 bb] [a8 bb6 c] [bb8 a6 g] fs4
+  g4 r r2
+  R1*2
+  
+}

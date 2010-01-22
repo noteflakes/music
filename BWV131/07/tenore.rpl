@@ -1,0 +1,77 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+  \tempo "Adagio"
+  
+  d4. d8 d4 r
+  bb4. bb8 bb4 r
+  a4. a8 a4 \tempo "un poc'allegro" r4
+  r2 g8 g g fs
+  g4 r r r8 (bb
+  [f' eb6 d c8 d6 eb] d8) ([c6 bb]) bb8.\trill a6
+  bb4 ([bb8\p c d]) bb bb8. a6
+  bb4 r r2
+  bb8 a ([bb6 c]) d8 bb4 r
+  r r8 (g [d' c6 bb] [a8 bb6 c] \override Beam #'breakable = ##t
+  bb8) ([a6 g]) g8. fs6 g4 ([g8 a
+  bb]) g g8. fs6 g4 r
+  r2 r4 bb
+  \tempo "Adagio"
+  c d eb g,8 g
+  (g4 f) g r
+  r d'8 d eb2 ~
+  eb4 c8 c g2
+  c r4 c
+  c ([bb8 a]) bb4 bb8 bb
+  (bb4 [a8 g]) a4 g8 g
+  g2 \tempo "Allegro" d'4 r
+  r8 bb eb4 r8 c (f4
+  r8 d g4 r8 eb c4
+  [d8 bb]) a8. bb6 bb4 r
+  r8 g c4 r8 a (d4
+  r8 bb eb4 r8 c a4
+  [bb8 g]) g8. fs6 g4 r
+  R1*2
+  r8 d' c bb a4 d
+  g, r8 g [d8 eb6 f] [g a g f]
+  [e8 f6 g] [a bb a g] [f8 g6 a] [bb c bb a]
+  [g a g f] [e a g a] fs8 d r g
+  (g4 fs) g d'
+  eb e f fs
+  g2. fs4
+  g r r2
+  R1*2
+  r4 r8 d ([bb c6 d] [eb f eb d]
+  [c d c bb] [a d c d] bb8) g r c
+  c a a d d bb bb eb
+  eb c d d d bb g4
+  ab a bb b
+  c2. b4
+  c r8 ab [f g6 ab] [bb c bb ab]
+  [g8 ab6 bb] [c db c bb] [ab bb ab g] [f bb ab bb]
+  eb,8 eb r ab f4. g8
+  ab ([g6 f]) g4 g r8 c
+  c a a d d bb bb eb
+  eb c c a d bb r d
+  (d4 cs) d r
+  r8 c c g a d d a
+  bb g r4 r a
+  bb b c cs
+  d2. cs4
+  d r8 d ([g,8 a6 bb] [c d c bb]
+  [a8 bb6 c] [d eb d c] [bb8 c6 d] [eb f eb d]
+  [c d c bb] [a d c d] [bb a g a] [bb a bb c]
+  d8) g, r g g f e a
+  a g f bb bb a g a
+  [a6 bb a g] [f bb a bb] [g a g f] [eb a g a]
+  [f g f eb] [d g f g] [eb f eb d] [c8 d]
+  d4 r8 bb' [a bb6 c d8 f,]
+  [g a6 bb c8 eb,] [f g6 a bb8 d,]
+  [e f6 g a8 c,] [d6 a' bb c] [d eb d eb]
+  [c d c bb] [a d c d] [g, bb a g] fs4
+  g8 d g4\p ~ g fs
+  g8 g ([g fs]) g4 \tempo "Adagio" d'\f
+  d d d ([c8 b])
+  c2 ~ [c8 eb6 b] [c8.\trill d6]
+  d1\fermata
+}

@@ -1,3 +1,11 @@
+% hide empty staves
+% \layout {
+% 	\context {
+% 	  \RemoveEmptyStaffContext
+% 	  \override VerticalAxisGroup #'remove-first = ##t
+% 	}
+% }
+
 \header {
 	copyright = \markup \column {
 		\fill-line { 

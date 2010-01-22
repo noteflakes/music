@@ -1,0 +1,40 @@
+\relative c'' {
+  \key g \minor
+  \time 4/4
+  \tempo "Largo"
+  
+  g4 r r2
+  R1*4
+  r2 ab8 ab ab ab
+  (ab4 g2 f4 ~
+  f e f8) g ab f
+  g c, r c' f, f r bb
+  eb, eb r ab f d g f
+  eb ([f g]) eb (ab4 bb
+  g) ab bb g
+  ab8 r r c, bb4 c4.
+  c8 db bb' e, r r4
+  g8 g g g f f g f 
+  eb eb r ab d, d r g
+  c, c r f b,4 c ~
+  c bb a a
+  g r r bb'8 bb
+  g eb r a f d r g
+  eb eb d d e4 a
+  (d, g2 f4 ~
+  f) eb d8 d d d 
+  (d4 c2 bb4
+  a8) a d d b b e a,
+  f'2 e4 r
+  R1
+  r2 a8 a a a
+  (a4 g2 fs4
+  g8) g g g f! f r bb
+  eb, eb g g (fs4 g
+  eb) a d, c
+  c bb eb8 eb r eb
+  d d r d c c c c 
+  bb4 \tempo "Adagio" d8 d (eb4 f ~
+  f) ([eb8 d]) eb4 eb
+  d1\fermata
+}

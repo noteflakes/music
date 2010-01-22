@@ -1,0 +1,40 @@
+\relative c' {
+  \key g \minor
+  \time 12/8
+  
+  R1.*10
+  \repeat volta 2 {
+  r2*3/2 c
+  c b
+  c d
+  eb d
+  c r
+  R1.*8
+  r2*3/2 c
+  d d
+  g f
+  eb1*3/2
+  d2*3/2 r } \alternative { {
+  R1.*4 } {
+  R1. } }
+  R1.*3
+  r2*3/2 g
+  f eb
+  d f
+  eb d 
+  c r
+  R1.*3
+  r2*3/2 eb
+  d c
+  bb g
+  bb c
+  d r
+  R1.*4
+  r2*3/2 c
+  eb f
+  (g2.*3/2 f4*3/2
+  eb2*3/2) f
+  d ~ [d8 f eb] d4*3/2\trill
+  c1*3/2
+  R1.*5
+}

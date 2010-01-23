@@ -15,15 +15,26 @@ movements:
   06-choral:
     midi_tempo: 90 4
 parts:
+  # right now these settings don't do anything but just a reminder
+  layout:
+    between_system_padding: 6 \mm
+    between_system_space: 15 \mm
   violino1:
-    breaks: [04-aria]
+    breaks:
+      - 04-aria
+      - 05-recitativo
   violino2:
-    breaks: [04-aria]
+    breaks:
+      - 04-aria
+      - 05-recitativo
   violini:
     no_part: true
   continuo:
     breaks:
       - 03-recitativo
+      - 04-aria
+      - 04-aria
+      - 05-recitativo
 score:
   order:
     - oboe

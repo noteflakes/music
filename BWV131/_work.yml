@@ -2,8 +2,8 @@ title: Cantata BWV 131
 subtitle: "\"Aus der Tiefen rufe ich, Herr, zu dir\""
 composer: Johann Sebastian Bach
 parts:
+  # right now these settings don't do anything but just a reminder
   layout:
-    # right now these settings don't do anything but just a reminder
     between_system_padding: 6 \mm
     between_system_space: 15 \mm
   oboe:

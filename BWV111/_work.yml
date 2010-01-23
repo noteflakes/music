@@ -1,5 +1,5 @@
 title: Cantata BWV 111
-subtitle: "\"Was mein Gott will, das g'scheh allzeit\""
+subtitle: '"Was mein Gott will, das g''scheh allzeit"'
 composer: Johann Sebastian Bach
 movements:
   01-coro:
@@ -11,6 +11,10 @@ movements:
   06-choral:
     midi_tempo: 90 4
 parts:
+  # right now these settings don't do anything but just a reminder
+  layout:
+    between_system_padding: 6 \mm
+    between_system_space: 15 \mm
   oboe1:
     breaks:
       - 05-recitativo
@@ -21,7 +25,6 @@ parts:
     breaks:
       - 04-aria
       - 04-aria
-      - 05-recitativo
   violino2:
     breaks:
       - 04-aria

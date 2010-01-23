@@ -1,0 +1,53 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+  \tempo "Adagio"
+  
+  r4 eb eb eb8 eb
+  eb4 r r2
+  r4 bb' bb a8 a
+  bb4 r r2
+  r4 ab ab g8 f
+
+  \bar "||"
+  \tempo "Largo"
+  
+  g4 (c6 bb) (bb ab) ab4 r
+  $v1 f g c, f
+  b, c c f
+  g eb c d
+  bb c ab g
+  g c f c
+  f g eb f
+  db c c f
+  g eb f d
+  eb c ab' d,
+  c' g f d
+  e c db c
+  c f bb, eb
+  ab, db e c
+  d eb d g,
+  eb' ab d, bb
+  c f d c
+  fs d d a $$
+  r8 g' a4. d,8 r6 bb' g bb
+  $v2 c bb c a f a bb a bb g eb g
+  a g a f d f g fs g e c e $$
+  $v3 d g e f
+  d a' d, g
+  a c, g' g
+  a d, $$ g4 r8 \ficta e
+  $v3 d f b, f'
+  b, e cs d
+  g c, d d
+  eb g a a
+  bb bb a d, 
+  c c a g'
+  c, d g g $$
+  fs4 r6 bb d bb $v2 g f g a c a
+  f eb f g bb g $$ eb8 c d fs
+  d4 \tempo "Adagio" r r g8 g
+  g4 g c, a'
+  g1\fermata
+  \bar "||" \time 12/8
+}

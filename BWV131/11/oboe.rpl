@@ -1,0 +1,148 @@
+\relative c' {
+  \key a \minor
+  \time 3/4
+  \tempo "Adagio"
+ 
+  R2.
+  r4 e' a8 (b6 gs)
+  gs8.\trill fs6 e4 r
+  r e a,
+  gs8. fs6 e4 e'
+  a4. c8 b a
+  gs4\trill a8 (b6 g) fs4\trill
+  g c, f
+  e8. f6 d4. c8
+  c4 g' c,
+  b8. a6 g4 r
+  r d' g8 (a6 f)
+  e8. d6 e8 f g a
+  g4 b, r8 g'
+  (a b6 c) (e,4 d8.\trill) c6
+  c4 r r
+  r a' d,
+  cs8.\trill b6 a4 f'
+  (f8 e) e4 a8. b6
+  gs8.\trill fs6 e4 c' ~
+  c (b c8.) d6
+  gs,4 e (a8 b6 gs)
+  (a8 b6 gs) gs4.\trill a8
+  a4 r r
+  r e (a8 b6 gs)
+  gs8.\trill fs6 e4 r
+  R2.*3
+  r4 r b
+  c8 d b4.\trill c8
+  a2 r4
+  r e' a,
+  gs8.\trill fs6 e4 r
+  R2.*2
+  r4 r e'
+  (d8 e) c4.\trill b8
+  a4 r r
+  R2.*4
+  fs'2.
+  (b8 e,) ds4.\trill e8
+  e2 r4
+  R2.*7
+  r4 a2 ~
+  a4. gs8\trill a gs
+  a b gs4.\trill a8
+  
+  \bar "||"
+  \time 4/4
+  \tempo "Vivace"
+
+  a4 r r2
+  c,4 r8 c d e f g
+  e g c, c d e f g
+  e e r4 r2
+  R1*6
+  a,4 r8 a b c d e
+  c c r4 r2
+  R1*10
+  r4 f8 e d c b a
+  gs4 r8 f' e d6 c b4
+  a8 [e a a] a a gs4\trill
+  a a'8 g fs e e ds
+  e4. (a6 g) fs8 (g6 e) ds8.\trill e6
+  fs8 b, r4 r2
+  R1*3
+  r2 r8 (f'6 e) e8 r
+  r (f6\p e) e8 r r (f6\pp e) e8 r
+  r4 r8 (c6\f d) c8 (b6 a) gs4
+  a r r2 
+  r r8 [(f'6\p e) e8] r
+  r [(f6 e) e8] r r [(f6 e) e8] r
+  r4 r8 (c6\f d) c8 (b6 a) gs4
+  a8 [(f'6\p e) e8] r r [(f6 e) e8] r
+  r [(f6 e) e8] [(d6 c)] [c8 a'] c, (b6 a)
+  a4 r8 gs'\pp a (f6 d) gs,8.\trill a6
+  
+  \bar "||"
+  \tempo "Andante"
+  
+  a4 r r2
+  R1
+  r4 $o1 g' a g c, a' f d c' b $$
+  c8 c, r4 r2
+  r4 r8 e $o1 d f e e f e
+  d f e e bb' a a g bb $$ cs,8.\trill d6
+  d4 r8 e $o1 f e d cs e d $$
+  d4 r8 b $o1 e f e e f e 
+  e c a a' g e f d b $$ e,8 r
+  r4 $o1 e' c a f f' d $$ b8 e
+  c a r g' $o1 a bb a g bb g
+  a g f $$ (e f) (g c,) (f b,) (b g) $o1 c g' e
+  a f d e g e f e d $$ a'4 ~ 
+  a8 g4 (f6 e) $o1 f e d d c b
+  b a b $$ gs8.\trill fs6 e8 b' $o1 e f! e
+  e d c g' a g g f e e f e 
+  e f e e c a a' b a $$ a4 ~
+  a4. (g6 fs) g8 (a6 b) ds,8.\trill e6
+  e4 r r8 e $o1 a g f
+  f a f d f e e g e c e d
+  d f d b d c $$ c8 a r4
+  R1*2
+  r4 r8 e' $o1 f d b b' g e
+  a e cs a' f d g d b g' e c
+  f g f $$ e8 a $o1 b, c d $$ b8.\trill c6
+  c4 r r r8 g'
+  a e f c4 b8\trill c g'
+  a e f g $o1 a bb a $$ a8 g ~
+  $o1 g a e f e d cs b a $$ r8 c
+  $o1 f e d d c b $$ [b8 e,] $o1 e' f e
+  e d c g' a g g d b e f e 
+  e c a e'\p f e e c a a'\f b a $$
+  a4. (g6 fs) g8 (fs6 e) ds4\trill
+  e $o1 b c b a g' fs fs a, g
+  g fs' e e g, fs fs a' e $$ ds8. e6
+  e4 r r2
+  r4 $o1 g a g c, a' f d c' b $$
+  c8 c, $o1 r g' e a, a' f d g d
+  e g f g a g g e b c g' c,
+  c g' c, b e b b e b a e' a,
+  a e' a, gs e' gs, a a' f d b' fs
+  gs e gs a e c f d b $$ gs8.\trill a6
+  a4 r r2
+  r r4 r8 e'
+  $o2 ds e fs e ds fs e ds fs e ds fs a, c b a $$
+  g8 r6 fs' $o2 g fs e g fs e g fs e fs g fs
+  e g fs e $$ ds8.\trill e6 $o2 e d c e d c e d
+  c b a c b a c b a c b a c b a b
+  g b a g b a g a fs a g fs a g fs g $$
+  e4 r $o2 g' fs e g fs e g fs
+  e g fs e g fs e g fs e g fs e g fs e
+  ds fs e ds fs e ds fs e g fs e $$ ds8.\trill e6
+  $o2 e d! c e d c b d $$ c8 a r4
+  r r6 (d e f) $o2 e d c e d c f e
+  d c b d c b e d c b a c b a c b $$
+  a8 r r e' $o2 a g f a g a f g $$
+  $o1 e d c g' a g c, a' fs b, b' gs $$
+  c8 c, r4 a' r8 a
+  a a a a a (a6 b) gs8.\trill a6
+  a8 $o2 a, b c b c d e d c e d c e d
+  c e d c a' g f e d e c d $$ b8 (a'6 gs)
+  a8 $o2 e d e c d e c d e c d e c d
+  e f g e fs gs a b gs b a b $$ gs8. a6
+  a8 r r4 r2
+}

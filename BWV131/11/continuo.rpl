@@ -1,0 +1,177 @@
+\relative c {
+  \key g \minor
+  \time 3/4
+  \tempo "Adagio" m{{\tempo 4=70}}
+ 
+  g4 g' eb
+  d bb g
+  d d' fs
+  g g, eb
+  d bb' g
+  eb c' a
+  d g, c
+  f d c
+  bb f' f,
+  bb bb' g
+  f d bb
+  f f' a
+  bb bb, d
+  f f, bb
+  eb f f,
+  bb bb' g
+  c c, ab
+  g g' c
+  fs, g eb
+  d fs g
+  c, c' a
+  d g, eb
+  c d d,
+  g g' eb
+  d d, eb
+  d d' fs
+  g g, b
+  c eb cs
+  d c! d
+  eb d cs
+  d c! d
+  g, g' eb
+  d d, eb
+  d d' fs
+  g g, b
+  c c, eb'
+  d4. c8 bb4
+  c d d,
+  g g' d
+  e f fs
+  g gs a
+  d, g, a
+  d f d
+  g a cs,
+  d g, a
+  d, d' fs
+  g g, b
+  c c, eb'
+  d d, fs'
+  g g, bb
+  c d bb
+  fs fs' d
+  g c, d
+  g, g' b
+  c c, bb
+  a d d,
+  
+  \bar "||"
+  \time 4/4
+  \tempo "Vivace" m{{\tempo 4=90}}
+
+  g'8 f eb d eb c f f,
+  bb' a g f eb c f f,
+  bb' a g f eb c f f,
+  bb c d a bb g c c,
+  f' e d c bb a g e
+  a bb' a g f d a' a,
+  d c bb a g e' a a,
+  d e f d eb! c f f,
+  bb' a g f eb d c a
+  d eb d c bb g d' d,
+  g' f eb d c a d d,
+  g a bb g c a d d,
+  g a bb f g e' a a,
+  d c bb a g f' e d
+  cs d e g a bb g a
+  d, eb! c d g, c eb bb
+  c a d d, g a bb a
+  g e' a a, d e fs d
+  g d a' bb a a, bb g
+  a bb g a d e f d
+  g e a a, d, d' eb d
+  c a d d, g a' g f
+  eb d c bb a g c c,
+  d e fs d g c d d,
+  g a bb g c bb a d
+  g, a bb a g e' a a,
+  /1 d a' d c bb /2 d,4 r8 d g g, g' f
+  /u e d g g, a b cs a
+  d g a a, d e f d 
+  g e a a, d c bb a
+  g' f eb d c g' c bb
+  a g c, eb d c bb a
+  bb c bb a bb c bb a
+  bb g d' fs, g c d d,
+  g f' eb d c g' c bb
+  a g c, eb d c bb a
+  bb c bb a bb c bb a
+  bb g d' fs, g c d d,
+  g a\p bb g d' c bb g
+  d' c bb a g c d d,
+  g c\pp bb a g c d d,
+  
+  \bar "||"
+  \tempo "Andante" m{{\tempo 4=80}}
+
+  g'8 f eb d c a d d,
+  g a bb g c g a f
+  bb c d bb eb c f f,
+  bb c d eb d c b g
+  c d eb b c c' b g
+  c, c' b g c f, g g,
+  c d eb b c eb g g,
+  c d eb c d c d d,
+  g a bb g c a d d,
+  g a bb g c a d d,
+  g4 r8 d' eb r d r
+  eb f g d eb f d bb
+  eb c b g c d eb c
+  f d b g c d eb bb
+  c bb c a d eb d c
+  bb c d bb f' e fs d
+  g4 g,2.
+  a8 b cs a d g a a,
+  d e fs d g, a bb g
+  c eb f f, bb d eb eb,
+  a c d d, g a bb g
+  c d eb c d c d d,
+  g' f eb d c a d d,
+  g a bb g c a d c
+  b g c bb a f bb a
+  g a bb eb f eb f f,
+  bb c d bb eb f g d
+  eb f g d eb f g d
+  eb f g d eb d e f
+  b, g c c, g' a bb g
+  c bb c a d eb d c
+  bb c d bb f' e fs d
+  g g, g' a bb a, bb g
+  a b cs a d g a a,
+  d e f d e d cs a
+  d c! bb a g e a a
+  d c d bb eb c f f,
+  bb c d bb eb c f f,
+  bb c d bb eb c f f,
+  bb c d eb bb c d eb 
+  [f f,] fs' d g, a bb c
+  d c d d, eb d' eb c 
+  d d eb bb c a d d,
+  g a bb a g a bb a
+  g a bb g d' c bb4
+  a8 e' a bb a b cs a
+  d a d, r r4 r8 d
+  g e a a, d g e fs
+  g bb, c d g, a bb c 
+  d e f d g e a a,
+  d4 r d8 f, g a
+  d, a' d c bb2
+  a8 e' a g f g a a,
+  d d e fs g fs g d
+  eb c f f, bb d eb g,
+  a c d d, g' bb, c d
+  g, d' g f eb d6 c f8 f,
+  bb c d bb eb e f fs
+  g f! eb! d eb d c bb
+  c bb c a d eb d c
+  bb a g d' g d e fs
+  g f! eb! g fs g6 c, d8 d,
+  g a bb a g g' a f 
+  bb g c a d g,6 c, d8 d,
+  g r r4 r2
+}

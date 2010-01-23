@@ -1,0 +1,88 @@
+\relative c' {
+  \key g \minor
+  \time 3/4
+  \tempo "Adagio"
+ 
+  r4 d eb 
+  a, r r
+  r fs' a
+  g r r
+  r g g
+  g eb e
+  a, g g'
+  f f eb
+  f f f 
+  f r r
+  r f f 
+  f f r
+  r f f 
+  a a bb
+  g f c
+  d f b,
+  c r r
+  r r g'
+  a g g
+  a fs d
+  eb eb a
+  a g g
+  g d d
+  d r r
+  r a' g
+  (a8 fs) fs4 r
+  R2.*6
+  r4 fs g
+  (a8 fs) fs4 r
+  R2.*2
+  r4 r g
+  (a8 bb) g4.\trill fs8
+  g4 r r
+  [[R2.*15]] {{
+    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*5
+  }}
+  c,4 eb g
+  a a d,
+  
+  \bar "||"
+  \time 4/4
+  \tempo "Vivace"
+ 
+  d4 r r2
+  f4 r8 d g g f f
+  f a bb f g eb c a'
+  bb bb r4 r2
+  [[R1*6]] {{
+    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*2
+  }}
+  d,4 r8 d eb c a d 
+  d d r4 r2
+  [[R1*13]] {{
+    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
+    R1
+  }}
+  r4 r8 d e e e a
+  f d bb' a g f e d
+  cs r r bb' a g6 f e8 f6 g
+  f8 e6 d cs4\trill d r
+  R1*2
+  r2 r8 fs g r
+  r fs g r r fs g r
+  r4 r8 a g eb d4
+  d r r2
+  r2 r8 fs g r
+  r fs g r r fs g r
+  r4 r8 a g eb d4
+  d r8 bb'\p a4 r8 bb
+  a4 r8 a bb g d4
+  d r8 a'\pp bb g d4
+  
+  \bar "||"
+  \tempo "Andante"
+
+  d4 r r2
+  R1*64
+}

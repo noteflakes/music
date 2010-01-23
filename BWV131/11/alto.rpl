@@ -1,0 +1,85 @@
+\relative c' {
+  \key g \minor
+  \time 3/4
+  \tempo "Adagio"
+
+  [[R2.*23]] {{
+    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3
+  }}
+  r4 bb c
+  ([d8 a]) a4 r
+  r4 a d
+  bb8. (a6 g4) r
+  g'2.
+  ([g8 a]) fs4.\trill g8
+  g4 r r
+  R2.
+  r4 d eb
+  a, fs r
+  R2.
+  r4 d' g
+  eb8. (d6 c4) r
+  r r g'
+  ([a8 bb]) g4.\trill fs8
+  g4 r r
+  r r d ~
+  d2 cs4
+  d d cs
+  d2 r4
+  R2.*4
+  r4 g c
+  fs,8. (e6 d4) r
+  r (g2 ~
+  g4 fs) g
+  a a a
+  ([g8 a]) g4.\trill fs8
+  g2 r4
+  R2.*2
+
+  \bar "||"
+  \time 4/4
+  \tempo "Vivace"
+ 
+  g4 r8 f g eb c a'
+  bb bb r4 r2
+  f4 r8 f g eb c a'
+  bb bb r f g g g c
+  a f bb a g f e d
+  (cs4 r8 bb' [a g6 f] e4)
+  d r8 d e f g a
+  f f r4 r2
+  R1*2
+  d4 r8 d eb c a d
+  d d r4 r2
+  R1*4
+  r2 r4 r8 d
+  e e e a f d bb' a
+  g f e d (cs4 r8 bb'
+  [a g6 f] e4) f8 g a f
+  bb g a e a fs g d
+  eb! eb ([d a]) g r r4
+  R1*3
+  r4 r8 d' e e e a
+  f d bb' a g f e d
+  cs r r bb' [a g6 f] [e8 f6 g]
+  [f8 e6 d] cs4\trill d r
+  R1
+  r2 r4 eb8 g \override Beam #'breakable = ##t
+  a bb c c, d r r [fs\p
+  g] r r [fs\pp g] r r fs\f
+  [g a6 g] [fs8 g6 a] [g8 eb] d4
+  d g8 b c c, g' g
+  a bb c c, d r r [fs
+  g] r r [fs g] r r fs
+  [g a6 g] [fs8 g6 a] [g8 eb] d4
+  d r r2
+  R1*2
+
+  \bar "||"
+  \tempo "Andante"
+  R1*65
+}

@@ -1,0 +1,10 @@
+end_bar: "||"
+score:
+  auto_hide:
+    - violino
+    - viola1
+    - viola2
+    - fagotto
+    - alto
+    - tenore
+

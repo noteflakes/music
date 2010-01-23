@@ -1,0 +1,104 @@
+\relative c' {
+  \key a \minor
+  \time 3/4
+  \tempo "Adagio"
+ 
+  r4 a f 
+  e c a
+  e e' gs
+  a a, f
+  e c' a
+  f d' b
+  e a, d
+  g e d
+  c g' g,
+  c c' a
+  g e c
+  g g' b
+  c c, e
+  g g, c
+  f g g,
+  c c' a
+  d d, bb
+  a a' d
+  gs, a f
+  e gs a
+  d, d' b
+  e a, f
+  d e e,
+  a r r
+  r e' f
+  e e, r
+  R2.*2
+  r4 r e'
+  f e ds
+  e d! e
+  a, r r
+  r e' f
+  e e, r
+  R2.*2
+  r4 r c'
+  d e e,
+  a r r
+  R2.*2
+  r4 r b
+  e g e
+  a b ds,
+  e a, b
+  e, r r
+  R2.*8
+  r4 r c'
+  b e e,
+  
+  \bar "||"
+  \time 4/4
+  \tempo "Vivace"
+
+  a8 g' f e f d g g,
+  c' b a g f d g g,
+  c' b a g f d g g,
+  c d e b c a d d,
+  g' \ficta fs e d c b a fs
+  b c' b a g e b' b,
+  e d c b a fs' b b,
+  e fs g e f d g g,
+  c' b a g f e d b
+  e f e d c a e' e,
+  a' g f e d b e e,
+  a b c a d b e e,
+  a b c g a fs' b b,
+  e d c b a g' fs e
+  ds e fs a b c a b
+  e, f d e a, d f c
+  d b e e, a b c b
+  a fs' b b, e fs gs e
+  a e b' c b b, c a 
+  b c a b e fs g e
+  a fs b b, e, e' f c
+  d b e e, a b' a g
+  f e d c b a d d,
+  e fs gs e a d e e,
+  a b c a d c b e
+  a, b c b a fs' b b,
+  e4 r8 e a a, a' g
+  fs e a a, b cs ds b
+  e a b b, e fs g e
+  a fs b b, e d c b
+  a' g f e d a' d c
+  b a d, f e d c b
+  c d c b c d c b
+  c a e' gs, a d e e,
+  a g' f e d a' d c
+  b a d, f e d c b
+  c d c b c d c b
+  c a e' gs, a d e e,
+  a b\p c a e' d c a
+  e' d c b a d e e,
+  a d\pp c b a d e e,
+  
+  \bar "||"
+  \tempo "Andante"
+  
+  a4 r r2
+  R1*64
+}

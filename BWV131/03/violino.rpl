@@ -1,8 +1,0 @@
-\relative c'' {
-  \key g \minor
-  \time 4/4
-  \tempo "Andante"
-
-  g4 r r2
-  R1*64
-}

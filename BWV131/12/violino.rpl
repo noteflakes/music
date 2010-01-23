@@ -1,0 +1,52 @@
+\relative c'' {
+  \key g \minor
+  \time 4/4
+  \tempo "Adagio"
+  
+  r4 bb bb bb8 bb
+  bb4 r r2
+  r4 bb c c8 c
+  d4 r r2
+  r4 f, f f8 f
+
+  \bar "||"
+  \tempo "Largo"
+  
+  c'4 r r2
+  R1*2
+  r4 r6 g c g (ab g) ab8 r6 f bb f
+  (g f) g8 r6 eb ab eb (f eb) f8 f6 d g d
+  e g f ab g bb ab g f c' bb c ab8 f ~
+  f (bb6 eb,) eb4 ~ eb8 (ab6 db,) db4 ~
+  db8 (g6 c,) c4 r2
+  r4 r6 g'' c g (ab g) ab8 r6 f bb f
+  (g f) g8 r6 eb ab eb (f eb) f8 r6 d g d
+  eb f eb d c4 r8 (d6 g,) g4
+  r8 (c6 f,) f4 r8 (g'6 bb,) c4
+  r8 (f6 c) c4 r8 (g'6 bb,) bb4
+  r8 (f'6 ab,) ab4 r8 (c6 e,) f4
+  r8 (d'6 g,) g4 r8 (ab6 d,) g4
+  r8 (g'6 b,) c4 r8 (d6 g,) g4
+  r8 (c6 f,) f4 r6 d' g d (eb d) eb8
+  r6 fs, a fs (g fs) g8 r6 g a e (fs a) d,8
+  r6 d' g bb, (c e) a,8 r6 a d a (bb d) g,8
+  r6 g c g (a c) f,8 r6 f bb f (g bb) eb,8
+  r6 g a eb (f a) d,8 r6 g bb g (a c) e,8
+  e8 (a6 d,) d4 r6 \ficta e a c, (d c) d8
+  r6 d g b, (c b) c8 r6 fs a d, (g fs) g8
+  r6 a c g (a g) a8 r6 d, g c, (d c) d8
+  r6 a' cs e, (f e) f8 r8 (g6 a,) a4
+  r6 f' a cs, (d cs) d8 r6 b' e gs, (a gs) a8
+  r6 d f b, (e d) e8 r6 e a cs, (d cs) d8
+  r6 g bb g (e d) e8 r6 fs a fs (d cs) d8
+  r (eb6 bb) bb4 r8 (eb6 c) c8 a
+  r6 g' bb g (eb d) eb8 r6 c f a, (bb a) bb8
+  r6 d g bb, (c bb) c8 r6 fs a fs (d c) d8
+  r6 c eb c (f eb) f8 r6 bb, d bb (eb d) eb8
+  r6 a, d fs, (g fs) g8 r6 g c g (a g) a8
+  r6 f bb f (g fs) g8 r6 c, a' eb d8 (a'6 d,)
+  d4 \tempo "Adagio" r4 r g8 g
+  g4 g g c
+  d1\fermata
+  \bar "||" \time 12/8
+}

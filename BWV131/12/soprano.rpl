@@ -1,0 +1,47 @@
+\relative c'' {
+  \key g \minor
+  \time 4/4
+  \tempo "Adagio"
+  
+  r4 g g g8 g
+  g4 r r2
+  r4 g' eb eb8 eb
+  d4 r r2
+  r4 c c bb8 bb
+
+  \bar "||"
+  \tempo "Largo"
+  
+  c4 r r2
+  R1*7
+  eb8 eb eb eb (eb4 d ~
+  d c2 b4
+  c8) d eb c d d r g
+  c, c r f f f e e 
+  f4 r8 ab, ([bb ab] g4
+  ab8) g f f g4 r
+  r2 d'8 d d d
+  (d4 c2 bb4 ~
+  bb ab g8) g c c
+  fs, d g2 fs4
+  g r d'8 d d d
+  (d4 c2 bb4
+  a8) a d d g, g r c
+  fs, fs r g a g a bb
+  g4 a8 c fs, d r4
+  r a'8 a d, d r g
+  g g f f g e a4. 
+    a8 d d gs, e (a4 ~
+  a g2 f4
+  e8) e a a d, d r4
+  R1
+  eb'8 eb eb eb (eb4 d ~
+  d c2 bb4
+  a8) a d d g, g r c
+  fs, fs bb bb bb4 a
+  (a g2 fs4)
+  g \tempo "Adagio" g8 g g4 g
+  g2. fs4
+  g1\fermata
+  \bar "||" \time 12/8
+}

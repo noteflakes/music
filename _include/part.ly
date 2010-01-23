@@ -31,17 +31,14 @@
   right-margin = 12\mm
   #(define line-width (- paper-width (* 24 mm)))
 
-  % ragged-bottom = ##t
-  % ragged-last-bottom = ##t
-
-  % ragged-bottom = ##f
-  % ragged-last-bottom = ##t
+  ragged-bottom = ##f
+  ragged-last-bottom = ##t
   
-  between-system-space = 22 \mm
+  between-system-space = 15 \mm
   after-title-space = 10 \mm
   before-title-space = 10 \mm
   between-title-space = 2 \mm
-  between-system-padding = 8 \mm
+  between-system-padding = 6 \mm
 
   top-margin = 1.4\cm
   bottom-margin = 1.4\cm

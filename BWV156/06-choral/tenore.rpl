@@ -14,6 +14,6 @@
   b ([b8 c]) d4 a
   a b a\fermata d
   c ([c8 b]) (a4 e'
-  d) c c b
+  d) c (c b)
   g2.\fermata
 }

@@ -1,0 +1,45 @@
+\relative c {
+  \key eb \major
+  \time 4/4
+  
+  eb4 eb, r r8 bb'
+  eb f g ab bb4. eb,8
+  ab bb c d eb4. c8
+  f eb d c bb ab g f
+  eb ab bb bb, eb,4 r
+  r8 bb' eb f g f g ab
+  bb4. eb,,8 ab bb c d
+  eb f eb d c4 r8 c,
+  f g a f bb4 r8 f 
+  bb c d eb f eb f f,
+  bb c d eb f g a bb
+  c, d eb f g f g eb
+  f d g f6 eb d c d eb f8 f,
+  bb c d bb eb c g' g, 
+  c d eb f g a b g
+  c f, g g, c d eb d
+  c bb a g d' e fs d
+  g c, d d, g a bb c
+  d c bb g c d c bb
+  a bb a g fs e d fs
+  g c d d, g a bb c
+  d c b g c d eb f
+  g f g c, f g a b
+  c4. a8 d c b a
+  g f eb d c f g g,
+  c, c' c b c c' c b
+  c c, c bb ab ab' ab g
+  f bb, bb ab g f c' c,
+  f f' d bb eb, eb' eb d
+  eb eb' eb d eb eb, eb d
+  c bb c d eb eb, eb d
+  eb bb' eb f g ab g f
+  eb d c eb f eb d bb
+  eb, eb' d eb bb ab g eb
+  ab bb c d eb f g ab 
+  bb eb, bb' bb, eb, f g ab
+  bb ab g eb ab bb c d 
+  eb4. c8 f eb d c
+  bb ab g f eb ab bb4 
+  eb, r r2\fermata
+}

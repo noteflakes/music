@@ -1,0 +1,44 @@
+\relative c {
+  \key c \minor
+  \time 4/4
+  
+  c,4 c'2 b4
+  c8 c, c' eb f g6 ab bb8 bb,
+  eb f g eb c eb f d
+  b d eb c f d eb c
+  d b c ab f f' g g,
+  a4 r8 ab g f g4
+  c8 c, r8 eb' d c b g
+  c4 [c6 d3 eb d6 c] fs8. g6 [c,6 d3 eb d6 c]
+  b8 ab6 g c'2 b4
+  c8 bb ab g f eb bb' bb,
+  eb f g eb c eb f d
+  b d eb c f bb! eb, ab
+  d, g c, ab f f' g g,
+  a4 r8 ab d, c g' g'
+  $o1 c d eb a, bb c fs, g a d, e fs! $$ g,8 r ab r
+  g r fs r g8. g'6 $o1 eb f g c, d eb 
+  ab, bb c f, g ab $$ g8 g' ab6 g b c g8 g,
+  c c, c'2 b4
+  c8 c, c' eb f g6 ab bb8 bb,
+  eb f g eb c eb f d
+  b d eb c f d eb c
+  d b c ab f f' g g,
+  a4 r8 ab g f g4
+  c,\fermata c'8 d eb c g f6 eb
+  bb'4 c8 d eb c f f,
+  bb' a g f6 eb d8 c d bb
+  eb8. g6 $o1 e f g c, d e $$ f,8. f'6 $o1 d eb f bb, c d $$
+  eb,8. eb'6 $o1 c d eb a, bb c $$ fs,8. c'6 $o1 a bb c fs, g a $$
+  d,4 r8 d' eb d6 c d8 d,
+  g4 g' g fs
+  g g,8 bb c d6 eb f8 f,
+  bb a g bb c d e c
+  f eb d c bb c d bb
+  eb bb eb f g ab bb bb,
+  eb d c bb c ab bb bb'
+  eb, f g eb ab g f g6 ab
+  bb8 g c bb ab g f bb
+  eb, c ab4 g r
+  \dacapo
+}

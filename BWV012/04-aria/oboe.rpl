@@ -1,0 +1,43 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+  
+  r4 $o1 d' e f d e f $$ g,8. e'6 $o2 e f g a, g' $$
+  $o3 f g e d $$ $o1 f e d d c bb $$ [bb6 (f'3 e f6.) g3] a,8 (g6 f)
+  f8. c'6 $o1 f g a d, e f $$ b,8. d6 $o1 e f g cs, d e $$
+  a,8. cs6 $o1 d e f f g a $$ $o4 bb g e c bb' a f d bb a'
+  g e cs a g' f d bb g f' $$ [eb6 (bb'3 g eb cs6 d3)] (f,8\trill e6) a
+  (a gs) (d' cs) d4 ~ (d6 cs f e) cs8. d6
+  d4 r r2
+  R1
+  r4 $o1 d e f d e f $$ g,8. e'6 $o2 e f g a, g' $$
+  $o3 f g e d $$ $o1 f e d d c bb $$ [bb6 (f'3 e f6.) g3] a,8 (g6 f)
+  f8. c'6 $o1 f g a d, e f $$ b,8. d6 $o1 e f g cs, d e $$
+  a,8. cs6 $o1 d e f f g a $$ $o4 bb g e c bb' a f d bb a'
+  g e cs a g' f d bb g f' $$ [eb6 (bb'3 g eb cs6 d3)] (f,8\trill e6) a
+  (a gs) (d' cs) d4 ~ (d6 cs f e) cs8. d6
+  d4 ~ (d6 cs e d) d4 ~ (d6 cs e d)
+  d4 ~ (d6 cs d cs) $o3 d e f cs $$ r4
+  r8 (d6 cs) (d f,) (bb a) (f8\trill e6 d) r4
+  r $o1 d' e f d e f $$ g,8. e'6 $o2 e f g a, g' $$
+  $o3 f g e d $$ $o1 f e d d c bb $$ [bb6 (f'3 e f6.) g3] a,8 (g6 f)
+  f8. c'6 $o1 f g a d, e f $$ b,8. d6 $o1 e f g cs, d e $$
+  a,8. cs6 $o1 d e f f g a $$ $o4 bb g e c bb' a f d bb a'
+  g e cs a g' f d bb g f' $$ [eb6 (bb'3 g eb cs6 d3)] (f,8\trill e6) a
+  (a gs) (d' cs) d4 ~ (d6 cs f e) cs8. d6
+  d4\fermata r $o1 f g a g a bb $$ [(a6 bb3 c) (bb6 a)]
+  g4 r r2
+  r4 $o1 f g a f g a $$ bb,8. g'6 $o2 g a bb c, bb' $$
+  $o3 a bb g f $$ a4 ~ $o1 a bb a g a f $$ g4 ~
+  $o1 g a g f g e $$ f4 ~ $o1 f g e d e cs $$ d4 ~
+  $o1 d e f b, c d gs, a b e, a gs $$ a4 r
+  r4 $o1 a b c a b c $$ d,8. b'6 $o2 b c d e, d' $$
+  $o3 c d b a $$ $o1 c b a a g f $$ [f6 (b c e3 d)] d8. c6
+  c4 r r2
+  R1*2
+  r4 $o1 f g a f g a $$ bb,8. g'6 $o2 g a bb c, bb' $$
+  $o3 a bb g f $$ r4 r8 d [(e6 f3 g) (f6\trill e)]
+  (e d) (f e) f4 ~ (f6 e a g) e8. f6
+  f4 ~ [(f6 e3 f g e f g)] cs,4\trill r
+  \dacapo
+}  

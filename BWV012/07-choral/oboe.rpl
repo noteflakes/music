@@ -1,0 +1,18 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+  
+  \partial 4
+  
+    c''4
+  g4. f8 e4 a
+  g b c c,
+  g' c ~ c8 b c d
+  g,4 f e \bar ":|" c'8 bb
+  a4 a b!8 c b a
+  g4 g a8 b c e,
+  fs4 g8 a b g e a
+  d, e d c b4 c
+  f c' b8 a g4 ~
+  g8 a6 b b8.\trill c6 c4\fermata
+}

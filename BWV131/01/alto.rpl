@@ -4,11 +4,14 @@
   \tempo "Adagio"
 
   [[R2.*23]] {{
-    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
-    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
-    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
-    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
-    R2.*3
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*2
   }}
   r4 bb c
   ([d8 a]) a4 r

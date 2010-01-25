@@ -45,8 +45,8 @@
   % between-system-space = 20\mm
   between-system-padding = 4\mm
 
-  top-margin = 1.4\cm
-  bottom-margin = 1.4\cm
+  top-margin = 1.2\cm
+  bottom-margin = 1.2\cm
 
 	bookTitleMarkup = \markup \when-property #'header:title \abs-fontsize #12 \column {
     \null \null \null \null \null \null
@@ -111,7 +111,7 @@
 	}
 }
 
-#(set-global-staff-size 13)
+#(set-global-staff-size 12.9)
 
 prepare = {
 	\override Score.BarNumber #'font-size = #2.5

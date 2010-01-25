@@ -37,9 +37,11 @@
   eb d4. a8
   bb4 r r
   [[R2.*15]] {{
-    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
-    R2.*5 { \once \override Rest #'transparent = ##t r1*0 }
-    R2.*5
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3
   }}
   r4 g bb 
   c d a
@@ -53,15 +55,15 @@
   bb f bb bb bb bb a c
   bb bb r4 r2
   [[R1*6]] {{
-    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
-    R1*2
+    R1*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*3
   }}
   bb4 r8 g g g fs fs
   g g r4 r2
   [[R1*8]] {{
-    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
     R1*3 { \once \override Rest #'transparent = ##t r1*0 }
-    R1
+    R1*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*2
   }}
   r2 r4 r8 g 
   a a a d bb g eb' d

@@ -1,0 +1,18 @@
+parts:
+  soprano:
+    lyrics: [choral.lyrics, choral.lyrics2]
+  alto:
+    lyrics: [choral.lyrics, choral.lyrics2]
+  tenore:
+    lyrics: [choral.lyrics, choral.lyrics2]
+  basso:
+    lyrics: [choral.lyrics, choral.lyrics2]    
+  violino1:
+    source: soprano
+  violino2:
+    source: alto
+  viola1:
+    source: tenore
+  viola2:
+    source: tenore
+    

@@ -1,7 +1,7 @@
 \relative c {
   \key c \minor
   \time 3/2
-  \tempo "Lento"
+  \tempo "Lento" m{{\tempo 2=90}}
   
   f,2 f' f
   e eb eb

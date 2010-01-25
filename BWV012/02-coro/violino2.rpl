@@ -1,0 +1,57 @@
+\relative c' {
+  \key c \minor
+  \time 3/2
+  \tempo "Lento"
+ 
+  f2 r ab
+  e r g
+  d r f
+  c r e
+  f r ab
+  e r g
+  d r f
+  c r e
+  f r bb
+  e, r a
+  d, r g
+  c, r e
+  f r ab
+  e r g
+  d r f
+  c r e
+  f r ab
+  e r c
+  d r f
+  c r g'
+  a r ab
+  e r c
+  d r f
+  f r e
+  c r d
+  c r c
+  bb r bb
+  g g' e
+  c r ab'
+  e r ab
+  d, r f
+  c g' e
+  f r ab
+  e r gb
+  d r bb'
+  gb r eb!
+  a r f
+  bb r g
+  d r f
+  f r eb
+  ab r ab
+  e r a
+  f r g
+  f r e
+  c r ab'
+  g r g
+  f r f ~
+  f4 g e2. f4
+  f2\fermata \tempo "Un poco Allegro" r r
+  R1.*43
+  \dacapo
+}

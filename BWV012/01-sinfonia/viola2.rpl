@@ -1,0 +1,22 @@
+\relative c' {
+  \key c \minor
+  \time 4/4
+  \tempo "Adagio assai"
+
+  (ab8 ab) (f f) (bb bb) (g g)
+  (c c) (ab ab) (f f) (bb bb)
+  (g g) (c c) (c c) (ab ab) 
+  f f f' f bb, bb g' g
+  c, c ab' ab f f d d 
+  bb bb eb eb d d b b
+  g g c c ab ab f f 
+  d' d fs, fs c' c g g 
+  g g c c f, f d' d
+  c c e e c c f f 
+  bb, bb g' g f f a a 
+  f f bb bb bb bb bb, bb
+  bb bb db db b b d d 
+  d d g, g bb4\fermata r8 e
+  c (db6 e,) f8 c f4 r8 db'
+  g, db' (ab6 bb) c8 c,2\fermata
+}

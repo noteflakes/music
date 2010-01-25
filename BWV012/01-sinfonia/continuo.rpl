@@ -1,7 +1,7 @@
 \relative c {
   \key c \minor
   \time 4/4
-  \tempo "Adagio assai"
+  \tempo "Adagio assai" m{{\tempo 4=35}}
   
   f,4 r g r
   ab r bb r

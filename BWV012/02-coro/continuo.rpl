@@ -51,7 +51,7 @@
   e eb eb
   d db db
   c c, c
-  f\fermata \tempo "Un poco Allegro" r r
+  f\fermata \tempo "Un poco Allegro" m{{\tempo 2=130}} r r
   r c'' bb
   ab g f
   g1 f2
@@ -93,7 +93,7 @@
   ab,
   ab2 ab' eb
   f eb db
-  eb d eb
+  eb db eb
   ab,1 ab2
   \dacapo
 }

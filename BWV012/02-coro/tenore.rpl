@@ -1,0 +1,89 @@
+\relative c' {
+  \key c \minor
+  \time 3/2
+  \tempo "Lento"
+
+  R1.*2
+  r2 bb1 ~
+  bb4 g e2 r
+  r2 db'1 ~
+  db4 c c2 r
+  R1.*5
+  r2 bb c
+  db1. ~
+  db2 c1 ~
+  c4 bb bb2.\trill [ab8 bb]
+  c2 r r
+  R1.*2
+  r2 f1 ~
+  f4 e e2 eb ~
+  eb d4 c db2 ~
+  db c4 bb c2
+  f, (ab4 g) (g f)
+  c'1.
+  c2 b d
+  g, a c
+  f, g bb
+  c1. 
+  (c2 bb) ab
+  (bb ab4 g) (f g)
+  (ab2 g) f
+  g1.
+  R1.*2
+  r2 bb1 ~
+  bb2 db c
+  a1. 
+  R1.*2
+  r2 (c4 bb) (c g)
+  ab2 r r
+  r c a
+  bb1 bb2
+  c bb4 ab bb2
+  ab1.
+  R1.*3
+  r1.\fermata [[\tempo "Un poco Allegro"]]
+  r2 c d 
+  eb1 f2
+  d4 eb d c b a 
+  g2 c2.\trill [b8 c]
+  d2. c4 d bb
+  c eb d eb d c
+  b g c b c2
+  c4 d b2. [a8 b]
+  c2 eb c
+  d c bb
+  c bb ab
+  bb4 d eb f g eb
+  f g f eb d f
+  eb d c2 f4 eb 
+  d c bb ab bb g
+  ab1.
+  g2 bb eb
+  d4 c bb2 (eb4 d)
+  c bb ab g f2
+  eb4 f g ab bb ab
+  bb c bb1
+  bb2 r r
+  r bb bb
+  c ab bb
+  c1 f2
+  g4 f eb d c2
+  f4 eb db c bb2
+  eb4 db c bb c ab
+  g1.
+  c
+  d4 c b a g2 ~
+  g4 f eb f (g ab)
+  bb2 c4 b c2
+  d b r
+  r c g
+  ab a1\trill
+  bb1.
+  eb,2 eb' bb
+  cb c1\trill
+  db2 (eb4 f) gb2
+  f4 eb db c (db bb)
+  c2 db bb
+  c1 c2
+  \dacapo
+}

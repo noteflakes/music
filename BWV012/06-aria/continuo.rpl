@@ -1,6 +1,6 @@
 \relative c {
   \key g \minor
-  \time 3/4
+  \time 3/4 m{{\tempo 4=90}}
   
   r4 r8 g' bb g
   eb c r f a f

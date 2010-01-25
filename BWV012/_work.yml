@@ -4,6 +4,9 @@ composer: Johann Sebastian Bach
 parts:
   oboe:
     midi_transpose: g f
+  continuo:
+    breaks:
+      - 05-aria
 score:
   order:
     - oboe
@@ -25,3 +28,6 @@ macros:
   o2: "[(#6 #3 #) #6 #]"
   o3: "[(#6 #3 #) #8]"
   o4: "[(#6 #3 # #6.) #3]"
+  v1: "(#6 #) (# #) #8 r"
+  v2: "(#6 #)"
+  v3: "(#8 #)"

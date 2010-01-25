@@ -58,15 +58,16 @@
   bb c d d g g f f 
   f f r4 r2
   [[R1*6]] {{
-    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
-    R1*2
+    R1*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*3
   }}
   g,4 r8 bb eb eb d d 
   d d r4 r2
   [[R1*10]] {{
-    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
-    R1*4 { \once \override Rest #'transparent = ##t r1*0 }
-    R1*2
+    R1*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R1*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R1
   }}
   r4 fs,8 g a bb c (d6 eb)
   a,8 g a g6 fs g8 eb' d (eb6 c)

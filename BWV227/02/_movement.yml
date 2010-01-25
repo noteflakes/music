@@ -1,1 +1,10 @@
 midi_tempo: 112 2
+vocal:
+  order:
+    - soprano1
+    - soprano2
+    - alto
+    - tenore
+    - basso
+    - [soprano1, soprano2, alto]
+    - [tenore, basso]

@@ -8,3 +8,11 @@ parts:
     lyrics: choral.lyrics
   basso:
     lyrics: choral.lyrics
+vocal:
+  order:
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - [soprano, alto]
+    - [tenore, basso]

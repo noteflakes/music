@@ -1,0 +1,37 @@
+\relative c {
+  \key eb \major
+  \time 4/4
+  
+  R1*4
+  r4 r8 bb eb f g ab
+  bb2 ~ bb4. c8
+  f, [g6 ab] [bb ab] [g f] eb4 ab4.
+    [bb6 ab] g4. [a6 bb] [c bb a g]
+  a8 f r f, bb c d eb
+  f bb, bb'4. c8 f, a
+  bb bb r4 r2
+  R1*2
+  r4 [f8 ab6 g] g2 ~
+  g1 ~
+  g4 r r8 g c a
+  [fs8. g6] [g8.\trill fs3 g] a4 r8 d,
+  [bb'6 a] [c g] fs8. g6 g8 g, r g'
+  fs4 r8 g eb4. [d6 c]
+  c2. ~ c8 [bb6 a]
+  [g'8 fs6\trill] g bb,8 a g g r4
+  R1*3
+  r2 r4 r8 d'
+  [eb d] d4 r4 r8 g
+  [ab g] g4 [ab8 bb6 c] eb,4
+  d r8 bb' e, f ab [g6 f]
+  f8 f r f [g f] f4
+  r4 r8 bb, [c bb] bb4
+  ab'4. bb8 g4 r8 f
+  g f g ab bb2 ~
+  [bb8 c6 bb] [ab g f eb] ab4. [bb6 ab]
+  [g8 f6 g] [ab g f eb] f8 bb, r eb,
+  ab bb c d eb f g ab 
+  bb eb, bb4 eb, r
+  R1*3
+  r1\fermata
+}

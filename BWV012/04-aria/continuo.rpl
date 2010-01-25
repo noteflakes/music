@@ -1,6 +1,6 @@
 \relative c {
   \key c \minor
-  \time 4/4
+  \time 4/4 m{{\tempo 4=50}}
   
   c,4 c'2 b4
   c8 c, c' eb f g6 ab bb8 bb,
@@ -27,7 +27,7 @@
   a4 r8 ab g f g4
   c,\fermata c'8 d eb c g f6 eb
   bb'4 c8 d eb c f f,
-  bb' a g f6 eb d8 c d bb
+  bb' ab g f6 eb d8 c d bb
   eb8. g6 $o1 e f g c, d e $$ f,8. f'6 $o1 d eb f bb, c d $$
   eb,8. eb'6 $o1 c d eb a, bb c $$ fs,8. c'6 $o1 a bb c fs, g a $$
   d,4 r8 d' eb d6 c d8 d,

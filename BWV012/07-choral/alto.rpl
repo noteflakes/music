@@ -1,0 +1,17 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+  
+  \partial 4
+    d4
+  f f f bb
+  bb a f\fermata [eb8 d]
+  c4 g' f g
+  f2 f4\fermata \bar ":|" bb
+  bb [c8 bb] a4 a
+  bb4. ab8 g4 f
+  e d c d
+  c2 c4\fermata bb
+  [bb8 c] [d eb] f4 f
+  f2\trill d4\fermata
+}

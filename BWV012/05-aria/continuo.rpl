@@ -1,6 +1,6 @@
 \relative c {
   \key eb \major
-  \time 4/4
+  \time 4/4 m{{\tempo 4=90}}
   
   eb4 eb, r r8 bb'
   eb f g ab bb4. eb,8

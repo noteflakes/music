@@ -4,6 +4,12 @@ composer: Johann Sebastian Bach
 parts:
   oboe:
     midi_transpose: g f
+    breaks:
+      - 04-aria
+      - 04-aria
+  violino2:
+    breaks:
+      - 07-choral
   continuo:
     breaks:
       - 05-aria

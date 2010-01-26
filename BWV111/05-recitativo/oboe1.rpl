@@ -12,7 +12,7 @@
   e d ~
   \tempo "Adagio"
   d6 d c d e b a b e c b c e c b c 
-  a' cs, b cs e cs d cs d a g a a' f e f
+  a' cs, b cs e cs b cs d a g a a' f e f
   a f e f b, a gs a c a gs a d b a b
   (b8 c) r4 r2\fermata
 }

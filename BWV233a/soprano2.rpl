@@ -108,7 +108,7 @@
   d c
   b4 a g g' ~
   g f2 e4
-  d d [cs8 d cs b]
+  d d [cs8 d cs b] [[\pageBreak]]
   [a bb] [a g] f4 bb
   [g8 bb a g] [f g] [g f6 g]
   a4 a2 f4

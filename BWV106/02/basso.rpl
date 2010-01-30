@@ -58,8 +58,8 @@
   (ab e4
   f8) c4
   db8 db c
-  (bb6 c db eb f g)
-  (ab db,) eb4
+  ([bb6 c db eb f g])
+  ([ab db,]) eb4
   ab, r8
   R4.*4
   c'8 c g

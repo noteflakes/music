@@ -19,7 +19,7 @@
   db db, r4 r8 (ab'6 bb) (c db eb f)
   gb8 eb r4 r8 bb6 c db eb f g
   a f g a bb c db eb f8 r6 \clef alto f (gb f) (gb f)
-  (gb f) (gb eb,) f8 f, bb \clef bass bb,6 c db c db eb
+  (gb f) (gb eb) f8 f, bb \clef bass bb,6 c db c db eb
   f8 bb,6 c d! eb f d eb8 eb,6 f gb ab bb gb
   cb4 r6 cb' bb ab gb f gb ab bb8 bb,
   eb eb6 f gb ab bb c db8 \clef alto f6 eb db c bb ab

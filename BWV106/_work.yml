@@ -22,11 +22,11 @@ parts:
       - "04"
   continuo:
     breaks:
-      - "02"
       - "03"
       - "03"
       - "04"
 score:
+  supress_figures: true
   order:
     - flauto1
     - flauto2

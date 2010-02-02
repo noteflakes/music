@@ -28,7 +28,17 @@ parts:
       - "03"
       - "03"
       - "04"
+  ira:
+    title: Violoncello
+    clef: bass
+    source: continuo
+    supress_figures: true
+    breaks:
+      - "03"
+      - "03"
+      - "04"
 score:
+  supress_figures: true
   order:
     - oboe
     - violino

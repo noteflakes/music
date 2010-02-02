@@ -28,8 +28,7 @@ parts:
       - "03"
       - "03"
       - "04"
-  ira:
-    title: Violoncello
+  violoncello:
     clef: bass
     source: continuo
     supress_figures: true

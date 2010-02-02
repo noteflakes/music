@@ -20,6 +20,13 @@ parts:
     breaks:
       - "03"
       - "04"
+  ira:
+    title: "Viola da gamba II"
+    source: viola-da-gamba2
+    clef: alto
+    breaks:
+      - "03"
+      - "04"
   continuo:
     breaks:
       - "03"

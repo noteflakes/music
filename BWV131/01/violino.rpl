@@ -44,7 +44,11 @@
   d4 (cs8 b) (a g)
   f g e4. d8
   d2 r4
-  R2.*7
+  [[R2.*7]] {{
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.*3 { \once \override Rest #'transparent = ##t r1*0 }
+    R2.
+  }}
   r4 r f'
   eb4. d8 eb d
   c bb a4. g8

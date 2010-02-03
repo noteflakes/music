@@ -10,17 +10,17 @@
   g4 r8 g r g r g
   r bb bb bb r bb r bb
   r6 c d eb d8. eb6 eb4 \clef bass r8 ab,
-  g eb bb' bb, eb4 \clef tenor r8 g
+  g eb bb' bb, eb4 \clef %clef% r8 g
   r f r c' r c r c
   r6 bb c db c8. bb6 bb4 \clef bass r8 eb,
-  db (gb6 eb) f8 f, bb4 \clef tenor r8 bb'
+  db (gb6 eb) f8 f, bb4 \clef %clef% r8 bb'
   r bb r bb r c (bb6 c) (ab bb)
   r6 ab g f eb8 eb bb'4 \clef bass r8 bb,
-  a bb f' f, bb4 \clef tenor r8 g'
+  a bb f' f, bb4 \clef %clef% r8 g'
   r g r ab bb4 \clef bass r8 bb,
-  c r r d eb4 \clef tenor r8 bb'
+  c r r d eb4 \clef %clef% r8 bb'
   r bb r bb c4 \clef bass r8 bb,
-  c bb ab g \bar "||" \tempo "Allegro" f4 \clef tenor r
+  c bb ab g \bar "||" \tempo "Allegro" f4 \clef %clef% r
   R1*15
   r8 g'6 ab bb c ab bb c d bb c d eb c d
   eb f d eb f g eb f g8 f6 eb d8. eb6

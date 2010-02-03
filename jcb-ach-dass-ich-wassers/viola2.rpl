@@ -1,0 +1,77 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+
+  b1
+  c
+  d2 e
+  d b
+  a4 r8 b a4 r8 b
+  a4 r8 b a4 r8 b 
+  c4 e e e 
+  f1
+  e ~
+  e
+  r4 r8 ds b4 r
+  r4 r8 ds b4 r
+  r4 r8 e, e4 e
+  a2 c
+  e1
+  e2 e
+  e d
+  d d
+  d c
+  c c 
+  c4 a2 a4
+  g b2 b4
+  a2. a4
+  g e b'2
+  a1 b\fermata \bar "||"
+  R1
+  b1
+  g
+  c,2 g'
+  g4 g4. g8 g g 
+  g1
+  g
+  g2 c
+  a1
+  g2 e ~
+  e fs ~
+  fs b ~
+  b b ~
+  b b
+  e ds 
+  b g4. c8
+  a4 g8 a b4 a8 b
+  c2 b
+  b4 [a8*2/3 g fs] e2
+  a4 fs b c
+  d1
+  d
+  g,2 a
+  b b
+  b c
+  d b4 a
+  b2 b
+  a2. f4
+  bb1
+  g2 a
+  bb d
+  e4 e,2 e4
+  e e e e
+  b'2 b4 e
+  a,2 a4 d
+  b2 b4 b
+  b2 a
+  b b4 b
+  b2 r4 b
+  cs cs a a
+  b b8 a g2
+  g g
+  g g
+  g g4 g
+  c2 c4 a
+  g1
+  \dacapo
+}

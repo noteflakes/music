@@ -1,0 +1,78 @@
+\relative c {
+  \key c \major
+  \time 4/4 m{{\tempo 4=80}}
+  
+  e1 ~
+  e ~
+  e ~
+  e
+  a,2 a
+  a a
+  a1
+  g
+  a ~
+  a
+  e ~
+  e ~
+  e
+  d
+  e
+  e'2 a, ~
+  a d
+  d, g ~
+  g c
+  c, f
+  f fs
+  g gs
+  a2. c4
+  g2 b
+  c c,
+  e1\fermata \bar "||"
+  e1 ~
+  e ~
+  e
+  a2 g
+  c1
+  c2 b
+  c e4 d
+  c b a g
+  fs1
+  e'4 d c b
+  a g fs2 ~
+  fs e ~
+  e e'
+  b g ~
+  g fs
+  e c' ~
+  c b
+  a1
+  g
+  fs2 e
+  d1 
+  g
+  b4 c cs d
+  ds e b2
+  ds4 e e, f
+  fs g gs a
+  e2. e'4
+  cs2. d4
+  bb1
+  e,2 f
+  bb b
+  a1
+  a2. a4
+  a2 gs4 g
+  g2 fs4 f
+  e2 e4 e
+  e2 e ~
+  e e ~
+  e e'
+  a, d
+  g, c
+  c e,
+  c e
+  c c4 c
+  c1 
+  c
+  \dacapo
+}

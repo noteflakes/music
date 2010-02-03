@@ -1,0 +1,18 @@
+title: '"Ach, daß ich Wassers g''nug hätte"'
+composer: Johann Christoph Bach
+parts:
+  viola3:
+    clef: bass
+  viola4:
+    clef: bass
+score:
+  order:
+    - violino
+    - viola1
+    - viola2
+    - viola3
+    - viola4
+    - alto
+    - continuo
+  groups:
+    - brace: [viola1, viola2, viola3, viola4]

@@ -1,0 +1,75 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+
+  R1*3
+  r2 r4 r8 b'
+  c8. c6 gs4 r r8 b
+  c8. c6 gs8 b c8. c6 gs4
+  a cs cs cs
+  d1
+  cs ~
+  cs
+  r4 r8 a b8. b6 fs4
+  r4 r8 a b8. b6 fs4
+  gs4 gs8 e' e4 e
+  f1
+  e2 r
+  r r8 cs cs8. b6
+  cs4 cs [c8*2/3 b c] [c b c]
+  c2 b8 b b8. a6
+  b4 b [bb8*2/3 a bb] [bb a bb]
+  bb2 a
+  r4 r8 g' a4. d,8
+  d4. a'8 b4. e,8
+  e4. b'8 c4. e,8
+  g2 fs
+  r4 e6 b8. c6 gs8. a6 e8.
+  r8 e' ds8. e6 b2\fermata \bar "||"
+  R1
+  e4 ds e fs8 e
+  g4 fs g a8 g
+  c8 c, c c f2
+  e4 c4. c8 c c
+  d1
+  c
+  R1
+  fs4. g6 a b6 a8. g6 fs8.
+  g4 g8 g g2
+  r2 fs4. g6 a
+  b6 a8. g6 fs8. g4 g8 g 
+  g2 r
+  R1*2
+  r2 [e8*2/3 d c] [b a g]
+  fs4 e8 fs gs4 fs8 gs
+  a2 r
+  [b'8*2/3 a g] [fs e d] cs4 b8 cs
+  ds4 cs8 ds e4 fs8 g
+  c,1
+  b
+  R1
+  r2 r4 r8 fs
+  a4 r8 g bb4 r8 a
+  c4 r8 b d4 c
+  b b8 b e4 r
+  r8 e a4 r d,6 cs8.
+  d1
+  c2. c6 d eb8
+  d2. d6 e f8
+  cs2. cs8 b
+  cs4 cs cs cs
+  ds2 e4 e
+  cs2 d4 d
+  d2 d4 d
+  d2 c4. e8
+  gs,2 gs4 gs
+  gs1
+  r4 cs d d
+  b b c g8 f
+  e2 g4 g8 f
+  e2 g4 g8 f
+  e2 g4 g
+  bb2 a
+  g1
+  \dacapo
+}

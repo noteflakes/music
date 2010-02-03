@@ -66,7 +66,7 @@
   (fs g) [eb (d6 c)] d4 r8 c
   bb (a6 g) d'8 d, g (g'6 eb) eb4
   r8 (ab6 f) f8 f, bb eb bb' bb,
-  eb4 r8 \clef tenor eb' d (c6 bb) eb8 (d6 c)
+  eb4 r8 \clef %clef% eb' d (c6 bb) eb8 (d6 c)
   f4 r8 f e (d6 c) f8 (eb6 d)
   g4 r8 g, b (d6 c) b8 (a6 g)
   c4 r8 c (b c) [ab (g6 f)]
@@ -84,7 +84,7 @@
   bb db g, c f, eb db bb
   c f c' c, f4 r
   R1*8
-  r2 r8 \clef tenor f' d bb
+  r2 r8 \clef %clef% f' d bb
   eb f g d eb4 r8 db
   c4 bb ab r
   R1*2

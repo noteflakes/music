@@ -29,7 +29,7 @@
   eb eb' d c b4 r6 d c b c g c8 ~
   c8. bb6 a d, d' c b c d c b c a b
   c g a b c4 r6 eb, f g ab g ab f
-  g eb' bb8 \clef bass r6 bb, g eb \clef tenor r8 (g'6 ab) (bb c) (bb c)
+  g eb' bb8 \clef bass r6 bb, g eb \clef %clef% r8 (g'6 ab) (bb c) (bb c)
   (bb c) (bb c) (ab bb) (ab bb) g8 eb'6\f d c d bb c
   ab8 g6 f eb c c' bb ab g f eb d8 bb' ~
   bb6 g c e, f e f g ab bb c bb ab g ab bb

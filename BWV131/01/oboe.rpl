@@ -71,9 +71,9 @@
   r (f6\p e) e8 r r (f6\pp e) e8 r
   r4 r8 (c6\f d) c8 (b6 a) gs4
   a r r2 
-  r r8 [(f'6\p e) e8] r
+  r r8 [(f'6 e) e8] r
   r [(f6 e) e8] r r [(f6 e) e8] r
-  r4 r8 (c6\f d) c8 (b6 a) gs4
+  r4 r8 (c6 d) c8 (b6 a) gs4
   a8 [(f'6\p e) e8] r r [(f6 e) e8] r
   r [(f6 e) e8] [(d6 c)] [c8 a'] c, (b6 a)
   a4 r8 gs'\pp a (f6 d) gs,8.\trill a6

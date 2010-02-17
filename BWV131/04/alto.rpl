@@ -13,7 +13,7 @@
   d4 r r2
   g8 g g fs g4 r
   r8 ([d a' g] [fs g a fs6 e]
-  d8) c ([bb6 c]) d8 bb4 g'4.\p
+  d8) c ([bb6 c]) d8 bb4 g'4.|\p
     eb8 d ([c6 bb]) bb4 r
   r2 r4 d
   \tempo "Adagio"
@@ -40,7 +40,9 @@
   bb g r4 r2
   R1*4
   r4 d' eb e
-  f fs g2.
+  % f fs g2.
+  %   fs4 g r8 g
+  f fs g2.|
     fs4 g r8 g
   ([c,8 d6 eb] [f g f eb] [d8 eb6 f] [g ab g f]
   [eb8 f6 g] [ab bb ab g] [f g f eb] [d g f g]
@@ -56,7 +58,7 @@
   [d,8 eb6 f] [g a g f] [e8 f6 g] [a bb a g]
   [f8 g6 a] [bb c bb a] [g a g f] [e a g a]
   f8 d d4 eb e
-  f fs g2.
+  f fs g2.|
     fs4 g r
   r8 g g e e a a f
   f bb bb f g r r e

@@ -8,7 +8,7 @@
   cs2 r8 fs, gs as
   b fs b4. as6 gs as4 ~
   as8 fs b2 a!4 ~
-  a b8 c6 b as8 fs b4 ~
+  a g8 c6 b as8 fs b4 ~
   b a4. b6 a g8 e
   fs2 e4 r
   R1

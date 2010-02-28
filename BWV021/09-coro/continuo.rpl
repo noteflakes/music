@@ -1,0 +1,165 @@
+\relative c {
+  \time 3/4
+  \key d \minor
+
+  g'2. ~
+  
+  \repeat volta 2 {
+    g4 f eb
+    d2.
+    e!4 fs g
+    fs g a
+    g bb, c
+    d e fs
+    g bb c
+    d d, c'
+    bb g f
+    eb d c
+    b a g
+    c d eb
+    d2 eb4
+    c d c
+    bb a g
+    fs e d
+    g bb c
+    d2 c4
+    bb a g
+    c bb a
+    d2 d,4
+    g2. ~
+    g4 a bb
+    c f, g
+    a f bb
+    eb f f,
+    bb c d 
+    a g f
+    bb c d
+    eb eb, d
+    c d eb
+    d c d
+    g a b
+    c d eb
+    f eb d
+    c2 c,4
+    
+  } \alternative { {
+    g' g' f
+    eb d c
+    d e! fs
+  } {
+    g, g' f
+    eb d c
+  } }
+  b a g
+  c eb, f
+  g a b
+  c d eb
+  f2 eb4
+  d2 bb4
+  r bb c
+  d eb f
+  g f eb
+  f eb f
+  bb, a g
+  f f' eb
+  d bb a
+  g g' f
+  eb d c
+  f eb f
+  bb,2. ~
+  bb ~
+  bb4 bb' ab
+  g f eb
+  d eb d
+  c bb a
+  bb2 c4
+  d e fs
+  g2 g,4
+  d d' c
+  bb bb' a
+  g eb bb
+  c d d,
+  g2 r4
+  R2.
+  r4 g' f
+  eb d c
+  b a b
+  c d eb
+  d2 g,4
+  f eb2
+  d4 d'2
+  \repeat volta 2 {
+    c4 bb a
+    g bb c
+    d e fs
+    g eb d
+    c f f,
+    bb c d 
+    eb ab g
+    f eb d
+    c c'8 bb a g
+    fs4 g g,
+    d'2 c4
+    bb eb8 d c bb
+    a4 d d,
+    g eb'8 d c bb
+    c4 d8 c bb a
+    bb4 c8 bb a g
+    c4 eb8 d c bb
+    c4 d8 c bb a
+    bb4 c8 bb a g
+    c4 d8 c bb a
+    g4 g'8 f eb d
+    c4 f f,
+    bb c8 bb a g
+    f4 f'8 eb d c
+    bb4 a g
+    c f f,
+    bb c d
+    eb2 d4
+    c eb8 d c bb
+    a4 d d
+  } \alternative { {
+    g,8 d' g f eb d
+    c2. ~
+    c4 bb8 a g f
+    g4 a8 g fs e
+    fs4 d g
+    f! eb2
+    d4 d'2
+  } {
+    g,2 f4
+    eb d c
+  } }
+  b'2.
+  c4 d8 c bb a
+  d4 g8 f eb d
+  c4 f eb
+  d c bb
+  a2. 
+  bb
+  f ~
+  f4 f' eb
+  d eb8 d c bb
+  a4 g a
+  bb d8 c bb a
+  g4 bb bb
+  eb, eb' c
+  f2 f,4
+  bb bb'8 a g f
+  eb f eb d c bb
+  a g a bb c a
+  d eb d c bb a
+  g2.
+  a
+  bb
+  c4 d a
+  b c2
+  d4 g,2 ~
+  g4 f2 ~
+  f4 g' f
+  eb d c
+  b a b
+  c b c
+  g2.\fermata
+}

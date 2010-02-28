@@ -1,0 +1,90 @@
+\relative c' {
+  \time 3/4
+  \key d \minor
+
+  R2.
+  
+  \repeat volta 2 {
+    R2.*36
+  } \alternative { {
+    R2.*3
+  } {
+    R2.*2
+  } }
+  R2.*37
+  r4 d, e 
+  \repeat volta 2 {
+    fs g a
+    bb2. ~
+    bb2 a4
+    r g' f
+    eb d c
+    d2. ~
+    d2 c4
+    c2 b4
+    c g c4.|
+      d8 bb4. a8
+    a4 d8 c bb a
+    g4 c c
+    fs, r r
+    r eb' d
+    c bb a
+    d2 d4
+    r fs, g
+    a bb c
+    d c bb
+    a g fs
+    g a bb
+    c d eb
+    d d, e!
+    f g a
+    bb2. ~
+    bb2 a4
+    R2.
+    r4 g'8 f eb d
+    eb4 c d
+    eb d8 c bb a
+  } \alternative { {
+    g4 d' d
+    eb eb8 d c bb
+    a4 d d
+    (d c) c
+    c4. d8 bb4.|
+      c8 c4. d8
+    d4 d, e
+  } {
+    g a b
+    c d eb
+  } }
+  f2. ~
+  f2 eb4 ~
+  eb d2
+  (eb8 f) d4\trill (c8 bb)
+  bb4 r r
+  r f' eb
+  d c bb
+  a2 bb4
+  c d eb
+  f2 f4
+  r f8 eb d c
+  bb4 f' f
+  g d bb
+  g c eb
+  a, g a
+  bb c d
+  eb2. ~
+  eb
+  d
+  r4 bb bb
+  (bb a) a
+  r g g
+  (g f) f
+  r c'8 bb a g
+  fs4 bb bb
+  eb, d d'
+  g, a b
+  c d eb
+  d c d
+  g, f eb
+  d2.\fermata
+}

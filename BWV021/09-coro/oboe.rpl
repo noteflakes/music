@@ -1,0 +1,66 @@
+\relative c' {
+  \time 3/4
+  \key d \minor
+
+  R2.
+  
+  \repeat volta 2 {
+    R2.*36
+  } \alternative { {
+    R2.*3
+  } {
+    R2.*2
+  } }
+  R2.*38
+  \repeat volta 2 {
+    R2.*10
+    d2.
+    g
+    a
+    bb
+    a
+    g
+    a
+    fs
+    d ~
+    d
+    R2.*3
+    f2.
+    f
+    eb
+    d
+    g
+    g
+    fs
+  } \alternative { {
+    g ~
+    g
+    R2.*5
+  } {
+    g2. ~
+    g
+  } }
+  R2.*8
+  a2.
+  bb
+  c
+  d
+  d
+  c
+  c
+  bb ~
+  bb
+  R2.*2
+  d2.
+  c
+  bb
+  a
+  g
+  bb
+  a
+  g ~
+  g ~
+  g ~
+  g ~
+  g\fermata
+}

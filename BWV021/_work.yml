@@ -1,0 +1,17 @@
+title: Cantata BWV 21
+subtitle: "\"Ich hatte viel Bekümmernis\""
+composer: Johann Sebastian Bach
+score:
+  order:
+    - oboe
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

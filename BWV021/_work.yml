@@ -3,7 +3,7 @@ subtitle: "\"Ich hatte viel Bekümmernis\""
 composer: Johann Sebastian Bach
 movements:
   09-coro:
-    midi_tempo: 155 4
+    midi_tempo: 145 4
 parts:
   viola_col_tenore:
     title: Viola

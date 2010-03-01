@@ -1,12 +1,20 @@
 title: Cantata BWV 21
 subtitle: "\"Ich hatte viel Bekümmernis\""
 composer: Johann Sebastian Bach
+movements:
+  09-coro:
+    midi_tempo: 155 4
+parts:
+  viola_col_tenore:
+    title: Viola
+    clef: alto
+    midi_instrument: viola
 score:
   order:
     - oboe
     - violino1
     - violino2
-    - viola
+    - viola_col_tenore
     - soprano
     - alto
     - tenore

@@ -2,6 +2,8 @@ title: Aria BWV 166
 subtitle: "\"Wo gehest du hin?\""
 composer: Johann Sebastian Bach
 movements:
+  05-aria:
+    midi_tempo: 100 4
   06-choral:
     midi_tempo: 90 4
 score:

@@ -1,0 +1,68 @@
+\relative c {
+  \time 3/4
+  \key bb \major
+
+  bb'8 a bb4 bb,
+  bb r r
+  eb8 d eb4 bb
+  f' r r
+  g8 fs g4 f
+  e r8 c d e
+  f d c4 c,
+  f6 g' f eb d eb d eb c d c d 
+  bb8 a bb4 bb'
+  bb r r
+  eb,8 d eb4 bb
+  f r r
+  g'8 fs g4 d
+  bb r8 c d e
+  f d c4 c,
+  f6 bb' a g f g f g eb f eb f
+  d8 c d4 bb
+  eb8 bb eb d c b
+  c4 d eb
+  f8 eb f4 f,
+  f r r
+  g6 bb' a g f g f g eb f eb f
+  d4 r r
+  r6 ab' g f eb f eb f d eb d eb
+  c4 r r
+  r8 f, g a bb c
+  d bb c d eb f
+  g d eb f g a
+  bb4 r a
+  g r f
+  e r c
+  f6 bb a g f g f g eb f eb f
+  d bb c d eb f g a bb8 r
+  r g eb bb f' f,
+  bb a bb4 bb'
+  bb r r
+  eb,8 d eb4 bb'
+  f r fs
+  g d eb
+  c r8 f g a
+  bb g f4 f,
+  bb6\fermata eb d c bb c bb c a bb a bb
+  g4 c d
+  g, g' f
+  eb d g, 
+  c eb g
+  c, d eb
+  d g, a
+  bb e, cs'
+  d f a
+  bb6 eb d c bb c bb c a bb a bb
+  g c bb a g a g a f g f g
+  e f e d c b c d e8 e,
+  a gs a4 r
+  r6 bb' a g! f g f g e f e f
+  d4 r r
+  r6 d c bb a bb a bb g a g a
+  fs4 a d,
+  g r8 g' a bb
+  a f d bb c6 bb' ab g
+  f g eb f d eb c8 g' g,
+  c4 r r
+  \dacapo
+}

@@ -1,0 +1,51 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+ 
+  R1*6
+  r2 c'
+  c b
+  c d
+  eb d 
+  c r
+  R1
+  r2 c
+  d d
+  g f
+  eb1
+  d2 r
+  R1*2
+  r2 c
+  c b 
+  c d
+  eb d
+  c r
+  R1
+  r2 c
+  d d
+  g f
+  eb1
+  d2 r
+  R1*4
+  r2 g
+  f eb
+  d f
+  eb d
+  c1 ~
+  c 
+  R1
+  r2 eb
+  d c
+  bb g
+  bb c
+  d1 ~
+  d2 r
+  R1
+  r2 d
+  eb f
+  (g2. f4)
+  (eb2 f)
+  d1
+  c
+  R1*4
+}

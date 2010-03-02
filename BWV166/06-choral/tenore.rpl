@@ -1,0 +1,16 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+
+  \partial 4
+    g4
+  bb a g fs
+  g c a2
+  fs4\fermata a bb f
+  f [g8 a] bb4 a
+  bb2.\fermata \bar ":|" d4
+  d c bb bb 
+  bb a d\fermata bb
+  c d ([eb8 d6 c]) ([bb8 c])
+  d4 ([d8 c]) b4\fermata
+}

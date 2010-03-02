@@ -1,0 +1,20 @@
+title: Aria BWV 166
+subtitle: "\"Wo gehest du hin?\""
+composer: Johann Sebastian Bach
+movements:
+  06-choral:
+    midi_tempo: 90 4
+score:
+  order:
+    - oboe
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [viola1, viola2]
+    - bracket: [soprano, alto, tenore, basso]

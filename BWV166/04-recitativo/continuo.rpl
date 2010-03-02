@@ -1,0 +1,17 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+  
+  fs1 ~
+  fs2 g
+  d b ~
+  b c
+  a fs
+  g4 c2 eb4
+  r d g,2 ~
+  g d' ~
+  d4 e f2 ~
+  f fs
+  g4 f! g bb
+  r a d,2
+}

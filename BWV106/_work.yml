@@ -33,7 +33,7 @@ parts:
       - "03"
       - "04"
 score:
-  supress_figures: true
+  hide_figures: true
   order:
     - flauto1
     - flauto2

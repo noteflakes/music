@@ -31,13 +31,13 @@ parts:
   violoncello:
     clef: bass
     source: continuo
-    supress_figures: true
+    hide_figures: true
     breaks:
       - "03"
       - "03"
       - "04"
 score:
-  supress_figures: true
+  hide_figures: true
   order:
     - oboe
     - violino

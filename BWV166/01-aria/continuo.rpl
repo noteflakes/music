@@ -1,0 +1,79 @@
+\relative c {
+  \time 3/8
+  \key g \minor
+
+  bb'4 r8
+  bb,4 r8
+  r bb'6 a bb8
+  bb,4 r8
+  bb'4 a8
+  g c, f,
+  f'4 r8
+  f,4 r8
+  r f'6 e f8
+  g, g' f 
+  eb eb, d
+  c c' bb
+  a a' bb
+  eb, f f,
+  bb4 r8
+  bb'4 r8
+  r a6 g a8
+  bb4 r8
+  bb,4 r8
+  r bb'6 a bb8
+  bb,4 r8
+  bb'4 a8
+  g c, f,
+  f'4 r8
+  f,4 r8
+  r f'6 e f8
+  f,4 r8
+  fs4 g8
+  a4 bb8
+  a d g, 
+  g'4 r8
+  g,4 f8
+  e e' d
+  cs a d 
+  d,4 r8
+  eb! eb' ab
+  b, d g,
+  c4 r8
+  c,4 r8
+  r c'6 b c8
+  a4 bb8
+  f4. ~
+  f8 f' eb
+  d c bb
+  eb r e
+  f fs g
+  g, g' a
+  bb d, bb
+  eb c eb
+  f4 r8
+  f,4 r8
+  r f'6 e f8
+  a, f a
+  bb d bb
+  eb c eb
+  f f, eb
+  d bb' a
+  g c bb
+  a6 f g a bb c
+  d8 bb eb
+  c f d
+  g a bb
+  bb,4 r8
+  bb'4 a8 
+  g c, f
+  f,4 r8
+  f'4 r8
+  r f6 e f8
+  g, g' f
+  eb eb, d
+  c c' bb
+  a a' bb
+  eb, f f,
+  bb4.
+}

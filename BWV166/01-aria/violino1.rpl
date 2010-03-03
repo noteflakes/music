@@ -1,0 +1,64 @@
+\relative c' {
+  \time 3/8
+  \key g \minor
+
+  r8 f g
+  r a bb
+  eb,4 d8
+  r d' g,
+  r e f
+  (g8. a3 bb a8)
+  r c d
+  r e f
+  bb,4 a8
+  r eb'! d
+  c f bb,
+  a eb' g,
+  f eb' d
+  r6 c a8. bb6
+  bb4 r8
+  R4.*2
+  r8 f\p g
+  r a bb
+  eb,4 d8
+  r d' g,
+  r e f
+  (g8. a3 bb a8)
+  r c d
+  r e f
+  bb,4 a8
+  R4.*5
+  r8 a b
+  r cs d
+  g,4 f8
+  R4.*3
+  r8 g a
+  r b c
+  f,4 eb8
+  r eb' d
+  c f bb,
+  a eb' g,
+  f eb' d 
+  eb, d' c
+  d, c' bb
+  R4.*3
+  r8 c d
+  r e f
+  bb,4 a8
+  R4.*7
+  r8 f g
+  r a bb
+  eb,4\trill d8
+  r d' g,
+  r e f
+  (g8. a3 bb a8)
+  r c\f d
+  r e f
+  bb,4\trill a8
+  r eb'! d
+  c f bb,
+  a eb' g,
+  f eb' d
+  r6 c a8. bb6
+  bb4.
+}

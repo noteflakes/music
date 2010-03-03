@@ -1,0 +1,55 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+
+  g'8 a bb g 
+  c bb a g
+  fs g6 a bb,8 eb a, bb6 c d8 d,
+  g d' g bb c, eb f a
+  bb, d eb g a, bb c a
+  fs d g bb c eb a, c
+  d fs bb, d eb c d d,
+  g a bb g c bb a g
+  fs g6 a bb8 eb a, bb6 c d8 d,
+  g a bb c d cs d d,
+  g a6 bb c8 c, f g6 a bb8 g
+  e f6 g a8 a d, d'6 e f8 d
+  g f e d cs d6 e f8 bb
+  e, f6 g a8 a, d, a' d f
+  g, bb c e f, a bb d
+  e, f g4 ~ g8 f6 e d8 d' 
+  g, bb e, g a cs f, a
+  bb g a a d,4 r8 d'
+  g, g'6 f eb8 d c4 r8 c
+  f, f'6 eb d8 c bb a bb eb
+  a, bb a g fs g6 a bb8 eb
+  a, bb6 c d8 d, g a bb g
+  d' e fs d g a b g
+  c, bb a bb6 c d8 e fs d
+  g a bb g a bb6 c d8 d,
+  g a6 bb eb,8 g c, eb6 d c8 a
+  d c bb g c eb a, c
+  d fs bb, d eb bb6 c d8 d,
+  g a bb g c bb a g
+  fs g6 a bb8 eb a, bb6 c d8 bb
+  eb c d d, g4\fermata r
+  bb8 c d eb f g a f
+  bb c d bb f4 eb8 d 
+  c d eb f g a b g
+  c d eb c g f eb d
+  c eb f eb d c6 d eb8 d
+  c b6 c d8 eb f eb6 d eb8 f
+  g f6 eb d8 c b a b g
+  c4 r8 c f4 r8 f,
+  b4 r8 eb d c d g,
+  c g c d eb d c eb
+  d e fs d g a bb g
+  d'4 r8 c bb a g f
+  e d e c f, g a f
+  c' d e f g a bb g
+  cs,4 r r6 a' g a d4 ~
+  d6 g, fs g c4 ~ c8 a fs d
+  g f!6 eb d8 c b4 r8 c
+  g ab bb bb eb,4 r
+  \dacapo
+}

@@ -1,0 +1,59 @@
+\relative c' {
+  \time 4/4
+  \key fs \minor
+ 
+  r8 r6 a'' (es fs) (bs, cs) (cs bs) r gs' (ds e) (as, b)
+  \segno
+  (b as) r fs' b d,! cs b (es d cs fs) (gs d cs b)
+  a es fs a (bs cs) (cs ds) ds a gs e'! (fs e) (e ds)
+  e bs cs gs' a8 e ~ e ds6 fss gs8 d ~
+  d cs6 es fs4 ~ fs6 ds e cs cs8 bs6 cs
+  cs4 r8 g' ~ g6 cs, d! b! (b8 as6\trill) b
+  b fs b d (es fs) (fs gs!) gs d cs a'! (b a) (a gs)
+  a8 r6 a (es fs) (bs, cs) (cs bs) r gs' (ds e) (as, b)
+  (b as) r fs' b d, cs b (es d cs fs) a,8\trill gs6 fs
+  fs4\fermata r r2
+  R1
+  r8 r6 a' (es fs) (bs, cs) (cs bs) r gs' (ds e) (as, b)
+  (b as) r fs' b d,! cs b (es d cs fs) (gs d cs b)
+  a es fs a (bs cs) (cs ds) ds a gs e'! (fs e) (e ds)
+  e bs cs gs' a8 e ~ e ds6 fss gs8 d ~
+  d cs6 es fs4 ~ fs6 bs, cs a' bs,8. cs6
+  cs4 r8 g' ~ g6 cs, d! b! as8 r
+  r6 fs b d (es fs) (fs gs!) gs d cs a'! (b a) (a gs)
+  a es fs8 r4 r2
+  r3 [e, fs gs a b cs d] e8 r r3 [fs, gs a b cs d e] fs8 r
+  r3 [gs, a b cs d e fs] gs8 r r3 [a gs fs e d cs b] a8 r
+  r4 r8 r6 f' (gs, a) (e f) (f e) r8
+  r3 [e a b cs8] r4 r3 [e, a b cs8] r4
+  r3 [e, a b cs8] r4 r2
+  r3 [a cs e cs a cs e] [fs cs fs a fs cs fs a] [b fs, b ds b fs b ds] [e b e gs e b e gs]
+  [a e, a cs a e a cs] [d! a d fs d a d fs] [gs6. e3 a6. cs,3] b8. a6
+  a4 r8 r6 a' (ds, e) (bs cs) (cs bs) r8
+  r8 r6 a' (ds, e) (bs cs) (cs bs) r8 r4
+  r8 r6 a' (ds, e) (bs cs) (cs bs) gs'8 r4
+  R1*2
+  r2 r8 r6 b (fss gs) (css, ds)
+  (ds css) r as' (es fs!) (bs, cs) (cs bs) r gs' cs e, ds cs
+  (fss e ds gs) (as e ds cs) b! fss gs b (es fs) (fs gs)
+  gs d! cs a'! (b a) (a gs) a4 r8 a ~
+  a6 ds, e cs bs8. cs6 cs8. ds6 e bs cs8
+  r2 r4 r3 [gs' fs e ds cs b! a]
+  gs8 r r3 [a' gs fs e ds cs b] a8 r r3 [b' a gs fs e ds cs]
+  b8 r r r6 g' (ds e) (b c) (c b) r8
+  r2 r3 [b e fs gs8] r4
+  r3 [b, e fs gs8] r4 r3 [b, e fs gs8] r4
+  r2 r8 r3 a gs fs [e fs e ds cs ds cs b]
+  [a b a gs fs8] r3 [cs'' b a gs a gs fs] e8 r3 gs fs e [ds e ds cs b cs b a] 
+  [gs a gs fs e8] ~ [e6. e'3 b6. ds3] e8. g6 (cs, d) (as b)
+  (b as) r8 r r6 g' (cs, d) (as b) (b as) r8
+  r r6 g' (cs, d) (as b) (b as) r8 r4
+  R1*5
+  r8 r6 a' (es fs) (bs, cs) (cs bs) r gs' (ds e) (as, b)
+  (b as) r fs' b d,! cs b (es d cs fs) (gs d cs b)
+  a es fs a (bs cs) (cs ds) ds a gs e'! (fs e) (e ds)
+  fs8 es\fermata r4 r2
+  R1
+  r8 r6 a (es fs) (bs, cs) (cs bs) r gs' (ds e) (as, b)
+  \dalsegno
+}

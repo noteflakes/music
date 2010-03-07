@@ -1,1 +1,14 @@
-blah: blah
+end_bar: "||"
+parts:
+  violino1:
+    source: violini
+  violino2:
+    source: violini
+  viola:
+    source: violini
+score:
+  hide_figures: false
+  order:
+    - organo
+    - alto
+    - violini

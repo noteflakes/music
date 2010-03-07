@@ -10,7 +10,7 @@ movements:
   02-recitativo:
     midi_tempo: 54 4
   03-aria:
-    midi_tempo: 100 4
+    midi_tempo: 47 4
   04-recitativo:
     midi_tempo: 80 4
   05-aria:

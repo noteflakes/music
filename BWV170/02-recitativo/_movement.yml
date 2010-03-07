@@ -1,1 +1,3 @@
-blah: blah
+parts:
+  continuo:
+    before_include: alto

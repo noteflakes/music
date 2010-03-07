@@ -1,0 +1,22 @@
+\relative c' {
+  \time 4/4
+  \key d \major
+  
+  r8 fs d' cs as8. as6 as8 r6 cs
+  e,8 e g6 g g fs ds'4 r8 b
+  b fs ds ds c'4 r8 b
+  as b e,6 d! cs b fs'8 fs r fs
+  cs' cs as fs a8. a6 a4
+  r8 ds, gs fs a gs bs,8. ds6
+  e4 r8 cs gs'8. a6 b8 e,
+  c' a ds e e b r4
+  r8 gs b e, cs'4 r8 cs
+  e, e e fs g g g fs
+  d d r d' ([d gs,]) r b
+  d, e f d d' b gs b
+  c4 r8 a fs fs b fs
+  gs a d, c a a r4
+  r ds r ([b'8 cs6]) d
+  es,4 r8 gs d' d d cs
+  (a4. [gs6 a]) gs4 r\fermata
+}

@@ -1,0 +1,65 @@
+\relative c {
+  \time 4/4
+  \key d \major
+  
+  \partial 8
+    d,8
+    
+  (d' d d d) (cs cs cs cs)
+  b b b b a a' r4
+  r r8 a a, a' a, r
+  r4 r8 g' fs e d d'
+  d, d' d, r r4 r8 d
+  g fs g e a g fs b 
+  a g a a, d r r4
+  d8 r r4 d, r
+  r2 r4 r8 g'
+  fs d' d, fs g fs e d
+  cs a' a, cs d6 cs b a g fs e d
+  (d'8 d d d) (cs cs cs cs)
+  b b b b a a' a, r 
+  R1
+  r2 r4 r8 a
+  (a' a a a) (gs gs gs gs)
+  fs fs fs fs e e' e, r
+  r4 r8 e e, e' e, r
+  r4 r8 d' cs b a a'
+  a, a' a, r r4 r8 a
+  d4 r8 b e4 r8 d
+  cs d e e, (a b6 cs) (d e fs gs)
+  (a8 a a a) (gs gs gs gs)
+  fs fs fs fs e e' e, r
+  r4 r8 e e, e' e, r
+  r4 r8 d' cs b a a'
+  a, a' a, r r4 r8 a
+  d cs d b e d cs fs
+  e d e e, a r r4
+  a4 r4 a6 (a' g fs) (e d cs b)
+  a8 r r4 r6 (d cs b) (a g fs e)
+  d8 r r4 r8 (b'6 a g fs e d)
+  (d'8 d d d) (cs cs cs cs)
+  b b b b a a' a, r
+  r4 r8 a' a, a' a, r
+  r4 r8 g' fs e d d' 
+  d, d' d, r r4 r8 d
+  g4 r8 e a4 r8 b
+  fs d a' a, (d8 cs6 b a g fs e)
+  d8 (d' d d) (cs cs cs cs)
+  b b b b a a' r4
+  r r8 a a, a' a, r
+  r4 r8 g' fs e d d'
+  d, d' d, r r4 r8 d
+  g fs g e a g fs b
+  a g a a, d r r4
+  d,8 r r4 d\fermata r
+  R1*4
+  r2 r4 r8 cs''
+  cs, cs' cs, r r2
+  r8 cs cs, cs' r e e, e'
+  r d d, d' r gs gs, gs'
+  a d, e e, a4 r8 as
+  b4 r8 b cs2 ~
+  cs1
+  r8 (b a gs) (fs e d cs)
+  bs4 cs fs r8
+}

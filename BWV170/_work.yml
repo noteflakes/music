@@ -2,17 +2,17 @@ title: Aria BWV 170
 subtitle: "\"Vergnügte Ruh', beliebte Seelenlust\""
 composer: Johann Sebastian Bach
 parts:
-  continuo:
-    embed_figures: true
   organo:
     keyboard: true
 movements:
   01-aria:
     midi_tempo: 160 8
-  02-aria:
+  02-recitativo:
     midi_tempo: 54 4
-  03-choral:
+  03-aria:
     midi_tempo: 100 4
+  04-recitativo:
+    midi_tempo: 80 4
   05-aria:
     midi_tempo: 90 4
   06-choral:

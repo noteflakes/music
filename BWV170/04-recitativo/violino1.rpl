@@ -1,0 +1,20 @@
+\relative c' {
+  \time 4/4
+  \key d \major
+ 
+  e'1 ~
+  e 
+  cs2 c
+  b ds
+  e1 ~
+  e ~
+  e2 gs
+  a1 ~
+  a ~
+  a
+  g4 e d g,
+  r (c6 b a g) g2
+  b cs! ~
+  cs d4 cs
+  d r r2
+}

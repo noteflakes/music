@@ -1,0 +1,66 @@
+\relative c' {
+  \time 12/8
+  \key d \major
+ 
+  $c3 d d d a a a d d d b b b 
+  cs d d d cs cs d a a fs' fs fs
+  fs fs fs a a a a a e d e fs
+  e b b b' b b $$ (b6 a gs fs gs a) (b8 b b)
+  (b6 d cs b a gs) $c3 a a a gs gs gs fs fs fs
+  e e e $$ e6 fs e d cs b a8 a e' ~ e d fs ~
+  fs gs a $c3 ds, ds ds a' a a a a a $$
+  a (a e) $c3 e e e e a g! cs e, e
+  d d d a a a d d d b b b 
+  cs d d d cs cs d fs a a a a $$
+  (a6 c b a g fs) $c3 g g g fs fs fs e e e 
+  d d d a a a d d d b b b 
+  cs d d d cs cs $$ d4 r8 r4.
+  $c3 a' a a e e e a a a fs fs fs
+  gs a a a gs gs $$ a (cs,6 b cs d) (e8 e e)
+  (e6 g! fs e d cs) d8 d d $c3 cs cs cs b b b $$
+  a4 r8 r4. r2.
+  d8 d d cs cs cs cs b d cs cs cs
+  cs4 r8 r4. e8 e e e e e 
+  a a a a a cs d4 r8 r4.
+  b8 (gs6 fs gs a) b8 b b (b6 a gs fs e d) e8 e e
+  e e e fs fs fs e4 r8 r4.
+  r8 fs e d cs b a4 r8 r4.
+  r8 b' a g! fs e d4 r8 r4.
+  R1.
+  $c3 a' a a e e e a a a fs fs fs 
+  gs a a a gs gs $$ a a g fs e ds
+  $c3 b b b b' b b $$ (b6 a gs fs gs a) (b8 b b)
+  (b6 d cs b a gs) $c3 a a a gs gs gs fs fs fs 
+  e e e $$ e6 fs e d cs b a8 a e' ~ e d fs ~
+  fs gs a $c3 ds, ds ds a' a a a a a $$
+  a (a e) e e e e cs' b d b b 
+  a4 r8 r4. r2.
+  R1.
+  cs,8 cs cs (cs b as) b2. ~ 
+  b8 b b b b b b4. e ~
+  e8 e e (as, as as) b2. ~
+  b4 r8 r4. r2.
+  r r8 b' as b e, e
+  fs4 r8 r4. r2.
+  r4. $c3 fs e d cs d e e d cs $$
+  cs4 r8 r4. $c3 b b b fs' fs fs
+  b b b d, d d cs fs e $$ d cs6 b cs8
+  b4 r8 r4. r8 b' a g fs e
+  e4 r8 r4. $c3 d d d a' a a 
+  d d d fs, fs fse a g $$ fs e6 d e8
+  d4 r8 r4. r2.
+  e6 d cs b cs d e8 e e e e e d d d
+  e e d d d d e4 r8 r4.
+  r8 b' a g fs e d4 r8 r4.
+  r8 e d c b a g4 r8 r4.
+  R1.
+  $c3 d' d d a a a d d d b b b 
+  cs d d d cs cs d a a a' a a 
+  g g g b b b b b b d d d 
+  d d a g a b a e e e e e $$
+  (e6 d cs b cs d) (e8 e e) (e6 g fs e d cs) $c3 d d d
+  cs cs cs b b b a a a $$ a6 b' a g fs e
+  d8 d a' ~ a g b ~ b cs d (gs, gs gs)
+  (d' d d) (d d d) d (d a) (a a a)
+  a (g6 fs e d) (cs8 cs cs) d2.\fermata
+}

@@ -1,0 +1,67 @@
+\relative c' {
+  \time 12/8
+  \key d \major
+ 
+  $c3 a a a fs fs fs b b b fs fs fs 
+  e a g fs e a a g fs d' d d 
+  cs cs cs fs fs fs e e a, a e' d
+  b a gs gs' gs gs $$ (gs6 fs e d e fs) (gs8 gs gs)
+  (gs6 fs e d cs b) $c3 e e e e e e ds ds ds
+  b b b $$ b b e, e e cs' ~ cs a a' ~
+  a gs fs $c3 fs fs fs fs fs fs fs fs fs $$
+  e (e c) $c3 b b b cs fs e g! cs, a
+  a a a fs fs fs b b b fs fs fs 
+  e a g fs e a a d fs fs fs fs $$
+  (fs6 e d c b a) $c3 d d d d d d cs cs cs 
+  a a a fs fs fs b b b fs fs fs 
+  e a g fs e a $$ a4 r8 r4.
+  $c3 e' e e cs cs cs fs fs fs cs cs cs 
+  b e d cs b e $$ e (a,6 gs a b) (cs8 cs cs)
+  (cs6 b a g fs e) fs8 fs d (a' a a) (gs gs gs)
+  e4 r8 r4. r2.
+  b'8 b b gs gs gs fs b a gs gs gs
+  fs4 r8 r4. cs'8 cs cs cs cs cs
+  fs fs fs g! g g a4 r8 r4.
+  gs8 (e6 d e fs) gs8 gs gs (gs6 fs e d cs b) a8 a a 
+  b b b c c c b4 r8 r4.
+  r8 (a a) (e e e) e4 r8 r4.
+  r8 (d' d) (a a a) a4 r8 r4.
+  R1.
+  $c3 e' e e cs cs cs fs fs fs cs cs cs
+  b e d cs b e $$ e e a, a e fs
+  $c3 e e e gs' gs gs $$ (gs6 fs e d e fs) (gs8 gs gs)
+  (gs6 fs e d cs b) $c3 e e e e e e ds ds ds 
+  b b b $$ b b e, e e cs' ~ cs a a' ~
+  a gs fs ~ fs fs fs (fs fs fs) (fs fs fs)
+  e (e c) b b b cs e e e gs gs
+  e4 r8 r4. r2.
+  R1.
+  (fs,8 fs fs) (as fs e) fs2. ~
+  fs8 fs fs fs fs fs g4. ~ g8 fs e
+  (as as as) (fs fs fs) b2. ~
+  b4 r8 r4. r2.
+  r2. r8 (b g') (g cs, b)
+  cs4 r8 r4. r2.
+  r4. (d8 cs b) (b a gs) (as b cs)
+  e,4 r8 r4. $c3 fs fs fs d' d d
+  b b b b b b as b b b as as $$
+  fs4 r8 r4. r8 (g a) (b cs d)
+  cs4 r8 r4. $c3 a a a fs' fs fs
+  b b b d, d d cs a b $$ fs a a
+  d,4 r8 r4. r2.
+  cs'6 b cs d cs b a8 a a cs cs cs a a a 
+  a a a a a a a4 r8 r4.
+  r8 (d d) (a a a) a4 r8 r4.
+  r8 (g g) (d d d) d4 r8 r4.
+  R1.
+  $c3 a' a a fs fs fs b b b fs fs fs 
+  e a g fs e a a g fs fs' fs fs
+  d d d g g g fs fs fs b b b 
+  a a d, d a' g e d cs cs cs cs $$
+  (cs6 b a g a b) (cs8 cs cs) (cs6 b a g fs e) $c3 a a a
+  a a a gs gs gs e e e $$ e e a
+  a a fs' ~ fs d d ~ d cs b (b b b)
+  (b b b) (b' b b) a (a f) (e e e)
+  fs! (e6 d e fs) (g8 e e) a,2.\fermata
+  
+}

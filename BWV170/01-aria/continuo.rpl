@@ -1,0 +1,66 @@
+\relative c {
+  \time 12/8
+  \key d \major
+ 
+  $c1 d d cs cs b b a a $$
+  g fs g a4 a8 d,4. r8 (d'6 cs d e)
+  fs4. ~ fs8 (fs6 e fs gs) a4 a8 d, cs b
+  e4 e,8 r4. (e'8 e e) r4.
+  (e8 e e) r4. (e8 e e) r4.
+  $c1 e e gs gs a a d, d
+  ds ds b b fs' fs ds ds
+  e e e, e $$ a4. ~ a8 (b6 a b cs)
+  $c1 d d cs cs b b a a $$
+  g fs g a4 a8 (d, d d) r4.
+  (d8 d d) r4. (d8 d d) r4.
+  $c1 d' d cs cs b b a a $$
+  g fs g a4 a8 d, d' cs d cs b
+  $c1 a a gs gs fs fs e e $$
+  d cs d e4 e8 (a a a) r4. 
+  (a8 a a) r4. (a8 a a) r4. 
+  a4 r8 r r cs $c2 b b d d $$
+  $c1 gs, gs cs cs $$ fs, d' b $c2 cs cs
+  fs fs b, b a a gs gs
+  fs fs e e d d ds ds $$
+  (e8 e e) r4. (e8 e e) r4. 
+  (e8 e e) r4. $c2 e e e' e
+  fs fs gs gs a a a, a
+  b b cs cs d d cs cs
+  b b gs' gs a d, e e,
+  a' a gs gs fs fs e e $$
+  d cs d e4 e8 (a, b cs) (d cs b)
+  (e8 e e) r4. (e8 e e) r4. 
+  (e8 e e) r4. (e8 e e) r4. 
+  $c1 e e gs gs a a d, d
+  ds ds b b fs' fs ds ds
+  e e e, e $$ $c2 a e' gs e $$
+  a4. ~ a8 (cs,6 b cs d) (e8 b b) (cs a a)
+  d4. ~ d8 (e6 d e fs) (g8 d d) (e cs cs)
+  $c1 fs e d cs $$ $c2 b b a a
+  g g fs fs e e g g
+  fs fs e e d d ds ds
+  e e fs fs g g c c 
+  fs, fs b b e, e g g $$
+  fs fs' e d e6 d cs b e4. ~ e8 fs6 e d cs
+  $c2 fs e d d e e fs fs
+  g e fs fs, $$ $c1 b b a a 
+  g g fs fs $$ e d e $c2 fs fs
+  b b d d e e g g
+  a a a, a $$ $c1 d d cs cs
+  b b a a $$ g fs g $c2 a a
+  b b a a g g gs gs $$
+  (a8 a a) r4. (a8 a a) r4. 
+  (a8 a a) r4. $c2 a a a' a
+  b b cs cs d d d, d
+  e e fs fs g g b, b 
+  cs cs a a fs g a a $$
+  $c1 d d cs cs b b a a $$
+  g fs g a4 a8 d4. ~ d8 (e6 d e fs)
+  g4. ~ g8 (g6 fs g a) b4. ~ b8 (b6 a b cs)
+  d4 d,8 g fs e a4 a,8 r4.
+  (a8 a a) r4. (a8 a a) r4. 
+  (a8 a a) r4. $c1 a a cs cs
+  d d g, g gs gs e e
+  b' b gs gs a a a a 
+  d, d d d $$ d2.\fermata
+}

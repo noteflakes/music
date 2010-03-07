@@ -1,0 +1,14 @@
+parts:
+  organo:
+    keyboard: true
+score:
+  hide_figures: false
+  order:
+    - organo
+    - violino1
+    - violino2
+    - viola
+    - alto
+    - continuo
+  groups:
+    - brace: [violino1, violino2]

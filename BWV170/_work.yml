@@ -1,9 +1,11 @@
-title: Aria BWV 166
-subtitle: "\"Wo gehest du hin?\""
+title: Aria BWV 170
+subtitle: "\"Vergnügte Ruh', beliebte Seelenlust\""
 composer: Johann Sebastian Bach
 parts:
   continuo:
     embed_figures: true
+  organo:
+    keyboard: true
 movements:
   01-aria:
     midi_tempo: 160 8
@@ -12,22 +14,16 @@ movements:
   03-choral:
     midi_tempo: 100 4
   05-aria:
-    midi_tempo: 100 4
+    midi_tempo: 90 4
   06-choral:
     midi_tempo: 90 4
 score:
   hide_figures: false
   order:
-    - oboe
-    - violini
     - violino1
     - violino2
     - viola
-    - soprano
     - alto
-    - tenore
-    - basso
     - continuo
   groups:
     - brace: [violino1, violino2]
-    - bracket: [soprano, alto, tenore, basso]

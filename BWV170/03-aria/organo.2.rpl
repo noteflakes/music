@@ -1,0 +1,56 @@
+\relative c' {
+  \time 4/4
+  \key fs \minor
+  \clef treble
+  
+  R1*3
+  r8 r6 e' (bs cs) (fss, gs) (gs fss) r ds' (as b) (es, fs)
+  (fs es) r cs' fs a,! gs fs (bs a gs cs) (ds a gs fs)
+  e bs cs e (as b!) (b cs) cs g fs d'! (e d) (d cs)
+  d4 r8 d ~ d6 gs, a fs (fs8 es6\trill) fs
+  fs gs a cs d8 a ~ a gs6 bs cs8 g ~
+  g fs6 as b4 ~ b6 gs a fs fs8 es6 fs
+  fs4\fermata r r2
+  R1*4
+  r8 r6 e' (bs cs) (fss, gs) (gs fss) r ds' (as b) (es, fs)
+  (fs es) r cs' fs a,! gs fs (bs a gs cs) (ds a gs fs)
+  e bs cs e (as b!) (b cs) cs g fs d'! (e d) (d cs)
+  d4 r8 d ~ d6 gs, a fs es8. fs6
+  fs8. gs6 a es fs8 r2
+  r4 r3 [cs' b a gs fs e d] cs8 r r3 [d' cs b a gs fs e]
+  d8 r r3 [e' d cs b a gs fs] e8 r r r6 c'
+  (gs a) (e f) (f e) r8 r2
+  r3 [a, cs e a8] r4 r3 [a, cs e a8] r4 
+  r3 [a, cs e a8] r4 r2
+  r4 r3 [fs a cs a fs a cs] [ds b ds fs ds b ds fs] [gs e, gs b gs e gs b]
+  [cs a cs e cs a cs e] [fs d,! fs a fs d fs a] [b6. gs3 cs6. a3] [a8 gs6. a3]
+  a4 r r8 r6 a (ds, e) (bs cs)
+  (cs bs) r8 r r6 a' (ds, e) (bs cs) (cs bs) r8
+  r2 r8 r6 e' (bs cs) (fss, gs)
+  (gs fss) r6 ds' (as b) (es, fs) (fs es) r6 cs' fs a, gs fs
+  (bs a gs cs) (ds a gs fs) e bs cs e (fss gs) (gs as)
+  as e ds b' (cs b) (b as) b fss gs ds' e8 b ~
+  b as6 css ds8 a ~ a gs6 bs cs4 ~
+  cs6 fss, gs e' fss,8. gs6 gs4 r8 d' ~
+  d6 gs, a! fs es8 r r6 cs fs a (bs cs) (cs ds)
+  ds a gs e' (fs e) (e ds) e bs cs8 r4
+  r2 r3 [b,! cs ds e fs gs a] b8 r
+  r3 [cs, ds e fs gs a b] cs8 r r3 [ds, e fs gs a b cs] ds8 r
+  r3 [e ds cs b a gs fs] e8 r r4 r8 r6 g
+  (ds e) (b c) (c b) r8 r3 [e gs b e8] r4
+  r3 [e, gs b e8] r4 r3 [e, gs b e8] r4
+  r2 r3 [e ds cs b cs b a] [gs a gs fs e fs e ds]
+  cs8 r3 gs'' fs e [ds e ds cs b cs b a] [gs a gs fs e8] r3 [cs' b a gs a gs fs]
+  [e fs e ds cs ds cs b] \clef alto [a b a gs fs b a b] (gs6 ds) e8 r \clef treble r6 g'
+  (cs, d) (as b) (b as) r8 r r6 g' (cs, d) (as b)
+  (b as) r8 r r6 b' (fs g) (cs, d) (d cs) r8
+  R1*2
+  r8 r6 d' (as b) (es, fs) (fs es) r cs' (gs a) (ds, e)
+  (e ds) r b' e g, fs e (as g fs b) (cs g fs e)
+  d! as b d (es fs) (fs gs!) gs d cs a' (b a) (a gs)
+  a es fs cs' d8 a ~ a gs6 bs cs8 g ~
+  g fs6 as b!4 ~ b6 es, fs d' es,8. es6
+  fs gs a cs, (ds e!) (e fs) fs8. gs'6 (bs, cs) (cs b)
+  a8 gs\fermata r4 r2
+  R1*2
+}

@@ -1,0 +1,64 @@
+\relative c' {
+  \time 4/4
+  \key fs \minor
+ 
+  fs4 r8 fs fs e r e
+  \segno
+  e d r d cs a b cs
+  fs4 r8 a bs, cs ds gs,
+  cs4 r8 cs cs b! r b
+  b a r a' gs e fs gs
+  cs,4 r8 e as, b cs fs
+  b,4 r8 b' es, fs gs cs,
+  fs4 r8 fs fs e! r e
+  e d r d cs a b cs
+  fs4\fermata r8 fs fs e r e
+  e d r d cs a b cs
+  fs4 r8 fs fs e r e
+  e d r d cs a b cs
+  fs4 r8 a bs, cs ds gs,
+  cs4 r8 cs ds gs, r gs
+  cs fs r ds gs gs, r gs
+  cs4 r8 b as b cs fs
+  b,4 r8 b' es, fs gs cs,
+  fs4 r8 fs d b r b
+  e d r cs fs e r d
+  gs fs r e a, a' r g
+  f e r d c d e e 
+  a, a' r a a gs! r fs
+  fs e r d d cs d e
+  a, a' r a a gs! r gs
+  gs fs r fs e cs d e
+  a, a' r a a gs r gs
+  gs fs r fs fs e r e
+  e ds r ds ds cs r cs
+  cs b r b b a r a
+  gs e' fs gs cs,4 r8 e
+  fss, gs as ds gs,4 r8 gs
+  as ds r ds gs, cs r as
+  b e cs ds gs, gs' r fs
+  es fs cs' cs, fs4 r8 fs
+  bs, cs gs' gs, cs4 r8 cs
+  a fs' r fs b, a r gs
+  cs b r a (ds cs) r b
+  e4 r8 d! c b r a
+  g a b b e4 r8 e
+  e ds r cs cs b r a
+  a gs a b e4 r8 e
+  e ds r ds ds cs r cs
+  b gs a b e4 r8 g
+  g fs r fs fs e r e
+  e d r d d cs r fs
+  b,4 r8 b b a r a
+  a g r g' fs gs as fs
+  b,4 r8 b b a! r a
+  a g r g' fs d e fs
+  b,4 r8 d' es, fs gs! cs,
+  fs4 r8 ds gs, cs r cs
+  d! ds r es a, fs' cs' cs,
+  fs4 r8 fs bs, gs r cs
+  b!4\fermata r8 fs' fs e r d
+  d cs r b b a b cs
+  fs4 r8 fs fs e r e
+  \dalsegno
+}

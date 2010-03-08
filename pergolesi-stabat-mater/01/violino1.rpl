@@ -1,0 +1,52 @@
+\relative c' {
+  \time 4/4
+  \key c \minor
+ 
+  r2 g'' ~
+  g4 f bb2 ~
+  bb4 ab db2 ~
+  db4 c8 bb a4 c ~
+  c bb g,8 bb' g e
+  c, (bb' ab g) ab c' ab f
+  c, (c' bb ab) g g' ab ab,
+  ab4 g r8 ab' r ab
+  r (db, c e,) f ab' r ab
+  r (db, c e,) (f6 f') (e g) (f c) (db bb)
+  ^bb8 ab4 g\prall f8 c ab4
+  r2 g' ~
+  g4 f bb2 ~
+  bb4 ab db2 ~
+  db4 c8 bb a2
+  bb4 db2 c8 bb
+  ab ab ab ab g4 r
+  f'4 eb (db8 c) bb4 ~
+  bb8 gb f eb' ~ eb db6 c db8 db
+  eb,4 db' c8 bb ab4 ~
+  ab8 f eb db' db c6 bb c8 c
+  c'4. db8 ^c bb4. c8
+  ^bb8 ab2 g4 r
+  r2 d ~
+  d ~ d4 eb
+  d2 r8 eb r eb
+  r (ab, g b,) c eb' r eb
+  r (ab, g b,) c4 r
+  d'2. c4
+  f2. eb4
+  ab2. g8 f
+  eb eb eb eb d4 r
+  r2 f4 eb
+  (db d eb db)
+  c2 (db4 c)
+  bb2 c4 bb
+  ab8 ab ab ab g bb' g e
+  c, (bb' ab g) ab c' ab f
+  c, (c' bb ab) g g' ab bb,
+  ab ab g g r ab' r ab
+  r (db, c e,) f ab' r ab
+  r (db, c e,) f4 r
+  r2 g ~
+  g2. ab4
+  g2 r8 ab' r ab
+  r (db, c e,) f ab' r ab
+  r (db, c e,) f4 r\fermata
+}

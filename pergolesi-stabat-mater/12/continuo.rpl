@@ -1,0 +1,97 @@
+\relative c {
+  \time 4/4
+  \key c \minor
+  \tempo "Largo assai"
+  
+  $c2 f f c c
+  e e f f
+  b, b c c'
+  c bb ab bb
+  c c, db db
+  bb' g ab bb
+  c c, f, f
+  f' f c c
+  f f b, b
+  c c a' f
+  bb, db eb f
+  bb ab g eb
+  ab c, db eb
+  ab ab gb gb
+  f f f f 
+  bb, db eb f
+  bb, db c c 
+  c c c c 
+  c c c c 
+  c c c c 
+  c c c c 
+  c c' bb g
+  ab bb c c,
+  db db db db 
+  c c c c $$
+  db4 r\fermata $c2 db db
+  db db c c 
+  c c f ab, 
+  bb c $$ f,4 r\fermata
+  
+  \bar "||"
+  \tempo "Presto assai"
+  R1*6
+  r2 ab'4 g
+  f2 f'4 d
+  eb2 c4 ab
+  d2 b4 g
+  c bb ab g
+  f2 g
+  c1
+  d
+  c
+  bb
+  ab2 bb4 ab
+  g1 
+  f2 f
+  bb, bb
+  c r
+  R1
+  c4 c' bb ab
+  g f e d
+  c c' bb ab
+  g f e d
+  c2 r R1
+  f,4 f' eb db
+  c bb a g
+  f f' eb db
+  c bb a g
+  f2 r 
+  R1
+  bb4 bb' ab gb
+  f eb db c
+  bb bb' ab gb
+  f eb db c
+  bb2 r
+  R1
+  c4 c' bb ab 
+  g f e d
+  c c' bb ab
+  g f e d 
+  c1 ~
+  c^"2" ~
+  c^"3" ~
+  c^"4" ~
+  c^"5" ~
+  c^"6"
+  f,2 r
+  r a'
+  bb r
+  r b
+  c ab
+  bb c
+  f, r
+  r a,
+  bb r
+  r b
+  c ab
+  bb c
+  f c
+  f c
+  f, r\fermata
+}

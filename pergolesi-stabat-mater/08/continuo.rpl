@@ -1,0 +1,139 @@
+\relative c {
+  \time 2/2
+  \key g \minor
+  \tempo "Allegro"
+  
+  R1*8
+  d1
+  eb
+  d2. bb4
+  c a d c
+  bb bb a g
+  g' f e d
+  cs a d2 ~
+  d cs
+  d1
+  e
+  f
+  g
+  a
+  bb ~
+  b4 a g a
+  bb1 ~
+  bb4 a g a
+  bb2. a4
+  bb2. a4
+  bb2 r4 d,
+  eb c f eb
+  d bb r bb
+  c a d c
+  bb g r g'
+  ab f bb ab
+  g eb r eb
+  f d g f
+  eb2 d
+  r c' ~
+  c bb4 g
+  c bb a g
+  fs2 g ~
+  g fs
+  g1
+  a
+  g2 r4 f!
+  g e a g
+  f d r2
+  R1
+  bb1
+  c
+  d
+  eb
+  f ~
+  f4 e d e
+  f1 ~
+  f4 e d e
+  f1 
+  r4 d e fs
+  g2. fs4
+  g2. fs4
+  g2 g ~
+  g f! ~
+  f eb2 ~
+  eb d ~
+  d c ~
+  c r4 bb
+  c a d c
+  bb2 g
+  R1*2
+  d'1
+  eb
+  d2. bb4
+  c a d c
+  bb2 g'
+  f1
+  eb
+  d
+  c
+  bb2 r4 bb
+  bb c r c
+  c d r d
+  d eb r eb
+  eb f r f
+  bb, d c bb
+  eb d c bb
+  a c bb a 
+  d c bb a
+  g bb a g
+  c bb a g
+  fs2 r
+  R1*3
+  d'1 
+  eb
+  d2. bb4
+  c a d c
+  bb g g'2 ~
+  g fs
+  g r4 g
+  g fs r f
+  f e r eb
+  eb d r d
+  d c r c
+  bb1 ~
+  bb4 a g a
+  bb1 ~
+  bb4 a g a
+  bb2. d4
+  eb c f eb
+  d bb r2
+  r4 fs' e fs
+  g1 ~ 
+  g4 fs e fs
+  g2 r4 g,
+  g a r a 
+  a bb r b
+  b c r cs
+  d1 ~
+  d^"2" ~
+  d^"3" ~
+  d^"4" ~
+  d^"5" ~
+  d^"6" ~
+  d^"7"
+  r4 fs e d 
+  g f! eb d
+  c eb d c
+  f eb d c
+  bb d c bb
+  eb d c bb
+  a c bb a
+  d c bb a
+  g'2 f
+  eb1
+  d ~
+  d
+  g,2 r
+  r4 a' bb fs
+  g2 r
+  r4 d eb bb
+  c2 d
+  g,1\fermata
+}

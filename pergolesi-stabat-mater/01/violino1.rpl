@@ -1,6 +1,8 @@
 \relative c' {
   \time 4/4
   \key c \minor
+  \tempo "Grave"
+  
  
   r2 g'' ~
   g4 f bb2 ~

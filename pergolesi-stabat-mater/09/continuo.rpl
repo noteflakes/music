@@ -1,0 +1,90 @@
+\relative c {
+  \time 4/4
+  \key c \minor
+  \tempo "Tempo giusto"
+  
+  eb8 eb eb eb d d d d 
+  c c g g ab ab' d, d
+  eb eb g g ab ab bb bb 
+  eb, eb eb eb eb eb eb eb 
+  eb eb eb eb bb bb bb bb
+  eb4 r r8 gb f eb
+  d4 r r8 bb c d
+  eb ab bb bb, eb4 r
+  r8 gb f eb d4 r
+  r8 bb c d eb ab bb bb,
+  eb4 r eb8\p eb eb eb
+  d d d d c c g g
+  ab ab' d, d eb eb g, g
+  ab ab bb bb eb g f ab
+  g r eb r f r d r
+  eb r a, r r bb d f
+  r bb d bb r f a f
+  bb4 r r8 db c bb
+  a4 r r8 f g a
+  bb c d f, r g eb f
+  bb,4 r r8 db' c bb
+  a4 r r8 f g a
+  bb c d f, r g eb f
+  bb,\f bb bb bb bb bb bb bb
+  f f f f bb c d f
+  r g eb f bb,4 r
+  bb'8\p bb bb bb a a a a 
+  g g d d eb eb a, a
+  bb bb d d eb eb f f 
+  bb, d c eb d r bb r
+  c r f, r bb r e r
+  r f a c r f, a f
+  r c e c f4 r
+  r8 ab g f e4 r
+  r8 c d e f g a c,
+  r d bb c f,4 r
+  r8 ab' g f e4 r
+  r8 c d e f g a c,
+  r d bb c f\f f f f 
+  e e e e f g a c,
+  r d bb c f,4 r
+  r f'4. gb8 f4 ~
+  f8 gb f4 ~ f8 f c c 
+  f eb db c bb4 bb' ~
+  bb8 cb bb4 ~ bb8 cb bb4 ~
+  bb8 cb bb4 ~ bb8 bb f f
+  bb, db c eb db2
+  c c4 c
+  c8 b b b c4 r
+  r8 c eb c r d b g
+  c4 r r8 eb d c
+  b4 r r8 b b b 
+  c c f, f g g g g 
+  c bb' ab g f f eb d 
+  c c' c c bb bb bb bb
+  ab ab eb eb f f b, b
+  c c' bb a g g g g 
+  f f f f eb eb bb bb 
+  c c fs, fs g g' g,4
+  r8 g' g f e2
+  r8 f b, b c4 r
+  r8 ab' g f e4 r
+  r8 c d e f f bb, bb 
+  c c c c db db' c bb
+  ab bb ab g f db c bb
+  ab bb ab g f g ab bb
+  c c c c f f f f 
+  eb eb eb eb db db ab ab
+  bb bb' e, e f f d d 
+  eb! eb eb eb d d d d 
+  c c g g ab ab' d, d
+  eb g f ab g r eb r
+  f r bb, r eb r b r
+  c4 r r bb ~
+  bb8 cb bb4. cb8 bb4 ~
+  bb8 f' d bb g4 r
+  r8 gb' f eb d4 r
+  r8 bb c d eb eb ab, ab
+  bb bb bb bb eb4 r
+  r8 gb f eb d4 r
+  r8 bb c d eb f g ab
+  bb bb bb, bb eb eb eb eb 
+  eb eb eb eb bb bb bb bb
+  eb ab, bb bb eb,4 r\fermata
+}

@@ -1,0 +1,49 @@
+\relative c {
+  \time 4/4
+  \key c \minor
+  \tempo "Largo"
+ 
+  f8 f f f f f f f
+  f f e e f f, ab c
+  f2 e
+  eb d
+  db c4 c' ~
+  c bb ab bb
+  c c,2 bb4
+  ab8 g ab bb c c c c 
+  f,4 r f'8 f f f
+  f f f f f f e e 
+  f f, ab c f2
+  e eb
+  d db
+  c bb8 g' ab d,
+  eb4 r eb r
+  g r ab r
+  d, r eb r
+  eb r ab,8 db c bb
+  ab db c bb ab db c bb
+  ab db eb eb, ab4 r
+  ab'8 ab gb gb f f f f 
+  a, a a a bb bb bb bb
+  bb bb ab ab g g g g
+  b b b b c c c c 
+  c c c c c c b b 
+  c4 c'2 bb4
+  ab bb c c,
+  f r a,2
+  bb4 r b8 b b b 
+  c4 r f2
+  e eb
+  d db
+  c8 c b b c4 r
+  c r e r
+  f r ab, r
+  bb r b r
+  c r c r
+  c r c r
+  db r ab r
+  bb r b r
+  c c c b 
+  c c c c 
+  f,2 r2\fermata
+}

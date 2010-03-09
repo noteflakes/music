@@ -1,0 +1,6 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+  \tempo "Allegro"
+  
+}

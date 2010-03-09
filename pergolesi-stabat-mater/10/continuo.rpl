@@ -1,0 +1,34 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+  \tempo "Largo"
+  
+  $c3 g' g g g bb a g fs d' $$ r4\fermata
+  $c3 f, f f f ab g f e c' $$ r4\fermata
+  $c3 eb, eb eb eb g f eb d bb' $$ r4\fermata
+  r2 r4\fermata d,6 c bb a
+  g8 bb c d eb bb c d
+  [g6. bb3 eb,6. g3] cs,8 d g,4 r\fermata
+  $c3 g' g g g bb a g fs d' $$ r4\fermata
+  $c3 f, f f f ab g f e c' $$ r4\fermata
+  $c3 eb, eb eb eb g f eb d bb' $$ r d,
+  c c f, f bb bb bb bb
+  f f f f f f f f 
+  f f f f bb c d eb
+  r eb f f, bb4 r
+  e r eb r
+  d8 d eb f bb, d eb f
+  bb, bb d bb f' f a g
+  fs e fs d g g, bb g
+  cs cs cs cs d d d d 
+  d c a a bb bb bb bb 
+  c c c cs d4 d6 c bb a
+  g8 bb c d eb bb c d
+  eb bb c d eb4 fs,
+  g8 c d d [g6. bb3 eb,6. g3] cs,8 cs
+  \tempo "Largo"
+  d1
+  \tempo "a tempo"
+  g,8 bb c d eb bb c d
+  [g6. bb3 eb,6. g3] cs,8 d g,4 r\fermata
+}

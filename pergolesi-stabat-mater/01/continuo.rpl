@@ -1,6 +1,7 @@
 \relative c {
   \time 4/4
   \key c \minor
+  \tempo "Grave"
  
   f8\p g ab f c d e c
   f g ab f eb! f g eb

@@ -1,0 +1,114 @@
+\relative c {
+  \time 3/8
+  \key c \minor
+  \tempo "Andante amoroso"
+ 
+  $c1 c b
+  c d
+  eb f $$
+  f eb r
+  $c1 bb a
+  bb c
+  db eb $$
+  eb db r
+  g'4.
+  ab8 c bb
+  ab4. ~
+  ab8 g f
+  eb d c
+  g4 r8
+  r g f
+  eb d c
+  g g' f
+  eb d c
+  r d c 
+  b a g
+  c d eb
+  f g g,
+  r ab' eb
+  f4 g8
+  r ab eb
+  f g g,
+  $c1 c r
+  c b
+  c d
+  eb f $$
+  f eb r
+  $c1 bb a 
+  bb c
+  db eb $$
+  eb db r
+  g4.
+  ab8 c ab
+  $c1 db bb
+  c ab $$
+  bb g ab
+  $c1 eb r
+  eb eb $$
+  eb4.
+  eb4 eb8 
+  eb4.
+  eb4 eb8
+  eb4.
+  eb8 eb ab
+  eb4 r8
+  r bb' ab
+  g f eb
+  ab bb c
+  db, eb eb,
+  ab bb c 
+  r bb' ab
+  g f eb
+  ab, bb c
+  db eb eb,
+  ab4 c8
+  db eb4
+  r8 f c
+  db eb eb,
+  ab4 r8
+  r ab' ab
+  r gb gb
+  f4. ~
+  f 
+  e8 f r 
+  r bb bb
+  r ab ab
+  g4. ~
+  g
+  fs8 g r
+  r g f!
+  eb d c
+  g g' f
+  eb d c
+  r d c
+  b a g
+  c d eb
+  f g g,
+  c4 r8
+  c4. ~
+  c ~
+  c ~
+  c ~
+  c ~
+  c
+  fs4 fs8
+  g g, r
+  r g' f
+  eb d c
+  g g' f
+  eb d c
+  r d c
+  b a g
+  c d eb
+  f g g,
+  c d eb
+  r d c
+  b a g
+  c d eb
+  f g g,
+  $c1 c eb
+  f g $$
+  r ab eb
+  f g g,
+  c4 r8\fermata
+}

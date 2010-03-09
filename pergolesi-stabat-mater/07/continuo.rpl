@@ -1,0 +1,99 @@
+\relative c {
+  \time 3/8
+  \key c \minor
+  \tempo "Andate"
+  
+  r4.
+  c'8 ab g
+  f g f
+  eb ab g
+  f g f
+  eb d c
+  d4 c8
+  b a g
+  c d eb
+  f g g,
+  c d eb
+  f g g,
+  c4 r8
+  r4.
+  c'8 ab g
+  f g f
+  eb ab g
+  f g g
+  c,6 c' bb ab g f
+  eb4 r8
+  eb'8 c bb
+  ab bb ab
+  g c bb
+  ab bb bb,
+  eb g bb
+  r eb, eb
+  r e e
+  f g ab
+  bb c c,
+  f g ab
+  bb c c,
+  f4 r8
+  f db c
+  bb c bb
+  ab db c
+  bb c c
+  f g ab 
+  bb c c,
+  f,4 r8
+  f' db c
+  bb c bb
+  ab db c
+  bb c c
+  f g ab
+  b,4. 
+  c8 d eb
+  fs,4.
+  g8 g' f!
+  r eb b
+  c ab fs
+  g eb' b
+  c ab fs
+  g eb' b
+  c ab fs
+  g b d
+  g b, g
+  c d eb
+  f g g,
+  c4 r8
+  c'4.
+  g
+  eb8 d c
+  c' ab g
+  fs g4
+  bb8 g f
+  e f4
+  ab8 f eb
+  d eb4
+  eb8 d c
+  ab' g fs
+  g4.\fermata
+  r8 eb b
+  c ab fs
+  g eb' b
+  c ab fs
+  g eb' b
+  c ab fs
+  g b d
+  g d b
+  c d eb
+  f g g,
+  c d eb 
+  f g g,
+  c4 r8
+  c' ab g
+  f g f
+  eb ab g
+  f g g,
+  c d eb 
+  f g g,
+  c d eb
+  f g g,
+  c4.\fermata
+}

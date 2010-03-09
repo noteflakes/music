@@ -1,0 +1,58 @@
+\relative c {
+  \time 4/4
+  \key c \minor
+  \tempo "Largo"
+ 
+  c8 c' c c c b b b
+  bb bb bb bb bb a a a
+  ab ab f f f f eb eb
+  r f fs fs g g, r4
+  r (c' b bb)
+  (a ab) g2\fermata
+  g,8 g' g g g fs fs fs
+  f! f f f f e e e 
+  eb! eb c c c c bb bb
+  r c cs cs d4 r
+  r (g fs f) 
+  (e eb) d2\fermata
+  d8 d d d d d d d 
+  d d d d d d d d 
+  d d d d d fs g g 
+  cs, cs cs cs d d d d 
+  eb2 d8 d d d 
+  eb2 d4 r
+  d r d r\fermata
+  \bar "||"
+  \time 6/8
+  \tempo "Allegro"
+  eb4. eb
+  eb eb
+  eb eb
+  eb ~ eb8 g eb
+  bb4. bb
+  bb bb 
+  bb bb
+  bb ~ bb8 f' d
+  b4. b
+  c ab
+  f g
+  c ~ c8 eb c
+  g2. ~
+  g ~
+  g ~
+  g ~
+  g ~
+  g 
+  c4. d
+  eb f
+  g g,
+  ab r4 r8\fermata
+  c4. d
+  eb f
+  g g,
+  c eb
+  f g
+  ab eb
+  f g
+  c,2.
+}

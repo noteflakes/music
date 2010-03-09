@@ -1,0 +1,32 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+  \tempo "Larghetto"
+ 
+  g'4 g g fs
+  r2 d4 d
+  g g, r2
+  cs4 cs d2\fermata
+  r8 bb d bb r c a f
+  r bb d e f4 r
+  r8 c' a f r bb d, bb
+  eb2 r8 bb' eb, f
+  bb,4 r r8 c' a f
+  r bb, d bb eb2
+  r8 bb' eb, f bb,4 d
+  c4. bb8 a bb g eb'
+  d g eb f bb,4 r
+  bb' bb a g
+  r2 cs,4 cs
+  d1 ~
+  d ~
+  d2 cs
+  d4 r r8 a' fs d
+  r g bb g eb2
+  r8 eb c d g,4 r
+  r8 a' fs d r g bb g
+  eb2 d
+  g,4 bb' a4. g8
+  fs g eb c bb eb c d
+  g,4 r r2\fermata
+}

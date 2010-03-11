@@ -3,8 +3,14 @@ subtitle: "\"Vergnügte Ruh', beliebte Seelenlust\""
 composer: Johann Sebastian Bach
 parts:
   organo:
+    embed_figures: true
     keyboard: true
+    breaks:
+      - 02-recitativo
+      - 03-aria
+      - 05-aria
   violoncello:
+    hide_figures: true
     source: continuo
     breaks:
       - 04-recitativo

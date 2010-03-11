@@ -20,6 +20,11 @@ parts:
   oboe:
     breaks:
       - 05-aria
+  violoncello:
+    source: continuo
+    breaks:
+      - 03-choral
+      - 05-aria
 movements:
   01-aria:
     midi_tempo: 160 8

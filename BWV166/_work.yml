@@ -6,6 +6,7 @@ parts:
     embed_figures: true
     breaks:
       - 03-choral
+      - 05-aria
   viola:
     breaks:
       - 05-aria

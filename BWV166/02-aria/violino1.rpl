@@ -1,0 +1,15 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+
+  r2 g'4 ~ g6 (c, b c)
+  a'8 a [a6 bb3 c d6 eb] fs,8 eb' ~ eb6 c a fs'
+  g (d c d) bb'8 bb ~ bb6 (c, bb c) a'8 a ~
+  a6 (bb, a bb) g'8 g ~ g6 fs g bb a fs g a
+  d,4 ~ d6 (g, fs g) eb'4 ~ eb6 (c b c)
+  fs4 ~ fs6 (d c d) [g a3 bb a6 bb3 g] fs8. g6
+  g8 g, d'4 ~ d6 (g, fs g) c4 ~
+  c8 bb6 a d8 c6 bb eb d c bb a8. g6
+  g4 g'4 ~ g6 f e g f cs d f
+  bb4 ~ bb6 a g bb a4
+}

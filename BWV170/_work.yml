@@ -1,9 +1,25 @@
-title: Aria BWV 170
+title: Cantata BWV 170
 subtitle: "\"Vergnügte Ruh', beliebte Seelenlust\""
 composer: Johann Sebastian Bach
 parts:
   organo:
     keyboard: true
+  violoncello:
+    source: continuo
+    breaks:
+      - 04-recitativo
+  viola:
+    breaks:
+      - 03-aria
+      - 04-recitativo
+      - 05-aria
+  violino2:
+    breaks:
+      - 03-aria
+      - 04-recitativo
+  violino1:
+    breaks:
+      - 05-aria
 movements:
   01-aria:
     midi_tempo: 160 8

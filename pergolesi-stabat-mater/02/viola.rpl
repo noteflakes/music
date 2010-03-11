@@ -1,0 +1,34 @@
+\relative c' {
+  \time 3/8
+  \key c \minor
+  \tempo "Andante amoroso"
+ 
+  $c1 eb d
+  c b
+  g' c, $$
+  d eb r
+  $c1 db c
+  bb a
+  f' bb, $$
+  c db r
+  eb4. ~
+  $c1 eb g
+  ab c $$
+  d,4.
+  g8 b c 
+  c b r
+  b4.
+  c
+  b
+  c
+  r8 d, c 
+  b a g
+  c d eb
+  f g g,
+  r ab' eb
+  f4 g8
+  r ab eb
+  f g g,
+  c4 r8
+  
+}

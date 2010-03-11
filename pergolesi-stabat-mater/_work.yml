@@ -6,6 +6,7 @@ movements:
 score:
   hide_figures: false
   order:
+    - violini
     - violino1
     - violino2
     - viola

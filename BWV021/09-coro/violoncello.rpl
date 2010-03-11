@@ -120,6 +120,7 @@
     c eb8 d c bb
     a4 d d
   } \alternative { {
+    [[\pageBreak]]
     g,8 d' g f eb d
     c2. ~
     c4 bb8 a g f

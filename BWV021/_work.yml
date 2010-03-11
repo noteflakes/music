@@ -5,6 +5,8 @@ movements:
   09-coro:
     midi_tempo: 145 4
 parts:
+  continuo:
+    embed_figures: false
   viola_col_tenore:
     title: Viola
     clef: alto

@@ -4,6 +4,22 @@ composer: Johann Sebastian Bach
 parts:
   continuo:
     embed_figures: true
+    breaks:
+      - 03-choral
+  viola:
+    breaks:
+      - 05-aria
+      - 06-choral
+  violino2:
+    breaks:
+      - 05-aria
+  violino1:
+    breaks:
+      - 05-aria
+      - 06-choral
+  oboe:
+    breaks:
+      - 05-aria
 movements:
   01-aria:
     midi_tempo: 160 8

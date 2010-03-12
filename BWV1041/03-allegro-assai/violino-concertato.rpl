@@ -1,0 +1,148 @@
+\relative c' {
+  \time 9/8
+  \key a \minor
+
+  \partial 8
+    e'8
+  $c2 a g f e d c b c d
+  c b c a b c e, a c
+  b a b gs a b e, b' d
+  c b c a c e a g fs $$
+  g4. ~ g8 (fs e) b'4 b8
+  (b a b) (g fs e) $v1 b' b
+  b b b b b b $$
+  (b a b) g4 e8 fs4 gs8
+  a4 a,8 c4 e8 $c2 gs a b
+  a gs a e d e c e a
+  gs fs gs $$ e4 gs8 (b a gs)
+  a4. r8 r c, $v1 e a
+  d, f, a d g, d' $$
+  $c2 d c d g, b d f e d $$
+  e4 f8 g4. ~ g4 b,8
+  c4 g8 g'4. ~ g4 a,8
+  b4 g8 f'4. ~ f4 d8
+  e4 g8 e4 b8 (c gs a)
+  (d c d) $v1 b' gs a b $$
+  $c2 e, d e a, c e g f e 
+  f e f d f a a bb d,
+  e d e c e gs $$ (gs a) a,
+  $v1 d d d d d d $$
+  (d c b) $v1 e a, e gs $$
+  $c2 a e c a c e a b c $$
+  (c4\trill b8) (ds4. ~ ds4 e8)
+  $c2 b gs e b e gs b c d $$
+  (d4\trill c8) (gs'4. ~ gs4 a8)
+  $c3 f a e f cs d a d f
+  e a d, e b c a c e $$
+  d (f6 e d c) b8 (d6 c b a) gs8 (b6 a gs fs)
+  e4. ~ e6 fs gs a b c d8 (e6 d c b)
+  $c3 c e b c gs a e a c $$
+  $c2 d, fs a c fs a $$ c, (d6 c b a)
+  $c3 b d a b fs g d g b $$
+  $c2 c, e g b e g $$ b, (c6 b a g)
+  $c3 a c g a e fs c fs a $$
+  $c2 b, ds fs a ds fs $$ a, (b6 a g fs)
+  $c2 g b fs g b ds $$ (ds4 e8)
+  (a, c gs) (a c ds) (ds4 e8)
+  $c2 b e g b a g $$ (fs g) e
+  ds (b6 cs ds e) fs8 (ds6 e fs g) a8 (b6 a g fs)
+  g8. (fs6 e ds) e4. ~ e8 (g6 fs e ds)
+  e4 r8 r4. r4.
+  R4.*3
+  $c2 e b g e g b e fs g $$
+  (g4\trill fs8) (as4. ~ as4 b8)
+  $c2 fs ds b fs b ds fs g a $$
+  (a4\trill g8) (ds'4. ~ ds4 e8)
+  $c3 c e b c gs a e a c
+  b e a, b fs g e g b $$
+  (c6 b a g fs e) ^e8 ds4. ~ ds6 (g fs e ds cs)
+  ^cs8 b4. ~ b6 (cs ds e fs g) a8 (b6 a g fs)
+  $c3 g b fs g ds e b e g $$
+  $c2 a, cs e g cs e $$ g, (a6 g f e)
+  $c3 f a e f cs d a d f $$
+  $c2 g, b d f b d $$ f, (g6 f e d)
+  $c2 e g d e g b $$ (b4 c8)
+  (f, a e) (f a b) (b4 c8)
+  g2. ~ g4. ~
+  g4 g,8 (e' d c) g'4 g,8
+  g'2. ~ g4. ~
+  g4 g,8 c4 e8 (fs g a)
+  (b, a g) d''2. ~
+  d4 d,8 (b' a g) d'4 d,8
+  d'2. ~ d4. ~
+  d4 d,8 (b d g) (bb a g)
+  (f e f) (d f a) (d c b)
+  $c2 c b a g f e d e f
+  e d e c d e g, c e
+  d c d b c d g, d' f 
+  e d e c e g bb a g
+  a g a e f g $$ (a, e') g
+  $c2 f e f d fs a c b a
+  b a b fs g a $$ (b, fs') a
+  $c2 g fs g e gs b d c b
+  c b c g a bb $$ (c, g') bb
+  $c2 a g a f a c e d c
+  d c d a b c $$ (d, a') c
+  $c2 b a b g b d f e d
+  e d e b c d $$ (e, b') d
+  (c6 e, a, e' c'8) (c6 e, a, e' c'8) (c6 e, a, e' c'8) 
+  $c4 c f, a, d, a' f' c' b c $$
+  (b6 f g, f' b8) (b6 f g, f' b8) (b6 f g, f' b8) 
+  $c4 bb e, g, c, g' e' bb' a bb $$
+  (a6 e f, e' a8) (a6 e f, e' a8) (a6 e f, e' a8) 
+  (a6 d, f, d' a'8) (a6 d, f, d' a'8) (a6 d, f, d' a'8) 
+  gs8 (e,6 fs gs a) b8 (gs6 a b c) d8 (b6 c d e)
+  (f e d cs) d8 ~ d6 (e d cs) d8 ~ d6 (e d cs) d8
+  <b' d, e,>2.\fermata r8 r e,
+  $c2 a g f e d c b c d
+  c b c a b c e, a c
+  b a b gs a b e, b' d $$
+  /1 c /2 (a e c) /u (a c e) (a b c)
+  (c4\trill b8) (ds4. ~ ds4 e8)
+  $c2 b gs e b e gs b c d $$
+  (d4\trill c8) (gs'4. ~ gs4 a8)
+  $c3 f a e f cs d a d f
+  e a d, e b c a c e $$
+  d (f6 e d c) b8 (d6 c b a) gs8 (b6 a gs fs) 
+  e4. ~ e6 fs gs a b c d8 (e6 d c b)
+  (c8 b a) ~ a6 b cs d e f g8 (a6 g f e)
+  (f8 e d) ~ d6 e fs g a b c8 (d6 c b a)
+  (b c d c b a) (g a b a g f) (e f g f e d)
+  $v4 e e c e e e e c e e e e c e e 
+  e fs c fs e e fs c fs e e fs c fs e 
+  e gs b, gs' e e gs b, gs' e e gs b, gs' e 
+  e a c, a' e e a c, a' e e a c, a' e 
+  e b' d, b' e, e b' d, b' e, e b' d, b' e, 
+  e c' e, c' e, e c' e, c' e, e c' e, c' e, 
+  e c' d, c' e, e c' d, c' e, e c' d, c' e, 
+  e b' d, b' e, e b' d, b' e, e b' d, b' e, 
+  e b' c, b' e, e b' c, b' e, e b' c, b' e, 
+  e a c, a' e e a c, a' e e a c, a' e 
+  e a b, a' e e a b, a' e e a b, a' e 
+  e gs b, gs' e e gs b, gs' e e gs b, gs' e $$
+  $c2 a g f e d c b c d
+  c b c a b c e, a c
+  b a b gs a b e, b' d
+  c b c a c e a g fs $$
+  g4. ~ g8 (fs e) b'4 b8
+  (b a b) (g fs e) $v1 b' b
+  b b b b b b $$
+  (b a b) g4 e8 fs4 gs8
+  a4 a,8 c4 e8 $c2 gs a b
+  a gs a e d e c e a
+  gs fs gs $$ e4 gs8 (b a gs)
+  a4. r8 r c, $v1 e a
+  d, f, a d g, d' $$
+  $c2 d c d g, b d f e d $$
+  e4 f8 g4. ~ g4 b,8
+  c4 g8 g'4. ~ g4 a,8
+  b4 g8 f'4. ~ f4 d8
+  e4 g8 e4 b8 (c gs a)
+  (d c d) $v1 b' gs a b $$
+  $c2 e, d e a, c e g f e 
+  f e f d f a a bb d,
+  e d e c e gs $$ (gs a) a,
+  $v1 d d d d d d $$
+  (d c b) $v1 e a, e gs $$
+  a2.\fermata r4.
+}

@@ -9,7 +9,7 @@ movements:
   02-andante:
     midi_tempo: 40 4
   03-allegro-assai:
-    midi_tempo: 47 4
+    midi_tempo: 360 8
 score:
   hide_figures: false
   order:
@@ -22,4 +22,10 @@ score:
     - brace: [violino1, violino2]
 macros:
   c1: "[#8-. #-. #-. (#6 #3 #)]"
-  v1: ""
+  c2: "(#8 # #)"
+  c3: "(#8 #) # (# #) # (# # #)"
+  c4: "(#8 #) #"
+  v1: "#4 #8"
+  v2: "(#4 #8)"
+  v3: "r4. #4 r8 r4."
+  v4: "\stemUp (#6 \stemDown [# # #] \stemUp #8) \stemNeutral"

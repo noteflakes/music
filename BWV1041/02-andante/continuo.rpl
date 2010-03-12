@@ -1,0 +1,46 @@
+\relative c {
+  \time 4/4
+  \key c \major
+
+  $c1 c c c e f g c, c c f g a
+  c, c c b' c d c, c c g' a b
+  c, c c fs g a b, b b e fs g
+  a, a a d e fs $$ g,4 r
+  R1*2
+  $c1 c c c e f g c, c c f g a
+  c, c c b' c d c, c c g' a b $$
+  c,8 r r4 r2
+  R1
+  $c1 g\p g g b c d g, g g c d e
+  g, g g fs' g a $$ g,4 r
+  R1*2
+  $c1 g\f g g b c d g, g g c d e
+  g, g g fs' g a g, g g g' a b
+  e,\p e e g a bb cs, cs cs e f g
+  a, a a cs d e $$ d,4 r
+  R1*2
+  $c1 d'\f d d f g a d, d d g a bb
+  d, d d cs' d e d, d d a' b cs $$
+  d,4 r r2
+  R1
+  $c1 a\p a a cs d e a, a a d e f
+  a, a a gs' a b $$ a,4 r
+  R1
+  r2 r8 [(a'6 bb) (a g) (f e)]
+  $c1 d\f d d gs a b! c, c c fs gs a
+  b, b b e fs gs $$ a,8 r r4
+  R1*2
+  $c1 d\p d d f g ab b, b b d eb f
+  g, g g b c d $$ c,4 r
+  R1
+  r2 r8 [(g''6 a) (g f) (e d)]
+  $c1 c\f c c e f g c, c c f g a
+  c, c c b' c d c, c c c' d e $$
+  f,4 r r2
+  R1*2
+  r2 r6 (c' b a) (g f e d)
+  $c1 c\f c c e f g c, c c f g a
+  c, c c b' c d c, c c c'\p d e
+  f, f f b c d e, e e a b c $$
+  d,8 c g' g, c,2
+}

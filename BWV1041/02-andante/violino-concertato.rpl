@@ -1,0 +1,45 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+
+  R1*4
+  g''4 ~ g3 (f e d c6) b-. (c g'8.) ~ g3 (f e d c6) b-.
+  [(c6*2/3 bb') a] [(c, a') g] [(b, g') f] [(c f) e] (d fs g) g,8 r4
+  R1*2
+  e'4 ~ [e6*2/3 (c b)] [(c e a)] a8 d,\trill ~ [d6*2/3 (b a)] [(b d g)]
+  [(g fs) e] [(fs a) c] [(c b) a] [(g fs e)] d4 ~ [d6*2/3 (fs a)] [(c b) a]
+  [b (d c)] [(b a) g] (f! e f) f8 ~ [f6*2/3 (g, a)] ([b c d]) (e g c) e,8 ~
+  [e6*2/3 (fs g)] [(a g a)] ([c, b c]) a'6. c,3 [(c6*2/3 b a) b8] ~ [b6*2/3 (d e)] [(fs! g a)]
+  bb4 ~ [bb6*2/3 (a g) ab8] ~ [ab6*2/3 (g fs) g8] ~ [g6*2/3 (f eb)] [(d cs d)]
+  ([c' b a]) b6. g3 fs8. g6 [(g6*2/3 d g)] [(b g b)] [(d g, b)] ([d b d])
+  g4 r r2
+  R1
+  bb,1 ~
+  [bb6*2/3 (a g] [f e d] ([cs bb a] [g f e]) [(f d f)] [(a cs d)] f4 ~
+  [f6*2/3 (g a] [bb a g]) [(f e d) e8] ~ [e6*2/3 (f g] [a g f]) [(eb d cs) d8] ~
+  [d6*2/3 (a' g)] [a, (g' f)] [a, (f' e)] [g, (e' d)] [(e gs a) a,8] r4
+  R1*2
+  f'4 ~ [f6*2/3 (d cs)] [(d f bb)] bb8 e,\trill ~ [e6*2/3 (c b!] [c e a])
+  [(a gs fs)] [(gs b d)] ([d c b]) [(a gs fs)] e4 ~ [e6*2/3 (gs b] [d c b])
+  [(c e d)] [(c b a)] [(g! fs g) g8] ~ [g6*2/3 (a, b] [cs d e]) [(f a d) f,8] ~
+  [f6*2/3 (gs a] [b a b]) ([d, c d]) b'6. d,3 [(d6*2/3 c b) c8] ~ [(c6*2/3 e fs)] [(gs a b)]
+  c4 ~ [c6*2/3 (b a) bb8] ~ [bb6*2/3 (a gs) a8] ~ [a6*2/3 (g f!] [e ds e])
+  ([d' c b]) c6. a3 b8.\trill a6 a4 r
+  R1
+  r2 r6*2/3 ([e, d] [e a b]) ([c a gs] [a c d])
+  eb1 ~
+  [eb6*2/3 (d c)] [(bb a g)] [(fs eb d)] ([c bb a]) ([bb g bb]) ([d fs g]) ([bb g bb]) ([d fs g])
+  ab1 ~
+  [ab6*2/3 (g f!)] ([eb d c]) ([b! ab g]) ([f eb d]) ([eb c eb]) ([g b c]) eb4 ~
+  [eb6*2/3 (f g)] ([ab g f]) [(eb d c) d8] ~ [d6*2/3 (eb f)] ([g f eb]) [(db c b) c8] ~
+  [c6*2/3 (bb' ab)] [c, (ab' g)] [b, (g' f)] [c (f eb)] [(d fs g) g,8] r4
+  R1*2
+  a4 ~ [a6*2/3 (f e)] ([f a d]) d8 g, ~ [g6*2/3 (e d)] ([e g c])
+  ([c b a]) ([b d f]) ([f e d]) ([c b a]) g4 ~ [g6*2/3 (b d)] ([f eb d])
+  eb4 ~ [eb6*2/3 (d c) db8] ~ [db6*2/3 (c b!) c8] ~ [c6*2/3 (bb ab)] ([g fs g])
+  ([f'! e! d]) g6. c,3 d8. c6 c4 r
+  R1
+  r2 r6*2/3 ([g a] [b c d]) ([e c d] [e f g])
+  ([a f g] [a b c]) ([d c b]) ([a g f]) ([g e f] [g a b]) ([c b a]) ([g f e])
+  ([f e d]) ([e d c]) b8. c6 c2
+}

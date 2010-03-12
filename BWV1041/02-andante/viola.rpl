@@ -1,0 +1,51 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+
+  c8 r g r c r c r
+  a r b r g r g r
+  c r e r d r d r
+  c r a r g4 r
+  c8-.\p c-. c-. c-. c-. c-. c-. c-.
+  c c c c g [g'6 a g f e d]
+  c8\f r g r c r c r 
+  a r b r g r g r
+  c8-.\p c-. c-. c-. b b b b
+  a a g g fs fs d d 
+  g r b r c r g' r
+  e r fs r [d (g6 f) e8] d
+  cs-. cs-. c-. c-. b b bb bb
+  a g d' d, g4 r
+  g8\f r d r g r g r
+  e r fs r d r d r
+  e'\p r g r e r cs r
+  e r a r a d, [d e6 f]
+  g8-. g-. g-. g-. f-. f-. f-. f-. 
+  e-. d-. c-. bb-. a [a'6 bb a g f e]
+  d8\f r a' r g r g r
+  g r cs, r a r a' r
+  d,-.\p d-. d-. d-. c! c c c
+  b b a a gs gs e e 
+  a r cs r d r a' r
+  gs r gs r [e a6 gs a8] f!
+  ds-. ds-. d-. d-. cs cs c c
+  b a e' e, a r e' r
+  a\f r b r b r e, r
+  f r e r e a, r4
+  $c1 a' a a c d eb fs, fs fs a bb c
+  d, d d fs g a $$ g,4 r
+  d'8 r f! r d r b r
+  d r g r g c, [c d6 eb]
+  f8 f f f eb eb e e 
+  f eb d c [g g' d] g,
+  c\f r g r c r c r 
+  a r b r g r g r
+  f\p f f' f e e e e 
+  d d c c b b g g 
+  fs fs f f e e eb eb 
+  d c g' g [c, c' e] f
+  g\f r e r e r c r 
+  f r b, r g r g' r 
+  f r a r g r e r
+  f g6. e3 d8.\trill e6 e2
+}

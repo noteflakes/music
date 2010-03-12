@@ -1,0 +1,180 @@
+\relative c' {
+  \twoFourBeam
+
+  \time 2/4
+  \key a \minor
+  
+  \partial 8
+    e'8
+  a4 r8 e
+  f4 r8 d
+  e6 d c e d c b d
+  c8 a r6 (a gs a)
+  b (a gs a) c (a gs a)
+  d (a gs a) e' (a, gs a)
+  (f' g f) e d c b a
+  gs8 e b''4 ~
+  b8 a6 gs a8 c ~
+  c fs, a4 ~
+  a8 g6 fs g8 b ~
+  b6 a g fs e4 ~
+  e8 fs6 g a8 c,
+  b a' g b,
+  (a6 b c) b a g fs e
+  ds8 c' b e 
+  g4-. (fs\trill ~
+  f6 g a) fs (ds e fs) ds
+  b'8 e, fs ds 
+  e6 d! c b a8 a
+  a6 b c8 ~ c6 b a g
+  fs g a8 ~ a6 g fs e
+  ds8 b' g\trill fs6 e
+  e4 r6 (e' d e)
+  a gs a8 ~ a6 e d e
+  (c'8 b) ~ b6 (e, d e)
+  b'6 a b8 ~ b6 (e, d e)
+  (d'8 c) ~ c6 (e, d e)
+  (c' b a) g f d c d
+  (b' a g) f e c b c
+  (a' g f) e d b a b
+  (gs' a gs) fs e d c b
+  c d c b a a' e g
+  (f g f) e d c b a
+  b c b a g g' d f
+  (e f e) d c b a g
+  a bb a g f f' c e
+  (d e d) c b a gs fs
+  gs a gs fs e e' b d
+  (c d c) b a a' e g
+  (f g f) e d f b, d
+  e d c e d c b d
+  c8 a r6 e a c
+  (f3 g a8) f6 (ds3 e fs8) ds6
+  e b g (e ds e) g b
+  (e3 f g8) e6 (cs3 d e8) cs6
+  d a f (d cs d) f a
+  (d3 e f8) d6 (b3 c d8) b6
+  c g a b c g d' g,
+  e' b c d e c fs c
+  g' g, b d g4 ~
+  g6 c, e g c4 ~
+  c6 c, f a c4 ~
+  c8 c, d b'
+  c6 g e c c, ([c' b c])
+  d (c b c) e (c b c)
+  f (c b c) g' (c, b c)
+  (a' bb a) g f e d c
+  b8 g b'4 ~
+  b8 a6 gs a8 c ~
+  c8 fs,6 g (a fs) (g e)
+  fs (d cs d) fs d a' fs
+  d'8 d, a'4 ~
+  a8 g6 fs g8 b ~
+  b8 e,6 fs (g e) (fs ds)
+  e (c b c) e c g' e
+  c'8 c, g'4 ~
+  g8 fs6 g a8 c,
+  b a' g b,
+  (a6 b c) b a g fs e
+  ds8 c' b e
+  g4 (fs\trill ~
+  fs6 g a) g fs a e a
+  (ds, e fs) e ds fs c! fs
+  (a, b c) b a c g c
+  (fs, g a) g fs a e a
+  ds, a' b, cs ds e fs g
+  a b cs ds e fs g a
+  b8 e, fs ds
+  e6 d! c b a8 a
+  a6 b c8 ~ c6 b a g
+  fs g a8 ~ a6 g fs e
+  ds8 b' g\trill fs6 e
+  e4 r6 (b' a b)
+  e ds e8 ~ e6 (b a b)
+  g'8 fs ~ fs6 (b, a b)
+  fs' e fs8 ~ fs6 (b, a b)
+  a'8 g ~ g6 (e ds e)
+  fs-. (e ds e) gs-. (e ds e)
+  a-. (e ds e) b'-. (e, ds e)
+  c'-. (a, gs a) cs-. (a gs a)
+  d-. (a gs a) e'-. (a, gs a)
+  fs'-. (d, cs d) fs-. (d cs d)
+  g-. (d cs d) a'-. (d, cs d)
+  b'-. (g fs g) b-. (g fs g)
+  c-. (g fs g) d'-. (g, fs g)
+  e'-. (c b c) e-. (c b c)
+  f-. (c b c) g'-. (c, b c)
+  (a' bb a) g f e d c
+  (bb a bb) a' g f e d
+  (cs d cs) b! a g f e
+  f a d f a4 ~
+  a6 g f a g f e g
+  f e d f e d cs e
+  d4 r6 (d cs d)
+  e-. (d cs d) f-. (d cs d)
+  g-. (d cs d) a'-. (d, cs d)
+  bb'2 ~
+  bb6 (c, b! c) e-. (c b c)
+  f-. (c b c) g'-. (c, b c)
+  a'2 ~
+  a6 (d, e fs g a bb c
+  d c bb a g fs e d)
+  g2 ~
+  g6 (e f g a b cs d
+  e d cs b a g f e)
+  f d' (f, e f) a d c
+  b f c' f, d' f, b f
+  e c' (e, d e) g c b
+  a e b' e, c' e, a e
+  d b' (d, c d) f b a
+  gs d a' d, b' d, gs d
+  c a' (c, b c) e a e
+  f a (d, c d) f a b,
+  c8 a' b, gs'
+  a4 r6 (a,, gs a)
+  c (a gs a) cs (a gs a)
+  d (a gs a) e' (a, gs a)
+  f' (d cs d) fs (d cs d)
+  g (d cs d) a' (d, cs d)
+  bb' (g fs g) b (g fs g)
+  c (g fs g) d' (g, fs g)
+  eb' (c b c) e (c b c)
+  f (c b c) g' (c, b c)
+  (ab'3 bb c8) ab6 (fs3 g a8) fs6
+  g d bb (g fs g) bb d
+  (eb3 f g8) eb6 (cs3 d e8) cs6
+  d a f (d cs d) f a
+  (bb3 c d8) bb6 (gs3 a b8) gs6
+  a e fs gs a e b' e,
+  c' gs a b c a d a
+  gs e gs b e4 ~
+  e6 a, c e a4 ~
+  a6 a, d f a4 ~
+  a8 a, e gs
+  a, a' e'4 ~
+  e8 d6 cs d8 f ~
+  f8 b,6 c (d b) (c a)
+  b (g fs g) b g d' b
+  g'8 g, d'4 ~
+  d8 c6 b c8 e ~
+  e8 a,6 b (c a) (b gs)
+  a (f e f) a f c' a
+  f'8 f, c'4 ~
+  c8 b6 c d8 f,
+  e d' c e,
+  d6 c' b a b (a gs fs)
+  gs8 f' e a
+  c4 (b ~
+  b6 c d) c b d a d
+  (gs, a b) a gs b f! b
+  (d, e f) e d f c f
+  (b, c d) c b d a d
+  gs, d' e, fs gs a b c
+  d e fs gs a b c d
+  e8 a, b gs
+  a6 g! f e d8 d 
+  d6 e f8 ~ f6 e d c
+  b c d8 ~ d6 c b a
+  gs8 e' c b6 a
+  a4.
+}

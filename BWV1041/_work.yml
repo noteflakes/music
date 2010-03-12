@@ -1,0 +1,22 @@
+title: Concerto BWV 1041
+composer: Johann Sebastian Bach
+parts:
+  violino-concertato:
+    midi_instrument: violin
+movements:
+  01-allegro:
+    midi_tempo: 98 4
+  02-andante:
+    midi_tempo: 54 4
+  03-allegro-assai:
+    midi_tempo: 47 4
+score:
+  hide_figures: false
+  order:
+    - violino-concertato
+    - violino1
+    - violino2
+    - viola
+    - continuo
+  groups:
+    - brace: [violino1, violino2]

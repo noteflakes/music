@@ -59,6 +59,10 @@ qBeam = {
   %#(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
 }
 
+twoFourBeam = {
+  #(override-auto-beam-setting '(end 1 8 2 4) 2 4 'Staff)
+}
+
 % some scheme functions (appropriated from Nicolas Sceaux's amazing work)
 
 #(define-markup-command (when-property layout props symbol markp) (symbol? markup?)

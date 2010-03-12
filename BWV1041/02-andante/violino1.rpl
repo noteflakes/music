@@ -1,0 +1,51 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+
+  g'8 r bb r bb r a r 
+  d r f, r f r e r
+  e' r a, r d r g, r 
+  c r c r (c b) r4
+  e,8\p r g r bb r e r 
+  f e d c [c b d,] (d'6 e3 f)
+  g,8\f r bb r bb r a r
+  d r f, r f r e r
+  e'\p r a r d, r g r
+  c, r e r a r fs r
+  d r f! r f r e r
+  a r c, r [c (b6 d) g8] r
+  e r eb r d r g r 
+  fs g6. b,3 a8. b6 b4 r
+  d,8\f r f r f r e r
+  a r c, r c r b r
+  cs'\p r e r g r bb r
+  cs, r e r (e d) a r
+  bb r bb' r a r a, r
+  g' f e d [cs a e] (e'6 f3 g)
+  f8\f r f r f r e r 
+  cs r e r e r d r
+  f\p r bb r e, r a r
+  d, r f r b r gs r
+  e r g! r g r f r 
+  b r d, r d c6 e a8 r
+  fs r f r e r a r 
+  gs a a gs a r g r
+  f_\editF r b, r e r a, r
+  d r d r (d c) r4
+  fs,8\p r a r c r eb r
+  fs, r a r (a g) r4
+  b!8 r d r f r ab r
+  b, r d r [(d c)] g r
+  ab r ab' r g r g, r
+  d' eb b c [c b g] (d'6 e3 f)
+  g,8\f r bb r bb r a r
+  d r f, r f r e r
+  a_\editP r d r g, r c r
+  f, r a r d r b r
+  c r ab r g r c r
+  b c c b [c g c] (d6 e3 f)
+  e8\f r g r g r f r 
+  d r f r f r e r
+  e r d r d r c r 
+  b8. c6 b8. c6 c2
+}

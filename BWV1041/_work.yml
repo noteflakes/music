@@ -7,7 +7,7 @@ movements:
   01-allegro:
     midi_tempo: 98 4
   02-andante:
-    midi_tempo: 54 4
+    midi_tempo: 40 4
   03-allegro-assai:
     midi_tempo: 47 4
 score:
@@ -20,3 +20,6 @@ score:
     - continuo
   groups:
     - brace: [violino1, violino2]
+macros:
+  c1: "[#8-. #-. #-. (#6 #3 #)]"
+  v1: ""

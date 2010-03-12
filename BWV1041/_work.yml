@@ -3,6 +3,14 @@ composer: Johann Sebastian Bach
 parts:
   violino-concertato:
     midi_instrument: violin
+  violino2:
+    breaks:
+      - 02-andante
+      - 03-allegro-assai
+  continuo:
+    breaks:
+      - 02-andante
+      - 03-allegro-assai
 movements:
   01-allegro:
     midi_tempo: 98 4

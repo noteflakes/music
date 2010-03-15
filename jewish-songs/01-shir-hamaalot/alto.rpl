@@ -1,0 +1,37 @@
+\relative c' {
+  \time 2/2
+  \key d \minor
+  
+  R1*6
+  g2 d'4 d
+  e f8 g f4 e
+  e d8 cs d4 e
+  f2 f4 e
+  d d8 e f4 f
+  e d d cs
+  d a' g8 a bb4
+  a4. g8 f4 eb
+  d e8 f g4 f
+  f2 e4 f8 g
+  g4 a8 bb a4 g
+  f2 f4. f8
+  g4 f e d
+  d2 cs 
+  d2. r4
+  R1
+  c2 f
+  d e4 g
+  c, d c c
+  f e8 f g a bb4
+  a a a8 g fs4
+  g f! f e
+  f2. r4
+  g2 g4 bb
+  a4. g8 a4 c
+  bb2 a4 g
+  a2 f4 r
+  g a bb g
+  a2 f4. f8
+  g4 f e g 
+  f1
+}

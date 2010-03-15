@@ -1,0 +1,27 @@
+\relative c' {
+  \time 2/2
+  \key d \minor
+  
+  r8 bb'' a g f g f e
+  d d' c bb a bb a g
+  f e f g a c, d e
+  f bb a g f g f e
+  d1
+  R1
+  r8 bb' a g f a g f
+  e4 r r2
+  r8 d' c bb a bb a g
+  f4 r r2
+  r8 e f g a c bb a
+  bb a g f e a g a
+  f g f e d4 r
+  R1
+  r8 f g a bb d, e f
+  g a g a bb a bb g
+  a bb a g f4 r
+  r8 d' c bb a c bb a 
+  g d e f g a f e
+  d e f g e a g a
+  f g f e d4 r
+  s1*16
+}

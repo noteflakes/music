@@ -1,5 +1,5 @@
 \relative c' {
-  \time 4/4
+  \time 2/2
   \key d \minor
   
   R1
@@ -8,4 +8,5 @@
   f e f g a c, d e
   f bb a g f g f e
   d1
+  s1*31
 }

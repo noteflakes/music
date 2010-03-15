@@ -1,7 +1,9 @@
-title: שיר המעלות
+title: מזמורים יהודיים
 subtitle: "עיבוד: אהרון שפי"
-composer: blah blah
-midi_tempo: 120 4
+composer: ""
+movements:
+  01-shir-hamaalot:
+    midi_tempo: 114 4
 score:
   hide_figures: false
   order:

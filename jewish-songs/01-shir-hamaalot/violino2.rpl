@@ -1,10 +1,11 @@
 \relative c' {
-  \time 4/4
+  \time 2/2
   \key d \minor
   
+  R1
+  R1
   r8 bb'' a g f g f e
   d d' c bb a bb a g
-  f e f g a c, d e
-  f bb a g f g f e
-  d1
+  f g f e d2
+  s1*32
 }

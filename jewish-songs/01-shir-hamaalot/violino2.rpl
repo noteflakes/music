@@ -7,5 +7,36 @@
   r8 bb'' a g f g f e
   d d' c bb a bb a g
   f g f e d2
-  s1*32
+  r8 bb' a g f g f e 
+  d4 s2.
+  s1
+  s1
+  f8 g f e d e c d
+  bb4 s2.
+  s2 e8 f e f
+  d4 s4 r8 d' c bb
+  a bb a g f g f e
+  d4 s2.
+  r8 f g a bb d c bb
+  a g f e d c d e
+  f g e f d e c d
+  bb4 s2.
+  r8 a g bb a2
+  a2. r4
+  a8 bb g a bb a g bb
+  a bb a g f a g a
+  bb c a bb g a bb g
+  a bb a g a c d e
+  f e d c bb a g bb
+  a bb a g f a g a
+  bb g a bb c d bb c
+  a bb a bb c a bb c
+  d c bb c d c d e
+  f e d c d c bb a
+  bb g a bb c d bb c
+  a c d e f e d c
+  bb a bb c d c d e
+  f g f e d c bb a
+  g a g a b a b cs
+  d1
 }

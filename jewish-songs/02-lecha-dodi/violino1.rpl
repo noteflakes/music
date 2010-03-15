@@ -1,0 +1,24 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+  
+  \partial 8
+    g'8
+  c4. b6 d c8 g4 e'8
+  g8. f6 e8 d6 f e8 d c c
+  d4. c8 b a6 b a8 g
+  c4 b6 c d8 c4. g8
+  c4. b6 d c8 g4 e'8
+  g8. f6 e8 d6 f e8 d c c
+  d4. c8 b a6 b a8 g
+  c4 b6 c d8 c4. d8
+  e4 g c g
+  c g g g
+  a4. g8 a c b6 c d8
+  c1
+  e,4 g c g
+  c g g g
+  a4. g8 a c b6 c d8
+  c4 b,6 c d8 c2\fermata
+  \dacapo
+}

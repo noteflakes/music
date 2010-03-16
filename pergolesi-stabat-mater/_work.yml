@@ -1,5 +1,9 @@
 title: Stabat Mater
 composer: Giovanni Batista Pergolesi
+parts:
+  continuo:
+    breaks:
+      - "04"
 movements:
   01:
     midi_tempo: 90 4

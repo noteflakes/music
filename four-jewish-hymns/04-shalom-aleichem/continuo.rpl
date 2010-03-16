@@ -1,0 +1,21 @@
+\relative c {
+  \time 2/2
+  \key a \minor
+  
+  a4 a8 b c b c d
+  e fs gs a b a gs f
+  e f e f d e f d
+  e d e fs gs fs gs e
+  a4 e8 d c b c d
+  e fs gs fs e4 a8 g
+  f g f e d e f d
+  e2 e8 f e d
+  c b c d e d e f
+  g4 g,8 a b a b g
+  a b c d c b c d
+  e d e fs gs fs gs e
+  f e f e d e f d
+  e e, fs gs a c d e
+  f e f d e4 e,
+  a1
+}

@@ -3,16 +3,17 @@
   \key d \minor
   
   R1
+  \segno
   r8 bb'' a g f g f e
   d d' c bb a bb a g
   f e f g a c, d e
   f bb a g f g f e
-  d1
-  s1
-  r8 g f e f g f g
+  d c d e f d e f
+  g4 f8 e d f e d
+  e g f e f e f g
   a4 s2.
   s1
-  s1
+  r8 c, d e f d e f
   g8 f e d d4 cs
   d8 c d e f e f g
   a g f g a bb a g
@@ -20,15 +21,15 @@
   bb a g f e f d e
   f e f g a bb a g
   f4 r f8 g e f
-  d e c d bb4 r
-  r8 f' e d cs d b cs
+  d e c d bb a bb c
+  d f e d cs d b cs
   d2. r4
   c8 d bb c d c bb d
   c d c bb a c bb c
   d e f g e f g e
   f g f e f e f g 
-  a g f e d c bb d
-  c d c bb a d e f
+  a g f a g bb a g
+  f e f g a c bb a
   g f e d e f d e
   f g f g a bb a g
   f e d e f e f g
@@ -38,5 +39,6 @@
   d c bb a bb a bb c
   d c d e f d e f 
   g f g f e f e g
-  f1
+  f1\fermata
+  \dalsegno
 }

@@ -2,10 +2,12 @@
   \time 2/2
   \key d \minor
   
-  R1*5
-  (d2 a'4) a
+  R1
+  \segno
+  R1*4
+  d2 a'4 a
   g [a8 bb] a4. a8
-  (g4 [f8 e] f4) g
+  (g4 [f8 e]) f4 g
   a2 a
   d, a'4 a
   (g4 [bb8 d]) a4. a8
@@ -17,15 +19,15 @@
   c2 a
   (f4. g8 a4) a 
   (bb a) g2
-  (f4 [e8 d] e4 f)
+  (f4 [e8 d]) (e4 f)
   d2. r4
-  (a'2 d)
+  a'2 d
   c2. a4
-  (bb a bb g)
+  (bb a) (bb g)
   a2 f4 r
   a2 f'4 d
-  c2. bb8 a
-  g4 a (bb [c8 bb])
+  c2. [bb8 a]
+  g4 a bb [c8 bb]
   a2. r4
   (d4. c8) d4 e
   f2 (e4 d)
@@ -33,6 +35,7 @@
   f2 c4 r
   (bb a g bb)
   d2 d4. d8
-  (d4 cs b cs)
-  d1
+  (d4 cs) (b cs)
+  d1\fermata
+  \dalsegno
 }

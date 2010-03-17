@@ -2,7 +2,9 @@
   \time 2/2
   \key d \minor
   
-  R1*5
+  R1
+  \segno
+  R1*4
   d1 ~
   d1 ~
   d2 d4 e
@@ -34,5 +36,6 @@
   g2 e
   f d 
   e a
-  d,1
+  d,1\fermata
+  \dalsegno
 }

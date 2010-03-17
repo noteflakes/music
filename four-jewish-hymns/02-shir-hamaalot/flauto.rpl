@@ -3,6 +3,7 @@
   \key d \minor
   
   r8 bb'' a g f g f e
+  \segno
   d d' c bb a bb a g
   f e f g a c, d e
   f bb a g f g f e
@@ -11,8 +12,8 @@
   r8 bb' a g f a g f
   e4 r r2
   r8 d' c bb a bb a g
-  f4 r r2
-  r8 e f g a c bb a
+  f e d e f g e f
+  g e f g a c bb a
   bb a g f e a g a
   f g f e d4 r
   R1
@@ -20,8 +21,8 @@
   g a g a bb a bb g
   a bb a g f4 r
   r8 d' c bb a c bb a 
-  g d e f g a f e
-  d e f g e a g a
+  g a f g e f e g
+  f e f g e f g a
   f g f e d4 r
   a'2 d
   c2. a4
@@ -38,5 +39,6 @@
   bb a g bb
   d2 d4. d8
   d4 cs b cs
-  d1
+  d8\fermata bb a g f g f e
+  \dalsegno
 }

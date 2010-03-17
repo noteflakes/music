@@ -1,5 +1,12 @@
 title: Four Jewish Hymns
 composer: ""
+parts:
+  violino1:
+    breaks:
+      - 03-shalom-aleichem
+  violino2:
+    breaks:
+      - 03-shalom-aleichem
 movements:
   01-shir-hamaalot:
     midi_tempo: 114 4

@@ -1,1 +1,6 @@
 end_bar: ":|"
+parts:
+  violino1:
+    source: violini
+  violino2:
+    source: violini

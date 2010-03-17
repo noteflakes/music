@@ -1,9 +1,9 @@
 title: Four Jewish Hymns
 composer: ""
 movements:
-  02-shir-hamaalot:
+  01-shir-hamaalot:
     midi_tempo: 114 4
-  04-shalom-aleichem:
+  03-shalom-aleichem:
     midi_tempo: 120 4
 score:
   hide_figures: false

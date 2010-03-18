@@ -8,9 +8,11 @@ parts:
     breaks:
       - 03-shalom-aleichem
 movements:
-  01-shir-hamaalot:
+  01-ahavat-olam:
+    midi_tempo: 64 2
+  02-shir-hamaalot:
     midi_tempo: 114 4
-  03-shalom-aleichem:
+  04-shalom-aleichem:
     midi_tempo: 120 4
 score:
   hide_figures: false

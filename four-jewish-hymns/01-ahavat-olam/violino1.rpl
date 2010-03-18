@@ -1,0 +1,37 @@
+\relative c' {
+  \time 2/2
+  \key d \minor
+  
+  \partial 4
+    a'4
+  c2 a4 a
+  c8 bb a c d4 c
+  bb a g2
+  a r4 a
+  c2 a4 a
+  c8 bb a c d4 c
+  bb a g2
+  a2 r4 a
+  d2 a4 a
+  c4. bb8 a4 a
+  d f e d
+  c8 d c bb a4 a
+  c8 bb a g f4 g8 a 
+  bb4 a g2
+  d r4 a'
+  c2 a4 a
+  c8 bb a c d4 c
+  bb a g2
+  a r4 a
+  c2 a4 a
+  c8 bb a c d4 c
+  bb a g2
+  a2 r4 a
+  d2 a4 a
+  c4. bb8 a4 a
+  d f e d
+  c8 d c bb a4 a
+  c8 bb a g f4 g8 a 
+  bb4 a g2
+  d2.\fermata
+}

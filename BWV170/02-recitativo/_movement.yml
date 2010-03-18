@@ -1,6 +1,8 @@
 parts:
   continuo:
     before_include: alto
+  violoncello:
+    before_include: alto
   organo:
     before_include: alto
     keyboard: false

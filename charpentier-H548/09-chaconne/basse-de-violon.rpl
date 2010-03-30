@@ -1,0 +1,82 @@
+\relative c {
+  \key c \major
+  \override Staff.TimeSignature #'style = #'single-digit
+  \time 3/4
+  \tempo "guay"
+  
+  r4 c' c
+  g bb g
+  f a f
+  e f4. f8
+  g4 f e
+  d f d
+  a' g8 f e4
+  f g g,
+  c4 c' c
+  g bb g
+  f a f
+  e f4. f8
+  g4 f e
+  d f d
+  a' g8 f e4
+  f g g,
+  c8 b c d e f 
+  g4 gs8 a b gs
+  a4 a,8 b c a
+  d4 e d8 e
+  a,4. b8 c4
+  d4. c8 b4
+  c4. b8 a4
+  d e e,
+  a4. a'8 f4
+  c'4 cs4. cs8
+  d4 d,8 e f d
+  g4 a g8 a
+  d,4. e8 f4
+  g4. f8 e4
+  f4. e8 d4
+  g a a,
+  d2 d4
+  g c,8 d e c
+  f2. ~
+  f2 f4
+  g4. f8 e4
+  f4. e8 d4
+  e4. d8 c4
+  f g g,
+  c4 c' c
+  g8 a bb a g4
+  f8 g a g f4
+  e4 f4. f8
+  g4 f e
+  d8 e f e d4
+  a' g8 f e4
+  f g g,
+  c r c
+  f r d
+  g r e
+  f f4. g8
+  c,2 c4
+  f r d
+  g r e
+  a8 g f4. f8
+  e4 r r
+  R2.*7
+  r4 c' c
+  g8 a bb a g a
+  f g a g f g
+  e g f g a f
+  g4 f e
+  d8 e f e d e
+  c4 c'8 b a4 
+  g8 c, d4 d,
+  g c c
+  g'8 a bb bb a g
+  f g a a g f
+  e a f4. f8
+  g4 g8 g f e
+  d e f f e d
+  a' a g f e a
+  f4 g g,
+  c4
+}

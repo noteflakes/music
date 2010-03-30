@@ -1,5 +1,3 @@
-bar_number: 194
-end_bar: "|"
 parts:
   violon1:
     source: premier
@@ -9,3 +7,4 @@ parts:
     source: premier
   flute2:
     source: second
+  

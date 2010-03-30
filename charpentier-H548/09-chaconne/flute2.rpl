@@ -1,0 +1,74 @@
+\relative c' {
+  \key c \major
+  \override Staff.TimeSignature #'style = #'single-digit
+  \time 3/4
+  \tempo "guay"
+ 
+  R2.
+  r4 d'^"tous" e
+  f c d
+  e d8 e d c
+  b4 b cs
+  d a b
+  c4. d8 e4
+  d8\prall c b4.\prall c8
+  c4 e fs
+  g d e
+  f c d
+  e d8 e d c
+  b4 b cs
+  d a b
+  c4. d8 e4
+  d8\prall c b4.\prall c8
+  c4 r4 r
+  R2.*7
+  r4 f2^"seule" ~
+  f4 e2 ~
+  e4 d2 ~
+  d4 cs8 d e cs
+  d e f2 ~
+  f4 e4.\prall e8
+  e4 d4.\prall d8
+  d e cs4. d8
+  d4 r r
+  R2.*3
+  r4 r e^"seule" ~
+  e d4.\prall d8
+  d4 c4. c8
+  c d b4.\prall c8
+  c4 e^"tous" fs
+  g d e
+  f c d
+  e d8 e d c
+  b4 b cs
+  d a b
+  c4. d8 e4
+  d8\prall c b4.\prall c8
+  c4 r r
+  R2.*7
+  r4 gs^"seule" gs
+  a b8 d cs e
+  d4 d8 e c d
+  b4 c d
+  e e8 f d e
+  c4 d8 f e g
+  f g f e d4
+  c8 d b4.\prall c8
+  c4 e^"tous" fs
+  g d e
+  f c d
+  e d8 e d c
+  b4 b^"seule" cs
+  d a b
+  c2. 
+  b8 c a b c d
+  b4 e^"tous" fs
+  g8 f6 e d8 c d e
+  f e6 d c8 b c d
+  e c f e d c
+  b4 b8 a b cs
+  d c6 b a8 g a b
+  c b c d e c
+  d4 b4.\prall c8
+  c4
+}

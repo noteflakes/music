@@ -1,0 +1,15 @@
+\relative c {
+  \key c \major
+  \time 4/4
+
+  d1 ~
+  d ~
+  d2 a
+  g1 ~
+  g
+  f4. f'8 e f e d
+  c e g bb d d, c bb
+  a cs d fs g b, c e
+  f f, g4 a bb8 b
+  cs4 d6 c bb a g4 a \bar "||" \time 2/2
+}

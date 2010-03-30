@@ -1,0 +1,8 @@
+bar_number: 156
+end_bar: "||"
+score:
+  hide_figures: true
+  order:
+    - basse-de-violon
+    - basse-de-viole
+    - basse-continue

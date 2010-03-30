@@ -1,0 +1,49 @@
+\relative c' {
+  \key c \major
+  {{\once \override Staff.TimeSignature #'stencil = ##f}}
+  \time 2/2
+ 
+  \partial 2
+    f'8^"flute seul" e f d
+  e d e cs d cs d e
+  cs4\prall a b8 a b cs
+  d cs e d cs4.\prall d8
+  d2 f8^"tous" e f d
+  e d e cs d cs d e
+  cs4\prall a b8 a b cs
+  d cs e d cs4.\prall d8
+  d2 d8^"violon seul" c d e
+  f e f d d c bb a
+  g4\prall g c8 bb a g
+  f g a bb g a bb c
+  a2\prall f'8^"flute seul" e f g
+  e\prall d c d e f e fs
+  g4 e cs8 d e cs
+  d c b a gs4.\prall a8
+  a2 f'8^"violon seul" e f d
+  e d e cs d cs d e
+  cs4\prall a b8 a b cs
+  d cs e d cs4.\prall d8
+  d2 f8^"tous" e f d
+  e d e cs d cs d e
+  cs4\prall a b8 a b cs
+  d cs e d cs4.\prall d8
+  d2 cs4.^"flute seul" cs8
+  d e d c b4.\prall b8
+  c4 c c4. c8
+  c4 bb8 c a4.\prall g8
+  g2 d'8^"violon seul" g f g
+  e4\prall e f8 e d c
+  d4 d e8 d cs b
+  cs4 cs d4. e8
+  cs2 f8^"flute seul" e f d
+  e d e cs d cs d e
+  cs4\prall a b8 a b cs
+  d cs e d cs4.\prall d8
+  d2 f8^"tous" e f d
+  e d e cs d cs d e
+  cs4\prall a b8 a b cs
+  d cs e d cs4.\prall d8
+  \bar "||" \time 6/4
+  d2. r
+}

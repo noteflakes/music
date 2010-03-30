@@ -1,0 +1,42 @@
+\relative c {
+  \key c \major
+  \time 2/2
+  
+  d,2 d''4 c
+  bb a bb g
+  a4. g8 f4 f
+  g g a a, 
+  d2. d4
+  a' d, f d
+  e2. c4
+  d d e2
+  a,2. d4
+  bb' a bb g
+  a4. g8 f4 f
+  g g a a, 
+  d2. d4
+  a' d,8 e f4 d
+  e2. c4
+  d d e2
+  a,2. a'8 g
+  fs4 g d' d,
+  g g c c,
+  f a,8 bb c2
+  f, f'4 f
+  bb g a d,
+  g2 g4 g
+  a d8 g, a4 a,
+  d2. d8 e 
+  fs4 g d' d,
+  g g c c,
+  f a,8 bb c2
+  f, f'4 f
+  bb g a d,
+  g2 g4 g
+  a d8 g, a4 a,
+  d2. f4
+  bb g a d,
+  g2 g4 g
+  a d8 g, a4 a,
+  d2
+}

@@ -1,0 +1,16 @@
+\relative c {
+  \key c \major
+  \time 4/4
+
+  r8 a' a a f a f a
+  d,4 r6 a' a b [cs8 cs6 cs cs d (e d)]
+  [d8 d,6 e f g a bb] [c8 c,6 d e fs g a]
+  [bb8 d d d bb d bb d]
+  [g, d'6 c bb a g f] [e8 e6 f g a bb c]
+  [a c c c f, c' f, c'] [e, c' f, c' e, c' d, b']
+  [c6 c,3 d e f e fs] [g a g a bb c bb c] [d6 d,3 e f g f g] [a6 c, bb g']
+  [a e'3 d cs b a g] [fs6 a3 b c d c d] [b6 d3 c b a g f] [e g a bb c g a bb]
+  [a6 f a f d bb'3 a g f e d] [cs6 a'3 a a6 a] [d,6 g3 g g6 g]
+  [e e3 f g f g e] f4 ~ [f6 g a bb e,8.\prall d6]
+  \bar "||" \time 2/2
+}

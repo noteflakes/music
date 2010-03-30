@@ -20,6 +20,10 @@ parts:
 movements:
   01-grave:
     midi_tempo: 50 2
+  05-bourree:
+    midi_tempo: 80 2
+  06-gavotte:
+    midi_tempo: 80 2
 score:
   hide_figures: true
   order:

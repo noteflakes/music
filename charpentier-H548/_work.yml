@@ -8,15 +8,42 @@ parts:
   basse-de-viole:
     clef: alto
     midi_instrument: cello
+    breaks:
+      - 02-recit
+      - 02-recit
+      - 04-recit
+      - 09-chaconne
   basse-de-violon:
     clef: bass
     midi_instrument: cello
+    breaks:
+      - 02-recit
+      - 02-recit
+      - 09-chaconne
   premier:
     clef: treble
     midi_instrument: violin
   second:
     clef: treble
     midi_instrument: violin
+  flute1:
+    breaks:
+      - 06-gavotte
+      - 08-passecaille
+      - 09-chaconne
+  flute2:
+    breaks:
+      - 06-gavotte
+      - 09-chaconne
+  violon1:
+    breaks:
+      - 06-gavotte
+      - 06-gavotte
+      - 09-chaconne
+  violon2:
+    breaks:
+      - 06-gavotte
+      - 09-chaconne
 movements:
   01-grave:
     midi_tempo: 50 2
@@ -26,6 +53,10 @@ movements:
     midi_tempo: 80 2
   07-gigue:
     midi_tempo: 240 4
+  08-passecaille:
+    midi_tempo: 120 4
+  09-chaconne:
+    midi_tempo: 200 4
 score:
   hide_figures: true
   order:

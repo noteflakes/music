@@ -1,0 +1,90 @@
+\relative c' {
+  \key c \major
+  \time 2/2
+
+  /1 g'4 s e d /2 c8 d e f c4 b /u
+  <c a>1
+  /1 d4 b g2 ~ /2 g2 s /u
+  g8 g' f g e f e d
+  /1 c2 c
+    c2 ~ c4. c8
+    c2
+  /2 s2 f,
+    g1
+    f2 
+    /u f'4. f8
+  e4 g g4. g8
+  e d c b a4 f'8 e
+  d4 b e a,
+  d2. d8 d
+  c4 e f c
+  f f8 e d4 b
+  e4. d8 c f e g
+  f4 a g4.\prall f8
+  e4 c g'2 ~
+  g4 g8 f e4 fs8 g
+  fs4 fs g2 ~
+  g4 g f4. bb,8
+  c2. d8 c
+  bb2. d4
+  g, a8 bb c4 d8 eb
+  a,2 /1 bb4. bb8 /2 g4. g8 /u
+  a4 a a b8 c
+  <b g>1\prall
+  R1
+  r2 r4 g'
+  d2 e
+  b c
+  d b
+  c1
+  g'
+  g
+  r2 r4 \clef bass c,
+  g2 a
+  e4 f g a
+  bb2. c8 bb
+  a2.\prall a4
+  g g g a8 bb
+  a2 r8 d c d
+  bb2. bb4
+  a1 ~
+  a2. a4
+  a a8 bb a4 g8 a
+  fs4 d d'2 ~
+  d4 eb8 d c bb a g
+  fs2 ~ fs8 g fs g
+  a1 ~
+  a4 bb8 a g4. eb'8
+  d4 c8 bb a4 b8 c
+  b4 g d'2 ~
+  d c ~
+  c b4 c8 b
+  a4 a d4. c8
+  b4 g c2 ~
+  c4 d8 c b4.\prall c8
+  c1 
+  R1
+  r2 r4 c
+  g2 a
+  e f
+  g e
+  f1
+  c' ~
+  c4 a d4. c8
+  b4 g c2 ~
+  c b ~
+  b4 a8 b c b a g
+  fs2 ~ fs8 g fs g
+  a1 ~
+  a2 g ~
+  g4 g8 a fs4. g8
+  g2 ~ g8 a bb c
+  a2.\prall b!8 a
+  g1 ~
+  g4 f8 e f4 a
+  g1 ~
+  g2 f ~
+  f e
+  d4 e8 f g4. d8
+  <g e>1\fermata
+}

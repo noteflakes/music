@@ -1,0 +1,119 @@
+\relative c {
+  \key g \minor
+  \override Staff.TimeSignature #'style = #'single-digit
+  \time 3/4
+
+  c2 c'4 ~
+  c2 bb4 ~
+  bb ab4. g8
+  f2.
+  g2 f4
+  eb e4. e8
+  f4. g8 ab4
+  f g g,
+  c2 c'4 ~
+  c2 bb4 ~
+  bb ab4. g8
+  f2.
+  g2 f4
+  eb e4. e8
+  f4. g8 ab4
+  f g g,
+  c2.
+  bb2 c8 bb
+  ab4. g8 f4
+  eb g2
+  c2 ~ c8 g'
+  c bb ab g f eb
+  bb'4. ab8 g4
+  ab bb bb,
+  eb2 eb4
+  bb'4. ab8 g4
+  f8 g ab bb c d
+  eb,4 f8 g ab f
+  g4. a8 b4
+  c4. bb!8 a4
+  d4. c8 bb4
+  c d d,
+  g c4. c8
+  c2 bb4 ~
+  bb ab4. g8
+  f2.
+  g2 f4
+  eb e4. e8
+  f4. g8 ab4
+  f g g,
+  c2 c'4 ~
+  c2 bb4 ~
+  bb ab4. g8
+  f2.
+  g2 f4
+  eb e4. e8
+  f4. g8 ab4
+  f g g,
+  c c'4. c8
+  g ab bb4. bb8
+  f g ab4. ab8
+  eb f g4. g8
+  c,4 c'4. c8
+  g ab bb4. bb8
+  f g ab4. ab8
+  eb ab, bb4. bb8
+  eb2 d4
+  eb2 d4
+  c2.
+  f8 g f eb d c
+  bb4 bb' g
+  ab2 g4
+  f8 g ab bb c d
+  eb eb, f g ab f
+  g4 eb eb
+  d2 d4
+  c c'8 bb ab g
+  f eb d c b c
+  g4 g' eb
+  f d f
+  eb4. d8 c4
+  f g g,
+  c2 c'4 ~
+  c b4. b8
+  c d c bb ab g
+  f4 f4. f8
+  g4 g eb
+  f d f
+  eb4. d8 c4
+  f g g,
+  c2 c4
+  d2 e4
+  f2 g4
+  ab2.
+  g8 ab g f eb d
+  c2 c'4 
+  bb2 bb4
+  ab2.
+  g4 b,4. b8
+  c2 c'4
+  f, ab4. ab8
+  eb4 eb4. eb8
+  bb4 bb' g
+  ab4. g8 f4
+  bb bb8 ab g4
+  ab bb bb,
+  eb4. d8 c4 ~
+  c2 bb4 ~
+  bb ab4. g8
+  f2 f4
+  g g'4. f8
+  eb4 e4. e8
+  f4. g8 ab4
+  f g g,
+  c2 c'4 ~
+  c2 bb4 ~
+  bb ab4. g8
+  f2 f4
+  g2 f4
+  eb e4. e8
+  f4. g8 ab4
+  f g g,
+  \bar "||" \key c \major
+}

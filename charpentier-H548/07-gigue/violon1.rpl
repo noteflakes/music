@@ -1,0 +1,68 @@
+\relative c' {
+  \key d \minor
+  {{\override Staff.TimeSignature #'stencil = ##f}}
+  \time 6/4
+  
+  r4 r8 d' c4 bb4. c8 d4
+  g,4. a8 bb4 c4. d8 eb4
+  d4. e!8 f4 e4. fs8 g4
+  fs d g g4. a8 fs4
+  g d bb g4. g'8 a4
+  bb4. bb8 a4 g4.\prall a8 bb4
+  a4.\prall a8 g4 f4. g8 a4
+  d,4. g8 f4 e4. f8 g4
+  cs, a d e4. [f8 g e]
+  f4. g8 a4 g8\prall f e4.\prall d8
+  d4 a fs d2.
+  r4 r8 d' c4 bb4. c8 d4
+  g,4. a8 bb4 c4. d8 eb4
+  d4. e!8 f4 e4. fs8 g4
+  fs d g g4. a8 fs4
+  g d bb g4. g'8 a4
+  bb4. bb8 a4 g4.\prall a8 bb4
+  a4.\prall a8 g4 f4. g8 a4
+  d,4. g8 f4 e4. f8 g4
+  cs, a d e4. [f8 g e]
+  f4. g8 a4 g8\prall f e4.\prall d8
+  d4 a fs d2.
+  r4 r8 d' e4 fs4. e8 d4
+  a'4. g8 fs4 g e a
+  fs d d a4. b8 c4
+  b g g' d4. e8 f4
+  e c f g4. a8 bb4
+  a f bb f4. g8 ab4
+  [g8 ab g f] eb4 d8 eb c4.\prall bb8
+  bb2. ~ bb4. bb8 c4
+  d4. eb8 d4 c\prall d bb
+  f'2 f4 f4. c8 d4
+  eb4. f8 g4 c, f2
+  b,4 g g' eb c ab'
+  f\prall d g c,4. d8 b4
+  c4. g8 a4 bb4. a8 g4
+  d'2 d4 d4. eb8 c4\prall
+  d4. e8 fs4 g4. f8 g4
+  e4.\prall fs8 g4 a4. g8 a4
+  fs d g f4.\prall eb8 d4
+  eb4. d8 c4 bb8\prall a a4.\prall g8
+  g4. g8 fs4 g4. a8 bb4
+  a4. d8 e4 fs4. e8 d4
+  a'4. g8 fs4 g e a
+  fs d d a4. b8 c4
+  b g g' d4. e8 f4
+  e c f g4. a8 bb4
+  a f bb f4. g8 ab4
+  [g8 ab g f] eb4 d8 eb c4.\prall bb8
+  bb2. ~ bb4. bb8 c4
+  d4. eb8 d4 c\prall d bb
+  f'2 f4 f4. c8 d4
+  eb4. f8 g4 c, f2
+  b,4 g g' eb c ab'
+  f\prall d g c,4. d8 b4
+  c4. g8 a4 bb4. a8 g4
+  d'2 d4 d4. eb8 c4\prall
+  d4. e8 fs4 g4. f8 g4
+  e4.\prall fs8 g4 a4. g8 a4
+  fs d g f4.\prall eb8 d4
+  eb4. d8 c4 bb8\prall a a4.\prall g8
+  g2. ~ g
+}

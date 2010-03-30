@@ -24,11 +24,17 @@ movements:
     midi_tempo: 80 2
   06-gavotte:
     midi_tempo: 80 2
+  07-gigue:
+    midi_tempo: 240 4
 score:
   hide_figures: true
   order:
     - premier
     - second
+    - flute1
+    - flute2
+    - violon1
+    - violon2
     - basse-de-viole
     - basse-de-violon
     - basse-continue

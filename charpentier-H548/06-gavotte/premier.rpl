@@ -4,7 +4,7 @@
   \time 2/2
  
   \partial 2
-    a''8^"flute seul" g a f
+    a''8^"flute seule" g a f
   g f g e f e f g
   e4\prall cs d8 cs d e
   f e g f e4.\prall d8
@@ -16,7 +16,7 @@
   a g a f bb a g f
   e4\prall e a8 g f e
   d e f4 f4.\prall e8
-  f2 a8^"flute seul" g a bb
+  f2 a8^"flute seule" g a bb
   g\prall f e f g a g a
   bb4 g e8 f g e
   f e d c b e d e
@@ -28,7 +28,7 @@
   g f g e f e f g
   e4\prall cs d8 cs d e
   f e g f e4.\prall d8
-  d2 e4.^"flute seul" e8
+  d2 e4.^"flute seule" e8
   f g f e d4 g8 f
   e4\prall e a8 g a e
   fs4 g8 a fs4. g8
@@ -36,7 +36,7 @@
   bb4 a8 g a4. a8
   a4 g8 f g4. g8
   (g f e f) f4.\prall e8
-  e2 a8^"flute seul" g a f
+  e2 a8^"flute seule" g a f
   g f g e f e f g
   e4\prall cs d8 cs d e
   f e g f e4.\prall d8

@@ -1,0 +1,67 @@
+\relative c' {
+  \key g \minor
+  \override Staff.TimeSignature #'style = #'single-digit
+  \time 3/4
+
+  R2.*48
+  r4 g''8^"seul" f g ab
+  bb4 f8 eb f g 
+  ab4 eb8 d eb f
+  g4 d8 eb f d
+  eb c eb^"a deux" d eb f
+  g4 d8 c d eb
+  f4 c8 bb c d 
+  eb f d4.\prall eb8
+  eb4 bb^"seul" bb
+  bb c d
+  eb eb8 f eb d
+  c4 f8 g f eb
+  d4 bb r
+  R2.*3
+  r4 g'^"seul" eb
+  f d f
+  eb4. f8 g4
+  ab8 g f eb d c
+  b4 b c
+  a d a
+  b g c4 ~
+  c8 d b4. c8
+  c4 eb^"a deux" c
+  d2 d4
+  g, c8 d eb4 ~
+  eb f8 eb d c
+  b4 b c
+  a d a
+  b4. b8 c4 ~
+  c8 d b4.\prall c8
+  c2 r4
+  R2.*4
+  r4 g'4.^"seul" ab8
+  bb4. ab8 g4
+  g8 ab f4. eb6 f
+  g2 r4
+  r4 g,4.^"a deux" g8
+  ab4 eb4. f8
+  g4 g8 f g ab
+  f4 f bb ~
+  bb ab4. ab8
+  ab4 f bb
+  ab8 g f4\prall g8 ab
+  g4\prall eb'4.^"seul" eb8
+  f4. f8 g4
+  c,2 d8 eb
+  f4 d f
+  b,4. a8 g4
+  g'4 g4.\prall g8
+  ab4. g8 f4
+  eb8\prall d d4.\prall c8
+  c4 g4.^"a deux" g8
+  ab4. [ab8 g f]
+  e4 f4. g8
+  ab4 f ab
+  g4. a8 b4
+  c4 c4. c8
+  c2 c4
+  c8 d b4.\prall c8
+  \bar "||" \key c \major
+}

@@ -1,0 +1,21 @@
+\relative c {
+  \key c \major
+  \time 4/4
+
+  c2 f4 b,
+  c c' ~ c b
+  c4. c,8 d4. d8
+  e2 f
+  e4 a d, e
+  a, a'8. g6 f4 g ~
+  g f ~ f e
+  f d g a8 a,
+  d4. d8 c4 bb
+  a8 a'6 g f4 ~ f e
+  f d g a8 a,
+  
+  \override Staff.TimeSignature #'style = #'single-digit
+  \time 3/4
+  d2.
+}
+  

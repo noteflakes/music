@@ -1,0 +1,58 @@
+\relative c' {
+  \key c \major
+  \override Staff.TimeSignature #'stencil = ##f
+  \time 3/4
+  
+  d2. ~
+  d4 cs2
+  d4 bb g
+  a bb a
+  g a g
+  f4. f8 e4
+  d a' a,
+  d2.
+  d'2. ~
+  d4 cs2
+  d4 bb g
+  a bb a
+  g a g
+  f4. f8 e4
+  d a' a,
+  d2.
+  d4 c bb
+  a2 d4
+  bb g f
+  c'2 c4
+  a a4. a8
+  bb4. a8 g4
+  f c'2
+  f,2.
+  f'2 fs4
+  g4. a8 g f
+  e2 d4
+  a'2 g4
+  f2 f4
+  f4. f8 e4
+  d a' a, 
+  d2.
+  d4 c bb
+  a2 d4
+  bb g f
+  c'2 c4
+  a a4. a8
+  bb4. a8 g4
+  f c'2
+  f,2.
+  f'2 fs4
+  g4. a8 g f
+  e2 d4
+  a'2 g4
+  f2 f4
+  f4. f8 e4
+  d a' a, 
+  d2.
+  f2 f4
+  f4. f8 e4
+  d a' a, 
+  d2.
+}

@@ -1,0 +1,112 @@
+\relative c' {
+  \key c \major
+  \override Staff.TimeSignature #'stencil = ##f
+  \time 3/4
+  
+  /1 a'4 bb a 
+  g a g 
+  f g8 f e d
+  cs4.\prall b!8 a4
+  cs cs cs 
+  d4. d8 e4
+  f8 e e4.\prall d8
+  d2.
+  a'4 bb a 
+  g a g 
+  f g8 f e d
+  cs4.\prall b!8 a4
+  cs cs cs 
+  d4. d8 e4
+  f8 e e4.\prall d8
+  d2.
+  a4 a bb
+  c4. bb8 a4
+  d e f 
+  <e c>4.\prall d8 c4
+  f c4.\prall c8
+  d4 s e
+  f8 g <e c>4.\prall f8
+  f2.
+  (a8 g) (f e) (d c)
+  b2\prall b4
+  g' e f
+  cs4. d8 e4
+  a a, f'
+  d4. d8 g4
+  f8\prall e e4.\prall d8 
+  d2.
+  a4 a bb
+  c4. bb8 a4
+  d e f 
+  <e c>4.\prall d8 c4
+  f c4.\prall c8
+  d4 s e
+  f8 g <e c>4. f8
+  f2.
+  (a8 g) (f e) (d c)
+  b2\prall b4
+  g' e f
+  cs4. d8 e4
+  a a, f'
+  d4. d8 g4
+  f8\prall e e4.\prall d8 
+  d2.
+  a'4 a, f'
+  d4. d8 g4
+  f8\prall e e4. d8 
+  d2.
+  /2
+  f4 s f
+  e s e
+  d s s
+  s s s 
+  a a a
+  b4. b8 cs4
+  d a4. s8
+  <a f d>2.
+  f'4 s f
+  e s e
+  d s s
+  s s s 
+  a a a
+  b4. b8 cs4
+  d a4. s8
+  <a f d>2.
+  f4 f g 
+  a4. g8 f4
+  bb bb a
+  g s s
+  s a4. s8
+  a4 g8 a bb4
+  <c a> g4. s8
+  <c a>2.
+  s2.
+  g2 s4
+  <b e,> cs d
+  a4. s8 cs4
+  s s d
+  b4. s8 cs4
+  d a4. s8
+  <a f d>2.
+  f4 f g 
+  a4. g8 f4
+  bb bb a
+  g s s
+  s a4. s8
+  a4 g8 a bb4
+  <c a> g4. s8
+  <c a>2.
+  s2.
+  g2 s4
+  <b e,> cs d
+  a4. s8 cs4
+  s s d
+  b4. s8 cs4
+  d a4. s8
+  <a f d>2.
+  s4 s d
+  b4. s8 cs4
+  d a4. s8
+  <a f d>2.
+  /u
+}

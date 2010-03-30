@@ -1,0 +1,60 @@
+\relative c {
+  \key c \major
+  \time 2/2
+  \clef bass
+  
+  d2 d'4 c
+  bb a bb g
+  a4. g8 f4 \clef alto f'
+  /1 b,8 cs d4 cs8 d e cs
+  d2.
+  /2 g,4 s a s
+  <a f d>2. /u f'4
+  /1 cs d b4. a8
+  gs2.
+  /2 a4 <a f> f4. s8
+  e2. /u c'4
+  d, b'8 a /1 gs4. /2 e4. /u a8 \clef bass
+  a e cs e a,4 d
+  bb' a bb g
+  a4. g8 f4 \clef alto f'
+  /1 b,8 cs d4 cs8 d e cs
+  d2.
+  /2 g,4 s a s
+  <a f d>2. /u f'4
+  /1 cs d b4. a8
+  gs2.
+  /2 a4 <a f> f4. s8
+  e2. /u c'4
+  d, b'8 a /1 gs4. /2 e4. /u a8 \clef bass
+  /1 a2. /2 <e cs a>2. /u a8 g
+  fs4 g d' d,
+  g g c c,
+  f a,8 bb /1 e2\prall
+  <a f>2. a4 /2 c,2
+  <c a f>2. f4 /u
+  bb g a d,8 c'
+  /1 bb4 s s b 
+  cs s cs4. d8
+  d2. /2 g,2. g4
+  a4 d8 e a,4. s8
+  <a f d>2. /u d,8 e
+  fs4 g d' d,
+  g g c c,
+  f a,8 bb /1 e2\prall
+  <a f>2. a4 /2 c,2
+  <c a f>2. f4 /u
+  bb g a d,8 c'
+  /1 bb4 s s b 
+  cs s cs4. d8
+  d2.  a4 /2 g2. g4
+  a4 d8 e a,4. s8
+  <a f d>2. f4 /u
+  bb g a d,8 c'
+  /1 bb4 s s b 
+  cs s cs4. d8
+  d2 /2 g,2. g4
+  a4 d8 e a,4. s8
+  <a f d>2 /u
+  
+}

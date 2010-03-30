@@ -1,5 +1,6 @@
 \relative c' {
   \key c \major
+  \override Staff.TimeSignature #'style = #'single-digit
   \time 2/2
 
   /1 g'4 s e d /2 c8 d e f c4 b /u

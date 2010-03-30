@@ -1,0 +1,42 @@
+\relative c {
+  \key c \major
+  \time 2/2
+  
+  d2. \clef alto f'4
+  g a d,4. e8
+  cs4.\prall b8 a4 a'
+  g f e8 f g e
+  f d a f d4 d'
+  e f d4.\prall c8
+  b2. e4
+  f8 e d c b4.\prall a8
+  a2. f'4
+  g a d,4. e8
+  cs4.\prall b8 a4 a'
+  g f e8 f g e
+  f d a f d4 d'
+  e f d4.\prall c8
+  b2. e4
+  f8 e d c b4.\prall a8
+  a2. a'4
+  a bb fs8 d c d
+  b g' f g e c bb c
+  a4 f' g, e'
+  f8 c a c f,4 f'8 e 
+  d4 g c, fs
+  g8 d bb d g,4 g'
+  g f8\prall e e4.\prall d8
+  d2. a'4
+  a bb fs8 d c d
+  b g' f g e c bb c
+  a4 f' g, e'
+  f8 c a c f,4 f'8 e 
+  d4 g c, fs
+  g8 d bb d g,4 g'
+  g f8\prall e e4.\prall d8
+  d2. f8 e 
+  d4 g c, fs
+  g8 d bb d g,4 g'
+  g f8\prall e e4.\prall d8
+  d2
+}  

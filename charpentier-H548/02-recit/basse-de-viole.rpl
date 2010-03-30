@@ -1,0 +1,27 @@
+\relative c {
+  \key c \major
+  \time 4/4
+  \clef bass
+
+  r8 c' g c
+  a\prall b6 c b a g f
+  e8 c \clef alto c'6 d e f d e f d g d e f
+  e8 c /1 g'4. g8 f4 ~
+    f8 f e4. e8 d4
+    d8 c6 b c8. c6 c8 b b8.\prall a6
+    /2 e'4. e8 d4 ~
+    d8 d c b a b6 c b8. a6
+    gs4 a <f d> e
+  /u \clef bass
+  /1 a /2 <e cs a>4 /u \clef alto cs'8. cs6 /1 d4 /2 d6 c bb a /u g f' e d
+  /1 cs8 a a' a, d d g b, /2 a4 s b s /u
+  cs8 a /1 f'4 bb,!8 e e8.\prall d6 /2 d6 c bb a g4 a /u \clef bass
+  /1 d8 a bb d, /2 <a' f d>4 s /u c,8 a' bb, g'
+  /1 a4 \clef alto a'8 a, d d g b, /2 <e, cs a>4 s b' s /u
+  cs8 a /1 f'4 bb,!8 e e8.\prall d6 /2 d6 c bb a g4 a /u \clef bass
+  
+  \override Staff.TimeSignature #'style = #'single-digit
+  \time 3/4
+  /1 d2. /2 <a f d> /u
+}
+  

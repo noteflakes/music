@@ -1,0 +1,32 @@
+title: "H. 548"
+subtitle: "Sonate"
+composer: Marc-Antoine Charpentier
+parts:
+  basse-continue:
+    clef: bass
+    midi_instrument: cello
+  basse-de-viole:
+    clef: alto
+    midi_instrument: cello
+  basse-de-violon:
+    clef: bass
+    midi_instrument: cello
+  premier:
+    clef: treble
+    midi_instrument: violin
+  second:
+    clef: treble
+    midi_instrument: violin
+movements:
+  01-grave:
+    midi_tempo: 50 2
+score:
+  hide_figures: true
+  order:
+    - premier
+    - second
+    - basse-de-viole
+    - basse-de-violon
+    - basse-continue
+  groups:
+    - brace: [premier, second]

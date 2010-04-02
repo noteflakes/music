@@ -79,3 +79,6 @@ score:
     - basse-continue
   groups:
     - brace: [premier, second]
+    - brace: [flute1, flute2]
+    - brace: [violon1, violon2]
+

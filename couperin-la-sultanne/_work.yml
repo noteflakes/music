@@ -1,0 +1,14 @@
+title: "La Sultanne"
+subtitle: "Sonate"
+composer: François Couperin
+score:
+  hide_figures: true
+  order:
+    - violon1
+    - violon2
+    - viole1
+    - viole2
+    - basse-continue
+  groups:
+    - brace: [violon1, violon2]
+    - brace: [viole1, viole2]

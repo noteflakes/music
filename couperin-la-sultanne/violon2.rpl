@@ -1,0 +1,192 @@
+\relative c' {
+  \key c \major
+  \time 2/2
+
+  R1*5
+  a'2 (b4.-+ a6 b)
+  c2 a
+  f'2. e8 f
+  e2-+ c ~
+  c bb 
+  a1 ~
+  a4 a g2 ~
+  g f ~
+  f e ~
+  e d4 cs8 d
+  cs2 r
+  a'2 (b4.-+ a6 b)
+  c2 a
+  f'2. e8 f
+  e1-+ ~
+  e2 d ~
+  d c4 b 
+  a4. b6 c b4-+ a
+  gs2-+ a 
+  b1 ~
+  b2 a
+  d2. d8 e
+  ^d8 c2. c8 d
+  ^c8 b2 b4.-+ a8
+  a1
+  a2 (b4.-+ a6 b)
+  cs2 a
+  f'2. (e8 d)
+  e2. (d8 cs)
+  d2. (cs8 b)
+  cs2 cs
+  a (b4.-+ a6 b)
+  cs2 ^b8 a2
+  f'2. (e8 d)
+  e2. d8 cs
+  d4. e8 cs4. d8
+  d1
+  R1*17
+  a2 (b4.-+ a6 b)
+  c2 a
+  f'2. e8 f
+  e2-+ c ~
+  c bb
+  a1 ~
+  a2. g4
+  fs1
+
+  \bar "||" \time 4/4
+  R1*5
+  r2 a4 b8.-+ a3 b
+  c8 a d e f a, g e'
+  f, d' e, e' cs-+ d d8.-+ cs6
+  d4 c8. bb6 a8 f' e-+ d
+  e g, f d' e, c' c8.-+ b6
+  c4 r g a8.-+ g3 a
+  bb8 g g' f e-+ g, c bb
+  a-+ c f e d c bb a
+  (g c) (c bb) (bb a) (g8.-+ f6)
+  f4 r r2
+  R1*11
+  d4 e8.-+ d3 e f8 d a' b
+  c a d c bb a g c
+  a-+ f c'2 bb4
+  a r8 d6 c bb4 b8 b
+  cs4 d a a
+  a r r r8 d6 c 
+  bb4 eb8 eb6 d c8 bb a8.-+ bb6
+  g8 d'6 c bb8 bb6 a g8 g'6 f e8 e6 d
+  c8 f6 e d8 d6 c bb8 bb6 a g8 g6 f 
+  e4 a (a g8.-+) f6
+  f4 r a (b8.-+ a3 b)
+  cs8 a f' e6 f e4-+ d ~
+  d8 c6 b c4 ~ c8 bb6 a bb8. c6
+  a8 a g8.-+ g6 g8. f6 f8.-+ e6
+  e4 d8 cs6 d cs4 r8 e'6 d
+  cs8-+ cs6 b a8 a6 g fs4 r
+  r2 r8 g'6 f e8 e6 d
+  c8 c6 b a8 d6 c b8 c6 d b8.-+ c6
+  c4 r r8 c6 bb a8 a6 g 
+  f4 r r8 bb6 a g8 g6 f
+  e4 r r r8 e'6 d
+  cs8 f6 e d8 e6 d cs8-+ d cs8.-+ d6
+  d4 r r2
+  r8 g6 f e8 e6 d cs8 cs6 b a8 a6 g
+  f4. f8 f g6 f e8.-+ d6
+  
+  \once \override Staff.TimeSignature #'style = #'single-digit
+  \bar "||" \time 3/4
+  d4 r r
+  R2.*15
+  \key d \major
+  r4 r d'8_\fort e
+  fs2 e4
+  d-+ cs d8_\doux e
+  fs2 e4 
+  d-+ cs d8_\fort e
+  fs2 e4
+  d-+ cs d8_\doux e
+  fs2 e4 
+  d-+ cs cs8_\fort d
+  e2 d4
+  cs-+ b cs 
+  d cs4.-+ d8
+  d2 cs8_\doux d
+  e2 d4
+  cs-+ b cs 
+  d cs4.-+ d8
+  
+  \bar "||" \time 2/2
+  d2 d4. d8
+  d4 c c4. d8
+  b2-+ b4. b8
+  (b4 a) a4.-+ b8
+  ^a4 g2 r
+  R1
+  r2 e'4. e8
+  (e4 d) d4. e8
+  cs2 r
+  R1*3
+  r2 d4. d8
+  d4 c4. d8 d4
+  b2 b4. b8
+  a1 ~
+  a2 r
+  b b4. b8
+  ^b8 a2 a ~
+  (a4 g) g4. a8
+  fs1-+
+  
+  \bar "||" \time 4/4
+  \tempo "[Legerement]"
+  fs'4 (fs8. e3 fs) g8 fs6 g e g fs e
+  fs8 e6 fs d4 d8 d cs4
+  d a'8 a, b b' a4
+  a6 b a g fs4 gs a8. g6
+  fs e d cs b8 e cs4-+ cs
+  cs4 cs8. b3 cs d8 cs6 d b d cs b
+  cs8 b6 cs a4 a8 a gs4
+  a r8 cs d d e8. e6
+  a,4 r r2
+  a'4 a8.-+ g3 a b8 a6 b g b a g
+  a fs g a b8 a6 b g8 b a8.-+ g6
+  g4 r r2
+  b,4 (b8.-+ a3 b) c8 b6 c a c b a
+  b8 a6 b g b cs d e d e fs e fs e d 
+  cs4 r r2
+  cs4 cs8.-+ b3 cs d8 cs6 d b d cs b
+  cs8 b6 cs a4 r6 fs' e fs d e cs d
+  b cs a b g4 r6 g' fs g e fs d e
+  cs8 d cs d a a' g6 a fs g
+  e4-+ r b4. cs6 d
+  a4 d2 cs8 d6 e
+  a,2 g4-+ g8. a6
+  
+  \bar "||" \time 6/4
+  fs2 r4 r2.
+  R1.
+  r4 r e' fs d b
+  e cs a d b e
+  cs a fs'8 e d cs d b e d
+  cs b cs a d cs b a b gs cs b
+  a4 a fs d e e
+  fs a g b a a
+  a fs-+ d'8 cs b a b gs cs b
+  a4. b8 cs4 b8 a gs4.-+ a8
+  a2 r4 r2.
+  r4 r e' d8 cs b cs d e
+  cs4 cs a' b g e
+  a fs d cs8 d a4 a
+  a a a b b g
+  a a fs g a b
+  fs-+ fs g'8 fs e d e cs fs e
+  ds cs ds b e d cs4 ds e
+  ds4 ds g e fs fs
+  ds4. ds8 e4 e ds4.-+ e8
+  e2 e8 d cs b cs a d cs
+  b4 b cs8 b a fs b a gs fs
+  e4. cs'8 gs4. a8 a4.-+ gs8
+  a2 a'8 g fs e fs d g fs
+  e4 e fs d e cs
+  fs4. fs8 cs4 d cs4.-+ d8
+  d2 cs4 d b gs 
+  a a cs b8 a gs a b gs
+  a4 a fs' d e cs
+  fs4. fs8 cs4-+ d cs4.-+ d8
+  d1.\fermata
+}

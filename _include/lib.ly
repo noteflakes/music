@@ -44,6 +44,9 @@ editF = \markup { \center-align \concat { \bold { \italic ( }
 editP = \markup { \center-align \concat { \bold { \italic ( }
   \dynamic p \bold { \italic ) } } }
   
+doux = \markup { \center-align \bold { \italic doux }}
+fort = \markup { \center-align \bold { \italic fort }}
+  
 barlineFermata = { \mark \markup { \musicglyph #"scripts.ufermata" } }
 
 barNumbers = {

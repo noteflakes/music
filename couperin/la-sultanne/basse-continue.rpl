@@ -1,0 +1,241 @@
+\relative c {
+  \key c \major
+  \time 2/2
+  \clef bass
+  d2 cs
+  d4 c bb a
+  g2 g'
+  d4 e f d
+  g f e2
+  f4 e d2
+  a a'
+  d, g
+  c, c'
+  d g,
+  a d,
+  g1
+  a2 d,
+  g, g'
+  cs, d
+  a a'4 b
+  c2 gs
+  a4 g f e
+  d2 g
+  c, cs
+  d d'
+  gs, a4 g
+  fs2 f
+  e1 ~
+  e
+  a ~
+  a2 gs
+  a c,
+  d e
+  a,1
+  a' ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a2 a,
+  d1 ~
+  d ~
+  d ~
+  d ~
+  d ~
+  d ~
+  d ~
+  d ~
+  d ~
+  d ~
+  d ~
+  g4 c, d2
+  g,2 (a4.-+ g6 a)
+  bb2 g
+  d'4 c bb a
+  g2 g'
+  d4 e f d
+  g f e2
+  f4 e d2
+  a a'
+  d, g
+  c, c4 a
+  bb2. g4
+  a2 d 
+  a1
+  d,
+  
+  \bar "||" \time 4/4
+  d'4 cs d8 d6 e f8 d
+  a' f bb a g f c c,
+  f4. f'8 c4 d
+  a a'8 g f e d b
+  e e6 d c4 d e
+  a,2 a'4 gs
+  a8 a6 g f8 e d4 cs
+  d g, a8 d a4
+  d4 (e8.-+ d3 e) f8 d a' b 
+  c c, b g c f, g4
+  c (d8.-+ c3 d) e4 c
+  g'8 g6 a bb8 g c c6 bb a8 g
+  f f6 e d8 c bb a g f
+  c' a d g, c f, c4
+  f8. c'6 d8 e f4 d
+  a'8 f bb g d' e6 d c8 d6 c
+  bb4 a g gs
+  a cs, d fs,
+  g d' g (a8.-+ g3 a)
+  bb4 g d4. e8
+  f4 g a4. d,8
+  g4. f6 e f4. e6 d
+  a4. a'6 g fs8-+ fs6 e d4
+  g8 e6 d cs8 cs6 b a4 d8 d6 c
+  bb8 bb'6 a g8 g,6 f e8 e'6 d cs8 cs6 d
+  a'8 a6 g f8 d bb' g a a,
+  d4 cs d8 d6 e f8 d
+  a d6 c bb8 a g4 c
+  f, f'8 e d4 g,
+  d'4. d8 g4. e8
+  a1
+  a8 a6 g f8 f6 e d2
+  eb8 eb6 d c4 d4. d8
+  g,1
+  a8 f bb a g4 c8 b
+  c c6 bb a8 f bb g c c,
+  f4 g a2 ~
+  a4 (b8.-+ a3 b) cs8 a f' (e6 f)
+  e4 a d, (e8.-+ d3 e)
+  f8 d bb' a6 bb a4 d,
+  a1 ~
+  a4 d d8 d'6 c b8 b6 a
+  g8 g6 f e8 e6 d c2 ~
+  c4 f8 d g c, g4 
+  c8 c'6 bb a8 a6 g f2
+  r8 bb6 a g8 g6 f e2
+  a8 a6 g fs4 r8 g6 f e4
+  a8 f bb g a d, a4
+  d8 d'6 c bb8 bb6 a g8 g6 f e8 e6 d
+  cs1
+  d8 f6 e d8 d6 c bb8 g a4
+  
+  \once \override Staff.TimeSignature #'style = #'single-digit
+  \bar "||" \time 3/4
+  d4 \tempo "air" r8_\markup { \italic { tendrement } } d' c4
+  a bb g
+  d' d, g
+  f e4. d8
+  a'4. d8 c4
+  a bb g
+  d' d, g
+  f e4. d8
+  a'2 g8 f
+  e4 a a,
+  d bb'8 a g a
+  bb g a4. d,8
+  a'2 g8 f
+  e4 a a,
+  d bb'8 a g a
+  bb g a4 a,
+  \key d \major
+  d2 d4
+  d'2 cs4
+  d a d,
+  d'2 cs4
+  d a d,
+  d'2 cs4
+  d a d,
+  d'2 cs4
+  d a a
+  cs,2 d4 
+  a' b a
+  d, a2
+  d2 a'4
+  cs,2 d4 
+  a' b a
+  d, a2
+  
+  \bar "||" \time 2/2
+  d2 d'
+  fs,1
+  g2 b,4. g8
+  d'1
+  g,
+  a
+  b2 cs
+  d d,
+  a' fs
+  g e
+  fs d
+  a'1
+  d ~
+  d
+  g,2. e4
+  a1 ~
+  a2 fs
+  g e
+  fs d
+  a'1
+  d,
+  
+  \bar "||" \time 4/4
+  d'4 d' g, g,
+  d' d, g g'
+  d d, g a
+  d (d8.-+ cs3 d) e8 d6 e cs e d cs
+  d e fs d e8 e, a4 a
+  a' a, d d'
+  a a, d d,
+  a'4. a8 b4 cs
+  d c b c8 g
+  d'4 d' g, g,
+  d' b c8 g d'4
+  g, g' c, c,
+  g' g' c, c,
+  g' (g'8 fs) e4 e,
+  a a' d, d,
+  a' a' d, d,
+  a'2 fs
+  g e
+  a1 ~
+  a4 fs g e
+  fs d a'2
+  a1
+  
+  \bar "||" \time 6/4
+  d2. g
+  fs e
+  d2 a4 d2.
+  cs b
+  a2 a'4 b g e
+  a fs d g e cs
+  fs2 fs4 g e a
+  fs d g e a a,
+  d2 b4 b' gs e
+  a fs cs d e e,
+  a2. d
+  a2 a4 d e e,
+  a2 fs4 g e a
+  fs d d' g a a,
+  d2 d'8 c b a b g c b
+  a g a fs b a g4 fs e
+  b'2. ~ b ~
+  b ~ b ~
+  b2 g4 a fs ds
+  g4. fs8 e4 a, b2
+  e2 \clef alto e'4 fs d b
+  e e cs d b e
+  cs2 b4 a e2
+  \clef bass a2 fs4 b2 g8 e
+  a2 fs4 g e a
+  fs2 e4 d a2
+  d a'4 d, d e
+  cs a a' d, e e,
+  a a fs g e a
+  fs2 e4 d a'2
+  d,1.\fermata
+}

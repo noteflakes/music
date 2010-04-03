@@ -1,6 +1,6 @@
 \relative c' {
   \key c \major
-  \time 2/2
+  \time 2/2 m{{\tempo 4 = 86}}
 
   R1*2
   d'2 (e4.-+ d6 e)
@@ -50,7 +50,7 @@
   d (cs4.-+ b6 cs)
   d1
 
-  \bar "||" \time 4/4
+  \bar "||" \time 4/4 m{{\tempo 4 = 120}}
   R1*14
   r2 a4 b8.-+ a3 b
   c8 a d e f g6 f e8 f6 e
@@ -90,7 +90,7 @@
   a4. a8 d4 cs8.-+ d6
   
   \once \override Staff.TimeSignature #'style = #'single-digit
-  \bar "||" \time 3/4
+  \bar "||" \time 3/4 m{{\tempo 4 = 100}}
   d4 r r
   R2.*15
   \key d \major
@@ -111,7 +111,7 @@
   e-+ d e 
   (fs \grace g8) e4.-+ d8
   
-  \bar "||" \time 2/2
+  \bar "||" \time 2/2 m{{\tempo 2 = 70}}
   d2 r
   r a'4. a8
   (a4 g) g4. g8
@@ -134,7 +134,7 @@
   d cs4.-+ d8
   d1
   
-  \bar "||" \time 4/4
+  \bar "||" \time 4/4 m{{\tempo 4 = 120}}
   \tempo "Legerement"
   a'4 (a8. g3 a) b8 a6 b g b a g
   a8 g6 a fs8 e6 fs g8 fs6 g e g fs e
@@ -159,7 +159,7 @@
   r2 e4. fs6 g
   cs,4 d2 d8. cs6
   
-  \bar "||" \time 6/4
+  \bar "||" \time 6/4 m{{\tempo 4 = 220}}
   d2 a'4 b g e
   a fs d g e a 
   fs-+ d r r2.

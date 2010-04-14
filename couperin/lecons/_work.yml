@@ -1,0 +1,27 @@
+title: "Leçons de Ténèbres"
+subtitle: "Pour Le Mercredy (Paris, 1714)"
+composer: François Couperin
+parts:
+  dessus:
+    auto_beam: false
+    midi_instrument: voice
+  dessus1:
+    auto_beam: false
+    midi_instrument: voice
+  dessus2:
+    auto_beam: false
+    midi_instrument: voice
+  basse-continue:
+    embed_figures: true
+movements:
+  01-premiere-lecon:
+    title: "Premiere Leçon"
+score:
+  hide_figures: true
+  order:
+    - dessus
+    - dessus1
+    - dessus2
+    - basse-continue
+  groups:
+    - brace: [dessus1, dessus2]

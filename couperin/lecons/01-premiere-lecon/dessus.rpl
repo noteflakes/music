@@ -1,0 +1,191 @@
+\relative c' {
+  #(remove-grace-property 'Voice 'Stem 'direction)
+
+  \key d \major
+  \time 2/2
+  R1
+  r2 d'4. e8
+  ^e8 fs2 g4. fs8
+  (fs2 e4.-+ d6) e6
+  ^e8 fs2. fs8 fs
+  fs2 e4.-+ d8
+  ^d8 e2 e ~
+  e4. g128*16/5_[ fs e d cs] (d2*1/2 \small e8*1/2_[ d cs d]) \normalsize
+  e4. fs8 e2 ~
+  e4. [fs6 e] ~ e4.-+ [d6 e]
+  d2 r
+  
+  \bar "||" % Aleph
+  
+  r4 r8 fs fs2 ~
+  fs4. [g6 fs] e2 ~
+  e4. [g3*4/3 fs e] d2 ~
+  d4. [e3*4/3 b cs] ~ cs4.-+ [b6 cs]
+  d1
+  
+  \bar "||" % Quomodo
+  
+  \once \override Staff.TimeSignature #'style = #'single-digit
+  \time 2/2
+  r2 a4. d8
+  ^cs8 b2 a4.-+ g8
+  fs2-+ g4 a
+  b b cs4. d8
+  cs2-+ d4. e8
+  (e4. fs8) ~ fs4.-+ e8
+  e2 cs4. cs8
+  fs2 (fs4 e8.-+) ([d3 cs])
+  (d4. [e6 d] ~ d4.-+) cs8
+  b2-+ e4 e8 gs,
+  a2 ~ [a8 b gs8.] a6
+  gs2-+ b
+  b4. b8 cs4.-+ d8
+  ^d e2 e
+  cs4-+ cs8. cs6 d4. e8
+  ^e fs4 fs b,4. b8
+  (e4. [d3*4/3 cs b]) (a4. gs6) a
+  (a4. b8 ~ \afterGrace b2-+ a8)
+  a2 e'4. cs8
+  (d4. [e6 fs]) d4.-+ cs8
+  b2 cs4 ds
+  e ([fs6 e8 fs6]) fs4.-+ e8
+  ds2-+ (b4 [c6 b]) ([a g])
+  (g2 fs4.-+) e8
+  e2 e'4. d8
+  (cs4.-+ [d6 e]) (a,4 [g8-+ fs6]) g
+  fs2-+ fs4 d
+  g4. a8 ^a b2
+  b4 cs8 d cs4.-+ d8
+  ^d e1
+  fs4 fs8. e6 d4.-+ cs8
+  b2-+ b
+  g'4 g8. fs6 e4.-+ d8
+  cs4-+ cs a4. d8
+  ^cs b2 cs4. d8
+  (d2 ~ d4. cs8)
+  ^cs d2 (c4. b6) c
+  ^c8 (b4. [cs6 b]) cs4. d8
+  (fs,2 e-+)
+  \override Score.RehearsalMark #'break-visibility = #begin-of-line-invisible 
+  d1 \mark \markup { \musicglyph #"scripts.ufermata" }
+
+  \bar "|." \break % Beth
+  
+  \time 2/2
+  r2 a'4. [b6 fs]
+  g4. [e3*4/3 fs g] ~ g4.-+ [fs6 g]
+  [fs8 d fs g a b cs a]
+  d4. [b3*4/3 cs d] ~ d4.-+ [cs6 d]
+  e4. [cs3*4/3 d e] ~ e4.-+ [d6 e]
+  [fs8 g fs e d cs b a]
+  [gs-+ e'6 d] [cs b a gs] a2 ~
+  a4. [b6 fs] g2 ~
+  g4. [a6 e] fs2 ~
+  fs4. [g6 fs] e4.-+ d8
+  a'4. [cs3*4/3 b cs]  d2 ~
+  d4. [e6 b] c2 
+  ^d8 cs4. [d6 cs] ~ (cs4.-+ [b6 cs])
+  d1
+  
+  \bar "||" % Plorans
+  
+  \key c \major
+  \time 2/2
+  f2 e4. d8
+  cs2-+ b4 cs
+  d2 ~ (d4. [c6-+ bb])
+  a2 r4 bb
+  bb [c8 bb] a2 ~
+  a4 a8 bb g4-+ g ~
+  g g8 g f4.-+ e8
+  ^e8 f4 ^e8 d4 r r8 f
+  a2 a4 b8 c
+  b4-+ ^a8 g4 b cs8 d
+  e2. ([f8 d])
+  cs2-+ cs4 e
+  f4. f8 b,2
+  \grace (d8 c2 b4.-+) ([c6 a])
+  gs2-+ gs4 b
+  (d2. c8.-+) b6
+  e2 \grace { d8 c } b2 ~
+  (b4. c8 b4 gs8) a
+  (c2 b-+)
+  a r
+  f'2 e4. d8
+  cs2-+ b4 cs
+  d2 ~ (d4. [c6-+ bb])
+  a2 r4 bb
+  bb [c8 bb] a2 ~
+  a4 a8 bb g4-+ g ~
+  g g8 g f4.-+ e8
+  ^e8 f4 ^e8 d4 r r8 a'
+  ^a bb4. bb8 (b4-+ a8) b
+  ^b c4 c8. c6 (cs4-+ b8) cs
+  (d2 cs4.-+) d8
+  ^d e2 e4 a,
+  f'4. f8 f2
+  r4 d g4. b,8
+  ^b cs2 (d4. cs6) d
+  d2 ~ (d4. cs8)
+  ^cs d2 r4 r8 a
+  ^a bb4. bb8 (b4-+ a8) b
+  ^b c4 c8. c6 (cs4-+ b8) cs
+  (d2 cs4.-+) d8
+  ^d e2 e4 a,
+  f'4. f8 f2
+  r4 d g4. b,8
+  \grace { ([b c] } cs2-+) (d4. cs6) d
+  (d4. e8 ~ \afterGrace e2-+ d8)
+  d2 r
+
+  \bar "||" % omnes amici ejus
+  
+  \key f \major
+  \time 2/2
+  c4 c8. c6 d4. e8
+  f4 f8. a,6 a4 c
+  f,2 ~ [f8 g e f]
+  g4 g c bb8 c
+  a4-+ a a4. d8
+  b4-+ b8 g g4 a8 b
+  c4 c e,4.-+ f8
+  g2 ~ g-+
+  c, r
+  r2
+  
+  \bar "||" % Gi- mel
+  
+  r4 r8 c'
+  a2-+ ~ a4. [bb3*4/3 a bb]
+  c2 ~ [c8 eb d c]
+  [b-+ c d e f d g f]
+  [e f g f e d c bb]
+  [a-+ g a f] [bb c a bb]
+  a4. [a3*4/3 bb c] ~ c4.-+ [bb6 c]
+  [d8 eb d c] [bb a bb g]
+  [e' f e c] f2 ~
+  f4. [g3*4/3 d e] ~ e4.-+ [d6 e] 
+  f1 \mark \markup { \musicglyph #"scripts.ufermata" }
+  
+  \bar "|." % Migravit
+  
+  \time 2/2
+  \tempo "Recitatif"
+  r4 r8 f, a4 c
+  ^c8 g2 g
+  bb4 bb8. bb6 bb4. a8
+  a2-+ a4 r
+  r4 r8 c e4 g
+  ^g8 d2 d
+  f4 f8. f6 f4. ([eb6 d])
+  ^d8 eb2 eb8. d6 c8 bb
+  ab4.-+ ab8 ab4 ab8 g
+  g4-+ g r8 g a b
+  c4. c8 c4-+ c8 b
+  \grace { ([b8 c] } d4) d r eb8 eb
+  eb4 eb g, bb
+  f-+ f f4. bb8
+  eb,2 ~ eb4. [(f3*4/3 d eb)]
+  f2 ~ f4. f8
+  f2 r
+}

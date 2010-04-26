@@ -1,0 +1,23 @@
+title: Miserere ZWV 57
+composer: Jan Dismas Zelenka
+parts:
+  continuo:
+    embed_figures: true
+score:
+  hide_figures: true
+  order:
+    - oboe1
+    - oboe2
+    - violini
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

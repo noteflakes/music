@@ -4,6 +4,8 @@ parts:
   continuo:
     embed_figures: true
 movements:
+  03-gloria-patri-I:
+    midi_tempo: 108 4
   04-gloria-patri-II:
     midi_tempo: 80 2
   05-sicut-erat:
@@ -28,3 +30,4 @@ score:
     - bracket: [soprano, alto, tenore, basso]
 macros:
   c1: "[#8. #6 #8. #6]"
+  t1: "\\times 2/3 { [#8-| #-| #-|] }"

@@ -1,0 +1,138 @@
+\relative c' {
+  \time 3/4
+  \key e \minor
+  \tempo "Larghetto ma non troppo"
+  
+  e4\f^"tenuto sempre" (e8. fs6) g4
+  fs ^f8 g2
+  r4 a r
+  fs8 fs4 fs fs8
+  e b' e6-| ds-| e-| ds-| e8 e,
+  r b b'6-| as-| b-| as-| b8 b,
+  cs4 r e
+  fs8 fs4 fs fs8
+  e4 e e
+  e8 a b4 gs
+  ^gs8 a4 r b\p
+  e,8.\f d6 c8 b c a
+  fs'4 fs fs
+  fs8 b cs4 as
+  ^as8 b4 r cs\p
+  fs,8\f fs4 fs fs8
+  b b4 b b8
+  ds,4 r b'
+  r8 e,4 e e8 ~
+  e8 a b4 c
+  ds, fs g
+  fs b, b'
+  (g6 fs8.) (e6 d8.) (c6 b8.)
+  e4 fs2\f^\ten
+  b,4 c b
+  (b6 e8.^\ten) (g6 fs8.) (e6 d8.)
+  cs4 fs ds
+  b8 r6 b' a4 fs
+  e r8 c r b
+  r g'\p a4 fs
+  g4 e ds8 fs
+  $t1 g b g $$ ^fs8 e4\trill r
+  e, g e
+  b' g e
+  c' a as
+  b8 cs ds cs ds b
+  e\f b' e6-| ds-| e-| ds-| e8 e,
+  r b b'6-| as-| b-| as-| b8 b,
+  cs4 r e
+  ds r fs\p
+  b, gs b
+  c r e
+  a, fs a
+  b r r
+  R2.
+  r4 r d
+  g fs e
+  d c b8 b'
+  a a4 a a8 ~
+  a d,\f g6-| fs-| g-| fs-| g8 g,
+  r d' d'6-| cs-| d-| cs-| d8 d,
+  e4 r g
+  fs8\p g a fs6 g a8 fs
+  g4 r b,8 c
+  d b6 c d8 c d b
+  c4 r c
+  b r e,
+  a r d,
+  g r b
+  c a' cs,
+  d  $t1 d' a fs $$ d4
+  r r d
+  b e d
+  (bb'6\f a8.) (g6 f8.) (eb6 d8.)
+  g4 a2\f^\ten
+  d,4 eb d
+  (d6 g8.^\ten) (bb6 a8.) (g6 f!8.)
+  e4 a fs
+  d8 r6 d' c4 a
+  g r8 eb r d
+  r bb'\p c4 a
+  b!\f g fs8 a
+  $t1 b d b $$ g4\p b,8 g
+  d'4 b g
+  c fs, d
+  g8 a b a b a
+  b'\mp b4 b b8
+  $t1 a e c $$ a4 r
+  cs'8 cs4 cs cs8
+  $t1 b fs ds $$ b4 r
+  b'2\f^\ten r4
+  c,8 a' b4 gs
+  a r b\p
+  a8 b c b a g
+  cs2\f^\ten r4
+  fs,8 b cs4 as
+  fs r cs'\p
+  b8 fs4 d b8
+  a' fs4 ds b8
+  b'4 r b
+  b r b
+  b r b
+  ds, r r
+  b' r b
+  cs b b
+  b\f e, e
+  e g e
+  fs r gs\p
+  a8 e4 e e8 ~
+  e e4 e e8
+  fs fs4 fs fs8 ~
+  fs fs4 fs fs8
+  g4 a b
+  a r cs
+  b r r
+  g-|\f fs-| r
+  R2.
+  r1*3/4\fermata
+  e4\ff e e
+  e8 a b4 gs
+  e4 r b'\p
+  e,8. d6 c8 b c a
+  fs'4\ff fs fs
+  fs8 b cs4 as
+  ^as8 b4 r cs\p
+  fs,8\f fs4 fs fs8
+  b b4 b b8
+  ds,4 r b'
+  r8 e,4 e e8 ~
+  e a b4 c
+  ds, fs g
+  fs b, b'
+  (g6 fs8.) (e6 d8.) (c6 b8.)
+  e4 fs2\f^\ten
+  b,4 c b
+  (b6 e8.^\ten) (g6 fs8.) (e6 d8.)
+  cs4 fs ds
+  b8 r6 b' a4 fs
+  e r8 c r b
+  r g'\p a4 fs
+  g\f e ds8 fs
+  $t1 g b g $$ ^fs8 e4\fermata\trill r
+}

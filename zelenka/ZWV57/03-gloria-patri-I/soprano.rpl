@@ -1,0 +1,73 @@
+\relative c' {
+  \time 3/4
+  \key e \minor
+  \tempo "Larghetto ma non troppo"
+ 
+  R2.*32
+  b'4. b8 e4
+  [ds8. e6] e2
+  [a,8 g'] ^g8 fs4. e8
+  ds8. cs6 b4 r
+  R2.*3
+  r4 b b
+  e4. e8 d4
+  [c8 b] c4 a
+  d4. d8 c4
+  b8 d4 g b,8
+  c e4 a cs,8
+  [d g] [fs8.\trill e6] [d8.\trill c!6]
+  b8 e4\trill d\trill c8\trill ~
+  c b4\trill a\trill g8
+  [fs8.\trill e6] d4 r
+  R2.*3
+  r4 a' d
+  b4. a8 b4
+  r d g
+  e4. d8 e4
+  d8 g,4 [d'8 c b]
+  c fs,4 [c'8 b a]
+  b g4 [b8 d f]
+  e a,4 [cs8 e g]
+  [fs6 g a g] [fs8.\trill e6] [d8.\trill c6]
+  [b g' fs e] [d c8.] [b6 a8.]
+  [g8 a] a4.\trill g8
+  g4 r r
+  R2.*8
+  d'4. d8 g4
+  [fs8 g] g4 r
+  e4 d4. c8
+  b8. a6 g4 r
+  f' e4. d8
+  c8. b6 a4 r
+  g' fs4. e8
+  ds8. c!6 b4 r
+  r b e
+  c8. c6 b4 r
+  R2.*2
+  r4 cs fs
+  d8. d6 cs4 r
+  R2.
+  r4 fs fs
+  ds4. cs8 ds4
+  e8 b4 g e8
+  fs' ds4 a fs8
+  g' e4 b g8
+  a' fs4 ds b8
+  [e8. g6] [fs8. a6] [g8. fs6]
+  [e8 cs] ds4.\trill e8
+  e4 r r
+  R2.
+  b4. a8 b4
+  [c8 b] c4 r
+  cs4. b8 cs4
+  d8. cs6 d4 r
+  ds4. cs8 ds4
+  (e fs) g
+  fs4. fs8 e4
+  [ds6 e fs e] [ds8 cs b a]
+  [g6 g' fs e] [ds8 c! b a]
+  g2. ~
+  [g8 fs] fs2^"ad lib."\fermata
+  e2 r4
+  R2.*23
+}

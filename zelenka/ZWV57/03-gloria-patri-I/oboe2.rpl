@@ -1,0 +1,138 @@
+\relative c' {
+  \time 3/4
+  \key e \minor
+  \tempo "Larghetto ma non troppo"
+  
+  (g'8.\f^"tenuto sempre" a6) b4 b
+  b b b
+  e, c' cs
+  b2 r4
+  r8 b e6-| ds-| e-| ds-| e8 e,
+  r b b'6-| as-| b-| as-| b8 fs
+  R2.*2
+  
+  b4-| b-| b^\ten
+  a'8 ^g!8 f4 e d8
+  ^d8 c8. b6 a8 r r4
+  R2.
+  cs4-| cs-| cs^\ten
+  b8 ^a8 g4 fs e8
+  ^e8 d8. cs6 b8 r r4
+  r4 r8 r6 d' ds8.\trill cs3 ds
+  e4 fs g
+  r8 fs-| r e-| [ds8.\trill cs3 ds]
+  e4 a b
+  r8 e,-| r e-| r e
+  $t1 b' fs ds $$ b8 r6 fs' b4
+  r8 a ^g8 fs4.\trill e8
+  (e6 d8.) (c6 b8.) (a6 gs8.)
+  ^gs8 (a4. b6 c) (b8 a)
+  (g!6 e8.) e4 ds
+  (e6 g'8.^\ten) (e6 d8.) (c6 b8.)
+  (as8. b3 cs) ^cs8 b4. a8
+  g-| e'-| c!4 b8. a6
+  g8. e6 fs4-| ds-|
+  e8-| e'-|\p c4 b
+  e,8\f b' c4 b8 ds
+  $t1 e b g $$ ^fs8 e4\trill r
+  R2.*4
+  
+  
+  
+  r8 b'\f e6-| ds-| e-| ds-| e8 e,
+  r fs b6-| as-| b-| as-| b8 fs
+  R2.*11
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 d\f g6-| fs-| g-| fs-| g8 r
+  r d d'6-| cs-| d-| cs-| d8 d,
+  R2.*12
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  (g'6\f f8.) (eb6 d8.) (c6 b8.)
+  ^b8 (c4.^\ten d6 eb) (d8 c)
+  (bb6 g8.) g4 fs
+  (g6 bb'8.^\ten) (g6 f!8.) (eb6 d8.)
+  (cs8. d3 e!) ^e8 d4. c8
+  bb-| g'-| eb4 d8. c6
+  bb8. g6 a4-| fs-|
+  g8-|\p g'-| eb4-| d-|
+  g,8\f d' e!4 d8 fs
+  $t1 g d b $$ g4 r
+  R2.*22
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  g'4 a b
+  r8 c-| r b-| [a8.\trill g3 a]
+  $t1 b fs ds $$ b4\trill r
+  R2.*9
+  
+  
+  
+  
+  
+  
+  
+  
+  r1*3/4\fermata
+  b4-|\ff b-| b^\ten
+  a'8 ^g!8 f4 e d8
+  ^d8 c8. b6 a8 r r4
+  R2.
+  cs4-|\ff cs-| cs^\ten
+  b'8 ^a8 g4 fs e8
+  ^e8 d8. cs6 b8 r r4
+  r4 r8 r6 d ds8.\trill cs3 ds
+  e4 fs g
+  r8 fs-| r e-| [ds8.\trill cs3 ds]
+  e4 a b
+  r8 e,-| r e-| r e
+  $t1 b' fs ds $$ b8 r6 fs' b4
+  r8 a ^g fs4.\trill e8
+  (e6 d8.) (c6 b8.) (a6 gs8.)
+  ^gs8 (a4.^\ten b6 c) (b8 a)
+  (g!6 e8.) e4 ds
+  (e6 g'8.^\ten) (e6 d8.) (c6 b8.)
+  (as8. b3 cs) ^cs8 b4. a8
+  g-| e'-| c!4 b8. a6
+  g8. e6 fs4-| ds-|
+  e8-| e'-|\p c4 b
+  e,8\f b' c4 b8 ds
+  $t1 e b g $$ ^fs8 e4\trill\fermata r4
+}

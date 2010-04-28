@@ -1,0 +1,138 @@
+\relative c {
+  \time 3/4
+  \key e \minor
+  \tempo "Larghetto ma non troppo"
+
+  e4\f g e
+  b' g e
+  c' a as
+  b8 cs ds cs ds b
+  e4 r e,
+  ds r d
+  cs r c
+  b8 cs ds cs ds b
+  e d'4 d c6 b
+  a4 gs e
+  a r gs
+  a8\f b c b c a
+  fs e'4 e d6 cs
+  b4 as fs
+  b r as\p
+  b\f r a!
+  g ds e
+  fs b b,
+  e' c gs
+  a g! c
+  b a g
+  a b b,
+  e a b
+  c ds,2\f^\ten
+  e4 a b
+  e, e e
+  e ds b
+  e a b
+  r8 c r a r b
+  c4\p a b
+  g\f a b
+  e,2 r4
+  e,\p g' e
+  b' g e
+  c' a as
+  b8\f cs ds cs ds b
+  e4 r e,
+  ds r d
+  cs r c
+  b b'\p a
+  gs e gs
+  a, a'4. g!8
+  fs4 d fs
+  g b, g
+  a' c, a
+  b' r fs
+  g fs e
+  d c b8 c
+  d\f e fs e fs d
+  g4 r g
+  fs r f
+  e r eb
+  d8 e!\p fs d6 e fs8 d
+  g4 g, g'8 a
+  b g6 a b8 a b g
+  c4 c, r8 c'
+  b4 b, e
+  a a, r8 d
+  g,4 g' b,
+  c a' cs,
+  d r fs
+  g r d
+  e c d
+  g\f c d
+  eb fs,2\f^\ten
+  g4 c, d
+  g g g 
+  g fs r8 d
+  g4 c d
+  r8 eb r c r d
+  eb4\p c d
+  b\f c d
+  g, b\p g
+  d' b g
+  c fs, d
+  g8 a b a b a
+  gs4\mp gs gs
+  a8 b c b c b
+  as4 as as
+  b8 cs ds cs ds b
+  e,\f d'!4 d c!6 b
+  a4 gs e
+  a r gs\p 
+  a8 b c b a g!
+  fs8\f e'4 e d6 cs
+  b4 as fs
+  b r as\p
+  b8 fs4 d b8
+  a' fs4 ds b8
+  g'4 r g
+  ds r ds
+  e r e
+  fs r fs
+  g ds e
+  a b b,
+  e'\f c gs
+  a g! c
+  b r e\p 
+  a, r a
+  g r g
+  fs r fs
+  b r a
+  g fs e
+  a r as
+  b b, b
+  b b b
+  c b as
+  b2.\fermata
+  e8\ff d'4 d c6 b
+  a4 gs e
+  a r gs\p 
+  a8 b c b c a
+  fs\ff e'4 e d6 cs
+  b4 as fs
+  b r as\p
+  b\f r a!
+  g ds e
+  fs b b,
+  e' c gs
+  a g! c
+  b a g
+  a b b,
+  e a b
+  c ds,2\f^\ten
+  e4 a b
+  e, e e
+  e ds b
+  e a b
+  r8 c r a r b
+  c4\p a b
+  g\f a b
+  e,2\fermata r4
+}

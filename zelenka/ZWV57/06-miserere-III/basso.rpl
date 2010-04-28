@@ -1,0 +1,22 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio"
+ 
+  c4 r r2
+  R1*5
+  g'4.\f g8 g2
+  g, g'4. g8
+  g1
+  g2 c4. c8
+  (f,2 bb)
+  eb, ab
+  ab4\fermata r r2
+  g4. g8 g4 g
+  g2 g
+  g1
+  c,4 c'8 bb ab4.\f g8
+  fs2\ff g ~
+  g r
+  R1*5
+}

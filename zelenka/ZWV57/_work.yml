@@ -21,3 +21,5 @@ score:
     - brace: [oboe1, oboe2]
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+macros:
+  c1: "[#8. #6 #8. #6]"

@@ -46,6 +46,15 @@ editP = \markup { \center-align \concat { \bold { \italic ( }
   
 doux = \markup { \center-align \bold { \italic doux }}
 fort = \markup { \center-align \bold { \italic fort }}
+
+ten = \markup { \italic ten. }
+
+% wigglySpanner = { \once \override TrillSpanner #'style  = #'none }
+
+wigglySpanner =
+{
+  \once \override TrillSpanner #'bound-details #'left #'text = \markup { }
+}
   
 barlineFermata = { \mark \markup { \musicglyph #"scripts.ufermata" } }
 

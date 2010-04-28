@@ -1,6 +1,6 @@
 # Ciconia's Score Repository
 
-This repository contains my edition of various Bach works (and hopefully more composers in the future) typeset using [Lilypond](http://lilypond.org/) and [Ripple](http://github.com/ciconia/ripple/tree).
+This repository contains my edition of works by Bach and other baroque composers typeset using [Lilypond](http://lilypond.org/) and [Ripple](http://github.com/ciconia/ripple/tree).
 
 ## Processing the files
 
@@ -10,7 +10,7 @@ In order to view the scores and parts, the source files need to be converted int
     
 To process BWV676 run the following:
 
-    ripple BWV676
+    ripple bach/BWV676
     
 To process all pieces, run ripple without any arguments (yes, this is going to take a while...)
 

@@ -4,6 +4,8 @@ parts:
   continuo:
     embed_figures: true
 movements:
+  04-gloria-patri-II:
+    midi_tempo: 80 2
   05-sicut-erat:
     midi_tempo: 100 4
 score:

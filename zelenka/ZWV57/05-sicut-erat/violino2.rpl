@@ -1,0 +1,39 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+  \tempo "Andante ma non troppo"
+  
+  g'4.\f f8 e f g e
+  f8. f6 e4 r e' ~
+  e8 d c e a, a d e
+  f4. d8 e f4 e8
+  f4 e8 g a4 g ~
+  g f e8 a, a'4 ~
+  a8 g f4. e6 d e8.\trill f6
+  f4 c,8 d e c g'4 ~
+  g a8 g f4 e
+  d4. e8 f2
+  r8 g4 f8 eb g c,8. c6
+  d4 bb'\f^\ten d2
+  eb c
+  bb4 eb2 d8. d6
+  c8 d eb6 c d eb f8 f, r4
+  g'8 f eb g d4.\trill d8
+  c4 d eb d8 c
+  d d, d' e! f c d4 ~
+  d c d4. c8
+  bb d g,8.\trill f3 g a8 f c8. d6
+  e8 e f2 d4
+  d8 g, d' e f c f4 ~
+  f e f g8 e
+  a8 g f4 r2
+  e8 f g e a4 g
+  a2 g4 f 
+  e8 g c bb6 a g8 c a g6 f
+  e8 c c' d e4. d6 e
+  f8 e d4 c4. bb8
+  a4. g6 a b!8 g c8. d3 e
+  f4 e d4.\trill d8
+  
+  \bar "||" \key g\minor
+}

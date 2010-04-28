@@ -1,0 +1,40 @@
+\relative c {
+  \time 4/4
+  \key c \major
+  \tempo "Andante ma non troppo"
+  
+  \tiny r4 c'4. d8 e c
+  f e6 d c8 d \normalsize c,2
+  e f
+  d c
+  \tiny a'4. g8 f a e4
+  \normalsize f2 a
+  bb g
+  f r4 \tiny c'
+  e f d c 
+  \normalsize bb,2 d
+  eb c
+  bb \tiny g'8 a bb g
+  c4. d8 eb c f4
+  \normalsize eb,2 g
+  ab f
+  eb4 \tiny c'4. bb6 a bb4
+  a g2 f4
+  bb2 \normalsize f,
+  a bb 
+  g f
+  r4 \tiny f' a bb
+  g2 f8 g a b
+  \normalsize c,2 e
+  f d
+  c1 ~
+  c ~
+  c_"tasto solo" ~
+  c2. r8 c
+  d2 e
+  f g ~
+  g1
+  
+
+  \bar "||" \key g\minor
+}

@@ -1,0 +1,24 @@
+\relative c' {
+  \time 3/2
+  \key c \major
+  \tempo "Largo"
+
+  b'2.\f a4 g a
+  b1 b2
+  R1.
+  b2 b b 
+  b1 b2
+  R1.
+  r2 b b
+  b2. b4 a2
+  r c b
+  a2. a4 a2
+  r a a
+  a g g
+  g1. ~
+  g ~
+
+  \tempo "Adagio"
+  g2 fs e
+  fs1.
+}

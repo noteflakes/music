@@ -8,23 +8,35 @@
   c c c c c c c c
   c c c c f f f f 
   bb, bb bb bb eb eb eb eb
-  a, a a a d d d d $$
-  g4. g8 $c1 g g, g g 
+  a, a a a d d d d 
+  g g g g cs, cs cs cs
+  c! c c c c c bb c $$
+  d8 d, d' d, d' d, d' d,
+  d' d, d' d, d' d, d' d,
+  d' d, d' d, d' d, d' d,
+  g'4. g8 $c1 g g, g g
   g g g g g g g g 
-  g g g g g g g g 
-  g g' g g c c c c 
+  g g g g g g g g $$
+  g2 $c1 c' c c c 
   f, f f f bb bb bb bb
-  eb, eb eb eb ab ab ab ab $$
-  ab4\fermata r r2
-  $c1 g g, g' g, g' g, g' g,
+  eb, eb eb eb ab ab ab ab
+  ab ab ab ab g g g ab
+  bb bb, bb' bb, bb' bb, bb' bb, 
+  bb' bb, bb' bb, bb' bb, bb' bb, 
+  bb' bb, bb' bb, bb' bb, bb' bb, 
+  b' b, b b c c c c 
+  g' g g g ab ab ab ab 
+  g g g g f f, f' f, 
+  f' f, f' f, f' f, f' f, 
+  eb' eb eb f g g, g' g, 
+  g' g, g' g, g' g, g' g, 
   g' g, g' g, g' g, g' g,
-  g' g, g' g, g' g, g' g,
-  c' c, c' bb ab\f ab, ab' g
-  fs\ff fs fs fs g g, g g $$
-  g4 r8 g' g,4 r8 g'
+  g' g, g' g, c' c, c' bb
+  ab ab, ab' g fs\ff fs fs fs
+  g g, g g $$ g4 r8 g'
   g,4 r8 g' g,4 r8 g'
   g,4 r8 g' g,4 r8 g'
-  g,4 r8 g' g,4 r8 g'
-  g,2^\markup { \italic { ten. } } ~ g4 ~ g4\p^"tasto solo" ~
-  g2\fermata\pp r2
+  g,4 r8 g' g,4 r8 g'\pp
+  g,4 r8 g' g,2\ff^\ten ~
+  g4 ~ g4\p^"tasto solo" ~ g2\fermata\pp
 }

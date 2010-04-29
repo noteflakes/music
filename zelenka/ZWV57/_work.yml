@@ -4,6 +4,8 @@ parts:
   continuo:
     embed_figures: true
 movements:
+  01-miserere-I:
+    midi_tempo: 66 4
   02-miserere-II:
     midi_tempo: 96 4
   03-gloria-patri-I:
@@ -12,6 +14,8 @@ movements:
     midi_tempo: 80 2
   05-sicut-erat:
     midi_tempo: 100 4
+  06-miserere-III:
+    midi_tempo: 66 4
 score:
   hide_figures: true
   order:

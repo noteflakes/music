@@ -1,0 +1,28 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio"
+ 
+  R1*11
+  r2 bb'4.\f bb8
+  bb2 a4 g
+  a4. a8 g4 d
+  bb'2. [ab8 g]
+  ab2. [g8 fs]
+  g2. [f!8 eb]
+  f2 g4. g8
+  f2 bb, 
+  bb' ab
+  g f ~
+  f eb4. f8
+  g2. fs4
+  g r ab4. ab8
+  ab2. g4 ~
+  g4. g8 g2
+  g g ~
+  g4 g d g
+  g1
+  ab4 r a4. a8
+  g2 g4 r
+  R1*5
+}

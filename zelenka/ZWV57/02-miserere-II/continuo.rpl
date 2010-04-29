@@ -1,0 +1,127 @@
+\relative c {
+  \time 4/4
+  \key c \major
+  \tempo "Andante ma non troppo"
+
+  \tiny \clef treble c'2\f^\ten e
+  f d
+  c4 e4. f8 g e
+  a g f e f c f4 \clef bass
+  \normalsize c,2^\ten e
+  f d
+  c \tiny f4 a
+  e4. f8 \normalsize g,2^\ten
+  b c
+  a \tiny g'^\ten
+  b c
+  a g
+  \normalsize d^\ten fs
+  g e
+  d4 \tiny fs4. g8 a fs
+  b2 e8 d6 cs b8 e
+  \normalsize a,,2^\ten cs
+  d b
+  a \tiny d4 g
+  d' r e,8 fs g e
+  a b c2 b4
+  \normalsize a2^\ten cs
+  d b
+  a r
+  R1
+  e2^\ten gs
+  a fs
+  e \tiny a
+  e'8 d cs e a,4. b6 cs
+  d8 cs b a gs4 a
+  \normalsize d,2^\ten fs
+  g e
+  d4 \tiny fs8 gs6 a b2
+  a8 d4 c8 b c6 d e4
+  c2 \normalsize g,^\ten
+  b c
+  a g4 \tiny g'
+  c, c'4. d8 e c
+  f e6 d c8 d \normalsize c,2^\ten
+  e f
+  d c
+  r8 \tiny a'4 g8 f a e c
+  \normalsize f2^\ten a
+  bb g
+  f r4 \tiny c'^\ten
+  e f d c
+  \normalsize bb,2^\ten d
+  eb c
+  bb \tiny g'8 a bb g
+  c c, c' d eb c f4
+  \normalsize eb,2^\ten g
+  ab f
+  eb4 \tiny c'4. bb6 a! bb4
+  a g2 f4
+  bb2 \normalsize f,^\ten
+  a bb
+  g f
+  r4 \tiny f' a bb
+  g2 f4 a8 b
+  \normalsize c,2^\ten e
+  f d
+  c \tiny f4 a
+  e4. f8 \normalsize g,2^\ten
+  b c
+  a g4 \tiny g'^\ten
+  b2 c
+  a g
+  \normalsize d^\ten fs
+  g e
+  d4 \tiny fs4. g8 a fs
+  b4 b, e'8 d6 c b8 e
+  \normalsize a,,2^\ten cs
+  d b
+  a \tiny d8 fs g g,
+  d'4 r e8 fs g e
+  a b c2 b4
+  \normalsize a2^\ten cs
+  d b
+  a r
+  R1
+  e2^\ten gs
+  a fs
+  e \tiny a4 e' ~
+  e8 d cs e a,4. cs8
+  d c! b a gs4 a
+  \normalsize d,2^\ten fs
+  g e
+  d \tiny b'
+  a8 d4 c8 b4 e
+  c2 \normalsize g,^\ten
+  b c
+  a g
+  r4 \tiny c'4. d8 e c
+  f e6 d c8 d \normalsize c,2^\ten
+  e f
+  d c
+  \tiny a'4. g8 f a e4
+  \normalsize f2^\ten a
+  bb g
+  f4 r r \tiny c'^\ten
+  e f d c
+  \normalsize bb,2^\ten d
+  eb c
+  bb \tiny g'8 a bb g
+  c4. d8 eb c f4
+  \normalsize eb,2^\ten g
+  ab f
+  eb4 \tiny c'4. bb6 a! bb4
+  a g2 f4
+  bb2 \normalsize f,^\ten
+  a bb
+  g f
+  r4 \tiny f'^\ten a bb
+  g2 f8 g a b!
+  \normalsize c,2^\ten e
+  f d
+  c1 ~
+  c_"tasto solo"
+  c2 ~ c
+  \tempo "Adagio"
+  c1\fermata
+}

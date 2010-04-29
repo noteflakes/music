@@ -1,0 +1,127 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+  \tempo "Andante ma non troppo"
+
+  c2\f^\ten e
+  f d
+  g b
+  c a
+  g r4 c ~
+  c8 bb a c f, g a b
+  c4. c,8 f g a g6 f
+  e8 e e f g2
+  r4 g4. f8 e g
+  c4 c, g2\f^\ten
+  b4. g'8 ~ g f e g
+  c, d e fs g fs6 e d8 g
+  a4 r8 fs ~ fs g a fs
+  b a g4. fs8 g e 
+  a2\f^\ten cs
+  d b
+  a8 e6 d cs8 e a,4 r8 a' ~
+  a g fs a d, e fs gs
+  a4 r d,2\f^\ten
+  fs g
+  e d4 b'
+  e,4. e8 e4 r8 a ~
+  a g fs a b4. b8
+  a4 r r e8 fs
+  gs e a2 gs8 e
+  gs b6 a gs8 fs e4. d8
+  cs d e4 fs2
+  r e\f^\ten
+  gs a
+  fs e
+  fs4 r8 fs ~ fs g a fs
+  b a g2 g4
+  a r d,2\f^\ten
+  fs g
+  e d4 d' ~
+  d8 b d2 c4 ~
+  c8 c, c'2 b4
+  c2 r
+  r r4 e, ~
+  e8 d c e a,4 d8 e
+  f8. e6 d8 g e f4 e8
+  f4 e8 a, a'4 g ~
+  g f e a ~
+  a8 g f2 e4
+  f8 c4 d8 e c g'4 ~
+  g a8 g f4 e8 c
+  d f d e f d6 e f8 a 
+  r4 g8. f6 eb8 g c,4
+  bb'2\f^\ten d
+  eb c
+  bb8 a g4. g8 g f
+  eb2 f
+  g8 f eb g d4.\trill d8
+  c4 d eb d8 c
+  d bb d e! f c d4 ~
+  d c d4. c8
+  bb d g,4 a c8. d6
+  e8 e f4. e6 f d4 ~
+  d8 c d e f c f4 ~
+  f8 f e f g f e g
+  c,4. c8 d8. e6 f4 
+  e8 f4 e d c8 ~
+  c g c4. c8 b d' ~
+  d c b d e c g'4 ~
+  g fs g8 b,6 a b8 d
+  g,4 r8 g'4 f!8 e d
+  c d e fs g fs6 e d8. d6
+  d4 r8 fs,4 g8 a fs
+  b a g4. fs8 g e
+  fs4. g8 a2 ~
+  a4 gs8 fs gs a4 gs8
+  a4 r8 e'4 d8 cs e
+  fs g a d,6 e fs8. e6 d4 ~
+  d cs d,2\f^\ten
+  fs g
+  e d
+  e r4 a' ~
+  a8 g fs g6 a b4. b8
+  e,4 r e,4. fs8
+  gs4 a4. a8 gs e6 fs
+  gs8 b6 a gs8 fs e b e d
+  cs d e6 cs d e fs4. fs8
+  b,4 r e2\f^\ten
+  gs a
+  fs d4. e8
+  fs a fs4. g8 a fs
+  b a g4. g8 g e
+  a4 r d,2\f^\ten
+  fs g
+  e d8 d' d, d'
+  d,4 d'2 c4 ~
+  c8 a c, c' b4. a6 b
+  c8 d e f g4. f6 e
+  f8 f, r4 r e' ~
+  e8 d c e a,4 d8 e
+  f4. e6 d e8 f4 e8
+  f4 e8 g a4 g ~
+  g f e8 a, a'4 ~
+  a8 g f4. e6 d e8.\trill f6
+  f4 f,8 d e c g'4 ~
+  g a f e8 e
+  d4. e8 f2
+  r8 g4 f8 eb g c,8. c6
+  d4 bb'\f^\ten d2
+  eb c
+  bb4 eb2 d8. d6
+  c8 d eb6 c d eb f8 f, r4
+  g'8 f eb g d4.\trill d8
+  c4 d eb d8 c
+  d d, d' e! f c d4 ~
+  d c d4.\trill c8
+  bb d g,8.\trill f3 g a8 f c4\f^\ten
+  e f2 d4 ~
+  d8 g, d' e f c f4 ~
+  f e4. f8 g e
+  a g f4 r2
+  e8. f6 g8 e a4 g
+  f4. f8 e4 f8 c ~
+  c d e c e c'4 b6 a
+  \tempo "Adagio"
+  g4. g8 g2\fermata
+}

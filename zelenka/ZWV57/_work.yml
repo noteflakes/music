@@ -4,6 +4,8 @@ parts:
   continuo:
     embed_figures: true
 movements:
+  02-miserere-II:
+    midi_tempo: 96 4
   03-gloria-patri-I:
     midi_tempo: 108 4
   04-gloria-patri-II:

@@ -1,0 +1,127 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+  \tempo "Andante ma non troppo"
+
+  R1*2
+  
+  g'2\f^\ten b
+  c a
+  g r8 c4 bb8
+  a4 c bb a ~
+  a8 a g4 a e
+  g4. f6 e d4 g
+  d r r c' ~
+  c8 b a c b g r b ~
+  b c d b e d c b
+  c2 b
+  R1*2
+  
+  a2\f^\ten cs
+  d b
+  a1
+  R1
+  r8 a4 g8 fs a b a6 g
+  a8 d, d' c b4 r8 c ~
+  c8 b a c gs a4 gs8
+  a2 r
+  fs8 g a fs gs a4 gs8
+  a4 e8-| fs-| g! a b4 ~
+  b4 c b2 ~
+  b b
+  r4 a4. b8 cs a
+  b cs b8. b6 cs8 e a4
+  r e4. d8 cs e
+  a, b6 cs d2 c4 ~
+  c8 b a4 r d ~
+  d8 c b d g, a b a6 g
+  fs8 gs a4. gs6 fs gs4
+  a4 r8 d4 c8 b4 ~
+  b a b4. a8
+  g4 r e8 fs g e
+  a g4 fs8 g4 d
+  e r e'8. d6 c8 e
+  a, b c4. b6 a g4
+  c, r r8 f4 g8
+  a f bb4. bb8 a g
+  a f c'2 c4
+  c1
+  r8 d4 c8 bb d g, g
+  a4. bb8 c2 ~
+  c4 c bb8 a a4 ~
+  a8 a g bb a2
+  R1
+  bb2\f^\ten d
+  eb c
+  bb4 eb2 d4
+  r8 c4 bb8 ab g ab bb6 ab
+  g8 bb eb4 r f,8 g
+  a f bb a g f6 g a4 ~
+  a8 g6 f g8. g6 a4. g6 f
+  e4 a8 g f bb f'4
+  r2 r4 a,8 bb
+  c g a2 g8 f
+  bb4. a6 g a2
+  g2 r8 c4 bb8
+  a a6 bb c8 c bb4 a ~
+  a g8. g6 a8 g6 f e8 f
+  g4. f6 e d4 d'
+  g,8 d' g4 r r8 c, ~
+  c8 b a c b g r b ~
+  b c d b e d c b 
+  c2. b4
+  a4 r r2
+  R1
+  a2\f^\ten cs
+  d b
+  a4 r r2
+  R1
+  r8 a4 g8 fs a b a6 g
+  a8 d, d' c b g r c ~
+  c b a c gs a4 gs8
+  a e a'4 r2
+  fs8 g a fs gs a4 gs8
+  a a, e fs gs a b4 ~
+  b8 e, cs' cs b2
+  b4. b8 b2
+  r4 a4. b8 cs a
+  b cs b e6 d cs4 b
+  r e4. d8 cs e
+  a,8 b6 c! d2 c4 ~
+  c b a8 d, d'4 ~
+  d8 c b d g, a b a6 g
+  fs8 g a4. gs6 fs gs8.\trill a6
+  a4 d4. c8 b b
+  b4 a b4. a8
+  g4 r e8 f g e
+  a g4 fs8 g4 d
+  e r e'8 d c e
+  a, b c4. b6 a g4
+  c,4 g'4. g8 f g
+  a f bb2 a8 g
+  a bb c2 c4
+  c4. c8 c2
+  r8 d4 c8 bb d g, g
+  a f6 g a8 b! c8. c6 c8 c
+  c c, c'4 bb8 a a4 ~
+  a g8 bb a d, d'8. c6
+  bb2 r
+  bb2\f^\ten d
+  eb c
+  bb4 eb2 d4
+  r8 c4 bb8 ab c6 bb ab8. ab6
+  g8 bb eb4 r f,8 g
+  a f bb a g f6 g a4 ~
+  a8 g6 f g4 a4. g6 f
+  e4 a r2
+  r2 r4 a8 bb
+  c g a2 g8 f
+  bb4. a6 g a4.\trill a8
+  g2 r4 c ~
+  c8 bb a c f, g a b
+  c2 c,
+  r4 r8 c'4 bb8 a c
+  g'4 g, c8 e f4 ~
+  \tempo "Adagio"
+  f4 e8 d e2\fermata
+}

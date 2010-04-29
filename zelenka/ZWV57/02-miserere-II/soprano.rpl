@@ -1,0 +1,127 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+  \tempo "Andante ma non troppo"
+  
+  R1*2
+  
+  g'4. g8 b4 b
+  c4. c8 a2
+  g r8 c4 bb8
+  a4 c bb8 bb a4 ~
+  a8 a g4 a8 a e e
+  g4. f6 e (d4 g)
+  d r r c' ~
+  [c8 b a c] b g r b ~
+  [b c] d b e d c b
+  c2 b
+  R1*2
+  
+  a4. a8 cs4 cs
+  d4. d8 b2
+  a1
+  R1
+  r8 a4 g8 fs a b [a6 g]
+  a8 d, [d' c] b4 r8 c ~
+  [c b] a c gs a4 gs8
+  a2. r4
+  fs8 g a fs gs a4 gs8
+  a4 e8 fs g! a b4 ~
+  b c b2 ~
+  b b
+  r4 a4. b8 cs a
+  [b cs] b4 cs2
+  r4 e4. d8 [cs e]
+  a, [b6 cs] d2 c4 ~
+  [c8 b] a4 r d ~
+  [d8 c] [b d] g, a b [a6 g]
+  [fs8 gs] a4. [gs6 fs] gs4
+  a r8 d4 c8 b b
+  b4 a b4. a8
+  g4 r [e8 fs] [g e]
+  a g4 fs6 fs (g4 d)
+  e r [e'8 d] [c e]
+  a, b c4. [b6 a] g4
+  c, r r8 f4 g8
+  a f bb bb bb bb a g
+  a f c'2 c4
+  c1
+  r8 (d4 c8) bb d g, g
+  a4 a8 bb c2 ~
+  c4 c [bb8 a] a4 ~
+  a8 a [g bb] a2
+  R1
+  r8 bb4 bb8 d4 d
+  eb4. eb8 c2
+  bb4 eb2 d4
+  r8 c4 bb8 [ab g] ab [bb6 ab]
+  g2 r4 [f8 g]
+  a f bb a g [f6 g] a4 ~
+  [a8 g6 f] g4 a4. [g6 f]
+  (e4 a) f2
+  r2 r4 [a8 bb]
+  [c g] a2 g8 f
+  bb4. [a6 g] a2
+  g r8 c4 bb8
+  a a6 a c8 c bb4 a ~
+  a g a e8 f
+  g4. [f6 e] d4 d'
+  g,4. g8 g4 r8 c ~
+  [c b] a c b g6 g b4 ~
+  b8 c d b [e d] [c b]
+  c2. b4
+  a r r2
+  R1
+  a4. a8 cs4 cs
+  d4. d8 b2
+  a1
+  R1
+  r8 a4 g8 [fs a] b a6 g
+  a8 d, d' c6 c b8 g r c ~
+  [c b] a c (gs a4) gs8
+  a2. r4
+  fs8 g a fs gs a4 gs8
+  a a e fs6 fs gs8 a b4 ~
+  b cs8 cs b2 ~
+  b4 b b2
+  r4 a4. b8 cs a6 a 
+  [b8 cs] b [e6 d] cs4 b
+  r e4. d8 [cs e]
+  a, [b6 c] d4. d8 c4 ~
+  c b a d ~
+  [d8 c] [b d] [g, a] [b a6 g]
+  [fs8 g] a4. [gs6 fs] gs4
+  a d4. c8 b b
+  b4 a b4. a8 
+  g4 r [e8 f] g e
+  a g4 fs8 g4 d
+  e r [e'8 d] c e
+  a, b c4. [b6 a] g4
+  c,8 c g'4. g8 [f g]
+  a f bb2 a8 g
+  [a bb] c4. c8 c4
+  c2 c
+  r8 d4 c8 bb d g, g
+  a a a b! c8. c6 c8 c
+  c4 c8 c bb a a4 ~
+  a [g8 bb] a4 d8. c6
+  bb2 r
+  r8 bb4 bb8 d4 d
+  eb4. eb8 c2
+  bb4 eb2 d4
+  r8 (c4 bb8) ab ab6 ab ab8. ab6
+  g2 r4 f8 g
+  a f [bb a] [g f6 g] a4 ~
+  a8 [g6 f] g4 a4. [g6 f]
+  e8. e6 f2 r4
+  r2 r4 [a8 bb]
+  c g a4. a8 g f
+  bb8. bb6 bb8 [a6 g] a4. a8
+  g2 r4 c ~
+  [c8 bb] [a c] [f, g a b]
+  c2 c,
+  r2 [c'8 bb] a c
+  g'4 g, c4. [b!6 a]
+  \tempo "Adagio"
+  g4. g8 g2\fermata
+}

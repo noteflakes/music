@@ -1,0 +1,42 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio"
+  
+  r2 g'8.\f^\ten g6 g8. g6
+  $c1 g g g g f f f f 
+  f ab ab f g g g g 
+  c c c c c c c c 
+  c c bb bb bb bb bb bb
+  bb bb a a a a a a 
+  a a g g g g g g 
+  eb eb eb eb d d d d 
+  d d a' a a a g g 
+  g g f f eb eb e e $$
+  fs4 g2 fs4
+  g2 $c1 d' d d d
+  d d d d c c c c 
+  c d eb eb d d, d d 
+  d d' d g, eb' eb, eb eb $$
+  eb8-| ([eb' d cs]) $c1 d d, d d $$
+  d8-| ([d' c! b]) $c1 c c, c c $$
+  bb8-| ([ab' g f]) $c1 bb ab g g 
+  f f f f $$ bb,4 r
+  r8 ([bb' ab g]) r ([ab g f])
+  r (g f eb) $c1 f f f f 
+  f f f f eb eb eb f
+  g g g g g g fs fs $$
+  g4 r ab4. ab8
+  ab4. f8 b-| ([b c d])
+  $c1 g, eb' eb eb d d d d 
+  d d c c c c bb bb 
+  ab ab a a $$ b4 c ~
+  c b c8 ([c c c])
+  r (c c c) r c-|\ff c-| c-|
+  r (c b a) b-| ([d, c b])
+  r (eb d c) r (f eb d)
+  r (f eb d) eb2 ~
+  eb4 d8 c d8 ([d\pp c b])
+  r (c b a) c4.\ff^\ten c8 
+  d4 ~ d\p ~ d2\pp\fermata
+}

@@ -1,0 +1,42 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio"
+  
+  (eb6_\markup { \italic { sempre \dynamic ff } } eb eb eb) (eb eb eb eb) eb eb eb eb eb eb eb eb
+  eb eb eb eb eb eb eb eb f c c c c c c c
+  d d d d d d d d eb eb eb eb eb eb eb f
+  g g g g g g g g ab ab ab ab ab ab ab ab 
+  ab ab ab ab ab ab ab ab g g g g g g g g 
+  g g g g g g g g fs fs fs fs fs fs fs fs
+  g g g g d d d d e e e e e e e e 
+  a, a a a a a a a a a a a bb bb bb bb
+  bb bb bb bb a a d d d d d d d d d d 
+  d d d d d d d d g, g g g g g g g 
+  a a a a bb bb bb c d d d d d d d d
+  bb' bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb 
+  bb bb bb bb bb bb bb bb a a a a a a a a 
+  a a a a a a a a g bb bb bb bb bb bb a
+  g g g g g g g g g g g g c c c c 
+  c c c c f, f f f f f f f bb bb bb bb 
+  bb bb bb bb eb, eb eb eb eb eb eb eb ab ab ab ab
+  f f f f f f f f g g g g g bb bb bb 
+  bb bb bb bb bb bb bb bb d d d d eb bb bb bb 
+  bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb 
+  bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb 
+  g g g g g g g g g g g g g g g g 
+  g g g g g g g g eb eb eb eb eb eb c c 
+  c c c c c c b b c c c c f f f f 
+  f f f f f f eb eb  d d d d d d d d 
+  eb g g g g g g g g g g g g g g g 
+  b b b b c g g g g g g g g g g g 
+  g g g g g g g g d d d d g g g g 
+  g g g g g g g g g g g g g g g g 
+  ab ab ab ab ab ab ab ab a a a a a a a a 
+  g g g g g g g g g g, g g g g' g g 
+  eb eb eb eb eb eb eb eb b d d d d b b b 
+  b b b b b g g g g g g g g g g g 
+  g g g g g g g g g\pp g g g g g g g
+  g g g g g g g g a4.\ff^\ten a8 
+  b4 ~ b\p ~ b2\pp\fermata
+}

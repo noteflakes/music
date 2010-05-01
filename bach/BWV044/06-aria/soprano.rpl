@@ -1,0 +1,60 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  R1*7
+  
+  
+  
+  
+  
+  
+  r2 r4 r8 bb'
+  a bb f4 ~ f8 bb ([eb6 f3 g]) f8
+  d4 r8 d e f bb,4 ~
+  [bb6 c3 d] c8 a [g6 f] [f8 g6 a] [bb a bb c]
+  [d c d eb] [d f eb d] [c bb c d] [c eb d f]
+  [eb d eb f] [eb g f eb] [d c bb d] [c eb d c]
+  [d c bb d] [c bb a c] [bb a g bb] a8 [g6 f]
+  c'8 [f6 d] e8. f6 f4 r
+  R1
+  r4 r8 c b c g4 ~
+  g8 c [d6 eb3 f] [eb6 d] eb4 r8 eb
+  d eb ab,4. ([c6 bb]) ([bb ab]) ([ab g])
+  g4 r8 g [a!6 bb] [bb c] [c d] [d eb]
+  ([eb f3 g]) c,8 f [g6 f] [eb d] [c bb] d8 c
+  [bb6 f g a] [bb c d8] ~ [d6 a bb c] [d eb f8] ~
+  [f6 c d eb] [f g3 f] [eb6 d] [c bb3 a bb6] eb d8 [c6 bb]
+  bb8 [eb6 d] g8 f [bb,6 a] [g f] eb'8 d6 c
+  [d bb] [g c] a8. bb6 bb4 r
+  R1*7
+  
+  
+  
+  
+  
+  
+  r2 r4\fermata r8 d
+  c [d6 bb] c4. d8 [eb6 f3 g] f8
+  [d6 g3 f g6 eb] [c8 f] ~ [f6 eb3 d eb6 c] [a8 d] ~
+  d g,6 fs g8 a d,4 ~ [d6 e (e fs)]
+  [(fs g) (g a)] [(a bb) (bb c)] c8 d,6 c' c8 c
+  c d, r4 r r8 d'
+  eb d g4. b,8 ([c6 d3 eb]) d8
+  [g,8. a6] [a8.\trill g3 a] [b8 ~ b3 g a b] [c d eb f] [eb d eb c]
+  f8 g,6 f' f8 f f g, r g'
+  eb [f6 d] eb8 f d [eb6 c] d8 g6 eb
+  c8 [d6 bb] c8 d bb [c6 a] $s bb c bb d eb d
+  a bb a d eb d $$ g,6 g' f eb [d c] [eb d] bb8 [a6 g]
+  g4 r r2
+  R1*2
+  
+  r2 r8 a d eb!
+  f d [b6 c3 d] g,8 ([f'6 eb] [eb d]) ([eb d] [d cs])
+  cs8 a6 b [cs d] [e fs] ([g fs] [fs e]) ([fs g3 a]) d,6 g
+  eb!8 [f!6 c] d8 [eb6 bb] c8 [d6 a] bb8 a6 bb
+  c eb d c bb8 [a6 g] $s g a g bb c bb a bb a c d c
+  bb c bb d eb d c d c eb f eb $$ d8 r6 g, $s bb c bb d eb d $$
+  ([g6 f3 eb] d6)  c bb8 [a6 g] g4 r
+  \dacapo
+}

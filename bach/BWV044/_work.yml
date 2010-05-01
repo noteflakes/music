@@ -13,6 +13,8 @@ movements:
     midi_tempo: 90 4
   04-choral:
     midi_tempo: 80 4
+  06-aria:
+    midi_tempo: 74 4
   07-choral:
     midi_tempo: 84 4
 score:
@@ -39,3 +41,8 @@ macros:
   t2: "([#8*2/3 # #])"
   t3: "[#8*2/3 #] #"
   t4: "([#8*2/3 #]) #"
+  c1: "\\times 2/3 { [(#6 # #) } #8-.]"
+  c2: "[(#6*2/3 # #) #8-.]"
+  c3: "(#6 #)"
+  s: "\\times 2/3 { [#6 # #] }"
+  

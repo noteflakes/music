@@ -1,6 +1,9 @@
 title: Cantata BWV 44
 subtitle: "\"Sie werden euch in den Bann tun euch\""
 composer: Johann Sebastian Bach
+movements:
+  01-aria:
+    midi_tempo: 120 4
 score:
   order:
     - oboe1

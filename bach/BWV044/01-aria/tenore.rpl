@@ -1,0 +1,65 @@
+\relative c' {
+  \key g \minor
+  \time 3/4
+
+  R2.*24
+  d4 d d
+  e g, e'
+  f2. ~
+  f ~
+  [f8 d eb! c bb c]
+  a4 fs'4. [e6 fs]
+  g2. ~
+  g ~
+  g4 f! d
+  eb2. ~
+  eb4 [d8 c] d4 ~
+  d ([c8 bb]) c4
+  c2. ~
+  c4. a8 bb4 ~
+  bb8 d ([c bb a bb6 g])
+  fs2 r4
+  R2.
+  d'4 d d
+  e g, e'
+  f2. ~
+  f ~
+  [f8 d eb! c bb c]
+  a4 fs'4. [e6 fs]
+  g2. ~
+  g4 [f!8 eb!] f4 ~
+  f [eb8 d] eb4 ~
+  eb [d8 c] d4
+  d2. ~
+  d4. b8 c4 ~
+  c8 eb ([d c b c])
+  b2 r4
+  R2.*3
+  
+  
+  d4 d d 
+  e g, e'
+  f2. ~
+  f ~
+  [f8 d eb! c bb c]
+  a4 fs'4. [e6 fs]
+  g2. ~
+  g
+  f!4 r r
+  r8 g, a bb c4 ~
+  c bb2 ~
+  bb4 a2 ~
+  a4 g bb
+  [eb8 d] [eb f] g4 ~
+  g f eb
+  d2. ~
+  d4 [eb8 d c bb]
+  c2. ~
+  c4 bb a
+  [d8 eb] (bb4 a)
+  g2 r4
+
+  R2.*8
+  
+  \bar "||" \time 4/4
+}

@@ -1,0 +1,40 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  g'4^"(oboe II)" r r2
+  r4 bb8\f^"(violino I, oboe I)" bb bb g e' e 
+  d4 r r2
+  r4 c8 c c4 b8 b
+  c4 r eb r
+  r db2\p cb4 ~
+  cb bb2 a!8 c\f
+  fs4 fs r2
+  r4 r8 g e g r g
+  c, f r f d f r f
+  bb, eb r eb eb, d6 c f8. eb6
+  d8 bb' g eb eb4 d
+  eb eb8 g c bb a a 
+  bb4 r r2
+  r4 c8 c c f b, b
+  c4 r r2
+  r e4 r
+  r f2\p eb4 ~
+  eb d2 c8 c\f
+  cs4 cs r2
+  r8 d a d r g d g
+  r c, g c r f c f
+  r bb, d bb eb, f6 g a8. bb6
+  c8 f, f g f4 f
+  f r r a ~
+  a8 g6 fs g4 ~ g8 f ~ f g6 a
+  g8 a6 bb c8 b ~ b bb ~ bb a6 g
+  a2 ~ a4. bb6 c
+  d8 d,4 e8 f2
+  g4 a (g8 f eb! d)
+  g4 g r8 d' d d
+  d r r4 r8 c c c 
+  c r r4 r8 bb d bb
+  g2 a8 g6 fs g8 g
+  g4 fs d2\fermata
+}

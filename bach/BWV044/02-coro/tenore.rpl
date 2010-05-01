@@ -1,0 +1,40 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  r4 bb8 d d4 cs8 cs
+  d4 r r2
+  r4 d8 d d4 d8 b
+  c4 r r2
+  r4 c r c8\p c
+  [f eb db ab] [g bb] eb4 ~
+  [eb8 db6 c] db2 c8 c\f
+  c4 c r2
+  r8 d d d c r r4
+  r8 c6 c c8. c6 bb4 r
+  r8 bb bb bb ab bb6 c d8.\trill eb6
+  bb8 eb bb c bb4 ([ab6 g ab8])
+  g4 r r2
+  r4 d'8 d e4 e8 e 
+  c4 r r2
+  r4 c8 c c4. bb6 a 
+  g4 d' r g,8\p bb
+  [c bb ab eb'] [d eb6 f] bb,4 ~
+  [bb8 ab6 g] ab2 g8 g\f
+  e'4 e r2
+  r8 d d d d r r4
+  r8 c6 c c8. c6 c8 r r4
+  r8 bb bb bb bb a!6 g c8. bb6
+  a8 f' d bb bb4 a
+  f r r2
+  r4 eb'8 c a bb6 c d4 ~
+  d c8-. r d [e6 fs] [g8 fs] ~
+  [fs f] ~ [f e6 d] e2 ~
+  [e8 d6 cs] d4 cs d8 f
+  e4 eb ~ [eb8 d] c b
+  c4 c r2
+  r8 d d d c r r4
+  r8 c6 c c8. c6 bb8 r r4
+  r8 eb fs, g a ([d6 eb d c]) ([bb a])
+  [bb8 c] [d c] b2\fermata
+}

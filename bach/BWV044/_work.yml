@@ -13,6 +13,8 @@ movements:
     midi_tempo: 90 4
   04-choral:
     midi_tempo: 80 4
+  07-choral:
+    midi_tempo: 84 4
 score:
   order:
     - oboe1

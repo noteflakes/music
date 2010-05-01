@@ -1,0 +1,19 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  \partial 4
+    bb4
+  g a [bb8 c] d4
+  (d c) bb\fermata bb
+  bb bb f' f
+  (f e) f\fermata a,
+  bb eb [f8 a,] bb4
+  a2.\fermata d4
+  d c [bb8 c] d4
+  ([c8 b] a4) b\fermata bb
+  [a8 g] [a bb] c4 [bb8 c]
+  (d4 c) c\fermata d
+  d c bb [bb8 c]
+  [d bb] [f' eb] d4\fermata
+}

@@ -9,6 +9,8 @@ movements:
     midi_tempo: 120 4
   02-coro:
     midi_tempo: 96 4
+  03-aria:
+    midi_tempo: 90 4
 score:
   order:
     - oboe1
@@ -26,3 +28,10 @@ score:
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
   hide_figures: true
+macros:
+  d: "#8. #6"
+  t: "\\times 2/3 { [#8 # #] }"
+  t1: "[#8*2/3 # #]"
+  t2: "([#8*2/3 # #])"
+  t3: "[#8*2/3 #] #"
+  t4: "([#8*2/3 #]) #"

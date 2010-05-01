@@ -1,0 +1,84 @@
+\relative c' {
+  \key g \minor
+  \time 3/4
+
+  R2.*12
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  (g'4 [f8 eb]) ([d c])
+  ab'4 f2\trill
+  (g4 c,) ([eb8 d])
+  [b c] d2
+  (eb4 ab) g
+  c (ab4.\trill [g6 ab])
+  (bb4 [c8 bb]) ([ab g])
+  ^f8 eb2 r4
+  (g4 c) ab
+  ab\trill g2
+  ([g8*2/3 ab g] [f eb d] [f eb]) d
+  [d8. eb6] c2
+  ([d8*2/3 eb f] [g a! b] c8.) d6
+  (g,4. [ab6 bb]) ab4 ~
+  [ab8*2/3 g f] g8. ab6 [eb8*2/3 f] d
+  c4 g'4 ~ g8. ab6
+  [bb8*2/3 c db] ~ [db c] bb [bb ab] g
+  ([c8. ab6]) f4 [b8*2/3 c] d!
+  ([g,8. f6] [eb8*2/3 ab]) g [f eb] d
+  c4 r $t4 g' ab bb
+  ab g f f eb d d c b $$
+  $t3 c d eb f g ab eb d c $$
+  c2 r4
+  R2.*11
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  (g'4 [ab8 g]) ([f eb])
+  bb'2. ~
+  bb8. db6 [c8. bb6] [ab8*2/3 bb g]
+  ab4 f2
+  [a!8. b6] (b4. [a6 b])
+  c2. ~
+  c8. d,6 [e8. fs6] [g8*2/3 bb a]
+  bb4 g2
+  r4 ab ab
+  (ab4 g2) ~
+  g2. ~
+  (g4 fs8.) g6 $t3 a! bb c $$
+  eb,2. ~
+  (eb4 d) r
+  bb' (g4. [fs6 g])
+  a2 d,4
+  ([eb8*2/3 c' bb] [a g f]) [eb d eb]
+  ([d f a]) ^a8 bb4 $t3 a fs g $$
+  c,2. ~
+  $t1 c d e fs g a $$ $t3 bb c a
+  d c bb $$ $t1 bb a g g a bb $$
+  (eb,4 d2) ~
+  d2. ~
+  (d4 cs8.) d6 $t3 e fs g $$
+  (g4 [fs8.) a6] c4 ~
+  c bb4. g8
+  ab2. ~
+  ab8. c6 b4. c8
+  c2. ~
+  c8*2/3 d c $t3 b a! g f! eb! d $$
+  $t1 eb fs g $$ $t3 a bb c eb, d c $$
+  $t1 bb eb d $$ $t3 g fs bb $$ [a6*2/3 bb c8*2/3] fs,
+  g2.
+}

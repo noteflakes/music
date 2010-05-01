@@ -1,0 +1,85 @@
+\relative c {
+  \key g \minor
+  \time 3/4
+
+  c2 c'4 ~
+  c b8 a b4
+  c f, bb
+  eb,2 ab4
+  d, g g,
+  c2 bb4
+  ab (eb8. g6) (f8. ab6)
+  g4 g'8 a! b4
+  c e,2
+  f4 b,2
+  c4 f, g
+  c,4. c'8 eb g
+  c4 c, eb ~
+  eb d8 c b a
+  b4 eb f
+  g4. f8 eb d
+  c4. bb8 c d
+  eb4. d8 eb f
+  g4 ab bb
+  eb,2 r4
+  c8 d eb4 f
+  b,4. g8 a b
+  c4 ab bb!
+  eb, ab8 g f eb
+  d4 d' a!8. b6
+  c4 ab' f
+  b,8. d6 c8. f6 g8. g,6
+  ab4 e f
+  c c' e
+  f4. eb!8 d c
+  b8. g'6 ab8. f6 g8. g,6
+  c4. d8 e c
+  f8. g6 $t ab g f f eb! d $$
+  $d eb c ab' f g g, $$
+  c2_\editF c'4 ~
+  c b8 a b4
+  c f, bb
+  eb,2 ab4
+  d, g g,
+  c2 bb!4
+  ab (eb8. g6) (f8. ab6)
+  g4 g'8 a b4
+  c e,2
+  f4 b,2
+  c4 f, g
+  c,4.\fermata c8_\editP eb g
+  c4 bb ab
+  g4. f8 e8. g6
+  c4 e c
+  f f, eb'! ~
+  eb $d d c d g, $$
+  c4. a8 fs8. a6
+  d,4 r8 d' e8. fs6
+  g4 g, g'
+  c, $d f eb d c $$
+  $t b d' c b a g $$ $t1 f eb d
+  c d c b a g f eb d
+  c c' bb a c bb c d eb $$
+  $d fs, g a bb c a
+  bb a bb c d d, $$
+  g2 g'4 ~
+  g fs8 e fs4
+  g c, f!
+  bb,4. g8 c8. d6
+  eb4 c a
+  d4. d'8 c8. d6
+  g,4 f eb
+  $t fs, d' e $$ $t1 fs g a c, bb a $$
+  b4. a8 g8. f!6
+  $t e cs' d $$ $t1 e f g cs, b a $$
+  d4 ~ $d d e fs d $$
+  bb4. a8 bb8. eb6
+  $t c d eb $$ $t1 f g ab eb d c
+  b ab' g f eb d $$ g4 ~
+  g4 $d f eb f d $$
+  eb4 $d d b g b $$
+  c4 ~ $d c fs, d fs
+  g bb eb c d d, $$
+  g2.
+  \dacapo
+}

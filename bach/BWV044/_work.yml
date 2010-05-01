@@ -11,6 +11,8 @@ movements:
     midi_tempo: 96 4
   03-aria:
     midi_tempo: 90 4
+  04-choral:
+    midi_tempo: 80 4
 score:
   order:
     - oboe1

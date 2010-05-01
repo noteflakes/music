@@ -1,0 +1,23 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  R1*2
+  
+  r2 r4 eb
+  eb [eb8 d] [c d] eb4
+  [f8 eb] [d6 c d8] c4 r
+  R1
+  r2 r4 c
+  d eb f ([bb,8. c6])
+  d4 c bb r
+  R1
+  r2 r4 d
+  eb f g eb
+  [f8. g3 ab] ([g8. f6]) f4 r
+  R1
+  r2 r4 eb
+  f g f eb
+  [eb8. f6] d4 eb r
+  R1*2
+}

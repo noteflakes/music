@@ -1,0 +1,84 @@
+\relative c' {
+  \key g \minor
+  \time 3/4
+
+  eb'4 c4.\trill b6 c
+  d2 g,4
+  $t2 ab f' eb d c bb $$ $t1 ab g f
+  g c b $$ (c4. d6 eb)
+  $t2 f, d' c b a! g $$ $t1 f eb d $$
+  $t2 eb g b $$ (c4. d6 eb)
+  $t2 f g ab g f eb d eb c $$
+  (d8. b6) g4. f'8
+  $t2 f e f g ab bb db, c bb $$
+  $t1 ab b c d! eb f ab, g f
+  eb ab g c b eb d c b $$
+  c4 c,2
+  R2.*7
+  
+  
+  
+  
+  
+  
+  r8*2/3 ([eb\p f]) ([g ab bb]) [c eb d]
+  eb4 (c4.\trill b6 c)
+  d2 g,4
+  $t2 ab f' eb d c bb $$ $t1 ab g f
+  g c b $$ (c4. d6 eb)
+  $t2 f, d' c b a! g $$ $t1 f eb d $$
+  $t2 eb g b $$ (c4. d6 eb)
+  $t2 d eb f eb d c $$ $t1 g c b $$
+  c4 ~ $t1 c g ab bb c db $$
+  $t2 db e f g ab bb db, c bb
+  ab b c d! eb f ab, g f
+  f ab g c b eb d c b $$
+  c4 c,2 ~
+  c2. ~
+  c2 r4
+  eb'4\f c4.\trill b6 c
+  d2 g,4
+  $t2 ab f' eb d c bb $$ $t1 ab g f
+  g c b $$ (c4. d6 eb)
+  $t2 f, d' c b a! g $$ $t1 f eb d $$
+  $t2 eb g b $$ (c4. d6 eb)
+  $t2 f g ab g f eb d eb c $$
+  (d8. b6) g4 ~ $t1 g b d $$
+  $t2 f e f g ab bb db, c bb
+  ab b c d! eb f ab, g f
+  eb ab g c b eb d c b $$
+  c4 c,2\fermata
+  R2.
+  r8*2/3 e'\p f $t2 g ab bb db, c bb $$
+  e4 r r
+  r8*2/3 f eb! $t2 db c bb ab g f $$
+  c'8. d!6 (d4.\trill c6 d)
+  $t2 eb fs g a! bb c eb, d c $$
+  fs4 r r
+  r8*2/3 g f! $t2 eb d c bb a g $$
+  eb'4 (c4.\trill b6 c)
+  d2 g,4
+  f' (d4.\trill c6 d)
+  eb4 c2
+  r8*2/3 a bb [c d eb] [bb a g]
+  [fs eb' d] [g fs bb] ([a g fs])
+  g4 r r
+  R2.*3
+  
+  
+  r8*2/3 [g f] [eb d c] [bb a g]
+  fs4 r r
+  bb' (g4.\trill fs6 g)
+  a2 d,4 ~
+  $t1 d g, a bb c d f,! e d $$
+  g2 r4
+  r8*2/3 [fs' g] $t1 a bb c eb, d c
+  d e fs g a bb d, c bb $$
+  eb4 (c4.\trill b6 c)
+  d2 g,4
+  $t2 ab f' eb d c bb ab g f $$
+  g2. ~
+  $t1 g a! bb c d eb fs g a $$
+  d,4 r r
+  R2.
+}

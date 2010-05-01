@@ -1,0 +1,93 @@
+\relative c' {
+  \key g \minor
+  \time 3/4
+  
+  g'4 g g
+  a c, a'
+  bb2. ~
+  bb ~
+  bb8 g ab f eb f
+  d4 b'4. a6 b 
+  c2. ~
+  c ~
+  c8 a bb! g f g
+  e4 cs'4. b6 cs
+  d2. ~
+  d4 c!2 ~
+  c4 bb2 ~
+  bb4 a2 ~
+  a8 g a bb g' c,
+  bb g a bb c, c'
+  bb a bb c a' d,
+  c a bb c d, d'
+  c bb c d bb' d,
+  c bb a g fs g
+  fs a c4. a8
+  bb g' (g4 fs8.) g6
+  g4 r r
+  R2.
+  g,4\p d' g ~
+  g8 f g e cs g'
+  f g f d c! d
+  b4 d g ~
+  g8 f g eb d eb 
+  c bb' a g fs a
+  d,4 r r
+  R2.
+  r8 f\p g ab b, f'
+  eb4 r r
+  r8 a, bb c d, c'
+  bb g a bb c, bb'
+  a a bb c fs, a
+  d,4 r r
+  R2.
+  r8 c'\f d eb fs, d'
+  c bb c d e, c'
+  bb a\p bb c d, bb'
+  a g a bb cs, g'
+  f4 a c!
+  b g'2 ~
+  g8 fs g a c, eb
+  d c d eb a, c
+  d,4 r r
+  r8 c' d eb f, eb'
+  d \ficta b c d eb, d'
+  c ab bb c d, c'
+  b f g ab d, f
+  b4 r r
+  R2.
+  d2.\f ~
+  d4 c2 ~
+  c4 bb2\p ~
+  bb4 a2 ~
+  a8 fs' g a bb, ab'
+  g e f! g bb, g'
+  f4 r r
+  r d g ~
+  g8 f g eb d eb
+  c bb a g fs a
+  d,4 r r
+  R2.
+  r8 d'\p eb f g4 ~
+  g8 c, d eb f4 ~
+  f8 bb, c d eb4 ~
+  eb8 a, bb c d4 ~
+  d8 g, a bb g' c,
+  bb g a bb c, c'
+  bb a bb c a' d,
+  c a bb c d, d'
+  c bb c d bb' d,
+  c bb a g fs g
+  fs a c4. a8
+  bb c d eb a, c
+  bb bb\f c d eb, d'
+  c a bb c d, eb'
+  d b c d g, ab'
+  g eb f g a,! g'
+  fs g6 a d,2 ~
+  d4 cs8 b cs4
+  c!2. ~
+  c8 d, eb d bb'4 ~
+  bb8 a a4. g8 
+  \bar "||" \time 4/4
+}

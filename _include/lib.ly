@@ -1,3 +1,11 @@
+\midi {
+  \context {
+  \Score
+    midiMinimumVolume = #1
+    midiMaximumVolume = #1
+  }
+}
+
 #(ly:set-option 'point-and-click #f)
 
 ficta = {

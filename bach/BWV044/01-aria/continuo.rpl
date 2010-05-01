@@ -1,0 +1,93 @@
+\relative c {
+  \key g \minor
+  \time 3/4
+  
+  g'4 bb eb ~
+  eb8 d eb c fs, eb'
+  d c d bb g bb
+  g f! g e d cs
+  d4 d' c!
+  b8 a g f eb d
+  c4 c' a
+  d8 eb d c bb a
+  g4 f e
+  a8 bb a g f e
+  d4 b g
+  c a f
+  bb g eb
+  a fs d
+  g g' g
+  c, c'8 bb a g
+  f4 a a
+  d, d'8 c bb a
+  g4 fs g
+  a bb c
+  d, e fs
+  g8 eb d4 d,
+  g g'2 ~
+  g4 fs2
+  g4 a bb
+  cs,2.
+  d4 c! d
+  g, f g
+  c d eb
+  a, d d, 
+  g g' bb
+  cs,8 bb' a g f e
+  d4 eb!8 f g4
+  c, c' a
+  fs bb g
+  eb a fs
+  d2. ~
+  d8 bb c d g, bb
+  eb,2.
+  d4 fs d
+  g a8 bb c4
+  f, g8 a bb4 ~
+  bb8 e f g a4
+  d, f d
+  g b g
+  c c, eb
+  fs,8 eb' d c bb a
+  g4 ab8 bb c4
+  f, f' d
+  b eb c
+  ab d b
+  g2. ~
+  g8 eb' f g c, eb
+  ab,2.
+  g4 b g
+  c d8 eb f4
+  bb, c8 d eb4 ~
+  eb8 a, bb c d4
+  g, bb g
+  c e c
+  f, f' ab
+  b,8 ab' g f eb d
+  c4 d eb
+  a, d d,
+  g g' bb
+  cs,8 bb' a g f e
+  d4 b g
+  c a f
+  bb g eb
+  a fs d
+  g g' g
+  c, c'8 bb a g 
+  f4 a a 
+  d, d'8 c bb a
+  g4 fs g
+  a bb c
+  d, e fs
+  g8 eb d4 d,
+  g g' g
+  a d, a'
+  b g b
+  c2. ~
+  c4 bb8 a g f
+  e4 a, e'
+  fs d fs
+  g bb, eb
+  c d d,
+  \bar "||" \time 4/4
+}

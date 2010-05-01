@@ -1,0 +1,60 @@
+\relative c {
+  \key g \minor
+  \time 4/4
+
+  bb'8 f g d eb c d eb
+  f g a f bb c d c
+  bb e, a d, g c, d bb
+  c bb c c, f f' eb d
+  g a b g c g eb g
+  c, bb a g f f' d bb
+  eb c' d, bb' c, a' bb, d
+  eb c f f, bb6 c_\editP d f bb8 d
+  c bb $c1 a bb c eb, $$ d g c, f
+  bb, d $c1 g a bb g $$ c, d $c1 e f g bb, $$
+  a f c' c, f f' g a
+  bb f g d eb g eb bb
+  c a f a bb d eb f
+  bb e, a d, g c, d g,
+  a bb c c, f c' d a
+  bb d bb' a g f c' c,
+  f g f eb d c $c2 b c d f, $$
+  eb ab f g c d eb c
+  f eb $c2 d eb f c $$ bb ab g bb
+  eb, bb' eb d c bb a g
+  f eb d bb' g' eb f f,
+  bb f' d bb eb c' d, bb'
+  c, a' bb, d eb c f f,
+  g g'6 f eb8 d c bb $c2 a bb c f, $$
+  bb eb f f, $c2 bb' c d f, d eb f bb, $$
+  bb'_\editF f g d eb c d eb
+  f g a f bb c d c
+  bb e, a d, g c, d bb
+  c bb c c, f f' eb d
+  g a b g c g eb g
+  c, bb a g f f' d bb
+  eb c' d, bb' c, a' bb, d
+  eb c f f, bb4\fermata r
+  r8 bb'_\editP a bb6 g a8 f g a
+  $c2 bb c d eb, a bb c d, g a bb c, f g a bb,
+  eb f g a, $$ bb c d (d, d d)
+  (d d d d) (d d d d)
+  (d d) d (d6 eb) (eb e) (e f) (f fs) (fs g)
+  (g a) (a bb) (bb b) (b c) (c d) (d eb) (eb f) (f g)
+  g8 (g, g g) (g g g g)
+  (g g g g) (g g) (g6 a) (a b)
+  c8 bb' $c2 a bb c f, $$ bb, a' $c2 g a bb eb, $$
+  a, g' $c2 fs g a d, $$ g, d' $c2 g a bb d,
+  fs g a d, $$ bb a bb c d d,
+  g_\editF bb eb bb c a bb c
+  d e fs d $c2 g a bb d, bb c d g, $$
+  g' cs, f b, e a, bb g
+  a g a a (d, d_\editP d d)
+  (g g g g) (c c c bb)
+  (a a a a) (d d c bb)
+  c a' bb, g' a, fs' g, d'
+  eb c d d, g g' $c2 fs g a d,
+  g a bb d, a' bb c d, bb' c d g, $$ d bb
+  g bb6 c d8 d, g4 r
+  \dacapo
+}

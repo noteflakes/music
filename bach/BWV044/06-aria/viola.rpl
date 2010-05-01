@@ -1,0 +1,59 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  f8 f d f eb eb f g 
+  c, bb c f f4 r8 a,
+  d g c, f bb, e a, bb'
+  e, f ~ f e c4 r8 f
+  d6 eb f8 ~ f g ~ g f eb d
+  c g a bb c c f bb ~
+  bb g f4 g8 a f bb
+  bb, eb c c d4 r
+  R1
+  f8\p bb g d c r r4
+  R1
+  f8_\editP f d f eb4 r8 d
+  c f c' a f4 r8 f
+  d g c, f bb, e a, bb
+  c bb6 d g,8 c c\f c a c
+  (bb6 c) (c bb) bb8 c e f g c,
+  c4 r r2
+  r2 g'8\p b c g
+  f r r4 r2
+  bb,8_\editP ab g bb a2 ~
+  a4 r r2
+  r4 r8 bb' ~ bb g f f 
+  eb f f bb, c eb a, c
+  g' r r4 r2
+  R1
+  f8\f f d f eb eb f g 
+  c, bb c f f4 r8 a
+  d, g c, f bb, e a, bb'
+  e, f ~ f e c4 r8 f
+  d6 eb f8 ~ f g ~ g f eb d
+  c g a bb c c f bb ~
+  bb g f4 g8 a f bb
+  bb, eb c c d4\fermata r
+  R1*2
+  
+  r2 $c3 fs,\p g g a a bb bb c
+  c d d eb eb d d c c d d fs fs g g fs
+  fs a a bb bb c c eb, eb g, g a a a a bb
+  bb c c d g, d' d eb $$ eb8 r r4
+  (g,8 g g g) (g g g g)
+  $c3 b c c d d eb eb f f g g b $$ b8 r
+  R1*3
+  
+  
+  d,8\f d bb d c c d eb
+  a, g a d d4 r8 d
+  g4 f e d8 g
+  cs, d ~ d cs (d d\p d d)
+  (d d d b) (g g' g g)
+  (g g e cs) (a a' a) bb ~
+  bb a ~ a g ~ g fs d d
+  g eb d c bb r r4
+  R1*2
+  \dacapo
+}

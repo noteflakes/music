@@ -1,0 +1,15 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+
+  \partial 4
+    b4
+  b ([b8 a]) g4 g
+  g fs g\fermata b
+  b ([a8 b]) cs4 fs,
+  ([g8 b a g]) a4\fermata b4
+  b c! c ([d8 e])
+  (cs8 d4 cs8) d4\fermata ([b8 a])
+  ([g a]) ([b c!]) d4 d
+  ([d8 a d c]) b4\fermata
+}

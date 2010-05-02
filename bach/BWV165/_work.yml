@@ -11,6 +11,8 @@ movements:
     midi_tempo: 50 4
   05-aria:
     midi_tempo: 72 4
+  06-choral:
+    midi_tempo: 80 4
 score:
   order:
     - violini

@@ -14,6 +14,7 @@ movements:
   06-choral:
     midi_tempo: 80 4
 score:
+  hide_figures: true
   order:
     - violini
     - violino1

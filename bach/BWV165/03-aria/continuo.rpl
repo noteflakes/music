@@ -1,0 +1,30 @@
+\relative c {
+  \key g \major
+  \time 12/8
+
+  r4. $c1 e c' b a fs e ds b' a
+  g e d! c a' g a, fs' e b e ds
+  e, g b $$ $c2 e r fs r b, r
+  e r a, b c r fs, e $$
+  $c1 ds b' a g e' d! c a' g fs d' c
+  b g fs e c' b c, a' g d g fs
+  g, g' fs e c' b a fs e ds b' a
+  g e d! c a' g fs g a b, cs ds $$
+  e4 r8 $c1 b g' fs e cs b as fs' e
+  d b a! g e' d e, cs' b fs b as
+  b d fs b g fs e cs' b as fs e
+  d b' a! g e' d e, cs' b fs b as
+  b, d fs $$ b4 r8 $c1 e, fs g a,! b cs
+  d d' cs d, b' a d, g fs $$ e8 (g6 fs e d)
+  $c1 cs a' gs fs d' cs b gs fs es cs' b
+  a fs e! d b' a b, gs' fs cs fs es
+  fs, fs' e! d b' a g! e d cs a' g
+  fs d cs b g' fs g, e' d a d cs
+  d, d' c! d, c' b d, b' a d, a' g
+  d g fs g e' d c a g fs ds' cs
+  b g' fs e c' b a fs e ds b' a
+  g e d! c a' g a, fs' e b e ds
+  e, g b e c' b a fs e ds b' a
+  g e d! c a' g a, fs' e b e ds $$
+  e,4.\fermata r r2.
+}

@@ -1,0 +1,29 @@
+\relative c' {
+  \key g \major
+  \time 12/8
+
+  R1.*2
+  
+  r4. [e8 c'] b ([a g6 fs]) ([g e]) $a1 ds b' a
+  g e d! c a' g a, fs' e $$ ([ds6 e]) ([e8.\trill ds3 e])
+  fs4 b,8 b'4. ~ ([b8 c6 b]) ([a b3 g]) a4. ~
+  ([a8 b6 a]) ([g fs]) g4. ~ [g8 fs6 d b'8] ~ [b a6 g] a8
+  g4. r r2.
+  r4. ([e8 c']) b ([a g6 fs]) ([g e]) ([ds fs b a]) ([g fs])
+  $a1 g fs e g e d! $$ ([cs8 e6 d]) e8 ([fs e6 d]) ([cs d])
+  ([b8 d6 cs]) ([e d]) ([e fs g8]) fs as4\trill b8 ([d, cs6 b]) cs8
+  b4. r r2.
+  R1.
+  r4. $a1 d' b a g a b cs, a' g $$
+  ([fs g6 fs]) ([e d]) ([e fs g8]) fs ([b a]) a ([cs,6 d])  ([d8. cs3 d])
+  e4 a,8 a'4. ~ [a8 b6 a] ([gs a3 fs]) gs4. ~
+  [gs8 a6 gs] [fs es] fs4. ~ [fs8 es6 cs a'8] ~ [a gs6 fs] gs8
+  fs4. r r2.
+  r4. ([b8 cs]) d e,4 fs8 ([g6 a b8]) a
+  [fs g6 fs e fs] [g8 g8.\trill fs3 g] [a8 b6 a g a] [b8 b8.\trill a3 b]
+  [c8 d6 c] ([b a]) ([b8 g]) fs ([e g6 fs]) g8 ([a g6 fs]) ([g e])
+  ds4\trill b8 g'4. ~ ([g8 a6 g]) ([fs g3 e]) fs4. ~
+  ([fs8 g6 fs]) ([e ds]) e4. ~ [e8 ds6 c' b a] [g8 fs6 e] fs8
+  e4. r r2.
+  R1.*2
+}

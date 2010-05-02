@@ -4,6 +4,9 @@ composer: "Johann Sebastian Bach"
 parts:
   continuo:
     embed_figures: true
+movements:
+  03-aria:
+    midi_tempo: 80 4
 score:
   order:
     - violino1
@@ -11,12 +14,14 @@ score:
     - viola
     - fagotto
     - soprano
+    - alto
+    - tenore
+    - basso
     - continuo
   groups:
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
-vocal:
-  order:
-    - soprano
-    - [violino1, violino2, viola]
-    - continuo
+macros:
+  c1: "(#8 #) #"
+  c2: "#4 #8"
+  a1: "([#8 #]) #"

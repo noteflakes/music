@@ -9,8 +9,11 @@ movements:
     midi_tempo: 80 4
   04-recitativo:
     midi_tempo: 50 4
+  05-aria:
+    midi_tempo: 72 4
 score:
   order:
+    - violini
     - violino1
     - violino2
     - viola
@@ -27,3 +30,4 @@ macros:
   c1: "(#8 #) #"
   c2: "#4 #8"
   a1: "([#8 #]) #"
+  v: "(#6 #)"

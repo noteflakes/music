@@ -1,0 +1,50 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+
+  r4 $v g'' d e b c g a e fs c d a
+  b g a c b d cs e d b cs e d fs e g
+  fs d e g fs a g b a d cs d fs, e d' cs
+  d a fs a c! g a e fs d a' fs c' g a e
+  fs d a' fs g c b e d g fs b a e fs c
+  g' d b d f c d a b g d' b f' c d a
+  b g d' b g' e f d e g f d e c d b
+  c e d b c a b g a c b g $$ fs8. g6
+  g4 r r2
+  r4 $v g' d e b c g a e fs c d a
+  b g d' b g' c b e d g fs b a e fs c
+  g' d b g f c d a b g d' b f' c d a
+  b g d' b g' d e b cs a e' cs g' d e b
+  cs a e' cs a' d, cs e d b cs e d fs e g
+  fs d e g fs a g b a d cs d fs, e d' cs $$
+  d4 r r2
+  r4 $v g d e b c g a e fs c d a
+  b g d' b g' c b e d g fs b a e fs c
+  g' d b g f c d a b g d' b f' c d a
+  b g d' b g' d e b cs a e' cs g' d e b
+  cs a e' cs a' d, cs e d b cs e d fs e g
+  fs d e g fs a g b a d cs d fs, e d' cs $$
+  d4 r r2
+  r4 $v a d c f e a gs c b fs gs d
+  c a c e a e f c d a b fs gs d e b
+  a' e c e g! d e b cs a e' cs g' d e cs
+  d a d f a e fs cs ds b fs' ds a' e fs ds
+  e b e gs b gs d'! b c! e d b c a b g
+  a c b g a fs g e fs a g e $$ ds8. e6
+  e4 r r2
+  r4 $v c f e a g c b e d a b f'
+  e c e g c g a e f c d a b f g d
+  c' g e g bb f g d e c g' e bb' f g e
+  f c f a c g a e fs d a' fs c' g a fs
+  g d g b d b f' d e g f d e c d b
+  c e d b c a b g a c b g $$ fs8.\trill g6
+  $v g b d fs g d e b c g a e fs c d a
+  b g a c b d cs e d b cs e d fs e g
+  fs d e g fs a g b a d cs d fs, e d' cs
+  d a fs a c! g a e fs d a' fs c' g a e
+  fs d a' fs g c b e d g fs b a e fs c
+  g' d b d f c d a b g d' b f' c d a
+  b g d' b g' e f d e g f d e c d b
+  c e d b c a b g a c b g $$ fs8. g6
+  g4\fermata r r2
+}

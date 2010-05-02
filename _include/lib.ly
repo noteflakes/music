@@ -1,3 +1,4 @@
+% ignore dynamics in midi output
 \midi {
   \context {
   \Score

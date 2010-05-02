@@ -1,0 +1,24 @@
+\relative c {
+  \key g \major
+  \time 4/4
+  
+  r4 r8 b a'8. a6 a8 fs
+  ds4 r8 fs a, a c b
+  g g r b e e g e
+  as4 r8 ([e6 fs3 g]) cs,4 r6 e as, cs
+  [d8 cs6 b] [gs'8 as6 b] [fs8 e6 d] cs4\trill
+  b4 r8 b fs' fs fs g!
+  a8. a6 a4 r8 a c a
+  fs4 r8 a d, d e fs
+  g g r d bb' a r fs6 g
+  g8 d r4 r r8 d
+  ([f6 e f]) a g8 ([f3\trill e f6]) e4 r6 c e f
+  g8 g g a bb bb6 g e8 c
+  a'8. a6 b!8 c c g r4
+  r r8 g c g e8. f6
+  g8 r6 g g8 a b d, ([e6 d]) ([c d3 b])
+  c8 c r a e' e g e
+  cs4 r8 e a e f g
+  f f r d gs a d, c
+  a4 r4 r2
+}

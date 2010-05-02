@@ -1,6 +1,9 @@
-title: Aria BWV 165/1
+title: Cantata BWV 165
 subtitle: "\"O Heiliges Geist- und Wasserbad\""
 composer: "Johann Sebastian Bach"
+parts:
+  continuo:
+    embed_figures: true
 score:
   order:
     - violino1
@@ -9,6 +12,9 @@ score:
     - fagotto
     - soprano
     - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]
 vocal:
   order:
     - soprano

@@ -1,0 +1,29 @@
+\relative c {
+  \key g \major
+  \time 4/4
+
+  b1_\markup { \italic { sempre \dynamic p} } ~
+  b ~
+  b2 fs ~
+  fs1
+  g4 b \tempo "Adagio" c r8 a
+  d4 r8 d g c, d d,
+  g4 r ds'2 ~
+  ds1 
+  d!2 cs
+  as fs
+  b4 r8 e, a d, g4
+  fs1
+  a
+  e'
+  cs
+  d
+  gs,2 a ~
+  a b
+  c1
+  b ~
+  b
+  a4 g fs g 
+  c,2.^"senza accomp" d4
+  g1\fermata
+}

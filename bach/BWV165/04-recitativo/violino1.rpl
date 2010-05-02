@@ -1,0 +1,29 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+
+  d'1_\markup { \italic { sempre \dynamic p} }
+  cs2 b ~
+  b d ~
+  d1 ~
+  d2 ~ \tempo "Adagio" ([d6 e3 d c6 e3 d]) e4 ~
+  [e6 (fs3 e d6 fs3 e]) fs4 ~ [fs6 (g3 a g6 a3) b-.] fs8.\trill g6
+  g8. (a3 g [fs e ds fs e6 g3 fs]) fs2 ~
+  fs1
+  e ~
+  e6 (fs e d cs b as b) as2\trill
+  b4 r8 d (cs4. d6 e)
+  as,2\trill fs' ~
+  fs ds
+  e g ~
+  g4 a8 bb e,2
+  d b ~
+  b a ~
+  a g ~
+  g d' ~
+  d ~ d4. e8
+  f d gs4. (a6 b) (d, f e d)
+  c8 e a4. d,8 g!4 ~
+  g8 g\p a b (c6 a) (fs g) g8 d
+  r1\fermata
+}

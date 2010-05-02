@@ -1,0 +1,29 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+
+  fs2._\markup { \italic { sempre \dynamic p} } d4
+  g cs, d2 ~
+  d a ~
+  a1
+  b2 ~ \tempo "Adagio" b4 r8 c
+  c4 r8 d ~ d8. c6 (b c d8)
+  d4 r fs2 ~
+  fs1
+  gs2 a
+  cs,1
+  d4 r8 g e d [e (fs6 g)]
+  cs,2 ds4. e8
+  fs1
+  g2 e ~
+  e a8 e g4
+  f2 d ~
+  d c ~
+  c g
+  c d ~
+  d1 
+  d'2 b
+  c2. b8 a
+  g f\p e d c b a c
+  r1\fermata
+}

@@ -6,17 +6,17 @@ parts:
     title: "Violino I, II"
 movements:
   01-kyrie:
-    midi_tempo: 63 2
+    midi_tempo: 72 2
   02-gloria:
-    midi_tempo: 63 2
+    midi_tempo: 68 2
   03-gratias:
-    midi_tempo: 104 4
+    midi_tempo: 112 4
   04-domine-deus:
     midi_tempo: 64 2
   05-quoniam:
     midi_tempo: 38 4
   06-cum-sancto-spiritu:
-    midi_tempo: 50 4
+    midi_tempo: 58 4
 score:
   order:
     - oboe1

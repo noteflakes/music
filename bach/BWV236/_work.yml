@@ -1,6 +1,41 @@
 title: Missa Brevis G-dur BWV 236
 composer: Johann Sebastian Bach
 parts:
+  continuo:
+    breaks:
+      - 02-gloria
+      - 02-gloria
+      - 03-gratias
+      - 04-domine-deus
+      - 05-quoniam
+      - 06-cum-sancto-spiritu
+  viola:
+    breaks:
+      - 02-gloria
+      - 02-gloria
+      - 03-gratias
+  violino2:
+    breaks:
+      - 02-gloria
+      - 02-gloria
+      - 03-gratias
+      - 06-cum-sancto-spiritu
+  violino1:
+    breaks:
+      - 03-gratias
+      - 04-domine-deus
+      - 04-domine-deus
+      - 06-cum-sancto-spiritu
+  oboe2:
+    breaks:
+      - 02-gloria
+      - 02-gloria
+      - 06-cum-sancto-spiritu
+  oboe1:
+    breaks:
+      - 02-gloria
+      - 02-gloria
+      - 06-cum-sancto-spiritu
   violino:
     no_part: true
     title: "Violino I, II"

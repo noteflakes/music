@@ -91,7 +91,7 @@
   c2 ~ c8 b16 a b d c b
   a8 b16 c d4 ~ d16 b cis d e fis g e
   cis8 e a, cis d4 r
-  R1
+  r1
   r2 r8 g, g g
   g g g g a4 a8 a
   a b16 c d c b a b8 c16 d e d c b

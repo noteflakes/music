@@ -3,9 +3,42 @@ composer: Jan Dismas Zelenka
 parts:
   continuo:
     embed_figures: true
+    breaks:
+      - 02-miserere-II
+      - 02-miserere-II
+      - 03-gloria-patri-I
+      - 05-sicut-erat
   violoncello:
     source: continuo
     hide_figures: true
+    breaks:
+      - 02-miserere-II
+      - 03-gloria-patri-I
+      - 05-sicut-erat
+  viola:
+    breaks:
+      - 03-gloria-patri-I
+      - 06-miserere-III
+  oboe2:
+    breaks:
+      - 02-miserere-II
+      - 03-gloria-patri-I
+      - 06-miserere-III
+  oboe1:
+    breaks:
+      - 02-miserere-II
+      - 03-gloria-patri-I
+      - 06-miserere-III
+  violino2:
+    breaks:
+      - 02-miserere-II
+      - 03-gloria-patri-I
+      - 05-sicut-erat
+  violino1:
+    breaks:
+      - 02-miserere-II
+      - 03-gloria-patri-I
+      - 05-sicut-erat
 movements:
   01-miserere-I:
     midi_tempo: 66 4

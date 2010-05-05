@@ -1,1 +1,9 @@
-blah: blah
+parts:
+  violino1:
+    source: oboe1
+  violino2:
+    source: oboe2
+  oboe1:
+    title: "Oboe e Violino I"
+  oboe2:
+    title: "Oboe e Violino II"

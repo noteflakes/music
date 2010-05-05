@@ -4,6 +4,34 @@ composer: Johann Sebastian Bach
 parts:
   continuo:
     embed_figures: true
+    breaks:
+      - 03-aria
+      - 04-choral
+      - 07-choral
+  violoncello:
+    source: continuo
+    hide_figures: true
+    breaks:
+      - 03-aria
+      - 04-choral
+      - 05-recitativo
+  oboe2:
+    breaks:
+      - 06-aria
+  oboe1:
+    breaks:
+      - 03-aria
+      - 06-aria
+  violino2:
+    breaks:
+      - 06-aria
+  violino1:
+    breaks:
+      - 06-aria
+      - 06-aria
+  viola:
+    breaks:
+      - 06-aria
 movements:
   01-aria:
     midi_tempo: 120 4

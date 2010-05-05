@@ -7,4 +7,14 @@ parts:
     lyrics: choral.lyrics
   basso:
     lyrics: choral.lyrics
+  oboe1:
+    source: soprano
+  oboe2:
+    source: alto
+  violino1:
+    source: soprano
+  violino2:
+    source: alto
+  viola:
+    source: tenore
     

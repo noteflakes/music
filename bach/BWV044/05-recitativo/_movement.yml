@@ -1,3 +1,6 @@
 parts:
   continuo:
     before_include: basso
+  violoncello:
+    before_include: basso
+    

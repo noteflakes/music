@@ -3,6 +3,9 @@ composer: Jan Dismas Zelenka
 parts:
   continuo:
     embed_figures: true
+  violoncello:
+    source: continuo
+    hide_figures: true
 movements:
   01-miserere-I:
     midi_tempo: 66 4

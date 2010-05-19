@@ -3,7 +3,7 @@
 
 work_range = 1..1725
 
-URL_PATTERN = "http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalWork_work_%08d"
+URL_PATTERN = "http://vmbach.rz.uni-leipzig.de/receive/BachDigitalWork_work_%08d"
 
 require 'rubygems'
 require 'open-uri'

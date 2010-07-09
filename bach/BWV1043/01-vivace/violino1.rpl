@@ -1,0 +1,92 @@
+\relative c' {
+  \sixteenTwoTwoBeam
+
+  \time 2/2
+  \key d \minor
+
+  R1*4
+  a'6 b c d e8 a gs e b d
+  cs a g'4. [fs6 e fs8 d]
+  b d f! a, gs e' a, d
+  c4 b\trill a6 gs a b c d e f
+  g8 g, g'4 ~ g8 e a, g'
+  f6 e d e f e f g a2 ~
+  a6 g fs e fs d e fs g2 ~
+  g6 f e f g a bb g a bb a g f e d cs
+  d8 d'4 cs8 d4 r8 f,
+  e a a,4 ~ a8 d6 e fs g a fs
+  g8 d6 c d b c d g,8 c g'4 ~
+  [g8 fs6 g a8 c,] ~ [c bb6 c d8 a'] ~
+  a g4 f8 ~ f e6 d cs d b cs
+  d e f g a8 d cs a e g
+  fs d c'4. [b6 a b8 g]
+  e g bb d, cs a' d, g
+  f4 e\trill d r
+  d8\p r cs r d r r4
+  d8 r d r d r r4
+  R1*2
+  
+  d8 r e r f r r4
+  g8 r fs r g r r4
+  R1*2
+  
+  d,6\f e f g a8 d b g r4
+  c,6 d e f g8 c a f r4
+  R1*2
+  
+  f6 g a bb c8 f d b r4
+  e,6 fs gs a b8 e cs a r4
+  R1*2
+  
+  a8_\editP r gs r a r r4
+  a8 r a r a r r4
+  R1*2
+  
+  a8 r b r c r r4
+  d8 r cs r d r r4
+  R1*2
+  
+  a6 b c d e8 a gs e b d
+  cs a g'!4. [fs6 e fs8 d]
+  b d f! a, gs e' a, d
+  c4 b\trill a r
+  e1_\editP ~
+  e2. r4
+  a,1 ~
+  a2. r8 d_\editF
+  e6 d e f e fs g e fs e fs g fs g a fs
+  g8 d' r bb' a6 g fs e fs d e fs
+  g2 ~ g6 f! g a g bb a g
+  a2 ~ a6 g fs e d c bb a
+  bb8. c6 a8. g6 g4 r
+  d1_\editP ~
+  d2. r4
+  g,1 ~
+  g2. r4
+  r8 c'6 bb c8 r r d6 eb d8 r
+  r d6 e fs8 r r g6 fs g8 r 
+  r g6 f! g8 r r f6 e d8 r
+  r eb6 d c8 r r bb6 a bb8 r
+  r g6 f e8 r r f6 e d8 r
+  r e6 d cs8 a' f r r4
+  g,6 a b c d8 g e c r4
+  r6 g a bb c8 f d bb r4
+  R1*2
+  
+  bb6 c d eb f8 bb g e r4
+  a,6 b cs d e8 a fs d r4
+  R1*2
+  
+  d'8 r cs r d r r4
+  d8 r d r d r r4
+  R1*2
+  
+  d8 r e r f r r4
+  g8 r fs r g r r4
+  R1*2
+  
+  d6 e f g a8 d cs a e g
+  fs d c'4. [b6 a b8 g]
+  e g bb d, cs a' d, g
+  f4 e d2\fermata
+}

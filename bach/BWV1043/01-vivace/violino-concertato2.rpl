@@ -1,0 +1,95 @@
+\relative c' {
+  \sixteenTwoTwoBeam
+
+  \time 2/2
+  \key d \minor
+
+  d6 e f g a8 d cs a e g
+  fs d c'4. [b6 a b8 g]
+  e g bb d, cs a' d, g
+  f4 e\trill d6 cs d e fs gs a b
+  c b a b c b c d e2 ~
+  e6 d cs b cs a b cs d2 ~
+  d6 c! b c d e f d e f e d c b a gs
+  a8 a'4 gs8 a a,6 gs a b c a
+  b a b c b cs d b cs b cs d cs d e cs
+  d8 a' r f e6 d cs b cs a b cs
+  d2 ~ d6 c! d e d f e d
+  e2 ~ e6 d cs b a g f e
+  d c' bb a g f e g f8 d a'4 ~
+  a6 b cs d e8 g fs d a c
+  b g f'4. [e6 d e8 c]
+  a c eb g, fs d' g, c
+  bb4 a g r8 e
+  a2 ~ a6 gs a b cs d e cs
+  d bb a g a fs g a d,8 g d'4 ~
+  d8 cs6 d e f g8 ~ g6 e f g a8 e ~
+  e d4 cs8 d4 r
+  R1*3
+  
+  
+  r2 r4 r6 g, f e
+  [f8 a'] [e, g'] d,6 g' f e d c bb a
+  [bb8 d'] [a, c'] g,6 c' bb a g f e d
+  e bb' a g a e d cs d a' g f g d cs b
+  cs g' f e f e d f e d cs b a4 ~
+  [a8 d6 e f8] d, ~ [d6 c b a b8] g' ~
+  [g c6 d e8] c, ~ [c6 bb! a g a8] f' ~
+  f6 g f e d c b a g a' g f e d cs b
+  a8 [a'-. bb-. f-.] g-. bb-. c-. g-.
+  a6 c d e f g a f b, f' a8 ~ a6 f d b
+  gs' b, c d e f g e a, e' g8 ~ g6 e cs a
+  f'8 [d a a'] ~ a e6 c a4 ~
+  a8 [f d d'] ~ d b6 gs e d c b
+  [c8 e'] [b, d'] a,6 d' c b a g f e
+  [f8 a'] [e, g'] d,6 g' f e d c b a
+  b f' e d e b a gs a e' d c d a gs fs
+  gs d' c b c b a c b a gs fs e4 ~
+  e6 c a c d b gs b c8 a a'4 ~
+  a6 f d f g e cs e f8 d f'4 ~
+  f6 d, c b c8 e' ~ e6 c, b a b8 d' ~
+  d6 b, a gs a8 a' ~ a6 c b a b d c b
+  c b a b c b c d e2 ~
+  e6 d cs b cs a b cs d2 ~
+  d6 c! b c d e f d e f e d c b a gs
+  a8 a'4 gs8 a [g6 f] e d c b
+  (a c e) a (b, d e) gs a e c a (gs b d) e
+  (a, c e) a (b, d e) gs a e c a a, [bb' a g!]
+  [f8 d'] [g, e'] [f, d'] [e, cs']
+  [f, d'] [a e'] f d r d ~
+  d g, c4 ~ c8 a d, c'
+  bb6 a g a bb a bb c d2 ~
+  d6 c b a b g a b c2 ~
+  c6 bb! a bb c d eb c d eb d c bb a g fs
+  g8 g'4 fs8 g4 r6 eb, d c
+  [bb8 g'] [c, a'] [bb, g'] [a, fs']
+  [bb, g'] [d a'] bb g r6 f' eb d
+  (c eb g) c (d, f g) b c g eb c (b d f) g
+  (c, eb g) c (d, f g) b c g eb c c,8 eb' ~
+  eb f, eb'4 ~ eb8 [f, bb, d'] ~
+  d d, c'4 ~ c8 d, g,6 bb a b
+  cs b cs d cs d e cs d cs d e f e f g
+  a g a bb a bb c a bb eb, d c d f bb8 ~
+  bb bb g e'! ~ e a, f d' ~
+  d g, e cs' d4 ~ d6 c bb a
+  bb d, e fs g a bb g c, g' bb8 ~ bb6 g e c
+  a' c, d e f g a f bb, f' ab8 ~ ab6 f d bb
+  g'8 [bb-. c-. g-.] a-. c-. d-. a-.
+  (bb6 c bb) a g f eb d c d' c bb a g f eb
+  [d8 bb'6 c d8] bb ~ (bb6 a g f e!8) e' ~
+  [e a,6 bb c8] a ~ a6 g fs e d4 ~
+  d6 g bb d g d bb g (d f a) d f d a f
+  (d e g) bb e bb g d (cs e g) a e'8 r
+  R1*3
+  
+  
+  r2 r4 r6 g, f e
+  [f8 a'] [e, g'] d,6 g' f e d c bb a
+  [bb8 d'] [a, c'] g,6 c' bb a g f e d
+  e bb' (a g a) e d cs d a' g f g d cs b
+  cs g' f e f e d f e d cs b a8 r
+  r a d f e cs a4 ~
+  a6 g fs e fs d e fs g2 ~
+  g6 f! e f g a bb g a bb a g f e d cs
+  d8 d'4 cs8 d2\fermata
+}

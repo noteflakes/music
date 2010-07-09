@@ -1,0 +1,42 @@
+title: Concerto BWV 1043
+composer: Johann Sebastian Bach
+parts:
+  violino-concertato1:
+    midi_instrument: violin
+  violino-concertato2:
+    midi_instrument: violin
+  violino2:
+    breaks:
+      - 02-andante
+      - 03-allegro-assai
+  continuo:
+    breaks:
+      - 02-andante
+      - 03-allegro-assai
+movements:
+  01-vivace:
+    midi_tempo: 98 4
+  02-andante:
+    midi_tempo: 40 4
+  03-allegro-assai:
+    midi_tempo: 360 8
+score:
+  hide_figures: false
+  order:
+    - violino-concertato1
+    - violino-concertato2
+    - violino1
+    - violino2
+    - viola
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+macros:
+  c1: "[#8-. #-. #-. (#6 #3 #)]"
+  c2: "(#8 # #)"
+  c3: "(#8 #) # (# #) # (# # #)"
+  c4: "(#8 #) #"
+  v1: "#4 #8"
+  v2: "(#4 #8)"
+  v3: "r4. #4 r8 r4."
+  v4: "\stemUp (#6 \stemDown [# # #] \stemUp #8) \stemNeutral"

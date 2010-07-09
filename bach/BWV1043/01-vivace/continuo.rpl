@@ -1,0 +1,95 @@
+\relative c {
+  \sixteenTwoTwoBeam
+
+  \time 2/2
+  \key d \minor
+
+  d8 d' c bb a6 g a bb a g f e
+  d c d eb d c b a g2 ~
+  g2 ~ [g8 f6 e f8 bb!]
+  a g a a d, [d' c b]
+  a a' g f e6 d e f e d c b
+  a gs a b a g! f e d cs' d e d c b! a
+  gs4 r8 d' ~ [d c6 b c8 f]
+  e d e e, a4 r
+  R1
+  d6 e f g a8 d cs a e g
+  fs d c'4 ~ [c8 b6 a b8 g]
+  e g bb d, cs a' d, g
+  f4 e d6 cs d e f g a b
+  cs b a b cs a b cs d2 ~
+  d6 c! b a b g a b c2 ~
+  c6 bb! a bb c d eb c d eb d c bb a g fs
+  g f! e d cs a d c bb! d cs d e f g e
+  f e d e f e f g a2 ~
+  a6 g fs e fs d e fs g2 ~
+  g6 f! e f g a bb g a bb a g f e d cs
+  d8 bb g a d,4 r
+  d'8\p r a r d, r r4
+  g8 r d' r g r r4
+  c8 r f, r bb r e, r 
+  a r d, r a' e cs a
+  d r a r d, r r4
+  g8 r d' r g r r4
+  c8 r f, r bb r e, r
+  a r d, r a' e cs a
+  d r r4 g8 d b g
+  c r r4 f8 c f, a
+  bb ([d b g]) c ([e cs a])
+  d r r d, e r r e'
+  f r r d b [b'6 c d8 b]
+  e, r r cs a [a'6 b cs8 a]
+  d, r r d' c! r r c,
+  f r r f, e r r4
+  a'8 r e r a, r r4
+  d8 r a r d, r r4
+  g8 r c r f r b, r
+  e r a, r e' b gs e
+  a r e' r a r r4
+  d,8 r a r d, r r4
+  g'8 r c, r f r b, r
+  e r a, r e' [e,\f gs e]
+  a a' g f e6 d e f e d cs b
+  a gs a b a g fs e d cs' d e d c b! a
+  gs4 r8 d' ~ [d c6 b c8 f]
+  e d e e, a [a'_\editP gs e]
+  a r r4 r2
+  r8 a gs e a, [a'6 b c8 cs]
+  d r r4 r2
+  r8 d cs a d [d,_\editF f d]
+  a'4 r r2
+  g,6 a bb c d8 g fs d a c
+  b g f'4. [e6 d e8 c]
+  a c eb g, fs d' g, eb'
+  d c d d, g [g'_\editP fs d]
+  g r r4 r2
+  r8 g fs d g, [g'6 a bb8 b]
+  c r r4 r2
+  r8 c, b g c, [c'6 d eb8 c]
+  f r r f, bb r r bb6 c
+  d8 r r d, g r r e
+  a r r a d r r d6 eb
+  f8 r r f, bb r r bb'6 a
+  g8 r r e f r r d
+  e r r a, d a d, f
+  g r r4 c8 g e c
+  f r r4 bb8 ([f' d bb])
+  eb ([g e c]) f ([a fs d])
+  g r r g, a r r a'
+  bb r r g e [e,6 f g8 e]
+  a r r fs' d [d,6 e fs8 d]
+  g r r g' f! r r f,
+  bb r r bb' a r r4
+  d,8 r a r d, r r4
+  g8 r d' r g r r4
+  c8 r f, r bb r e, r 
+  a r d, r a' e cs a
+  d r a r d, r r4
+  g8 r d' r g r r4
+  c,8 r f r bb, r e r 
+  a, r d r a' [a,\f cs a]
+  d6 cs d e f e f g a g a bb a g fs e
+  d c d eb d c bb a g fs g a g f e! d
+  cs4 r8 g'' ~ [g f6 e f8 bb]
+  a g a a, d,2\fermata
+}

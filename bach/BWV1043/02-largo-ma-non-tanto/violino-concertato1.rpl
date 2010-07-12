@@ -1,0 +1,55 @@
+\relative c' {
+  \time 12/8
+  \key f \major
+ 
+  R1.*2
+  
+  c''4. ~ c8 b a g4. ~ g8 f e
+  (d b) c f4. ~ f8 e g c4 eb,8 ~
+  eb d f bb4 d,8 ~ d c e! a4 c,8 ~
+  c bb d g4 bb,8 ~ bb a d g (a6 g f e)
+  (f e f) d a d (g f g) e c e (a g a) f d f (bb a bb) g a bb
+  cs,8 a' d, ~ d b cs d4 r8 r a4 ~
+  a6 (fs g a bb c) d (f! eb d c bb) c4. r
+  bb' ~ bb8 a g f4. ~ f8 eb d
+  (c a) bb eb4. ~ eb8 d f bb (c6 bb a g)
+  (a g a) f c f (bb a bb) g e g (c bb c) a f a (d c d) bb c d
+  e,8 c' f, ~ f d e (f6 e f) a e g (f g a bb c) a
+  (f \ficta eb f) bb d, f \ficta (e! f g a bb) g (e d e) a c, e (d e f g a) f
+  (d c d) g bb, d (c d e f g) e (c bb c) f bb,8-. (a bb) g
+  f4 r8 d-. c-. bb-. (a6 c) d bb c8-. bb'-. a-. g-.
+  f d'4 ~ d8 (e f) c4. ~ c8 (e f)
+  bb,4. ~ bb8 (e8. f3 g) a,4. ~ a6 b b4\trill
+  (c6 b c) e b d (c d e f g) e (c bb c) f a, c (b c d e f) d
+  (b a b) e g, b (a b c d e) c (a g a) d f, a (g a b c d) b
+  (c g) a f g8-. f'-. e-. d-. c4 r8 a-. g-. f-.
+  e4 r8 f'4. ~ f6 e b'8-. c-. e,4. ~
+  e6 d b'8-. c-. d,4. ~ d6 c b'8-. c-. c,4.\trill
+  (b6 a b) g d g (c b c) g e g (d' c d) b g b (e d e) c g c
+  b4 r8 r b4 ~ b6 (gs a b c d) e (g! f e d c)
+  d4. $c1 r b' c c, c, c''
+  bb c, c, a'' $$ g6 (b, c d e f) g (bb! a g f e)
+  f4. r8 f4 ~ f6 (d e f g a) bb (d c bb a g)
+  (a g a) f c f (a g a) f c f (a g a) fs c fs (a g a) fs c fs
+  g4 bb,8 d,4 bb''8 ^a gs4 b,8 e,4 b''8
+  (c6 b a gs a8)  r4. r2.
+  R1.
+  d4. ~ d8 c bb a4. ~ a8 g f
+  (e cs) d g4. ~ g8-. f-. r bb,-. a-. g-.
+  (f6 a) bb g a8-. g'-. f-. e-. d4 r8 r a4 ~
+  a6 (fs g a bb c) d (f! eb d c bb) c4 r8 r c4 ~
+  c8 (bb6 ab g f) eb4. ~ (eb6 d) a'8-. bb-. d,4. ~
+  d6 c a'8-. bb-. c,4. ~ c8 bb d f bb d
+  ^c b4 d,8 g,4 d''8 (eb6 d eb) c g c (eb6 d eb) c g c 
+  (e! d e) cs g cs (e d e) cs g cs d8 f bb ~ bb6 (d c! bb a g)
+  (a g f e f8) r4. r2.
+  R1.
+  c'4. ~ c8 b a g4. ~ g8 f e
+  (d b) c f4. ~ f8 e g c4 eb,8 ~
+  eb d f bb4 d,8 ~ d c e! a4 c,8 ~
+  c bb d g4 bb,8 ~ bb a r d,-. c-. bb-.
+  (a6 c) d bb c8-. bb'-. a-. g-. f c''4\p ~ c6 bb a bb c a
+  (f \ficta eb f) bb d, f \ficta (e f g a bb) g (e d e) a c, e (d e f g a) f
+  (d c d) g bb, d (c d e f g) e (c bb c) f bb,8-.\f (a bb) g
+  f4. r r2.
+}

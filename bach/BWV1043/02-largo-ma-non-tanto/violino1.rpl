@@ -1,0 +1,55 @@
+\relative c' {
+  \time 12/8
+  \key f \major
+  
+  $c1 a' r bb r c r d r $$
+  e c f ~ f d e $c1 f c c b
+  c r f r e r c r
+  g' g f d c r $$ r4 c8 ~ 
+  c bb r r4 bb8 ~ bb a r r4 a8 ~
+  a g r r4 c8 ~ c f d $c1 d cs
+  d r g r c, r bb r 
+  a a' g e d r r c
+  bb r r g f r r a
+  bb r  eb r d r g r 
+  f f eb c bb f' f e
+  f r bb, r f' r f r
+  g a d, c c r $$ r4 c'8 ~
+  c bb r r4 bb8 ~ bb a r r4 a8 ~
+  a g r r4 g8 ~ g f bb, a bb g
+  f4 r8 r4. r2.
+  $c1 r d' bb f r c' a f 
+  r bb g e a r $$ r4.
+  r r4 g'8 ~ g f r r4 f8 ~
+  f e r r4 e8 ~ e d r r4 d8
+  c4 r8 r4. r2.
+  $c1 r a' f c r g' e c
+  r f d b e r $$ r4.
+  r $c2 g f e $$
+  $c1 d r r e c r r f
+  d r r g $$ $c2 e c'
+  bb a $$ $c1 g r r a
+  f r r bb g r r c $$
+  a1.
+  bb2. b
+  $c1 c r d, r a' r f r $$
+  gs, e' a ~ a fs gs $c1 a d, d cs
+  d r g r f r d r
+  a' a g e d r $$ r4.
+  r2. r4. $c1 r d
+  bb r r eb c r r f
+  d bb eb bb r f' d bb
+  r eb c a $$ d2. ~
+  d eb
+  e! $c1 f f g bb,
+  a r bb r c r d r $$
+  e c f ~ f d e $c1 f c c b
+  c r f r e r c r
+  g' g f d c r $$ r4 c8 ~
+  c bb r r4 bb8 ~ bb a r r4 a8 ~
+  a g r r4 g8 f4 r8 r4.
+  r2. r4. r4 c''8\p ~
+  c bb r r4 bb8 ~ bb a r r4 a8 ~
+  a g r r4 g8 ~ [g f] bb,\f a bb g
+  f4. r r2.
+}

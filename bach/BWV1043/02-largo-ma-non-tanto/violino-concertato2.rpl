@@ -1,0 +1,55 @@
+\relative c' {
+  \time 12/8
+  \key f \major
+  
+  f'4. ~ f8 e d c4. ~ c8 bb a
+  (g e) f bb4. ~ bb8 a c f (g6 f e d)
+  (e d e) c g c (f e f) d b d (g f g) e c e (a g a) f g a
+  b,8 g' c, ~ c a b\trill (c6 b c) g e g (f g a bb c) a
+  (f eb f) bb d, f (e f g a bb) g (e d e) a c, e (d e f g a) f
+  (d c d) g bb, d (c d e f g) e f4 r8 r4.
+  d' ~ d8 c bb a4. ~ a8 g f
+  (e cs) d g4. ~ g6 (e fs g a bb) c! (eb d c bb a)
+  bb4 r8 r bb4 ~ bb6 (g a bb c d) eb (g f eb d c)
+  (d c d) bb f bb (eb d eb) c a c (f eb f) d bb d (g f g) eb f g
+  a,8 f' bb, ~ bb g a bb4. r
+  f' ~ f8 e! d c4. ~ c8 bb a
+  (g e) f bb4. ~ bb8 a bb c4 eb,8 ~
+  eb d f bb4 d,8 ~ d c e! a4 c,8 ~
+  c bb d g4 bb,8 ~ bb a (c f) g-. e-.
+  (f6 c) d bb c8-. bb'-. a-. g-. f4 r8 d-. c-. bb-.
+  a4 r8 bb'4. ~ bb6 a e'8-. f-. a,4. ~
+  a6 g e'8-. f-. g,4. ~ g6 f e'8-. f-. f,4. ~
+  f8 e r g'4 bb,8 ~ bb a c f4 a,8 ~
+  a g b e4 g,8 ~ g f a d4 f,8 ~
+  f e r a-. g-. f-. (e6 g) a f g8-. f'-. e-. d-.
+  c a'4 ~ a8 (b c) g4. ~ g8 (b c)
+  f,4. ~ f8 (b8. c3 d) e,4. ~ e6 fs fs4\trill
+  $c1 g g, g, g'' f g, g, e'' $$
+  d6 (fs, g a b c) d (f e d c b) c4. r8 c4 ~
+  c6 (a b c d e) f (a g f e d) (e d e) c g c (f e f) c a c
+  (g' f g) e c e (a g a) f c f e4 r8 r e4 ~
+  e6 (cs d e f g) a (c! bb a g f) g4. $c1 r e
+  f a, c, a'' fs a, d, a'' $$
+  (bb6 a bb) g d g (bb6 a bb) g d g (b a b) gs d gs (b a b) gs d gs
+  a4. ~ a8 g f e4. ~ e8 d c
+  (b gs) a d4. ~ d8 cs d g! (a6 g f e)
+  (f e f) d a d (g f g) e c e (a g a) f d f (bb a bb) g a bb
+  cs,8 a' d, ~ d b cs (d6 a) bb g a8-. g'-. f-. e-.
+  d4 r8 bb-. a-. g-. f6 (e f g a bb) c (eb d c bb a)
+  bb4 r8 r bb4 ~ bb6 (g a bb c d) eb (g f eb d c)
+  d8 g4 ~ g8 (a bb) f4. ~ f8 (a bb)
+  eb,4. ~ eb8 (a8. bb3 c) (d,6 c d) bb f bb (d c d) bb f bb
+  (d c d) b f b (d c d) b f b $c1 c eb, g, eb'' $$
+  ^d8 cs4 e,!8 a,4 e''8 (f6 e d cs d8) r4.
+  f4. ~ f8 e d c4. ~ c8 bb a
+  (g e) f bb4. ~ bb8 a c f (g6 f e d)
+  (e d e) c g c (f e f) d b d (g f g) e c e (a g a) f g a
+  b,8 g' c, ~ c a b (c6 b c) g e g (f g a bb c) a
+  (f eb f) bb d, f (e f g a bb) g (e d e) a c, e (d e f g a) f
+  (d c d) g bb, d (c d e f g) e (f c) d bb c8-. bb'-. a-. g-.
+  f4 r8 d-. c-. bb-. a6 (c f g a bb) c4\p eb,8 ~
+  eb d f bb4 d,8 ~ d c e! a4 c,8 ~
+  c bb d g4 bb,8 ~ [bb a] f'\f ~ f g e
+  f4. r r2.
+} 

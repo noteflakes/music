@@ -1,0 +1,55 @@
+\relative c' {
+  \time 12/8
+  \key f \major
+  
+  $c1 c r g' r c, r f, r 
+  c' c g' g f f f g
+  e r d r g, r c r
+  g g d' b g r r a
+  bb r r g a r r f
+  g r r g' f f g a
+  f r e r a, r d r
+  e f bb a a r r d,
+  d r r bb c r r f
+  f r eb r bb r g r
+  c f, c' a f bb g' g
+  f r bb r a r d, r
+  c f g e c r r a
+  bb r r g a r r f
+  g r r c c f, c' bb
+  a r $$ r4. r2.
+  $c1 r f' d bb r f' c a
+  r d bb g $$ f4. r
+  r $c1 r e' f r r d
+  e r r c d r r g 
+  g, r $$ r4. r2.
+  $c1 r c' a f r c' g e
+  r a f d c r $$ r4.
+  r $c2 e f g $$
+  $c1 g r r e e r r f
+  g r r g $$ $c2 g f
+  e f $$ $c1 g r r a
+  a r r bb c r r c, $$
+  c2. d ~
+  d e
+  $c1 e r b r e r f r 
+  b, c d e e f g a 
+  f r e r a, r d r 
+  a a e' cs a r $$ r4.
+  r2. r4. $c1 r d
+  d r r g, a r r a
+  bb bb g' eb r bb' f d
+  r g eb c $$ f2.
+  g1.
+  a2. ~ $c1 a bb g c
+  c, r bb r f' r d r 
+  g c, g' g f f f g
+  e r d r g, r c r
+  g g d' b g r r a
+  bb r r g a r r f
+  g r r c c r $$ r4.
+  r2. r4. $c1 r a\p
+  bb r r g a r r f
+  g r r c c f,\f c' bb $$
+  a4. r r2.
+}

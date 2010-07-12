@@ -1,0 +1,56 @@
+\relative c {
+  \time 12/8
+  \key f \major
+  
+  f4_\markup { \italic "poco piano" } f,8 $c1 g g' a a, bb bb'
+  bb a g c f, a d, g
+  c, c, d d' e e, f f'
+  f e d g c, bb! a f
+  bb a g e a g f d
+  g f e c f bb e, a
+  d d, e e' f f, g g'
+  g f e a d, d' fs, d 
+  g eb' g, eb a f' a, f
+  bb bb, c c' d d, eb eb'
+  eb d c f, bb d g, c
+  f, f, g g' a a, bb bb'
+  bb a g c, f g a f
+  bb a g e a g f d
+  g f e c f d c c,
+  f\pp f' f f, f f' f f,
+  f r f' r f, r f' r
+  f, r f' r $$ f, g a $c1 d, g
+  c d e c f e d b
+  e d c a d c b g
+  c c' c c, c c' c c,
+  c r c' r c, r c' r
+  c, r c' r $$ c, d e $c1 a, d $$
+  g, g' f $c1 e c' d, b' c, c'
+  g g, gs e a f' a, f
+  b g' b, g $$ c c' bb $c1 a f'
+  g, e' f, f' c c, cs a
+  d bb' d, bb e c' e, c $$
+  (f f f) (eb eb eb) $c1 d d, d d' $$
+  (g g g) (f f f) $c1 e e, e e'
+  a a, b b' c c, d d'
+  d c b e, a f e a,
+  d d, e e' f f, g g'
+  g f e a, d d, d d'
+  d d, d d' d d' fs, d
+  g eb' g, eb a f' a, f
+  bb r bb, r bb' r bb, r 
+  bb' r bb, r $$ (bb' bb bb) (ab ab ab) 
+  $c1 g g, g g' $$ (c c c) (bb bb bb)
+  $c1 a a, a a' d d, e c
+  f f, g g' a a, bb bb'
+  bb a g c f, a d, g
+  c, c, d d' e e, f f'
+  f e d g c, bb a f
+  bb a g e a g f d
+  g f e c $$ f4 f'8_\markup { \italic "Tasto solo" } $c1 f f,
+  f f' f f, f f'\pp a f
+  bb a g e a g f d
+  g f e c f d\f c c, $$
+  f4. r r2.
+}
+

@@ -1,0 +1,26 @@
+title: Cantata BWV 208
+subtitle: "\"Was mir behagt, ist nur die muntre Jagd!\""
+composer: "Johann Sebastian Bach"
+parts:
+  continuo:
+    embed_figures: true
+  soprano:
+    title: "Pales"
+movements:
+  09-aria:
+    midi_tempo: 80 4
+score:
+  hide_figures: true
+  order:
+    - flauto1
+    - flauto2
+    - soprano
+    - continuo
+  groups:
+    - brace: [flauto1, flauto2]
+    - bracket: [soprano, alto, tenore, basso]
+macros:
+  c1: "(#8 #) #"
+  c2: "#4 #8"
+  a1: "([#8 #]) #"
+  v: "(#6 #)"

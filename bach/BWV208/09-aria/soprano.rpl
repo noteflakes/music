@@ -1,0 +1,45 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+
+  R1*4
+  
+  
+  
+  bb'4 ([d8 c]) c4. d8
+  eb4 ([g8 f]) d4\trill ([c8 bb])
+  ([d bb]) ([a g]) c4. d8
+  a4 ([g8 f]) f2
+  f4 ([ab8 g]) g4. a8
+  bb4 ([d8 c]) a4 ([g8 f])
+  f'4 ([g8 f]) ([f d]) ([c bb])
+  f'4 ([g8 f]) ([f d]) ([c bb])
+  eb4. f8 ([d c]) ([bb c])
+  a4. bb8 bb2
+  r ([g'8 eb]) ([d c])
+  f4. g8 d4.\trill [c6 bb]
+  bb4 r r2
+  r1*3
+  
+  
+  d4 g fs4. g8
+  eb4 d bb\trill [a8 g]
+  c4 ([d8 b]) c4. d8
+  eb4 ([f8 d]) eb4 ([g8 f])
+  g4 ab b, ([c8 d])
+  eb4 ([d8 c]) c2
+  R1*3
+  
+  
+  r2 g4 ([bb8 a])
+  bb4. d8 c4 ([bb8 a6 bb])
+  a4 [g8 f] f'4 [e8 d]
+  d4. f8 [e8 f6 g] [e8 d]
+  cs4 ([b8 a]) c2 ~
+  c4 ([bb!8 c6 a]) bb2 ~
+  ([bb8 a]) a4 eb'!2 ~
+  eb4 ([d8 f6 e]) f2 ~
+  ([f8 e]) ([d e]) e4 ([d8 c])
+  bb4 ([a8 bb6 g]) ([c bb a bb c bb]) [c d]
+  a4 [g8 f] f2
+}

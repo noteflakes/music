@@ -1,0 +1,45 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+
+  d'8 (d6 bb) d8 (d6 bb) (d8 eb) (eb g)
+  c, (c6 a) c8 (c6 a) (c8 eb) (c eb)
+  [d8 ~ (d3 eb f6)] (d f) (eb c) [d8 ~ (d3\p eb f6)] (d f) (eb c) 
+  [d8 (bb'3\f c d6)] (bb d,) (eb f) [d8 (bb'3\p c d6)] (bb d,) (eb c) 
+  d4 r r2
+  R1*3
+  
+  
+  d8 (d6 bb) d8 (d6 bb) (d8 eb) (eb g)
+  eb (eb6 c) eb8 (eb6 c) (eb8 f) (f a)
+  r8 ([d,3 eb f6]) (d f) (eb c) d8 r r4
+  r8 ([d3 eb f6]) (d f) (eb c) d8 r r4
+  R1
+  r2 d8 (d6 bb) d8 (d6 bb) 
+  (d8 eb) (eb g) c, (c6 a) c8 (c6 a) 
+  (c8 d) (d eb) r [(bb'3 c d6)] (bb d,) (eb c)
+  d8 (d6 bb) d8 (d6 bb) (d8 eb) (eb g)
+  c, (c6 a) c8 (c6 a) (c8 eb) (c eb)
+  [d8 ~ (d3 eb f6)] (d f) (eb c) [d8 ~ (d3\p eb f6)] (d f) (eb c) 
+  [d8 (bb'3\f c d6)] (bb d,) (eb f) [d8 (bb'3\p c d6)] (bb d,) (eb c)
+  d4\fermata r r2
+  R1*4
+  
+  
+  
+  r2 eb8 (eb6 c) eb8 (eb6 c)
+  (eb8 f) (f ab) d, (d6 b) d8 (d6 b)
+  (d8 f) (d f) [eb ~ (eb3 f g6)] (eb g) (f d)
+  [eb8 ~ (eb3\p f g6)] (eb g) (f d) [eb8 (c'3\f d eb6)] (c eb,) (f g)
+  [eb8 (c'3\p d eb6)] (c eb,) (f d) eb4 r
+  R1
+  r2 f8 (f6 d) f8 (f6 d)
+  (f8 g) (g bb) bb,8 (bb6 g) bb8 (bb6 g)
+  (e'8 g) (e g) eb8 (eb6 c) fs8 (fs6 d)
+  (fs8 g) (g bb) c (c6 g) e8 (e6 c)
+  (e8 f) (f a) a,8 (a6 f) a8 (a6 f)
+  (a8 bb) (bb d) b (b6 g) b8 (b6 g)
+  (b8 c) (c e) e8 (e6 c) f8 (f6 d) 
+  (e8 g) (e g) r2
+  R1
+}

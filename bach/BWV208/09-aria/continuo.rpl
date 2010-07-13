@@ -1,0 +1,46 @@
+\relative c {
+  \key bb \major
+  \time 4/4
+
+  (bb8 bb bb bb) (bb bb bb bb)
+  (bb bb bb bb) (bb bb bb bb)
+  (bb' bb a a) (g g f f)
+  (eb eb f f) g f6 eb f8 f,
+  (bb bb bb' bb) (bb bb bb bb)
+  (a a a a) (bb bb bb bb)
+  (bb, bb bb bb) (bb bb a bb)
+  (c c c c) (f f eb eb)
+  (d d bb bb) (eb eb d d)
+  (c c c c) (f f eb eb)
+  (d d eb eb) (bb bb c c)
+  (d d eb eb) (bb bb d d)
+  (c c f f) bb, c d eb
+  (f f f, f) (bb bb bb bb)
+  (bb bb bb bb) (bb bb a a)
+  (bb bb eb eb) (f f f, f)
+  (bb bb bb bb) (bb bb bb bb)
+  (bb bb bb bb) (bb bb bb bb)
+  (bb' bb a a) (g g f f)
+  (eb eb f f) g f6 eb f8 f,
+  (bb\fermata bb bb' bb) (a a bb bb)
+  (c c d d) (g, g f f)
+  (eb eb d d) (eb eb b b)
+  (c c b b) (c c d d)
+  (eb eb f f) (f f eb f)
+  (g g g, g) (c c c c)
+  (c c c c) (c c c c)
+  (c c c c) (c' c bb bb)
+  (ab ab g g) (f f g g)
+  ab g6 f g8 g, (c c c c)
+  (d d d d) (e e e e)
+  (f f e e) (d d c c)
+  (bb bb a a) (g g g g)
+  (a a g g) (fs fs d d)
+  (g g f! f) (e e c c)
+  (f f f f) (f f f f)
+  (bb bb bb bb) (g g g g)
+  (c c c c) (bb bb a a)
+  (g g g g) (a a bb bb)
+  c c c, c f2
+  \dacapo
+}

@@ -3,8 +3,10 @@ composer: Johann Sebastian Bach
 parts:
   violino-concertato1:
     midi_instrument: violin
+    title: "Vno conc. I"
   violino-concertato2:
     midi_instrument: violin
+    title: "Vno conc. II"
   violino2:
     breaks:
       - 02-andante
@@ -18,8 +20,8 @@ movements:
     midi_tempo: 98 4
   02-largo-ma-non-tanto:
     midi_tempo: 156 8
-  03-allegro-assai:
-    midi_tempo: 360 8
+  03-allegro:
+    midi_tempo: 100 4
 score:
   hide_figures: false
   order:

@@ -1,0 +1,160 @@
+\relative c' {
+  \time 3/4
+  \key d \minor
+
+    \partial 8 f6 e
+  f8 r r g6 e f8 r
+  r e6 cs d8 r r e6 cs
+  a8 r r a'6 bb g8 r
+  r cs6 b a g e g cs,8 r
+  R2.
+  r4 r8 d6 c! d8 r
+  R2.
+  r4 r8 e6 d e8 cs
+  a r r d'6 b cs8 r
+  r [d a] r r a
+  a g r d r e
+  e r r4 r
+  a8 r r4 r
+  a8 r r4 r
+  a4 r8 d, d d
+  d4 r8 d d d
+  d4 r8 bb e, a
+  a d f a b e,
+  e a d, d d a
+  a4 r6 a bb g a f g e
+  f4 r r
+  R2.*2
+  
+  r8 f'6 g f8 r r a6 bb
+  a8 r r4 r
+  R2.*2
+  
+  r8 d6 cs d8 r r f,6 g
+  f8 r fs r r4
+  d8 r b' r r4
+  g8 r e r r4
+  c8 r a' r r4
+  f8 r bb r r4
+  g8 r c r r4
+  a8 r d r r4
+  g,8 r g r r g
+  f r r bb6 g a8 r
+  r g6 e f8 r r g6 e
+  c8 r r c'6 d bb8 r
+  r e6 d e c g c e,8 r
+  r a6 g a e cs e a,8 r
+  r d'6 cs d a f a d,8 r
+  r e'6 d e b gs b e,8 r
+  r a6 gs a e c e a,8 r
+  r4 r r6 b d g
+  g8 r r4 r6 a, c f
+  f8 r r4 r6 gs, b e
+  e8 r r4 r
+  R2.*2
+  
+  r8 c6 d c8 r r e6 f 
+  e8 r r4 r
+  R2.*2
+  
+  r8 a6 gs a8 r r c,6 d 
+  c8 r cs r r4
+  a8 r fs' r r4
+  d8 r b r r4
+  g8 r e' r r4
+  c8 r r4 r
+  R2.
+  r4 r8 a'6 g a8 r
+  R2.
+  r4 r8 d,6 c b8 r
+  e r r4 r
+  e8 r r4 r
+  e4 r8 a, a a
+  a4 r8 a a a 
+  a4 r8 f' b, e
+  e c e a [c fs,]
+  e e e e e e 
+  e r r4 r8 c'6 b
+  cs8 r r4 r
+  r r r8 eb,6 d 
+  c8 r r4 r
+  r r r8 bb'6 a 
+  b8 r r4 r
+  r r r8 d,6 c 
+  bb8 r r4 r
+  r8 f' f f f f 
+  r e e e e e 
+  r d d d d d 
+  r c c c c c 
+  r bb bb bb bb bb
+  r a a a a [bb6 c]
+  d8 r r c'6 a bb8 r
+  r a6 fs g8 r r a6 fs
+  d8 r r d'6 eb c8 r
+  r fs,6 e fs d a d fs8 r
+  R2.
+  r4 r8 g6 f! g8 r
+  R2.
+  r4 r8 a6 g a8 fs
+  d r r g d r
+  r g d r r d
+  d r r4 r
+  R2.*2
+  
+  r8 bb6 c bb8 r r d6 eb
+  d8 r r4 r
+  R2.*2
+  
+  r8 g g r r bb6 c
+  bb8 r b r r4
+  g8 r e' r r4
+  e,8 r a r r4
+  a8 r b r r4
+  a8 r a r r4
+  f8 r bb r r4
+  g8 r cs, r r4
+  a'8 r r4 r8 f6 e 
+  fs8 r r4 r
+  r r r8 ab,6 g
+  f8 r r4 r
+  r r r8 eb'6 d
+  e!8 r r4 r
+  r r r8 g,6 f
+  eb8 r r4 r
+  r8 bb' bb bb bb bb
+  r a a a a a 
+  g4 r r 
+  r r r8 f'6 g
+  f8 r r g6 e f8 r
+  r e6 cs d8 r r e6 cs
+  a8 r r a'6 bb g8 r
+  r cs6 b cs a e a cs,8 r
+  r d'6 c! d a fs a d,8 r
+  r8 g6 fs g d bb d g,8 r
+  r a'6 g a e cs e a,8 r
+  r d'6 cs d a f a d,8 r
+  r4 r r6 e g c
+  c8 r r4 r6 d, f bb
+  bb8 r r4 r6 g f e
+  d8 r r g6 e f8 r
+  r e6 cs d8 r r e6 cs
+  a8 r r a'6 bb g8 r
+  r cs6 b a g e g cs,8 r
+  R2.
+  r4 r8 d6 c! d8 r
+  R2.
+  r4 r8 e6 d e8 cs
+  a r r d'6 b cs8 r
+  r d a r r a
+  a g r d r e
+  e r r4 r
+  a8 r r4 r
+  a8 r r4 r
+  a4 r8 d, d d
+  d4 r8 d d d 
+  d4 r8 bb e, a
+  a d f a [b e,]
+  e a d, d d a
+  a4 r6 a bb g a f g e
+  f4\fermata r r
+}

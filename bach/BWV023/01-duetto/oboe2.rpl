@@ -1,0 +1,60 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio molto"
+  r2 r8 ([g'6` f g]) ([ab g f]) g6. g3 
+  \segno c,8 (c' ~ [c6` d eb]) ([d eb f]) ([eb d c]) [g8 ab bb] ~
+  (bb6` (g f)) [eb8 f (g] ~ [g6` eb c]) ([c' d c]) ([b c d]) ([c d eb])
+  ([d eb f]) ([eb f d]) ([eb d c]) f6. f3 ([b,8 ~ b6` a b]) ([c b a]) b6. b3
+  [d,8 (b'6` a b)] ([c b a]) b6. b3 g2 ~
+  ([g6` f e]) ([ab g f]) f2. ~
+  ([f6` g f]) ([eb! f d]) eb4 ~ [eb8 (eb6` d eb)] ([f eb d]) eb6. eb3
+  ([b'8 ~ b6` a b]) ([c b a]) b6. b3 ([c6` bb ab]) ([g ab f]) eb8 d6\trill c
+  [c8\fermata (g'6`\p f g)] ([ab g f]) g6. g3 c,8 r r4
+  R1
+  r2 r8 ([g'6`\f f g]) ([ab g f]) g6. g3
+  c,8 (c' ~ [c6` d eb]) (d eb f) ([eb c d]) ([eb\p f eb]) ([d b c]) b6. c3
+  ([c8 ~ c6` b c]) ([db c b]) c6. c3 c,8 r r4
+  R1
+  r2 r8 ([bb'6`\p ab bb]) ([cb bb ab]) bb6. bb3
+  eb,2. ab4 ~
+  [ab6` (ab gb)] ([f eb d]) bb'4 ~ ([bb6` ab bb]) ([c bb c]) ([db c bb]) c6. c3
+  ([f,8 ~ f6` eb f]) ([gb f eb]) ([c' bb a]) db4 r
+  r8 ([b6` c d]) ([d eb f]) ([b, c d]) d,8 r r4
+  r8 ([g'6` f g]) ([ab g f]) g6. g3 ([c,6` eb d]) ([eb d c]) ([bb! c db]) ([c db bb])
+  [(ab bb c) f,8] r4 r2
+  r8 ([g'6` fs g]) ([ab g fs]) g6. g3 a,!8 d ([e6` cs d]) e6. e3
+  d8 r r4 r2
+  r2 r8 ([d6`\f c d]) ([eb d c]) d6. d3
+  g,8 (g' [g6` a bb]) ([a bb c]) ([bb g a]) ([bb c bb]) ([a fs g]) fs6. g3
+  [g8 (bb,6` a bb)] ([c bb a]) d6. d3 ([g,8 ~ g6` f g]) ([a g f]) bb6. bb3
+  eb,2 ~ eb8 d4 c8
+  [d (fs6` e fs)] ([g fs e]) fs6. fs3 [eb'8 (fs,6` e fs)] ([g fs e]) fs6. fs3
+  d'2 ~ ([d6` c b]) ([eb d c]) c4 ~
+  c2 ~ ([c6` d c]) ([bb! c a]) bb4 ~
+  [bb8 (bb6` a bb)] ([c bb a]) bb6. bb3 ([fs8 ~ fs6` e fs]) ([g fs e]) fs6. fs3
+  g8. a6 fs8. g6 [g8 (bb6`\p a g)] ([c bb a]) d6. d3
+  ([g,8 ~ g6` f! eb]) ([ab g f]) ([e f g]) ([ab8 ~ ab6` g a]) ([bb a g]) c6. c3
+  ([f,8 ~ f6` eb d]) ([g f eb]) ([d eb f]) ([g8 ~ g6` f g]) ([ab g f]) bb6. bb3
+  eb,8 r r4 r2
+  R1
+  r8 ([f6` eb f]) ([g a bb]) ([a bb c]) [bb8 (db6` c db)] r8 ([db6` c bb])
+  ([bb g ab]) ([bb c bb]) r8 ([g6` ab bb]) ([bb g ab]) ([ab g bb]) ([ab bb c]) ([bb g ab])
+  f8 r r4 r2
+  R1
+  r8 ([c'6`\f bb c]) ([db c bb]) c6. c3 f,8 (f' ~ [f6` g ab]) ([g ab bb])
+  ([ab f g]) ([ab bb ab]) ([g e f]) e6. f3 ([f8 ~ f6`\p e f]) ([gb f e]) f6. f3
+  f,8 r r4 r2
+  R1
+  r8 ([eb'6` db eb]) ([fb eb db]) eb6. eb3 ab,2 ~
+  ab4 db ~ [db6` (db cb)] ([bb ab g]) eb'4 ~
+  ([eb6` db eb]) ([f eb f]) ([gb f eb]) f6. f3 ([bb,8 ~ bb6` ab bb]) ([cb bb ab]) ([f' eb d])
+  gb4 r r8 ([g,!6` f e]) ([bb' ab g]) db'6. db3
+  e,8 r r4 r8 ([c'6` bb c]) ([db c bb]) c6. c3
+  ([f,6` ab c]) ([f g f]) ([eb f gb]) ([f gb eb]) [(db eb f) bb,8] r4
+  r2 r8 ([c6` b c]) ([db c b]) c6. c3
+  d,8 g ([a6` fs g]) a6. a3 g8 r r4
+  R1
+  r2 r8 ([g6` f g]) ([ab g f]) g6. g3 
+  \dalsegno
+}

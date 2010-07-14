@@ -1,0 +1,26 @@
+title: Cantata BWV 23
+subtitle: "\"Du wahrer Gott und Davids Sohn\""
+composer: Johann Sebastian Bach
+movements:
+  01-duetto:
+    midi_tempo: 40 4
+parts:
+  continuo:
+    embed_figures: false
+score:
+  order:
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]
+macros:
+  c1: "#4 #8"

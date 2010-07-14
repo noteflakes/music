@@ -1,0 +1,4 @@
+end_bar: ":|"
+parts:
+  violoncello:
+    source: fagotto

@@ -1,0 +1,30 @@
+\relative c {
+  \time 2/2
+  \key g \minor
+    \partial 4 c'4
+  f,2 g
+  eb4 d8 c b4 g
+  c ab8 f g4 g
+  c g eb c 
+  f2 g4 g' ~
+  g f8 eb d4 bb
+  eb c8 ab bb4 bb
+  eb,2. \bar ":|:" eb'4
+  d2 c
+  bb4 bb' ab g
+  f db8 bb c4 c,
+  f f' b, g'
+  c2 b
+  c a
+  bb4 c d d,
+  g d g, f'
+  e2 g
+  c,4 ab' d,! b'!
+  eb, c' f, d'
+  g, f eb d
+  c2 g
+  eb'4 d8 c b4 g
+  c ab8 f g4 g 
+  c,2.
+  \bourreedacapo
+}

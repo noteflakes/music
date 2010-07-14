@@ -1,0 +1,30 @@
+\relative c' {
+  \time 2/2
+  \key c \major
+    \partial 4 r4
+  r e8 f g4 b,
+  c8 b c d e4 f
+  g b c c 
+  b c d c
+  d r r g,8 a 
+  b4 r r a
+  g g g fs
+  d2. \bar ":|:" r4
+  r d' cs d
+  a8 g a b cs4 d8 e
+  f4 e8 d cs4 cs
+  d a a d8 c!
+  b c b a gs4 b,8 c
+  d4 d8 e f4 e
+  e a gs4. e8 
+  e2. r4
+  r g'8 f e d e c
+  bb c bb a g4 g
+  f f f e
+  f c c d8 e 
+  f4 f8 g a g f e 
+  d e d c b4 g'
+  g c b g
+  g2. \bar ":|" \key g \minor
+  
+}

@@ -1,0 +1,30 @@
+\relative c' {
+  \time 6/4
+  \key c \major
+  
+    \partial 4 c'4
+  g'2 g4 g4. a8 bb4
+  a2 d,4 d4. e8 f4
+  b,4. c8 d4 g,4. g'8 f4
+  e4. f8 g4 c,4. [d8 e f]
+  g2 g4 g4. c8 a4
+  fs4. g8 a4 d,4. e8 fs4
+  g4. d8 e4 a,4. b8 c4
+  b2 g4 g2 \bar ":|:" d'4
+  b2 b4 b4. a8 g4
+  f'4. e8 d4 b'4. d,8 f4
+  e4. d8 c4 b4. e8 d4
+  c2 a4 a4. [b8 c d]
+  e2 e4 e4. bb'8 g4
+  e4. g8 e4 cs4. e8 cs4
+  a4. a'8 f4 d4. e8 cs4
+  d2 d4 d2 f4
+  f2. ~ f4. d8 e4
+  f2 g,4 g4. bb8 a4
+  bb2. ~ bb4. d8 c4
+  a4. c8 b!4 c4. e8 d4
+  b4. d8 c4 d4. f8 e4
+  c4. f8 a4 ~ a4. g8 f4
+  e4. f8 g4 g,4. a8 b4
+  c2 c4 c2
+}

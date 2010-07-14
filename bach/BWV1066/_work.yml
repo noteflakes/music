@@ -1,0 +1,31 @@
+title: Orchestral Suite BWV 1066
+composer: Johann Sebastian Bach
+parts:
+  violoncello:
+    source: continuo
+movements:
+  05-forlane:
+    midi_tempo: 200 4
+  08-bourree-I:
+    title: "8. Bourrée I"
+    midi_tempo: 100 2
+  09-bourree-II:
+    title: "9. Bourrée II"
+    midi_tempo: 100 2
+score:
+  hide_figures: false
+  order:
+    - oboe1
+    - oboe2
+    - fagotto
+    - violino1
+    - violino2
+    - viola
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+macros:
+  c1: "(#8 #8)"
+  c2: "[(#8 #8) (#8 #8) (#8 #8)]"
+  v4: "\stemUp (#6 \stemDown [# # #] \stemUp #8) \stemNeutral"

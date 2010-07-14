@@ -1,0 +1,29 @@
+\relative c' {
+  \time 2/2
+  \key g \minor
+    \partial 4 g'8 f
+  g4 f2 eb8 d
+  eb4 \acciaccatura { [f6 g] } ab2 g8 f
+  g eb f2 eb8 d
+  eb4. d8 eb f g ab
+  g4 f2 eb8 d
+  eb4 f2 eb8 d 
+  eb g ab2 g8 f
+  g2. \bar ":|:" bb8 a
+  bb4 c2 d8 eb
+  f4 bb,8 c d c d e
+  f e g2 f8 e
+  f4 c d b
+  c8 b d2 g,4
+  c8 g eb'2 d8 c
+  bb4 a8 g d4 fs
+  g2. r4
+  r g8 ab bb c db4 ~
+  db c8 bb ab f d'!4 ~
+  d c8 bb ab g f eb 
+  d c d eb f g ab f
+  g4 f2 eb8 d 
+  eb4 \acciaccatura { [f6 g] } ab2 g8 f
+  g eb f2 eb8 d
+  eb2. \bourreedacapo
+}

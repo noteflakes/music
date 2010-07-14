@@ -98,6 +98,15 @@ sixteenTwoTwoBeam = {
   #(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
 }
 
+thirtytwoFourFourBeam = {
+  #(override-auto-beam-setting '(begin 1 32 4 4) 1 4 'Staff)
+  #(override-auto-beam-setting '(begin 1 32 4 4) 2 4 'Staff)
+  #(override-auto-beam-setting '(begin 1 32 4 4) 3 4 'Staff)
+  #(override-auto-beam-setting '(end 1 32 4 4) 2 4 'Staff)
+  #(override-auto-beam-setting '(end 1 32 4 4) 3 4 'Staff)
+  #(override-auto-beam-setting '(end 1 32 4 4) 4 4 'Staff)
+}
+
 % some scheme functions (appropriated from Nicolas Sceaux's amazing work)
 
 #(define-markup-command (when-property layout props symbol markp) (symbol? markup?)

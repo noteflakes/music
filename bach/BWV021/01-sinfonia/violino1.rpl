@@ -1,0 +1,25 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio assai"
+  c'1 ~
+  [c8 (b6 c3 d)] b8. c6 c4 r
+  r2 a ~
+  (a6 bb) (a bb) [(c3 eb d c bb6 c3 a)] ([bb6 a g bb3 a]) [(bb c bb c) (c6\trill bb3 c)]
+  ([d6 c bb d3 c]) [(d e d e) (e6\trill d3 e)] f2 ~
+  [f6 (eb3 d c6 d3 b)] eb4 ~ [eb3 (g f eb d c) (eb d)] d4 ~
+  [d3 (g, a b c d eb d)] eb4 ~ eb6 c d bb' fs8. g6
+  [(g f! eb f3 d)] eb4 ~ eb2 ~
+  [eb8 (d6 eb3 f)] d8.\trill eb6 eb4 r
+  d2 ~ (d6 eb d eb) (f d) (ab' g)
+  ([eb d c bb3\trill ab]) ab4 ~ [ab6 (g f3 eb f d)] g4 ~
+  g6 c ab e f4 ~ [f6 (ab3 f d6 eb3 f)] g,8 g' ~
+  ([g3 ab g f eb d eb c]) c'4 ~ ([c3 db c bb ab g ab f]) f'4 ~
+  f ~ (f6 eb) (ab g) ([c a fs g3 a]) [c,8. r3 (eb64 d)]
+  eb4\fermata ~ eb8 d d6 g, c d eb8 d6 c
+  db4\fermata ~ db8 c c4 r8 d,
+  eb f6 g eb8 d6 c c4 r
+  d2 ~ [d6 c d f3 eb] f8. g6
+  e4\trill (f8 ab) (c eb) r4\fermata
+  r6 (ab,6 g f) eb8 d6\trill c c2\fermata
+}

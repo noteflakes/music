@@ -1,0 +1,29 @@
+\relative c {
+  \time 12/8
+  \key g \minor
+    \partial 8*9 $c1 c' r ab r f r
+  g r e r f r d r 
+  eb! r ab g f eb bb' bb,
+  c bb ab g f eb bb' bb'
+  e, r c r f r d r 
+  eb r ab g f eb f g 
+  b, r r c g ab f g
+  c,\fermata r c'' r ab r f r
+  g r c, r ab r f r 
+  g r e' r f r c r 
+  f, r bb r eb r d r 
+  eb r ab g f eb bb' bb,
+  c bb ab g f eb bb' bb'
+  e, r c r f r bb, r 
+  eb! r e r f r d r 
+  b r g r c r b r 
+  c r ab r fs r d r 
+  g r\fermata g' r eb r c r 
+  d r bb r eb r c r 
+  d r c' bb a g d' d,
+  eb d c bb a g d' d,
+  ab'\fermata r ab' g f eb f g 
+  b, c ab g f eb f g $$
+  c,4.
+  \dacapo
+}

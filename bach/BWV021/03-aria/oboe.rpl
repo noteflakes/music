@@ -1,0 +1,29 @@
+\relative c' {
+  \time 12/8
+  \key g \minor
+    \partial 8*9 (g''8 eb b) (b4 c8) (ab' f db)
+  (c4 b8) (c e g) (bb4 ab8) (bb, d f)
+  (ab4 g8) (f d eb) (ab, d eb) (g, f eb)
+  (eb ab g) (c bb eb) [(d ab') (g6 ab3 bb)] (g8 f eb)
+  (db4 c8) (g' e bb) (bb4 a!8) (f' d ab)
+  (ab4 g8) (f' d eb) (b c eb,) (d f b)
+  (ab'4 g8) (f d eb) (b c eb,) (d f b)
+  c,4.\fermata r4. r2.
+  r4. (g''8 eb b) (b4 c8) (ab' f db)
+  (c4 b8) r4. r (c8 e g) 
+  (bb4 ab8) r4. r (bb,8 d f)
+  (ab4 g8) (f d eb) (ab, d eb) (g, f eb)
+  (eb ab g) (c bb eb) [(d ab') (g6 ab3 bb)] (g8 f eb)
+  (db4 c8) r4. (g'4 f8) r4.
+  (f4 eb8) (g e bb) (bb4 a!8) (f' d ab)
+  (ab4 g8) r4. r (g8 b d)
+  (f4 eb8) r4. r (d,8 fs a)
+  (c4 b8\fermata) r4. r2.
+  r4. (d8 bb! fs) (fs4 g8) (eb' c ab)
+  (g4 fs8) (a' fs g) (c, fs g) (bb, a g)
+  (g c bb) (eb d g,) [(fs c') (bb6 c3 d)] (bb8 a g)
+  b4\fermata r8 (f' d eb) (b c eb,) (d f b)
+  (ab'4 g8) (f d eb) (b c eb,) (d f b)
+  c,4 r8
+  \dacapo
+}

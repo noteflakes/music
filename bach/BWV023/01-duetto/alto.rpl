@@ -1,0 +1,60 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio molto"
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  r2 r8 c ([g'6 ab3 g f6.]) g3
+  ab4 r8 ab [ab g] ~ g6 ([f eb f3 d])
+  eb4 r r2
+  R1
+  r8 c ([g'6 ab3 g f6.]) g3 ab4 r8 ab
+  [ab g] ~ g6 ([f eb f3 d]) eb4 r8 e
+  f ([c6 eb3 d]) eb2 d4
+  eb8 eb bb' ([gb6 eb]) cb'2 ~
+  cb4 ([bb8 ab]) gb4 r8 g
+  ab4 a bb r8 bb
+  f f ab f d d eb f
+  (g4 [f6\trill eb]) f8 eb eb f g
+  (ab4 [g6 f]) g8 f fs g4 ~
+  g1 ~
+  g2 ~ [g8 fs] c' bb
+  (g4 a8) fs g4 r
+  R1*7
+  
+  
+  
+  
+  
+  
+  r2 r8 d g f
+  eb8 ([d6 c]) ([d e]) ([e\trill d3 e]) f8 c f eb
+  d ([c6 bb]) ([c d]) ([d\trill c3 d]) eb4 r8 ([bb'6 c3 db])
+  c8 ([bb6 ab]) ab2. ~
+  ab6 g ab bb ([g8. ab6]) ab4 r
+  r8 ([f8. eb6]) ([db eb3 c]) db2 ~
+  [db6 c] e6. f3 g4 ~ g8 f6 e f4 ~
+  f8 ~ ([f6` e]) f ([g f]) e f6. f3 e8 ~ ([e6` d]) e ([f e]) d ([e f]) g
+  f8. g6 ([e8. f6]) f4 r
+  R1
+  r8 c ([g'6 ab3 g f6.]) g3 ab4 r8 ab 
+  [ab g] ~ g6 ([f e f]) e4 r8 e
+  f ([c6 eb!3 d]) eb4 ~ eb d
+  eb8 eb bb' [g6 eb] cb'2 ~
+  cb4 ([bb8 ab]) g4 r8 g
+  ab4 a bb r8 ab
+  gb gb bb gb e2 ~ 
+  e8 e f g! (ab4 [g6\trill f]) g8
+  f f g ab (bb4 [ab6 g]) ab8
+  g4 r8 g ([g fs]) r f
+  ([f e]) r eb ([eb d]) ([f e])
+  ([ab g]) ([b c]) (eb,4 f8) d 
+  c4 r r2
+  \dalsegno
+}

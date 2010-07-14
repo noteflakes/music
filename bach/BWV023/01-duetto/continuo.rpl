@@ -1,0 +1,60 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+  \tempo "Adagio molto"
+  c8 c'4 bb8 ab eb f b,
+  \segno [c (g6` f g)] [(ab g f)] g6. g3 c,8 c''4 bb8
+  ab, ab'4 g8 [f, (f'6` eb f)] ([g f eb]) ab6. ab3
+  b,8 c ab4 g r
+  f r [e8 (e'6` d e)] ([f e d]) e6. e3
+  [ab,8 (f'6` e f)] ([g f e]) f6. f3 [b,8 (g'6` f g)] ([ab g f]) g6. g3
+  [c,8 (ab'6` g ab)] ([bb ab g]) ab6. ab3 fs,4 r
+  f! r8 f' eb f g g,
+  c\fermata c'4\p b8 c bb ab g
+  f g ab f [g g,6 a b8 g]
+  c c'4\f bb!8 ab eb f b,
+  [c (g6` f g)] ([ab g f]) g6. g3 [c,8 c'6.\p eb3] [f6. d3 g8]
+  c, bb ab g f g ab f
+  [g g'6 f eb8 d] [c ~ (c6` bb c)] ([db c bb]) c6. c3
+  f,4 r8 f' bb,4 r
+  r8 ([eb6` d eb]) ([f eb d]) eb6. eb3 ab,8 bb cb ab
+  bb ab gb f eb db c bb'
+  ab g f4 bb r
+  ab r g r
+  g r8 g ab4 r8 g
+  [f (f'6` eb f)] ([g f eb]) ab6. ab3 bb,4 r8 bb'
+  (e, e) (eb eb) (d d) (cs cs)
+  [d (d'6` c! d)] ([eb d c]) d6. g,3 [c,8 (d'6` c d)] ([eb d c]) d6. g,3
+  [cs,8 (d6` c d)] ([eb d c]) d6. d3 g,8 g'4\f f8
+  eb bb c fs, [g (d''6` c d)] ([eb d c]) d6. d3
+  g,8 g,4 f8 eb eb'4 d8
+  [c (c'6` bb c)] ([d c bb]) eb6. eb3 fs,8 g eb4
+  d r c r
+  [b8 (b'6` a b)] ([c b a]) b6. b3 [eb,8 (c'6` b c)] ([d c b]) c6. c3
+  [fs,8 (d'6` c d)] ([eb d c]) d6. d3 [g,8 (eb'6` d eb)] ([f eb d]) eb6. eb3
+  cs,4 r c r8 c'
+  bb c d d, g f\p eb d
+  c bb ab g f eb' d c
+  bb ab g f eb db' c bb
+  ab g f eb db eb f db 
+  eb db' eb eb, [ab (ab'6` g ab)] ([bb ab g]) c6. c3
+  ([f,6` eb f]) ([db c db]) ([eb db c]) f6. f3 [bb,8 (bb'6` a! bb)] ([c bb a]) bb6. bb3
+  [e,8 (c'6` bb c)] ([db c bb]) c6. c3 [f,8 (db'6` c db)] ([eb! db c]) db6. db3
+  b,4 r bb r8 bb'
+  ab bb c c, f, f'4\f eb8
+  db ab bb e, [f (c''6` bb c)] ([db c bb]) c6. c3
+  [(f,8 ~ f6` g ab)] ([bb c db]) ([c bb c]) f,8 eb db c
+  bb c db bb [c c'6 bb ab8 g]
+  ([f8 ~ f6` eb f]) ([gb f eb]) f6. f3 bb,4 r8 bb'
+  eb,4 r r8 ([ab6` g ab]) ([bb ab g]) ab6. ab3
+  db,8 eb fb db eb db cb bb
+  ab gb f! eb' db c bb4 
+  eb r db r
+  c r c r8 c
+  db4 r8 c [bb (bb'6` ab bb)] ([c bb ab]) db6. db3
+  eb,4 r8 eb (a,! a) (ab ab)
+  (g g) (fs fs) [g (g'6` f! g)] ([ab g f]) g6. c,3
+  [f,8 (g'6` f g)] ([ab g f]) g6. c,3 [fs,8 (g6` f g)] ([ab g f]) g6. g3
+  c,8 c''4\f bb8 ab eb f b,
+  \dalsegno
+}

@@ -1,0 +1,25 @@
+title: Cantata BWV 91
+subtitle: "\"Gelobet seist du, Jesu Christ\""
+composer: Johann Sebastian Bach
+movements:
+  05-aria:
+    midi_tempo: 65 4
+parts:
+  continuo:
+    embed_figures: false
+score:
+  order:
+    - oboe
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]
+macros:
+  c1: "[#6. #3 #6. #3]"

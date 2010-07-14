@@ -1,0 +1,77 @@
+\relative c' {
+  \time 4/4
+  \key e \minor
+  r6. [b'3 b6. b3] $c1 e, e fs fs b, b' b b e, e fs fs
+  b, b' b b e e ds ds g g, g g c c b b 
+  e e, e e a a gs gs c c b b ds ds e e 
+  fs, fs a a ds, ds fs fs b, c' b a $$ g8 fs6\trill e
+  e4 r r2
+  R1
+  r6. [b'3 b6. b3] $c1 e, e fs fs b, b' b b e, e fs fs $$
+  b,4 r r2
+  R1
+  r6. [fs''3\p fs6. fs3] $c1 b, b cs cs $$ fs,4 r
+  r6. [b3\p b6. b3] $c1 e, e fs fs $$ b,4 r 
+  r6. [b'3\p b6. b3] $c1 e, e g g cs, cs' cs cs fs, fs as as $$
+  b,4 r r6. [fs''3\p fs6. fs3] $c1 as, as cs cs $$
+  fs,4 r r2
+  r6. [fs'3\p fs6. fs3] $c1 b, b cs cs fs, fs' fs fs b, b cs cs
+  fs, fs' fs fs b b as as d d, d d g g fs fs 
+  b b, b b e e ds ds g g fs fs as as b b
+  cs, cs e e as, as cs cs fs, g' fs e $$ d8 cs6\trill b
+  b6. [b,3 b6. b3] $c1 e e ds ds b' e, e e a a gs gs 
+  e' e g g cs, cs e e a, a c c fs, fs a a 
+  d, d f f b, b d d $$ gs,4 r
+  R1*2
+  
+  r6. [e''3\f e6. e3] $c1 a, a b b e, e' e e a, a b b $$
+  e,4 r r2
+  R1
+  r6. [b'3\f b6. b3] $c1 e, e fs fs $$ b,4 r 
+  r6. [e'3\p e6. e3] $c1 a, a b b $$ e,4 r
+  r6. [e'3\p e6. e3] $c1 a, a c c fs, fs' fs fs b, b ds ds $$
+  e,4 r r6. [b'3\f b6. b3] $c1 ds, ds fs fs $$
+  b,8 r r4 r2
+  r6. [b'3\f b6. b3] $c1 e, e fs fs b, b' b b e, e fs fs
+  b, b' b b e e ds ds g g, g g c c b b 
+  e e, e e a a gs gs c c b b ds ds e e 
+  fs, fs a a ds, ds fs fs b, c' b a $$ (g8 fs6.\trill) e3
+  e4\fermata r r2
+  r6. [a3\p a6. a3] $c1 d, d fs fs g, b' b b e, e gs gs $$
+  a,4 r r6. [d3\p d6. d3] $c1 g g fs fs $$
+  b8 r r4 r6. [e3\p e6. e3] $c1 a, a cs cs
+  d, fs' fs fs b, b ds ds $$ e,8 r r4
+  r6. [a3\p a6. a3] $c1 d d cs cs $$ fs8 r r fs,
+  g4 gs a as
+  (b8 cs) ([d b]) gs4 r8 gs
+  a (a6 gs) a4 ~ a6 cs8 b6 a b8 a6
+  gs b8 a6 gs a8 gs6 fs8 cs r4
+  r6. [fs'3\p fs6. fs3] $c1 b, b d d e, b' b b e, e gs gs
+  a, e'' e e a, a cs cs d, a' a a d, d fs fs
+  gs, d'' d d gs, gs b b cs, gs' gs gs cs, cs es es $$
+  a,8 r r4 r2
+  r6. [cs'3\f cs6. cs3] $c1 fs, fs gs gs cs, cs' cs cs fs, fs gs gs
+  cs, cs' cs cs fs fs es es a a, a a d d cs cs $$
+  fs4 r r6. [d3\p d6. d3] $c1 g, g bb bb $$
+  d,8 r r4 r6. [a'3 a6. a3] $c1 d, d fs fs $$
+  g,6. [d''3\f d6. d3] $c1 g, g a a d, d' d d g, g a a
+  d, d' d d g g fs fs $$ bb8 r r4
+  r6. [g3\p g6. g3] $c1 c, c eb eb $$ g,8 r r4
+  r6. [d'3 d6. d3] $c1 g, g b b $$ c,6. [g'3\f g6. g3] $c1 c, c d d 
+  g, g' g g c, c d d $$ g,4 r
+  r6. [c'3\p c6. c3] $c1 f, f a a bb, d' d d g, g b! b $$
+  c,4 r r6. [f3\p f6. f3] $c1 bb bb a a $$
+  d8 r r4 r6. [g3 g6. g3] $c1 c, c e e 
+  f, a' a a d, d fs! fs $$ g,8 r r4
+  r6. [c,3 c6. c3] $c1 f f e e $$ a8 r r a\p
+  bb4 b c cs
+  (d8 e) ([f d]) b4 r8 b
+  c (c6 b) c4 ~ c6 e8 d6 c d8 c6
+  b d8 c6 b c8 b6 a8 e r4
+  r6. [a'3\p a6. a3] $c1 d, d f f g, d' d d g, g b b 
+  c, g'' g g c, c e e f, c' c c f, f a a 
+  b, f'' f f b, b d d e, b' b b e, e gs gs $$
+  a,4 r r2 
+  R1
+  \dacapo
+}

@@ -1,0 +1,35 @@
+\relative c {
+  \time 4/4
+  \key d \major
+  
+  \repeat volta 2 {
+    d8 d' cs cs, b b' a a,
+    g g' gs gs, a a' g g,
+    fs fs' e e, ds ds' b b'
+    e,, e' d! d,! cs cs' a a'
+    d, d' cs cs, b b' gs e
+  }
+  \alternative {
+    {
+      a d, e e, (a6 b cs d e g! fs e)
+    }
+    {
+      a8 d, e e, a2
+    }
+  }
+  
+  \repeat volta 2 {
+    a8 a' g g, fs fs' e e,
+    ds ds' fs b, e e' d! d,
+    cs cs' b b, as b cs as
+    b g' e fs b, b' a! a,!
+    gs gs' fs fs, e e' d d,
+    cs cs' d e a, a' g! g,!
+    fs fs' g g, gs gs' a a,
+    as as' b b, e e' d! d,!
+    cs cs' a cs d d, c c'
+    b b, a a' g g, fs fs'
+    e e, d d' cs a d g
+    a g a a, d,2
+  }
+}

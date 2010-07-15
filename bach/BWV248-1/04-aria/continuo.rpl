@@ -1,0 +1,144 @@
+\relative c {
+  \key a \minor
+  \time 3/8
+    \partial 8 r8
+  r8 r e,
+  a b c
+  d b g
+  c e a,
+  d4 e8
+  c (d6 c b a)
+  gs8 a6 gs a8
+  e e' gs
+  a a, cs
+  d r f
+  g g, b
+  c r e
+  f e d
+  c a b
+  c d e 
+  a,4 r8
+  r r e\p
+  a b c
+  d b g 
+  c e a,
+  d4 e8
+  c (d6 c b a)
+  gs8 a6 gs a8
+  e e' ds 
+  e r gs
+  a a, cs
+  d r f
+  g g, b
+  c c' b
+  c (e,6 d) (e c)
+  b8 c d
+  g, (g'6 f) (g e)
+  f8 g a
+  d, (f6 e) (f d)
+  c8 d e
+  a,4 r8
+  r r e
+  a r a
+  d f g
+  c, r a
+  d r e
+  (f6 e d c b a)
+  gs8 e a 
+  e e' gs,
+  a r cs
+  d f d
+  g r b,
+  c e c 
+  f e d 
+  c f d
+  e d e
+  f, (f'6 e d c)
+  bb8 r r
+  e, r r
+  a r r
+  d, r d' ~
+  d (gs,6 fs) (gs e)
+  a8. b6 cs a
+  d8 (fs,6 e) (fs d)
+  g8. a6 b g
+  c8 (e,6 d) (e c)
+  f8 (f'6 e) (f d)
+  e8 cs a
+  d d, f
+  a r a'
+  d, r d,
+  g r b
+  c r c,
+  f e' d 
+  c r b
+  c d e 
+  a,4 r8 
+  r r e\f
+  a b c
+  d g g,
+  c e a,
+  d4 e8
+  c (d6 c b a)
+  gs8 a6 gs a8
+  e e' gs
+  a a, cs
+  d r f
+  g g, b
+  c r e
+  f e d
+  c a b 
+  c d e 
+  a,6\fermata c e a e c
+  a4 r8
+  r (e'6\p d c b)
+  (a b c b a g)
+  (fs a d a fs d)
+  (g b d b g d)
+  (fs a d c b a)
+  (b e d c b a)
+  (gs b e b gs e)
+  (a c e c a e)
+  (gs b e d c b)
+  (c e d c b a)
+  ds8 r e
+  (a6 g) (a b) (c a)
+  (b c) (b a) (g fs)
+  e8 g fs
+  g ds e
+  c d! e
+  a, r6 a'6 fs e
+  d8 fs e
+  fs cs d
+  b c! d
+  g, fs e
+  a b c
+  b ds b
+  e a, b
+  e6 fs g a b\f a
+  g8 e b
+  e fs g
+  a, d d,
+  g b e
+  a4 b8
+  g (a6 g fs e)
+  ds8 e e, 
+  b' b' ds,\p
+  e r r 
+  r a c, 
+  d r r 
+  r b g
+  c r r 
+  r a fs
+  b r r 
+  r g e
+  a r r 
+  r d, d' ~
+  d e f 
+  (e6 g f e d c)
+  f8 e d 
+  g f e
+  a f g
+  c,4
+  \dacapo
+}

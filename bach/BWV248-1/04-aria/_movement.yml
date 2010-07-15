@@ -1,0 +1,5 @@
+parts:
+  violino1:
+    title: "Vno I, Oboe I"
+  oboe1:
+    source: violino1

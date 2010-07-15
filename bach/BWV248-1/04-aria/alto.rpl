@@ -1,0 +1,131 @@
+\relative c' {
+  \key a \minor
+  \time 3/8
+    \partial 8 r8
+  R4.*15
+  r8 r e
+  a c b
+  c gs a
+  [g!6 f] [e d] g8
+  e c c'
+  b [c6 b] [a gs]
+  a8 b c
+  d [c6 b] c8
+  ^c b4 b8
+  b e, r
+  r r a
+  a d, r
+  r r g
+  c, e d
+  ^f6 e8 ^d6 c8 r
+  R4.
+  r8 r a'
+  d, f e
+  ^g6 f8 ^e6 d8 r
+  R4.
+  r8 r e
+  a c b
+  c gs a
+  [g!6 f] [e d] g8
+  e c c'
+  b [c6 b] [a gs]
+  a8 b c
+  d [c6 b] c8
+  b4 d8
+  cs e g,
+  f [e6 d] c'8
+  b d f,
+  e [d6 c] e8
+  d' c b
+  e a, b
+  e, [c'6 b] [a gs]
+  a4 a8
+  a d, r
+  r r g
+  g cs, r 
+  r r a'
+  gs b d
+  d cs r
+  R4.
+  r8 r f,
+  e g bb
+  bb a r
+  R4.
+  r8 r d
+  cs e g,
+  f [e6 d] c'8
+  b d f,
+  e [d6 c] e8
+  d' c b
+  e a, b
+  e, [c'6 b] [a gs]
+  a4 r8
+  R4.*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 e c
+  g'4 g8
+  r fs g
+  [a fs] d
+  [b' g] d
+  [a' fs] d
+  r gs a
+  [b gs] e
+  [c' a] e
+  [b' gs] e
+  a b c
+  b a g!
+  fs [e6 ds] e8
+  ds b r
+  r b' b
+  b4. ~
+  b8 [a6 gs] [fs e]
+  c'8. b6 a8
+  a4. ~
+  a ~
+  a8 [g6 fs] [e d]
+  b'8 [a6 g] ([a b]
+  [c b]) ([a g]) ([fs e])
+  ([ds e]) ([fs g]) ([a fs])
+  g8 e ds
+  e e r
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  r8 b' gs
+  a ([c6 b a8])
+  r a fs
+  g d b' ~
+  [b a6 g] [fs e]
+  [e ds] a'4 ~
+  [a8 b3 a g6] [a3 g fs6]
+  g4. ~
+  [g8 a3 g f!6] [g3 f e6]
+  [f e f d f a]
+  [d b g b a g]
+  c8 c, r
+  [d6 e] [f g] [a b]
+  [c b] [a g] c8
+  e, ^g6 f8 ^e6 d8
+  c8 c
+  \dacapo
+  
+}

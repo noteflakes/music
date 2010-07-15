@@ -1,0 +1,143 @@
+\relative c' {
+  \key a \minor
+  \time 3/8
+    \partial 8 e8
+  (a c) b\trill
+  (c gs) a
+  (g6 f e d) g8-.
+  e\trill ^d c c'
+  b (c6 b a gs)
+  a8 b c
+  (d c6 b) c8
+  ^c b8. b6 e d
+  cs e cs a e g
+  f a d, a' d c!
+  b d b g d f
+  e g c, g' c b
+  (a gs) (a gs) a f'
+  (e ds) (e ds) e gs
+  a8 c, b
+  a4 e8\p
+  (a c) b\trill 
+  (c gs) a
+  (g6 f e d) g8-.
+  e ^d c c'
+  b (c6 b a gs)
+  a8 b c
+  (d c6 b) c8
+  b4 r8 r r6 b e d
+  cs e cs a e g
+  f a d, a' d c!
+  b d b g d f
+  e g c,8 r
+  r r c\f
+  (g'8 b) a\trill
+  b g r 
+  R4.
+  r8 r d
+  (a' c) b
+  c (a6\p c) (b d)
+  c e c a gs b
+  (a c e) d c b
+  a8 d b\trill
+  c6 g e g c e
+  d (f e d c b)
+  (a g f e d c)
+  b8 gs' a ~
+  a6 fs gs b d8-.
+  (cs e) g,!
+  f\trill e6 d c'8
+  (b d) f,
+  e\trill d6 c e8
+  (d' c) b
+  (e a,) b
+  e, (c'6 b a gs)
+  a8 r r
+  r8 r6 f\p bb a
+  g bb g e bb d
+  cs e a, cs e g
+  f a f d a c!
+  (b d f8) r
+  r r g\f 
+  (fs a) c
+  c\trill b r
+  R4.
+  r8 r d
+  (cs e) g,
+  f6 a\p f d a d
+  e g e cs a cs
+  d f a, d f a
+  b d b g d f
+  e g c, e g bb
+  (a gs) (a gs) a f'
+  (e ds) (e ds) e gs
+  a8 c,, b\trill
+  a4 e'8
+  (a c) b\trill
+  (c gs) a
+  (g!6 f e d) g8-.
+  e\trill ^d c c'
+  b (c6 b a gs) 
+  a8 b c
+  (d c6 b) c8
+  ^c b8. b6 e d
+  cs e cs a e g
+  f a d, a' d c!
+  b d b g d f
+  e g c, g' c b
+  (a gs) (a gs) a f'
+  (e ds) (e ds) e gs
+  a8 c,, b\trill
+  a4.\fermata
+  R4.*13
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r6 fs'\p b a
+  g b g e ds fs
+  (e g) (fs a) (g b)
+  (e d c b a gs)
+  (a e c) e a g
+  fs a fs d cs e
+  (d fs) (e g) (fs a)
+  (d c b a g fs)
+  (g d b d) g8
+  R4.*3
+  
+  
+  r8 r b,\f
+  (e g) fs\trill
+  (g ds) e
+  (d!6 c b a) d8-.
+  b g g'
+  fs (g6 fs e ds)
+  e8 fs g
+  (a g6 fs) g8
+  fs8. fs'6\p b a
+  gs b gs e b d
+  c e a, e' a g
+  fs a fs d a c
+  b d g, d' g fs
+  e g e c g b
+  a c fs, a fs' e
+  ds fs ds b fs a
+  g b e, b' e d
+  cs e cs a e g
+  f! a d, a' d c
+  b d b g d g
+  g,8 g' c ~
+  c d6 e f8 ~
+  f b, c ~
+  c d, b'\trill
+  c4
+  \dacapo
+}

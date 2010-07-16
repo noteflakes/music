@@ -1,7 +1,7 @@
 \relative c' {
   \time 12/8
   \key g \minor
-    \partial 8*9 (g''8 eb b) (b4 c8) (ab' f db)
+    \partial 8*9 (g''8 eb b) (b4 c8) ([ab' f db])
   (c4 b8) (c e g) (bb4 ab8) (bb, d f)
   (ab4 g8) (f d eb) (ab, d eb) (g, f eb)
   (eb ab g) (c bb eb) [(d ab') (g6 ab3 bb)] (g8 f eb)

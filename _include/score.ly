@@ -14,7 +14,7 @@
 		  	(/  1600 (*staff-size*))
 			)
 		}
-		\fill-line { "Copyright © 2009 Sharon Rosner. Creative Commons Attribution 3.0 License" }
+		\fill-line { "Copyright © 2010 Sharon Rosner. Creative Commons Attribution 3.0 License" }
 	}
 
 	tagline = ""

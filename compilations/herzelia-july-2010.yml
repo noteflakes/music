@@ -1,0 +1,46 @@
+title: Herzelia July 2010
+subtitle: "\"Bach at the Park\""
+movements:
+  - work: bach/BWV1041
+    movement: 01-allegro
+  - work: bach/BWV248-1
+    movement: "04-aria"
+  - work: bach/BWV236
+    movement: "04-domine-deus"
+  - work: bach/BWV1041
+    movement: "02-andante"
+  - work: bach/BWV1041
+    movement: "03-allegro-assai"
+  - work: bach/BWV021
+    movement: "01-sinfonia"
+  - work: bach/BWV021
+    movement: "03-aria"
+  - work: bach/BWV023
+    movement: "01-duetto"
+  - work: bach/BWV156
+    movement: "01-sinfonia"
+  - work: bach/BWV166
+    movement: "05-aria"
+  - work: bach/BWV208
+    movement: "09-aria"
+  - work: bach/BWV1066
+    movement: "08-bourree-I"
+  - work: bach/BWV1066
+    movement: "09-bourree-II"
+  - work: bach/BWV1066
+    movement: "05-forlane"
+  - work: bach/BWV170
+    movement: "01-aria"
+  - work: bach/BWV1068
+    movement: "02-air"
+  - work: bach/BWV091
+    movement: "05-aria"
+  - work: bach/BWV1043
+    movement: "01-vivace"
+  - work: bach/BWV1043
+    movement: "02-largo-ma-non-tanto"
+  - work: bach/BWV1043
+    movement: "03-allegro"
+parts:
+  ira:
+    source: continuo

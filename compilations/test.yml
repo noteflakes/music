@@ -1,0 +1,17 @@
+title: Bach at the Park
+subtitle: Herzelia July 2010
+movements:
+  - work: bach/BWV1041
+    movement: 01-allegro
+  - work: bach/BWV1066
+    movement: "09-bourree-II"
+    score_breaks: 2
+    parts:
+      ira:
+        source: fagotto
+        breaks: 1
+parts:
+  ira:
+    source: continuo
+    clef: bass
+    hide_figures: true

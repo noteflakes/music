@@ -6,7 +6,7 @@
 		  	(/  1600 (*staff-size*))
 			)
 		}
-		\fill-line { "Copyright © 2009 Sharon Rosner. All rights reserved." }
+		\fill-line { "Copyright © 2010 Sharon Rosner. All rights reserved." }
 	}
 	
 	tagline = ""
@@ -73,7 +73,7 @@
 	}
 
 	tocTitleMarkup = \markup \column {
-    \fill-line { \fontsize #5 "MOVEMENTS" }
+    \fill-line { \fontsize #1 "MOVEMENTS" }
 		\fill-line { 
 			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
 		  	(/ -800 (*staff-size*))
@@ -84,7 +84,7 @@
   }
 
   tocItemMarkup = \markup \fill-line {
-    \line-width-ratio #0.4 \fontsize #3 \fill-line {
+    \line-width-ratio #0.4 \fontsize #0 \fill-line {
       \line { \fromproperty #'toc:text }
       \fromproperty #'toc:page
     }

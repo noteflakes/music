@@ -7,12 +7,21 @@ movements:
     movement: "04-aria"
   - work: bach/BWV236
     movement: "04-domine-deus"
+    parts:
+      ira:
+        breaks: 1
   - work: bach/BWV1041
     movement: "02-andante"
   - work: bach/BWV1041
     movement: "03-allegro-assai"
+    parts:
+      ira:
+        breaks: 1
   - work: bach/BWV021
     movement: "01-sinfonia"
+    parts:
+      ira:
+        breaks: 1
   - work: bach/BWV021
     movement: "03-aria"
   - work: bach/BWV023
@@ -21,26 +30,46 @@ movements:
     movement: "01-sinfonia"
   - work: bach/BWV166
     movement: "05-aria"
+    parts:
+      ira:
+        breaks: 1
   - work: bach/BWV208
     movement: "09-aria"
   - work: bach/BWV1066
     movement: "08-bourree-I"
   - work: bach/BWV1066
     movement: "09-bourree-II"
+    parts:
+      ira:
+        source: fagotto
   - work: bach/BWV1066
     movement: "05-forlane"
+    parts:
+      ira:
+        breaks: 1
   - work: bach/BWV170
     movement: "01-aria"
+    parts:
+      ira:
+        breaks: 1
   - work: bach/BWV1068
     movement: "02-air"
   - work: bach/BWV091
     movement: "05-aria"
   - work: bach/BWV1043
     movement: "01-vivace"
+    parts:
+      ira:
+        breaks: 1
   - work: bach/BWV1043
     movement: "02-largo-ma-non-tanto"
   - work: bach/BWV1043
     movement: "03-allegro"
+    parts:
+      ira:
+        breaks: 1
 parts:
   ira:
     source: continuo
+    clef: bass
+    hide_figures: true

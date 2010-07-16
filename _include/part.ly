@@ -52,7 +52,7 @@
 		\null
     \fill-line { \fontsize #6
                  \apply-fromproperty #make-smallCaps-markup #'header:subtitle }
-    \null \null \null \null \null \null
+    \null \null \null 
     \fill-line { 
 			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
 		  	(/ -600 (*staff-size*))
@@ -62,7 +62,7 @@
 		\null
     \fill-line { \fontsize #6
                  \apply-fromproperty #make-smallCaps-markup #'header:instrument }
-    \null \null \null \null \null \null
+    \null \null \null 
     \fill-line { \fontsize #4 \fromproperty #'header:date }
   }
 

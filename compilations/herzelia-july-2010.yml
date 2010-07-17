@@ -12,9 +12,14 @@ movements:
         breaks: 1
   - work: bach/BWV1041
     movement: "02-andante"
+    parts:
+      katya:
+        breaks: 1
   - work: bach/BWV1041
     movement: "03-allegro-assai"
     parts:
+      katya:
+        breaks: 1
       ira:
         breaks: 1
   - work: bach/BWV021
@@ -35,6 +40,10 @@ movements:
         breaks: 1
   - work: bach/BWV208
     movement: "09-aria"
+    parts:
+      katya:
+        source: flauto2
+        clef: treble
   - work: bach/BWV1066
     movement: "08-bourree-I"
   - work: bach/BWV1066
@@ -45,6 +54,8 @@ movements:
   - work: bach/BWV1066
     movement: "05-forlane"
     parts:
+      katya:
+        breaks: 1
       ira:
         breaks: 1
   - work: bach/BWV170
@@ -54,6 +65,9 @@ movements:
         breaks: 1
   - work: bach/BWV1068
     movement: "02-air"
+    parts:
+      katya:
+        breaks: 1
   - work: bach/BWV091
     movement: "05-aria"
   - work: bach/BWV1043
@@ -63,9 +77,14 @@ movements:
         breaks: 1
   - work: bach/BWV1043
     movement: "02-largo-ma-non-tanto"
+    parts:
+      katya:
+        breaks: 1
   - work: bach/BWV1043
     movement: "03-allegro"
     parts:
+      katya:
+        breaks: 1
       ira:
         breaks: 1
 parts:
@@ -73,3 +92,10 @@ parts:
     source: continuo
     clef: bass
     hide_figures: true
+  katya:
+    source: viola
+    clef: alto
+  yoann:
+    source: continuo
+    clef: bass
+    embed_figures: true

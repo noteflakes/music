@@ -1,0 +1,11 @@
+title: Soprano Prima Vista
+movements:
+  - work: bach/BWV165
+    movement: 01-aria
+  - work: bach/BWV166
+    movement: 03-choral
+  - work: bach/BWV017
+    movement: 01-coro
+parts:
+  soprano:
+    include: true

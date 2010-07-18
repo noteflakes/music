@@ -1,0 +1,13 @@
+title: Tenore Prima Vista
+movements:
+  - work: bach/BWV165
+    movement: 05-aria
+  - work: bach/BWV166
+    movement: 02-aria
+  - work: bach/BWV156
+    movement: 02-aria
+  - work: bach/BWV017
+    movement: 01-coro
+parts:
+  tenore:
+    include: true

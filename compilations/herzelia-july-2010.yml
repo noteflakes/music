@@ -1,88 +1,193 @@
 title: Herzelia July 2010
 subtitle: "\"Bach at the Park\""
 movements:
-  - work: bach/BWV1041
-    movement: 01-allegro
-  - work: bach/BWV248-1
-    movement: "04-aria"
-  - work: bach/BWV236
-    movement: "04-domine-deus"
+  - movement: "bach/BWV1041#1"
+    parts:
+      noam:
+        source: violino-concertato
+  - movement: "bach/BWV248-1#4"
+    parts:
+      shai:
+        source: none
+  - movement: "bach/BWV236#4"
     parts:
       ira:
         breaks: 1
-  - work: bach/BWV1041
-    movement: "02-andante"
+  - movement: "bach/BWV1041#2"
     parts:
+      noam:
+        source: violino-concertato
       katya:
         breaks: 1
-  - work: bach/BWV1041
-    movement: "03-allegro-assai"
+  - movement: "bach/BWV1041#3"
     parts:
+      noam:
+        source: violino-concertato
       katya:
         breaks: 1
       ira:
         breaks: 1
-  - work: bach/BWV021
-    movement: "01-sinfonia"
+  - movement: "bach/BWV021#1"
     parts:
+      shai:
+        source: oboe
+      rachel:
+        source: none
+      hadas:
+        source: none
+      noam:
+        breaks: 1
       ira:
         breaks: 1
-  - work: bach/BWV021
-    movement: "03-aria"
-  - work: bach/BWV023
-    movement: "01-duetto"
-  - work: bach/BWV156
-    movement: "01-sinfonia"
-  - work: bach/BWV166
-    movement: "05-aria"
+  - movement: "bach/BWV021#3"
     parts:
+      shai:
+        source: oboe
+  - movement: "bach/BWV023#1"
+    parts:
+      shai:
+        source: oboe2
+  - movement: "bach/BWV156#1"
+    parts:
+      shai:
+        source: none
+      amir:
+        source: oboe
+  - movement: "bach/BWV166#5"
+    parts:
+      shai:
+        source: oboe
+      rachel:
+        source: violino1
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
       ira:
         breaks: 1
-  - work: bach/BWV208
-    movement: "09-aria"
+  - movement: "bach/BWV208#9"
     parts:
       katya:
-        source: flauto2
+        source: flauto1
         clef: treble
-  - work: bach/BWV1066
-    movement: "08-bourree-I"
-  - work: bach/BWV1066
-    movement: "09-bourree-II"
+      shai:
+        source: flauto2
+  - movement: "bach/BWV1066#8"
+    parts:
+      shai:
+        source: oboe2
+      rachel:
+        source: violino1
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
+  - movement: "bach/BWV1066#9"
     parts:
       ira:
         source: fagotto
-  - work: bach/BWV1066
-    movement: "05-forlane"
+      shai:
+        source: oboe2
+      rachel:
+        source: violino1
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
+  - movement: "bach/BWV1066#5"
     parts:
+      shai:
+        source: oboe2
+      rachel:
+        source: violino1
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
       katya:
         breaks: 1
       ira:
         breaks: 1
-  - work: bach/BWV170
-    movement: "01-aria"
+  - movement: "bach/BWV170#1"
     parts:
+      shai:
+        source: oboe
+      rachel:
+        source: violino1
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
       ira:
         breaks: 1
-  - work: bach/BWV1068
-    movement: "02-air"
+  - movement: "bach/BWV1068#2"
     parts:
+      rachel:
+        source: violino1
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
       katya:
         breaks: 1
-  - work: bach/BWV091
-    movement: "05-aria"
-  - work: bach/BWV1043
-    movement: "01-vivace"
+  - movement: "bach/BWV091#5"
     parts:
+      rachel:
+        source: violino1
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
+  - movement: "bach/BWV1043#1"
+    parts:
+      rachel:
+        source: violino-concertato2
+        breaks: 1
+      hadas:
+        source: violino-concertato1
+        breaks: 1
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
       ira:
         breaks: 1
-  - work: bach/BWV1043
-    movement: "02-largo-ma-non-tanto"
+  - movement: "bach/BWV1043#2"
     parts:
+      rachel:
+        source: violino-concertato2
+      hadas:
+        source: violino-concertato1
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
       katya:
         breaks: 1
-  - work: bach/BWV1043
-    movement: "03-allegro"
+  - movement: "bach/BWV1043#3"
     parts:
+      rachel:
+        source: violino-concertato2
+      hadas:
+        source: violino-concertato1
+      noam:
+        source: violino1
+      yonatan:
+        source: violino2
       katya:
         breaks: 1
       ira:
@@ -99,3 +204,17 @@ parts:
     source: continuo
     clef: bass
     embed_figures: true
+  shai:
+    source: oboe1
+    clef: treble
+  amir:
+    source: oboe1
+    clef: treble
+  rachel:
+    source: violino2
+  hadas:
+    source: violino1
+  noam:
+    source: violino2
+  yonatan:
+    source: violino1

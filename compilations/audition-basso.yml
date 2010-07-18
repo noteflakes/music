@@ -1,0 +1,12 @@
+movements:
+  - work: bach/BWV166
+    movement: 01-aria
+  - work: bach/BWV156
+    movement: 03-recitativo
+  - work: bach/BWV156
+    movement: 05-recitativo
+  - work: bach/BWV017
+    movement: 01-coro
+parts:
+  basso:
+    include: true

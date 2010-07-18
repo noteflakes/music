@@ -1,0 +1,13 @@
+title: Alto Prima Vista
+movements:
+  - work: bach/BWV166
+    movement: 05-aria
+  - work: bach/BWV165
+    movement: 03-aria
+  - work: bach/BWV156
+    movement: 04-aria
+  - work: bach/BWV017
+    movement: 01-coro
+parts:
+  alto:
+    include: true

@@ -40,7 +40,6 @@ movements:
   06-choral:
     midi_tempo: 90 4
 score:
-  hide_figures: false
   order:
     - violino1
     - violino2

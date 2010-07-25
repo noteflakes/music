@@ -13,7 +13,6 @@ movements:
     title: "9. Bourrée II"
     midi_tempo: 100 2
 score:
-  hide_figures: false
   order:
     - oboe1
     - oboe2

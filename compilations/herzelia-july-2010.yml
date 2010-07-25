@@ -5,27 +5,60 @@ movements:
     parts:
       noam:
         source: violino-concertato
-  - movement: "bach/BWV248-1#4"
-    parts:
-      shai:
-        source: none
-  - movement: "bach/BWV236#4"
-    parts:
-      ira:
-        breaks: 1
   - movement: "bach/BWV1041#2"
     parts:
       noam:
         source: violino-concertato
+        breaks: 2
+      ira:
+        breaks: 1
+      continuo:
+        breaks: 1
+      yonatan:
+        breaks: 1
       katya:
+        breaks: 1
+      hadas:
+        breaks: 1
+      rachel:
         breaks: 1
   - movement: "bach/BWV1041#3"
     parts:
       noam:
         source: violino-concertato
+        breaks: 1
+      ira: 
+        breaks: 1
+      continuo:
+        breaks: 1
+      yonatan:
+        breaks: 2
       katya:
+        breaks: 2
+      hadas:
+        breaks: 2
+      rachel:
+        breaks: 2
+  - movement: "bach/BWV248-1#4"
+    parts:
+      shai:
+        source: none
+      ira:
+        breaks: 1
+      continuo:
+        breaks: 1
+    score_breaks: 1
+  - movement: "bach/BWV236#4"
+    parts:
+      noam:
+        breaks: 2
+      continuo:
         breaks: 1
       ira:
+        breaks: 2
+      yonatan:
+        breaks: 1
+      hadas:
         breaks: 1
   - movement: "bach/BWV021#1"
     parts:
@@ -35,28 +68,45 @@ movements:
         source: none
       hadas:
         source: none
-      noam:
+      yonatan:
         breaks: 1
-      ira:
+      katya:
         breaks: 1
   - movement: "bach/BWV021#3"
     parts:
+      ira:
+        breaks: 1
+      continuo:
+        breaks: 1
       shai:
         source: oboe
   - movement: "bach/BWV023#1"
     parts:
+      amir:
+        breaks: 1
       shai:
         source: oboe2
+        breaks: 1
+      continuo:
+        breaks: 2
   - movement: "bach/BWV156#1"
     parts:
+      noam:
+        breaks: 1
       shai:
         source: none
       amir:
         source: oboe
+        breaks: 1
+      continuo:
+        breaks: 1
+      hadas:
+        breaks: 1
   - movement: "bach/BWV166#5"
     parts:
       shai:
         source: oboe
+        breaks: 1
       rachel:
         source: violino1
       hadas:
@@ -65,19 +115,25 @@ movements:
         source: violino1
       yonatan:
         source: violino2
-      ira:
-        breaks: 1
   - movement: "bach/BWV208#9"
     parts:
+      ira:
+        breaks: 1
       katya:
         source: flauto1
         clef: treble
+        breaks: 1
       shai:
         source: flauto2
+      continuo:
+        breaks: 1
   - movement: "bach/BWV1066#8"
     parts:
+      ira:
+        breaks: 1
       shai:
         source: oboe2
+        breaks: 1
       rachel:
         source: violino1
       hadas:
@@ -86,6 +142,10 @@ movements:
         source: violino1
       yonatan:
         source: violino2
+        breaks: 1
+      katya:
+        breaks: 1
+    score_breaks: 1
   - movement: "bach/BWV1066#9"
     parts:
       ira:
@@ -104,31 +164,37 @@ movements:
     parts:
       shai:
         source: oboe2
+        breaks: 1
       rachel:
         source: violino1
       hadas:
         source: violino2
+        breaks: 1
       noam:
         source: violino1
+        breaks: 1
       yonatan:
         source: violino2
-      katya:
-        breaks: 1
-      ira:
-        breaks: 1
   - movement: "bach/BWV170#1"
     parts:
+      ira:
+        breaks: 2
       shai:
         source: oboe
       rachel:
         source: violino1
+        breaks: 1
       hadas:
         source: violino2
       noam:
         source: violino1
+        breaks: 2
       yonatan:
         source: violino2
-      ira:
+        breaks: 2
+      continuo:
+        breaks: 1
+      katya:
         breaks: 1
   - movement: "bach/BWV1068#2"
     parts:
@@ -136,61 +202,84 @@ movements:
         source: violino1
       hadas:
         source: violino2
+        breaks: 1
       noam:
         source: violino1
       yonatan:
         source: violino2
-      katya:
-        breaks: 1
   - movement: "bach/BWV091#5"
     parts:
-      rachel:
-        source: violino1
-      hadas:
-        source: violino2
-      noam:
-        source: violino1
-      yonatan:
-        source: violino2
-  - movement: "bach/BWV1043#1"
-    parts:
-      rachel:
-        source: violino-concertato2
-        breaks: 1
-      hadas:
-        source: violino-concertato1
-        breaks: 1
-      noam:
-        source: violino1
-      yonatan:
-        source: violino2
       ira:
         breaks: 1
-  - movement: "bach/BWV1043#2"
+      rachel:
+        source: violino1
+        breaks: 2
+      hadas:
+        source: violino2
+      noam:
+        source: violino1
+        breaks: 2
+      yonatan:
+        source: violino2
+        breaks: 1
+      continuo:
+        breaks: 1
+    score_breaks: 1
+  - movement: "bach/BWV1043#1"
     parts:
+      ira:
+        breaks: 1
       rachel:
         source: violino-concertato2
+        breaks: 1
       hadas:
         source: violino-concertato1
       noam:
         source: violino1
+        breaks: 2
       yonatan:
         source: violino2
+        breaks: 2
+      continuo:
+        breaks: 1
       katya:
+        breaks: 1
+    score_breaks: 1
+  - movement: "bach/BWV1043#2"
+    parts:
+      ira:
+        breaks: 1
+      rachel:
+        source: violino-concertato2
+        breaks: 1
+      hadas:
+        source: violino-concertato1
+        breaks: 1
+      noam:
+        source: violino1
+        breaks: 1
+      yonatan:
+        source: violino2
+        breaks: 1
+      continuo:
         breaks: 1
   - movement: "bach/BWV1043#3"
     parts:
+      ira:
+        breaks: 2
       rachel:
         source: violino-concertato2
+        breaks: 1
       hadas:
         source: violino-concertato1
+        breaks: 1
       noam:
         source: violino1
+        breaks: 2
       yonatan:
         source: violino2
+        breaks: 2
       katya:
-        breaks: 1
-      ira:
         breaks: 1
 parts:
   ira:
@@ -200,7 +289,7 @@ parts:
   katya:
     source: viola
     clef: alto
-  yoann:
+  continuo:
     source: continuo
     clef: bass
     embed_figures: true
@@ -218,3 +307,5 @@ parts:
     source: violino2
   yonatan:
     source: violino1
+score:
+  hide_figures: true

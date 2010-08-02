@@ -1,10 +1,12 @@
 --- 
 title: D B Mus. ms. Bach P 13, Faszikel 3
 hrefs: 
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=FEF10F2CBCDF621E4C4DEA42F7D4C48A?re_mcrid=BachDigitalSource_source_00000827&se_mcrid=BachDigitalSource_derivate_00000089&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000089/db_bachp0013_page025.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000089/db_bachp0013_page026.jpg
-url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000827
-date: 1738-1741
-work: BWV 239
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=75308A9B2D7693AD555DFC7BA1CD3312?re_mcrid=BachDigitalSource_source_00000827&se_mcrid=BachDigitalSource_derivate_00000089&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000089/db_bachp0013_page025.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000089/db_bachp0013_page026.jpg
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00000827
+date: ""
+bwvs: 
+- "239"
+work: BWV0239
 owner: Bach Archiv Leipzig

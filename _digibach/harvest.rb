@@ -1,8 +1,18 @@
 require 'rubygems'
-require 'open-uri'
 require 'pdf/writer'
-require 'nokogiri'
+require 'fileutils'
+require 'hpricot'
+require 'httparty'
+require 'open-uri'
 require 'pp'
+
+def open_url(url)
+  r = HTTParty.get(url, :timeout => 10)
+  r.body
+rescue Timeout::Error
+  puts "timeout while getting #{url}"
+  ''
+end
 
 class String
   def uri_escape
@@ -20,10 +30,11 @@ class String
 end
 
 class Harvester
-  def initialize(work, url)
+  def initialize(work, url, bwvs)
     @work = work
     @url = url
-    @h = Hpricot(open(@url))
+    @bwvs = bwvs
+    @h = Hpricot(open_url(@url))
   end
   
   def dfg_links
@@ -36,7 +47,7 @@ class Harvester
   def dfg_docs
     @dfg_docs ||= dfg_links.map do |l|
       begin
-        doc = Hpricot(open(l))
+        doc = Hpricot(open_url(l))
         (doc/'mets:mets').empty? ? nil : doc
       rescue
         nil
@@ -53,6 +64,7 @@ class Harvester
       @meta = {}
       h = dfg_docs.first
       @meta['work'] = @work
+      @meta['bwvs'] = @bwvs
       @meta['url'] = @url
       @meta['title'] = h.at('mods:title').inner_text
       @meta['owner'] = h.at('dv:owner').inner_text
@@ -62,13 +74,14 @@ class Harvester
   end
   
   def dfg_jpg_hrefs(dfg)
-    (dfg/'mets:file mets:flocat').map {|f| f['xlink:href']}
+    (dfg/'mets:file mets:flocat').map {|f| f['xlink:href'].gsub(':8971', '').
+      gsub('//vmbach.rz.uni-leipzig.de/', '//www.bach-digital.de/')}
   end
   
   def dfg_info
     dfg_links.inject([]) do |m, l|
       begin
-        m << [l, dfg_jpg_hrefs(Hpricot(open(l)))]
+        m << [l, dfg_jpg_hrefs(Hpricot(open_url(l)))]
       rescue
       end
       m
@@ -77,7 +90,8 @@ class Harvester
   
   # Creates a list of jpgs from the dfg docs (a dfg doc is provided for each movement in the work)
   def jpg_hrefs
-    last_label = nil
+    last_label = ''
+    last_href = ''
     @jpg_hrefs ||= dfg_docs.inject([]) do |jpgs, d|
       # get all refs: [page_label, fileid]
       files = (d/'mets:structmap mets:div mets:div').
@@ -99,7 +113,7 @@ class Harvester
         
         file_tag = (d/"mets:file").select {|f| f['id'] == file[1]}.first
         if file_tag
-          href = file_tag.at("mets:flocat")['xlink:href'].safe_uri_escape
+          href = file_tag.at("mets:flocat")['xlink:href'].safe_uri_escape.gsub(':8971', '')
           if label.empty?
             if file[2] =~ /((page|post|pre|ante)(.+))$/
               label = $1
@@ -108,8 +122,9 @@ class Harvester
             end
           end
           
-          if label != last_label
+          if (File.basename(href) != File.basename(last_href))
             last_label = label
+            last_href = href
             jpgs << [label, href]
           else # same page as before, so we add the ref to the last page tuple
             jpgs.last << href
@@ -133,7 +148,7 @@ class Harvester
       # here we just grab the first one that works and yield it to the 
       # supplied block.
       jpg = page_info.inject(nil) do |i, href|
-        puts "Downloading #{label}..."
+        puts "Downloading #{label}...(#{href})"
         (jpg = open(href)) && (break jpg) rescue nil
       end
       yield jpg, label, page_info
@@ -177,7 +192,9 @@ class Harvester
   end
   
   def self.already_processed?(href)
-    get_receipts[href]
+    get_receipts[href] || 
+      get_receipts[href.gsub('vmbach.rz.uni-leipzig.de/', 'vmbach.rz.uni-leipzig.de:8971/')] ||
+      get_receipts[href.gsub('www.bach-digital.de/', 'vmbach.rz.uni-leipzig.de:8971/')]
   end
   
   def self.record_receipt(href)
@@ -212,7 +229,7 @@ class Harvester
     FileUtils.mkdir(work_dir) rescue nil
     Dir.chdir(work_dir) do
       unless already_processed?(href)
-        m = new(work, href)
+        m = new(work, href, bwvs)
         m.save_info
         m.make_pdf
         record_receipt(href)
@@ -224,7 +241,7 @@ end
 trap('INT') {exit}
 trap('TERM') {exit}
 
-manuscripts = YAML.load(IO.read('manuscripts.yml')).inject({}) do |m, w|
+manuscripts = YAML.load(IO.read('sources.yml')).inject({}) do |m, w|
   href = w['href']
   (m[href] ||= []) << w
   m
@@ -234,7 +251,7 @@ idx = 1
 
 manuscripts.each do |h, m|
   works = m.map {|i| Harvester.format_bwv_dir_name(i['BWV'])}.join(',')
-  puts "(#{idx}) processing #{works}: #{m.first['id']}"
+  puts "(#{idx}) processing #{works}: #{m.first['name']}"
   Harvester.process(m)
   idx += 1
 end

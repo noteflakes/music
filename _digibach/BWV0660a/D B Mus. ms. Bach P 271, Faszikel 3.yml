@@ -1,12 +1,14 @@
 --- 
 title: D B Mus. ms. Bach P 271, Faszikel 3
 hrefs: 
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=09BD75AA3C0EDD3F58D51530A620E655?re_mcrid=BachDigitalSource_source_00001204&se_mcrid=BachDigitalSource_derivate_00000111&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page107.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page108.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page109.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page110.jpg
-url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00001204
-date: letzte Weimarer Jahre (von Dadelsen)
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=C46B5F7797360642E3F207253400F78F?re_mcrid=BachDigitalSource_source_00001204&se_mcrid=BachDigitalSource_derivate_00000111&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page107.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page108.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page109.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000111/db_bachp0271_page110.jpg
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00001204
+date: ""
+bwvs: 
+- 660a
 work: BWV0660a
 owner: Bach Archiv Leipzig

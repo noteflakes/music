@@ -1,22 +1,34 @@
 # http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalWork_work_00000001
 # http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalWork_work_00000249
 
-work_range = 1..1725
+$work_range = 1..1725
 
 URL_PATTERN = "http://vmbach.rz.uni-leipzig.de/receive/BachDigitalWork_work_%08d"
 
 require 'rubygems'
-require 'open-uri'
-require 'hpricot'
+require 'thread'
+require 'nokogiri'
+require 'httparty'
+require File.join(File.dirname(__FILE__), 'thread_pool')
 
-manuscripts = []
+$sources = YAML.load(IO.read('sources.yml')) rescue []
+$pool = ThreadPool.new(20)
 
-work_range.each do |id|
+def open_url(url)
+  r = HTTParty.get(url, :timeout => 10)
+  r.body
+rescue Timeout::Error
+  puts "timeout while getting #{url}"
+  ''
+end
+
+def check_work(id)
+  puts "(#{id})"
   url = URL_PATTERN % id
   begin
-    h = Hpricot(open(url))
+    h = Nokogiri::HTML(open_url(url))
     
-    title = h.at('div.contentlinecontent table tr td').inner_html.
+    title = h.at_css('div.contentlinecontent table tr td').inner_html.
       gsub(/\<br\s?\/?\>/m, " ").gsub(/\n/, " ").gsub(/\s{2,}/, " ").strip
     bwv = ''
     case title
@@ -29,24 +41,60 @@ work_range.each do |id|
     when /deest \((.+)\)/
       bwv = $1
     end
-    puts title
-    puts bwv
+    #puts title
     
-    digital_refs = (h/'a').select {|a| a.inner_text =~ /Digitalisat/}
-    
-    refs = digital_refs.map {|a| [a['href'], a.inner_text]}.uniq
+    source_refs = h.css('a').select {|a| a['href'] =~ /BachDigitalSource/}
+    refs = source_refs.map {|a| [a['href'], a.inner_text]}.uniq
     refs.each do |ref|
-      puts "  - #{ref[0]}"
-      manuscripts << {
-        'work' => title,
-        'BWV' => bwv,
-        'href' => ref[0],
-        'id' => ref[1]
-      }
+      $pool.process {check_source(ref[0], ref[1], id, title, bwv)}
     end
   rescue => e
+    puts "!!!!!!!!!"
     puts e.message
+    e.backtrace.each {|l| puts l}
   end
 end
 
-File.open('manuscripts.yml', 'w+') {|f| f << manuscripts.to_yaml}
+def check_source(url, name, work_id, work, bwv)
+  if ($sources.select {|s| s['href'] == url}.size > 0) || is_source_digitized?(url)
+    puts "found source for BWV #{bwv}: #{name}"
+    Thread.exclusive do
+      $sources << {
+        'work_id' => work_id,
+        'work' => work,
+        'BWV' => bwv,
+        'href' => url,
+        'name' => name
+      }
+      save_sources($sources.uniq)
+    end
+  end
+end
+
+$digitization_map = {}
+
+def is_source_digitized?(url)
+  if $digitization_map.has_key?(url)
+    $digitization_map[url]
+  else
+    src = open_url(url)
+    if src == ''
+      digitized = false
+    else
+      h = Nokogiri::HTML(src)
+      digitized = !!h.at_css('.dfgviewDerivateLink')
+    end
+    Thread.exclusive do
+      $digitization_map[url] = digitized
+    end
+  end
+end
+
+def save_sources(m)
+  File.open('sources.yml', 'w+') {|f| f << m.sort_by {|m| m['work_id']}.to_yaml}
+end
+
+$work_range.each {|id| check_work(id)}
+$pool.join
+puts "*************************"
+puts "found #{$sources.size}"

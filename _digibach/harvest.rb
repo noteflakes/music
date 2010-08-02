@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'open-uri'
 require 'pdf/writer'
-require 'hpricot'
+require 'nokogiri'
 require 'pp'
 
 class String

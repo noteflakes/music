@@ -1,0 +1,38 @@
+--- 
+title: D B Mus. ms. Bach P 75
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001159&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001159/db_bachp0075_ante001r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001159/db_bachp0075_ante001v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001162&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001162/db_bachp0075_page001r.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001166&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001166/db_bachp0075_page001r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001166/db_bachp0075_page001v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001166/db_bachp0075_page002r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001166/db_bachp0075_page002v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001169&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001169/db_bachp0075_page002v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001172&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001172/db_bachp0075_page003r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001172/db_bachp0075_page003v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001172/db_bachp0075_page004r.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001175&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001175/db_bachp0075_page004r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001175/db_bachp0075_page004v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001178&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001178/db_bachp0075_page004v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001178/db_bachp0075_page005r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001178/db_bachp0075_page005v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=4587C4D189A28C7BE016E12CA15D726F?re_mcrid=BachDigitalSource_source_00000938&se_mcrid=BachDigitalSource_derivate_00001181&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001181/db_bachp0075_page005v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001181/db_bachp0075_page006r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001181/db_bachp0075_page006v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001181/db_bachp0075_post001r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00001181/db_bachp0075_post001v.jpg
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00000938
+date: ""
+bwvs: 
+- "175"
+work: BWV0175
+owner: Bach Archiv Leipzig

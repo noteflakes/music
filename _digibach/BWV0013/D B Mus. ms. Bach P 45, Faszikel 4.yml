@@ -1,32 +1,34 @@
 --- 
 title: D B Mus. ms. Bach P 45, Faszikel 4
 hrefs: 
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=E5EF645FEC72B8DFCFAF394FB19128E2?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000708&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000708/db_bachp0045_page030r.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000708/db_bachp0045_page030v.jpg
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=E5EF645FEC72B8DFCFAF394FB19128E2?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000710&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page031r.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page031v.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page032r.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page032v.jpg
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=E5EF645FEC72B8DFCFAF394FB19128E2?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000712&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000712/db_bachp0045_page033r.jpg
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=E5EF645FEC72B8DFCFAF394FB19128E2?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000714&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page033r.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page033v.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page034r.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page034v.jpg
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=E5EF645FEC72B8DFCFAF394FB19128E2?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000716&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000716/db_bachp0045_page034v.jpg
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=E5EF645FEC72B8DFCFAF394FB19128E2?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000718&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page034v.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page035r.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page035v.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page036r.jpg
-    - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page036v.jpg
-- - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRDFGViewerServlet;jsessionid=E5EF645FEC72B8DFCFAF394FB19128E2?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000720&step=commit&todo=buildMetsMods
-  - - http://vmbach.rz.uni-leipzig.de:8971/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000720/db_bachp0045_page036v.jpg
-url: http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalSource_source_00000880
-date: Auffuehrungsdatum 20.1.1726
-work: BWV 13
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=FAB80E4801D0DA5EFB29733AEE1FDB40?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000708&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000708/db_bachp0045_page030r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000708/db_bachp0045_page030v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=FAB80E4801D0DA5EFB29733AEE1FDB40?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000710&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page031r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page031v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page032r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000710/db_bachp0045_page032v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=FAB80E4801D0DA5EFB29733AEE1FDB40?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000712&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000712/db_bachp0045_page033r.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=FAB80E4801D0DA5EFB29733AEE1FDB40?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000714&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page033r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page033v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page034r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000714/db_bachp0045_page034v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=FAB80E4801D0DA5EFB29733AEE1FDB40?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000716&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000716/db_bachp0045_page034v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=FAB80E4801D0DA5EFB29733AEE1FDB40?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000718&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page034v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page035r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page035v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page036r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000718/db_bachp0045_page036v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=FAB80E4801D0DA5EFB29733AEE1FDB40?re_mcrid=BachDigitalSource_source_00000880&se_mcrid=BachDigitalSource_derivate_00000720&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000720/db_bachp0045_page036v.jpg
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00000880
+date: ""
+bwvs: 
+- "13"
+work: BWV0013
 owner: Bach Archiv Leipzig

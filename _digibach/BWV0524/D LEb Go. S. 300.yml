@@ -1,0 +1,16 @@
+--- 
+title: D LEb Go. S. 300
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=354C9D5BE0173BA8E176B1A133409180?re_mcrid=BachDigitalSource_source_00003172&se_mcrid=BachDigitalSource_derivate_00000059&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-01.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-02.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-03.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-04.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-05.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00000059/BWV_524-06.jpg
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00003172
+date: ""
+bwvs: 
+- "524"
+work: BWV0524
+owner: Bach Archiv Leipzig

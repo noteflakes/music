@@ -1,0 +1,14 @@
+--- 
+title: D B Mus. ms. Bach St 12, Faszikel 1
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=EB4B72BB268FDFE3141AC6CEB970EC77?re_mcrid=BachDigitalSource_source_00002316&se_mcrid=BachDigitalSource_derivate_00006095&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00006095/db_bachst0012_pa001.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00006095/db_bachst0012_pa002.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00006095/db_bachst0012_pa003.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00006095/db_bachst0012_pa004.jpg
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002316
+date: ""
+bwvs: 
+- "195"
+work: BWV0195
+owner: Bach Archiv Leipzig

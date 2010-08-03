@@ -14,6 +14,16 @@ rescue Timeout::Error
   ''
 end
 
+# Fix PDF/Writer to display UTF8 strings correctly
+require 'iconv'
+class PDF::Writer
+  UTF8CONVERTER = Iconv.new( 'ISO-8859-15//IGNORE//TRANSLIT', 'utf-8')
+  alias_method :old_text, :text
+  def text(textto, options = {})
+    old_text(UTF8CONVERTER.iconv(textto), options)
+  end
+end
+
 class String
   def uri_escape
     gsub(/([^ a-zA-Z0-9_.-]+)/n) {'%'+$1.unpack('H2'*$1.size).
@@ -30,10 +40,11 @@ class String
 end
 
 class Harvester
-  def initialize(work, url, bwvs)
+  def initialize(work, url, bwvs, work_dir)
     @work = work
     @url = url
     @bwvs = bwvs
+    @work_dir = work_dir
     @h = Hpricot(open_url(@url))
   end
   
@@ -47,7 +58,8 @@ class Harvester
   def dfg_docs
     @dfg_docs ||= dfg_links.map do |l|
       begin
-        doc = Hpricot(open_url(l))
+        xml = open_url(l)
+        doc = Hpricot(xml)
         (doc/'mets:mets').empty? ? nil : doc
       rescue
         nil
@@ -63,6 +75,7 @@ class Harvester
     unless @meta
       @meta = {}
       h = dfg_docs.first
+      raise "No valid DFG doc found" if h.nil?
       @meta['work'] = @work
       @meta['bwvs'] = @bwvs
       @meta['url'] = @url
@@ -75,7 +88,7 @@ class Harvester
   
   def dfg_jpg_hrefs(dfg)
     (dfg/'mets:file mets:flocat').map {|f| f['xlink:href'].gsub(':8971', '').
-      gsub('//vmbach.rz.uni-leipzig.de/', '//www.bach-digital.de/')}
+      gsub('//vmbach.rz.uni-leipzig.de/', '//www.bach-digital.de/')}.sort
   end
   
   def dfg_info
@@ -138,7 +151,7 @@ class Harvester
   def save_info
     # info = metadata.merge('jpg' => jpg_hrefs, 'dfg' => dfg_links)
     info = metadata.merge('hrefs' => dfg_info)
-    File.open("#{title}.yml", 'w+') {|f| f << info.to_yaml}
+    File.open(File.join(@work_dir, "#{title}.yml"), 'w+') {|f| f << info.to_yaml}
   end
   
   def process_jpgs
@@ -156,49 +169,61 @@ class Harvester
   end
   
   def pdf_filename
-    "#{title}.pdf"
+    File.join(@work_dir, "#{title}.pdf")
   end
   
   def make_pdf
     pdf = PDF::Writer.new; first = true
     pdf.select_font "Helvetica-Bold"
+    page = 0
     process_jpgs do |jpg, label, hrefs|
-      pdf.start_new_page unless first; first = false
+      pdf.start_new_page unless first; first = false;
+      page += 1
       # page identification
-      pdf.text "#{@work} - #{title} - #{label}", :font_size => 9, :justification => :center
+      pdf.text "-#{page}-", :font_size => 9, :justification => :center
+      pdf.text "#{@work} - #{title} - #{label}", :font_size => 7, :justification => :center
       if jpg
-        pdf.image jpg, :resize => :full, :justification => :center
+        begin
+          pdf.image jpg, :resize => :full, :justification => :center
+        rescue
+          pdf.text "", :font_size => 20, :justification => :left
+          text = hrefs.inject("Failed to load jpg for #{label}:\n") do |t, r|
+            t << "  #{r}\n"
+          end
+          pdf.text text, :font_size => 9, :justification => :left
+        end
       else
         puts "could not load jpg for #{label}"
         text = hrefs.inject("Could not load jpg for #{label}:\n") do |t, r|
           t << "  #{r}\n"
         end
+        pdf.text "", :font_size => 20, :justification => :left
         pdf.text text, :font_size => 14, :justification => :left
       end
     end
     pdf.save_as(pdf_filename)
   end
   
-  def self.get_receipts
-    if File.file?('receipts.yml')
-      YAML.load(IO.read('receipts.yml'))
+  def self.get_receipts(work_dir)
+    if File.file?(File.join(work_dir, "receipts.yml"))
+      YAML.load(IO.read(File.join(work_dir, "receipts.yml")))
     else
       {}
     end
   end
   
-  def self.set_receipts(r)
-    File.open("receipts.yml", 'w+') {|f| f << r.to_yaml}
+  def self.set_receipts(r, work_dir)
+    File.open(File.join(work_dir, "receipts.yml"), 'w+') {|f| f << r.to_yaml}
   end
   
-  def self.already_processed?(href)
-    get_receipts[href] || 
-      get_receipts[href.gsub('vmbach.rz.uni-leipzig.de/', 'vmbach.rz.uni-leipzig.de:8971/')] ||
-      get_receipts[href.gsub('www.bach-digital.de/', 'vmbach.rz.uni-leipzig.de:8971/')]
+  def self.already_processed?(href, work_dir)
+    get_receipts(work_dir)[href] || 
+      get_receipts(work_dir)[href.gsub('vmbach.rz.uni-leipzig.de/', 'vmbach.rz.uni-leipzig.de:8971/')] ||
+      get_receipts(work_dir)[href.gsub('www.bach-digital.de/', 'vmbach.rz.uni-leipzig.de:8971/')]
   end
   
-  def self.record_receipt(href)
-    set_receipts(get_receipts.merge(href => true))
+  def self.record_receipt(href, work_dir)
+    set_receipts(get_receipts(work_dir).merge(href => true), work_dir)
   end
   
   def self.format_bwv_dir_name(bwv)
@@ -227,14 +252,17 @@ class Harvester
     end
 
     FileUtils.mkdir(work_dir) rescue nil
-    Dir.chdir(work_dir) do
-      unless already_processed?(href)
-        m = new(work, href, bwvs)
-        m.save_info
-        m.make_pdf
-        record_receipt(href)
-      end
+    #Dir.chdir(work_dir) do
+    unless already_processed?(href, work_dir)
+      m = new(work, href, bwvs, work_dir)
+      m.save_info
+      m.make_pdf
+      record_receipt(href, work_dir)
     end
+    #end
+  rescue => e
+    puts "Failed to process source for #{work}: #{e.message}"
+    e.backtrace.each {|l| puts l}
   end
 end
 
@@ -247,12 +275,17 @@ manuscripts = YAML.load(IO.read('sources.yml')).inject({}) do |m, w|
   m
 end
 
+require File.join(File.dirname(__FILE__), 'thread_pool')
+$pool = ThreadPool.new(1)
 idx = 1
 
 manuscripts.each do |h, m|
+  #next unless m.first['work_id'] == 65
   works = m.map {|i| Harvester.format_bwv_dir_name(i['BWV'])}.join(',')
   puts "(#{idx}) processing #{works}: #{m.first['name']}"
+  #$pool.process {Harvester.process(m)}
   Harvester.process(m)
   idx += 1
 end
 
+$pool.join

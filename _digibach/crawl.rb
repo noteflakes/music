@@ -1,9 +1,9 @@
-# http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalWork_work_00000001
-# http://vmbach.rz.uni-leipzig.de:8971/receive/BachDigitalWork_work_00000249
+# http://http://www.bach-digital.de//receive/BachDigitalWork_work_00000001
+# http://http://www.bach-digital.de//receive/BachDigitalWork_work_00000249
 
 $work_range = 1..1725
 
-URL_PATTERN = "http://vmbach.rz.uni-leipzig.de/receive/BachDigitalWork_work_%08d"
+URL_PATTERN = "http://www.bach-digital.de/receive/BachDigitalWork_work_%08d"
 
 require 'rubygems'
 require 'thread'
@@ -66,7 +66,7 @@ def check_source(url, name, work_id, work, bwv)
         'href' => url,
         'name' => name
       }
-      save_sources($sources.uniq)
+      save_sources($sources)
     end
   end
 end
@@ -91,7 +91,7 @@ def is_source_digitized?(url)
 end
 
 def save_sources(m)
-  File.open('sources.yml', 'w+') {|f| f << m.sort_by {|m| m['work_id']}.to_yaml}
+  File.open('sources.yml', 'w+') {|f| f << m.uniq.sort_by {|m| [m['work_id'], m['href']]}.to_yaml}
 end
 
 $work_range.each {|id| check_work(id)}

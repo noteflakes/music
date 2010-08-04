@@ -1,0 +1,20 @@
+--- 
+title: D B Mus. ms. Bach P 613
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=BBF3DC902612C1798FC30B66B8E85B26?re_mcrid=BachDigitalSource_source_00001681&se_mcrid=BachDigitalSource_derivate_00004360&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004360/db_bachp0613_ante001r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004360/db_bachp0613_ante001v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=BBF3DC902612C1798FC30B66B8E85B26?re_mcrid=BachDigitalSource_source_00001681&se_mcrid=BachDigitalSource_derivate_00004363&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004363/db_bachp0613_ante002r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004363/db_bachp0613_ante002v.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=BBF3DC902612C1798FC30B66B8E85B26?re_mcrid=BachDigitalSource_source_00001681&se_mcrid=BachDigitalSource_derivate_00004366&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004366/db_bachp0613_page001r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004366/db_bachp0613_page001v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004366/db_bachp0613_page002r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004366/db_bachp0613_page002v.jpg
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00001681
+date: ""
+bwvs: 
+- 216a
+work: BWV0216a
+owner: Bach Archiv Leipzig

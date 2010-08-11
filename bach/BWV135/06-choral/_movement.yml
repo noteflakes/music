@@ -1,0 +1,19 @@
+parts:
+  soprano:
+    lyrics: choral
+  alto:
+    lyrics: choral
+  tenore:
+    lyrics: choral
+  basso:
+    lyrics: choral
+  oboe1:
+    source: soprano
+  oboe2:
+    source: soprano
+  violino1:
+    source: soprano
+  violino2:
+    source: alto
+  viola:
+    source: tenore

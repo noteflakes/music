@@ -1,0 +1,40 @@
+title: Aria BWV 135
+subtitle: "\"Ach Herr, mich armen Sünder\""
+composer: Johann Sebastian Bach
+parts:
+  continuo:
+    embed_figures: true
+  viola:
+  violino2:
+  violino1:
+  oboe:
+  violoncello:
+    source: continuo
+movements:
+  01-coro:
+    midi_tempo: 160 8
+  02-aria:
+    midi_tempo: 50 4
+  03-choral:
+    midi_tempo: 100 4
+  05-aria:
+    midi_tempo: 100 4
+  06-choral:
+    midi_tempo: 90 4
+score:
+  hide_figures: true
+  order:
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

@@ -12,6 +12,8 @@ require 'httparty'
 require File.join(File.dirname(__FILE__), 'thread_pool')
 
 $sources = YAML.load(IO.read('sources.yml')) rescue []
+$last_sources = $sources.clone
+$start_sources = $sources.clone
 $pool = ThreadPool.new(20)
 
 def open_url(url)
@@ -41,7 +43,6 @@ def check_work(id)
     when /deest \((.+)\)/
       bwv = $1
     end
-    #puts title
     
     source_refs = h.css('a').select {|a| a['href'] =~ /BachDigitalSource/}
     refs = source_refs.map {|a| [a['href'], a.inner_text]}.uniq
@@ -56,8 +57,9 @@ def check_work(id)
 end
 
 def check_source(url, name, work_id, work, bwv)
-  if ($sources.select {|s| s['href'] == url}.size > 0) || is_source_digitized?(url)
-    puts "found source for BWV #{bwv}: #{name}"
+  source_already_marked = $sources.select {|s| s['href'] == url}.size > 0
+  if source_already_marked || is_source_digitized?(url)
+    puts "found source for BWV #{bwv}: #{name}" unless source_already_marked
     Thread.exclusive do
       $sources << {
         'work_id' => work_id,
@@ -66,7 +68,7 @@ def check_source(url, name, work_id, work, bwv)
         'href' => url,
         'name' => name
       }
-      save_sources($sources)
+      save_sources
     end
   end
 end
@@ -90,11 +92,14 @@ def is_source_digitized?(url)
   end
 end
 
-def save_sources(m)
-  File.open('sources.yml', 'w+') {|f| f << m.uniq.sort_by {|m| [m['work_id'], m['href']]}.to_yaml}
+def save_sources
+  if $sources != $last_sources
+    File.open('sources.yml', 'w+') {|f| f << $sources.uniq.sort_by {|m| [m['work_id'], m['href']]}.to_yaml}
+    $last_sources = $sources.clone
+  end
 end
 
 $work_range.each {|id| check_work(id)}
 $pool.join
 puts "*************************"
-puts "found #{$sources.size}"
+puts "found #{$sources.size} (#{$first_sources.size})"

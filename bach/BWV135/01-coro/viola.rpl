@@ -1,0 +1,139 @@
+\relative c' {
+  \time 3/4
+  \key a \minor
+
+  e2.
+  a2 g4
+  f2 e4
+  d2.
+  e8 b' e d c b
+  a e a g f e 
+  d a' d c b a
+  g d g f e d 
+  c g' c b a g
+  f2. ~
+  f 
+  e ~
+  e ~
+  e8 b e d c b
+  c2. ~
+  c4 b8 a b cs
+  d2. ~
+  d8 b e d c b
+  c4 a e' ~
+  e ds2
+  e2 b'4
+  c2 c4
+  b2 b4
+  a8 e a g f e
+  d a' d c b a
+  gs4. b,8 c d
+  e4. e8 d e
+  f d g f e d 
+  cs4 d e ~
+  e8 d a' g f e
+  d e f e f4
+  e2 a,4
+  e'2 d4
+  c2 b4
+  a2.
+  b8 fs' b a g fs
+  e b' e d c b
+  a e a g f e
+  d a' d c b a 
+  g d g f e d 
+  c g' c b a g
+  f2. ~
+  f 
+  e ~
+  e ~
+  e ~
+  e4 r r
+  r8 a, d cs d e
+  a, a d c b a
+  gs4 a b ~
+  b8 a e' d c b
+  a b c b c4
+  b2 b'4
+  c2 c4
+  b2 b4
+  a8 e a g f e
+  d a' d c b a
+  gs b, e d c b
+  a2. ~
+  a8 f' e d cs d 
+  e a, f' e d cs
+  a'4 cs, d8 c
+  b cs d cs d4
+  cs2 d'4
+  cs2 a4
+  b2 cs4
+  d8 bb a g f e 
+  d2 c'!4
+  b2 g4
+  a2 b4
+  c8 a g f e d 
+  c4 g' c ~
+  c8 e d c b a
+  gs4 fs e
+  fs8 gs gs4. fs6 gs
+  a2. ~
+  a4 g8 fs g4
+  fs e d 
+  e8 fs fs4. e6 fs
+  g2. ~
+  g8 a g f e d
+  c4 d e
+  f8 c a' g f e
+  d e f e f4
+  e2 g4
+  a2 g4
+  f2 f4
+  e8 b e d c b
+  a e' a g f e
+  d a d c b a
+  g2. ~
+  g ~
+  g4 d'8 e f4 ~
+  f e g ~
+  g f8 e d f
+  b,4 a b ~
+  b8 a e' d c b
+  a b c b c4
+  b2 a'4
+  gs a b
+  a2 gs4
+  fs2.
+  gs2 a4
+  d, e f
+  e2 d4
+  cs2.
+  d8 a' d c bb a
+  g d g f e d
+  c4 r r
+  R2.*2
+  
+  r8 e a g fs e
+  ds4 e8 fs g4 ~
+  g fs e
+  b8 a' g fs e ds
+  e b g' fs e d
+  cs ds e ds e4
+  ds8 fs b a g fs
+  e g c b a g
+  fs a d c b a
+  g b e d c b
+  a g fs e ds cs
+  b2. 
+  c2 b4
+  a2 d4
+  b2 c4 ~
+  c8 c f e d c
+  b2. ~
+  b4 c8 d e4 ~
+  e d8 e d c
+  b4 a8 gs a b
+  c a [e' d c b]
+  a g' [fs e] fs4
+  b,2.\fermata
+}

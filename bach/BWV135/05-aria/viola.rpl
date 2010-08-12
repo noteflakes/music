@@ -1,0 +1,110 @@
+\relative c' {
+  \time 2/2
+  \key a \minor
+  
+  r2 r4 a'
+  e r e r 
+  d r r g 
+  d r d r 
+  c r r bb 
+  a r r g'
+  f r r d
+  b' a f d
+  e r r c'
+  b r r c
+  b c a d,
+  g a f b,
+  e f2 b,4
+  b d2 b4
+  e2 r4 a,
+  c d gs, b 
+  c2\fermata r
+  R1*3
+  
+  
+  r2 r4 a'
+  e r e r 
+  d r r g 
+  d r d r 
+  c r r bb 
+  a r r g'
+  f r r d
+  b' a f d 
+  e b r2
+  R1*2
+  
+  r2 r4 c
+  d r r fs
+  d r r fs
+  d r r2
+  R1*2
+  
+  r2 r4 g
+  a2 r4 bb
+  a2 r4 c,
+  d g f f 
+  d r r fs
+  g r r fs
+  g b, d g
+  g f e d 
+  e2 r
+  r f4 e
+  d2 b4 a
+  b2 r
+  R1*3
+  
+  
+  r2 r4 b' 
+  a r r cs
+  d r r cs
+  d r r2
+  R1*2
+  
+  r2 r4 b,
+  c2 r4 e
+  d2 r4 fs
+  d2 r4 e
+  d g8 a b4 a
+  b r r g
+  g r r e
+  d r r a'
+  b r r gs
+  e r r a
+  fs r r fs
+  e r r b'
+  cs r r as
+  fs r r as
+  b r r as
+  b2 e,4 d ~
+  d c2 b4 ~
+  b a2 g4
+  fs r a r 
+  r b8 a g4 r
+  r8 e' b' g fs4 fs
+  gs2 r
+  R1*4
+  
+  
+  
+  r2 r4 a
+  e r e r 
+  d r r g
+  d r d r 
+  c r r bb
+  a r r g'
+  f r r d
+  b' a f d
+  e b e gs ~
+  gs e e2
+  R1
+  r2 r4 a
+  a r r cs
+  d r r cs
+  d r f, r 
+  b, r r2
+  R1*3
+  
+  
+  r2 r4 a'
+  \dalsegno
+}

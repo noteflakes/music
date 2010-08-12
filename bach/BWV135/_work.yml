@@ -14,7 +14,7 @@ movements:
   03-aria:
     midi_tempo: 90 4
   05-aria:
-    midi_tempo: 100 4
+    midi_tempo: 86 2
   06-choral:
     midi_tempo: 90 4
 score:

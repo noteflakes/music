@@ -16,7 +16,7 @@ movements:
   05-aria:
     midi_tempo: 86 2
   06-choral:
-    midi_tempo: 90 4
+    midi_tempo: 86 4
 score:
   hide_figures: true
   order:

@@ -1,0 +1,139 @@
+\relative c' {
+  \time 3/4
+  \key a \minor
+
+  R2.*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 a' [d c] [b a]
+  gs4 a b ~
+  b8 a [e' d] [c b]
+  a b ([c b] c4)
+  b2 r4
+  R2.*4
+  
+  
+  
+  r8 b [e d] [c b]
+  a2. ~
+  [a8 f' e d] [cs d]
+  e a, [f' e] [d cs]
+  a'4 cs, [d8 c!]
+  ([b c d c]) d4
+  c2 r4
+  R2.*13
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 b [e d] [c b]
+  c2. ~
+  c4 [b8 a] [b cs]
+  d2 d4 ~
+  d8 b [e d] [c b]
+  (c4 a) e'
+  (e ds2)
+  e2 r4
+  R2.*6
+  
+  
+  
+  
+  
+  r8 d [g f] [e d]
+  cs4 d e ~
+  e8 d [a' g] [f e]
+  [d e f e] f4
+  e2 r4
+  R2.*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 r d
+  (cs4 b) a
+  [b8 cs] (cs4. [b6 cs])
+  d2. ~
+  d4 [c8 b] [a b]
+  g4 a b
+  [c8 d] (d4. [c6 d])
+  e8 g, [c bb] [a g]
+  (a4 f) c' ~
+  (c b2)
+  c2 r4
+  R2.*7
+  
+  
+  
+  
+  
+  
+  r4 [b8 c] d4
+  d [cs8 d] e4 ~
+  e [d8 e] f4 ~
+  f8 b, [e d] [c b]
+  c4 a e' ~
+  e ds2
+  e2 r4
+  R2.*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 b [e d] [c b]
+  a4 fs b ~
+  b [a8 b] c4 ~
+  c8 b [g' fs] [e d]
+  (cs4 ds) e
+  (ds e) fs
+  (b, [e8 d]) ([cs b])
+  b4 as2\trill 
+  b2 r4
+  R2.*7
+  
+  
+  
+  
+  
+  
+  r8 b [e d] [c b]
+  a2. ~
+  a4 [g8 a] b4 ~
+  b [a8 b] c4 ~
+  c [b8 c] d4 ~
+  d8 b ([e d c b]
+  a) e [c' b a g]
+  [fs g a gs] a4
+  gs2.\fermata
+}

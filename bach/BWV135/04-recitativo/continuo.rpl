@@ -1,0 +1,17 @@
+\relative c {
+  \time 4/4
+  \key a \minor
+  \tempo "Adagio"
+
+  r8 (f, f f) r (fs fs fs)
+  r (g f! f) r (eb eb eb) \bar "||"
+  d1
+  g ~
+  g2 cs
+  d ab
+  r4 g c2
+  a fs ~
+  fs g
+  f fs
+  r4 e a2
+}

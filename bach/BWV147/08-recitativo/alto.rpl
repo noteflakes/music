@@ -1,0 +1,31 @@
+\relative c' {
+  \time 4/4
+  \key a \minor
+
+  r2 r8 d g8. a6
+  b8 b d g, c4 r
+  r8 g e c b8. b6 b8 c
+  [d6 c] c8 r c g' g a b
+  fs a c b b b r4
+  r8 g ([b6 c3 d]) ([c6 b]) gs8. a6 b8 e,
+  f8. d6 b b e b c8 c r e
+  a a c a d r r e
+  fs, a c b b r6 fs ds b a' fs
+  g8 r r4 r8 e g b
+  d b gs e c' c r c
+  c g [bb6 a] bb8 a4 r8 e
+  cs'8. d6 e8 a, d4 r8 d,
+  a' a d b g r6 g a d b c
+  c8 g r4 r r8 g
+  e4 r8 g c8. c6 c8 r6 c,
+  e8 g bb a a4 r
+  r8 a cs8. d6 e8 g, bb a
+  fs fs r d a'8. b6 c8 r6 a
+  d8 a c b b b r d
+  d b gs6 a b e, c'4 r8 c
+  c g [f6 e] [d c] a'8 a b c
+  [d6 b] g8 r4 r8 c r c6 c
+  fs,8 r6 g a a b c (e,4 [d6 c d8])
+  c4 r r2
+  R1*2
+}

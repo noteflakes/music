@@ -1,0 +1,38 @@
+title: Cantata BWV 147
+subtitle: "\"Herz und Mund und That und Leben\""
+subsubtitle: "Source: D B Mus. ms. Bach P 102"
+composer: Johann Sebastian Bach
+parts:
+  continuo:
+    embed_figures: true
+  violoncello:
+    source: continuo
+movements:
+  01-coro:
+    midi_tempo: 130 4
+  02-recitativo:
+    midi_tempo: 60 4
+  03-aria:
+    midi_tempo: 90 4
+  05-aria:
+    midi_tempo: 86 2
+  06-choral:
+    midi_tempo: 86 4
+score:
+  hide_figures: true
+  order:
+    - tromba
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

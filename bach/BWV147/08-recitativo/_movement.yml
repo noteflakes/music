@@ -1,0 +1,16 @@
+parts:
+  oboe-da-caccia1:
+    clef: alto
+    midi_instrument: oboe
+  oboe-da-caccia2:
+    clef: alto
+    midi_instrument: oboe
+score:
+  order:
+    - oboe-da-caccia1
+    - oboe-da-caccia2
+    - alto
+    - continuo
+  groups:
+    - brace: ["oboe-da-caccia1", "oboe-da-caccia2"]
+  

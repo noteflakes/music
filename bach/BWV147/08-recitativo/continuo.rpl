@@ -1,0 +1,32 @@
+\relative c {
+  \time 4/4
+  \key a \minor
+
+  b4 r r2
+  r e4 r
+  r2 d4 g,
+  c r b r 
+  a r g r
+  r2 b4 r
+  e, r a r
+  r2 c4 r
+  r2 ds4 r
+  e r r2
+  gs,4 r a r 
+  e'6 c e g c g e cs g'4 r
+  r2 f4 r
+  r2 r8 e f d 
+  e c g' g, c4 r
+  bb r a r
+  g r cs r
+  R1
+  c!4 r r2
+  r gs4 r
+  e r b' r
+  e, r fs r
+  f! r e r
+  a r g8 f g4
+  c1 ~
+  c6 c d c b a c b a8 b c gs
+  a f g g c,2\fermata
+}

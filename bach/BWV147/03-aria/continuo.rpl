@@ -1,0 +1,98 @@
+\relative c {
+  \time 3/4
+  \key a \minor
+
+  a2 r4
+  \segno r e' a 
+  d, e f
+  e cs d
+  e g8 e bb' g 
+  cs,2 a4
+  d b c
+  d (f8 d) (a' f)
+  b,2 g4
+  c r r 
+  d r r
+  e r r 
+  f g g,
+  c2 cs4
+  d2 ds4
+  e8 d! c a e' e,
+  a2\fermata a'4
+  gs e a 
+  d, e f
+  e2 d4
+  cs2 a4
+  d2 ds4
+  e8 d! c a e' e,
+  a2 d4 ~
+  d c a
+  f' d b
+  e2 gs4
+  a2 g!4
+  f2.
+  e4 d b
+  c g' f
+  e2. 
+  f
+  e4 d b
+  c g' g,
+  c r r 
+  d r r 
+  e r r 
+  f g g,
+  c r r 
+  r g' c
+  f,2 d4
+  g e f 
+  g (bb8 g) (d' bb)
+  e,2 c4
+  f e c
+  d f8 d a' f
+  b,2 g4
+  c e f
+  g8 f e c g' g,
+  c4 e g
+  c2 r4
+  cs,2 r4
+  d c bb
+  a2. ~ 
+  a4 a' bb 
+  g cs, d
+  a cs a
+  d r r 
+  e r r 
+  f r r 
+  g4. f8 e d
+  cs4 d4. d8
+  bb' g a g a a,
+  d2 r4
+  r a d
+  g, a bb
+  a2 cs4
+  d2 r4
+  e2 f4
+  c' c, e
+  f2 d4
+  b e fs
+  gs2 a4
+  e gs, a
+  b d8 b f' d
+  gs,2 e4
+  a cs d 
+  e g8 e bb' g
+  cs,2 a4
+  d c! b
+  e gs a
+  b e4. d8
+  c b6 a e'4 e,
+  f2 gs,4
+  a r r 
+  b r r 
+  c r r 
+  d4 ~ d6 d e f g a b c
+  d2 d,4
+  c8 b6 a e'4 e,
+  a2 r4
+  \dalsegno
+}

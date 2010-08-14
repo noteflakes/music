@@ -1,0 +1,70 @@
+\relative c' {
+  \time 3/4
+  \key a \minor
+
+  R2.*16
+  r4 e ([f8 e])
+  e2 c'4 ~
+  c ([b8 c]) ([d b])
+  gs2 r4
+  R2.*3
+  r4 e ([f8 e]) 
+  e2 c'4 ~
+  c ([b8 c]) ([d b])
+  gs4 r r
+  r c b
+  (a d) b
+  (c f,4.\trill) g8
+  e2 d4
+  r g c
+  (a d) b
+  (c f,4.\trill) g8
+  (e4. d8) d4
+  r [e6 d c d e f] [g a]
+  f4 ~ [f6 e d e f g] [a b]
+  c2. ~
+  [c8 b g e'] [d c]
+  c4 r r
+  R2.*10
+  r4 c d
+  (e g,) bb ~
+  bb [a8 g] ([f e])
+  f4. (e8 d4)
+  r a' d
+  cs2 d4
+  (bb g) ([f8 e])
+  e2 r4
+  r d' c 
+  (bb [a8 g]) ([f e])
+  (a4 [g8 f]) ([e d])
+  cs d e f g4 ~
+  g8 e ([f g]) ([a b])
+  cs d e,4.\trill d8
+  d4 r r
+  R2.*2
+  r4 e a
+  (f a) d ~
+  d [c8 bb] [a bb6 c]
+  (g4 [f8 e]) ([d c])
+  r4 a' ([d8 b])
+  gs2 a4 
+  (b e,) [c'8 b]
+  b2 r4
+  R2.*2
+  r4 e, ([f8 d])
+  cs4 e g ~
+  [g8 bb a g] ([f e])
+  (f4 [e8 f]) d4
+  r b' c 
+  (d [c8 b] e4)
+  r8 a, [a b6 c] [b8 a]
+  a2 r4
+  r c2 ~
+  c4 [b8 c6 d] b4 ~
+  b8 d [c b] [a g]
+  f d d' c b a
+  [gs6 e fs gs a b c d] e8 gs,
+  a d (c4 b8. ) a6
+  a4 r r
+  \dalsegno
+}

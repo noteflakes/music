@@ -1,0 +1,64 @@
+\relative c {
+  \time 6/4
+  \key c \major
+
+  c'4 c, c' ~ c b8 a b g
+  \segno $c2 c c, e c g' g b g 
+  c c, e c f f f, f' 
+  b, b d b e e e, e'
+  a, a c a d d d, d' $$
+  g,4 r8 g'6 a b a g f e4 r8 e6 f g f e d
+  c4 r8 c6 d e d e c f g a f b8 b,6 c d c d b
+  e f g e [a8 a g f] [e d e f g g,]
+  c4\fermata r r r2.
+  R1.*3
+
+
+  r4 [(g'8 a) (b g)] a d, d' e d6 e d c
+  b6 a g a b c b c d4 ~ d6 c d b c b c d c b c a
+  b a g a b c a b c8 a d d, [g f g g,]
+  c d6 e f g a b c4 ~ c6 b c a b a b c b c a b
+  [c8 b a g f e] [d c b a b g]
+  $c2 c c e c f f f, f'
+  b, b d b e e e, e'
+  a, a c a d d d, d' $$
+  g,4 r8 [g'6 a b a g f] e4 r8 [e6 f g f e d]
+  c4 r8 c6 d e d e c f4 r8 d6 e f e f d
+  g4 g, r r2.
+  r2. $c2 e'' e e, e'
+  d d d, d' c d e e, $$
+  a4 r r r2.
+  a4 a, a' ~ a [gs8 fs gs e]
+  $c2 a a, c a e' e gs e
+  a a, c a d d' d, d'
+  g, g, b g c c' c, c'
+  f, f a f b, b' b, b' $$
+  e,4 r8 [e6 fs gs fs e d] c4 r8 [c6 d e d c b]
+  a4 r8 [a6 b c b c a] d4 r8 [b6 c d c d b]
+  e4 e, r r2.
+  R1.*8
+  
+  
+  
+  
+  
+  
+  
+  [f'8 f, a c] f4 ~ f6 e f d e d e f e f d e
+  f e f g a b a b c4 ~ c6 b c a b a b c b c a b
+  c4 ~ c6 d c d e d c b a4 ~ a6 c b c d c b a 
+  g8 a6 b c8 b6 a g8 e c b6 c [d8 c d d,]
+  g g' a6 b c b a b a g f g e f [g8 f g g,]
+  c r [(g' a) (b g)] a d, d'6 c d e d e d c
+  b6 a g a b c b c d8 g, c6 g a b c b c a b8 e,
+  a4. [g8 f e] [d c b a b g]
+  $c2 c c e c f f f, f'
+  b, b d b e e e, e'
+  a, a c a d d d, d' $$
+  g,4 r8 [g'6 a b a g f] e4 r8 [e6 f g f e d]
+  c4 r8 [c6 d e d e c] f4 r8 [d6 e f e f d]
+  g4 g, r r2.
+  R1.
+  c'4 c, c' ~ c [b8 a b g]
+  \dalsegno
+}

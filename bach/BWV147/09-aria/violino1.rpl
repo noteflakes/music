@@ -1,0 +1,54 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+
+  r2 r4 r8 g'
+  \segno c6 d c d d8.\trill c3 d e8 c r e
+  d8 r r6 g\p fs e d g\f fs e d a' g a 
+  b a g a fs8. g6 g d e d e d e c
+  d b c b c b c a b8 r r f'
+  b b, e e e\trill d r d
+  g g, c6 d c8 c\trill b r6 c b a
+  g8 r r6 e' d c b e d c b d c b
+  a e' d c b f' e d c b c d d8. c6
+  c c b a g c b a g b c d b8. c6
+  c4\fermata r8 g\p c g e c
+  c'6 d c d d8.\trill c3 d e8 c r6 g' f e
+  d8 r r6 g f e d f e d c e d c
+  b4 r8 d e6 g d g e g d g
+  e4 r8 b c6 e b e c e b e 
+  c4 r r2
+  R1
+  r6 g'\p fs e d g\p fs e d g\f fs e d a' g a 
+  b a g a fs8. g6 g d e d e d e c
+  d b c b c b c a b4 r
+  r2 r6 e f e f e f d
+  e c d c d c d b c4 r
+  R1
+  r6 e,\p f e f e f e c f g f g f g d
+  e g a g a g a g g f g f g f g a 
+  f4 r r2
+  r2 r4 r8 gs'
+  a6 e gs e a e gs e a4 r8 e
+  f6 c e c f c e c f4 r8 cs
+  d6 a cs a d a cs a d4 r
+  R1*4
+  
+  
+  
+  r2 r6 a' gs fs e8 r
+  r6 e d c b c b c d2 ~
+  d4 ~ d6 f e d c8. b6 b8. a6
+  a b\p c b c cs d cs d4 r8 cs
+  d6 cs d e f d e d e4 r8 b
+  c6 b c b c8 r r4 r8 g
+  c6 d c d d8. c3 d e8 c r e
+  d r r6 g\p fs e d g\f fs e d a' g a 
+  b a g a fs8. g6 g d e d e d e c 
+  d b c b c b c a b8 r r f'
+  b b, e e e\trill d r d
+  g g, c6 d c8 c\trill b r6 c b a 
+  g8 r r4 r2
+  r2 r4 r8 g
+  \dalsegno
+}

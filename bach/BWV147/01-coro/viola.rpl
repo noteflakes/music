@@ -1,0 +1,64 @@
+\relative c' {
+  \time 6/4
+  \key c \major
+
+  R1.
+  \segno $v5 g' e c g g' g d b g g'
+  g e c g c' c a f c f 
+  f d b f b' b g e b e
+  e c a e a' a f d a d $$
+  d6 c b a g a b c d c b a g a b c d c b a g a b g
+  c4 r8 [e6 d c8 e] a,4 r8 [d6 c b8 d]
+  g,4 r8 [c d g,] [g' f g a d, d]
+  e4\fermata r r r2.
+  R1.*2
+  
+  r4 [(c8 d) (e c)] d g, g'6 f g a g a g f 
+  e d c d e f e fs g4 ~ g6 fs g e fs e fs g fs g e fs
+  g8 f6 e d e d e f e f d e4 ~ e6 d e f e d e c
+  d c b c d e c d e d e c d4 ~ d6 c d e d8 g,
+  e'6 f e d c4 ~ c6 d c b a e' d c b a b c b c a b
+  [c8 d e c] a g [f g g d'] g b,
+  [c8 c' g e] c4 ~ [c8 a' f c] a4
+  r8 [b' f d] b4 ~ [b8 g' e b] g4
+  r8 [a' e c] a4 ~ [a8 f' d a f d'] ~
+  d6 c b a g a b c d c b a g a b c d c b a g a b g
+  c4 r8 [e6 d c8 e] a,4 r8 [a d a]
+  b2 r4 r2.
+  r2. r4 r8 gs6 a b c d e
+  f e d e f e d e f b, c d e a, b c b a gs a b8 b'
+  c4 r r r2.
+  R1.
+  $v5 e, c a e e' e b gs e e'
+  e c a e a' a f d a d'
+  d b g d g g e c g c'
+  c a f c f $$ ~ [f8 d a f d b''] ~
+  b6 a gs fs e fs gs a b a gs fs e fs gs a b a gs fs e fs gs e
+  a4 r8 c6 b a8 c f,4 r8 f6 e d8 f
+  gs,2 r4 r2.
+  R1.*9
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 [(c8 d) (e c)] d g, g'6 f g a g a g f 
+  e d c d e f e f g4 ~ g6 f e d c e d e f4 ~
+  f6 e f d e fs e fs g4 ~ g6 fs g e fs e fs g fs g e fs
+  g a g f! e f e d c8 d6 e f e d c b a b c b c a b
+  c8 g6 a b a b c d e fs g [e8 e' d d,] a'6 b g a 
+  b8 b,6 c d e d e a,8 d g6 f e d c8 e b6 a b gs
+  a4. e8 a6 b c8 f, g [g d' g d]
+  $v5 c c' g e c c a' f c a $$
+  r8 [b' f d] b4 ~ [b8 g' e b] g4 
+  r8 [a' e c] a4 ~ [a8 f' d a f d'] ~
+  d6 c b a g a b c d c b a g a b c d c b a g a b g 
+  c4 r8 [e6 d c8 e] a,4 r8 a d a
+  b2 r4 r2.
+  R1.*2
+
+  \dalsegno
+}

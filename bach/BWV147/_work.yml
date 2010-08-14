@@ -11,7 +11,7 @@ parts:
     source: continuo
 movements:
   01-coro:
-    midi_tempo: 130 4
+    midi_tempo: 108 4
   02-recitativo:
     midi_tempo: 60 4
   03-aria:
@@ -33,6 +33,7 @@ score:
     - violino1
     - violino2
     - viola
+    - fagotto
     - soprano
     - alto
     - tenore
@@ -44,8 +45,11 @@ score:
     - bracket: [soprano, alto, tenore, basso]
 macros:
   c1: "[#6` # #]"
+  c2: "#4 r8 [# # #]"
   t1: "[#6 #3 # #6 #3 #]"
   v1: "#8. #6"
   v2: "[(#8` #) #]"
   v3: "[#8` # #]"
   v4: "[(#6` #) #]"
+  v5: "[#8 # # #] #4 ~"
+  v6: "[#8 # # #] r #"

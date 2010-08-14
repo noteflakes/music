@@ -1,0 +1,61 @@
+\relative c' {
+  \time 3/4
+  \key g \major
+  
+  r8` g' a $v2 b d c c e d
+  d g fs g d b g a b
+  c d e d c b a b g
+  fs g a d, fs a c b a
+  b g a b d c c e d
+  d g fs g d b g a b $$
+  $v3 e, d' c b a g d g fs
+  g b d g d b g b d $$ \bar "|:"
+  g4 r r
+  R2.*2
+  
+  r8` d, e $v3 fs a g a c b
+  c a fs d fs a c b a $$
+  $v2 b g a b d c c e d
+  d g fs g d b g a b
+  e, d' c b a g d g fs
+  g b a b d c c e d 
+  d g fs g d b g a b
+  c d e d c b a b g
+  fs g a d, fs a c b a
+  b g a b d c c e d 
+  d g fs g d b g a b
+  e, d' c b a g d g fs $$ \bar ":|"
+  $v2 g b d g d b g b cs
+  d d, e fs a gs gs b a
+  a c b c a e c d e 
+  f d' c d b gs e fs gs
+  a c b c e d d f e $$
+  $v3 e a gs $$ $v2 a e c a b c $$
+  $v3 f e d c b a $$ $v2 e a gs $$
+  $v3 a c e $$ a r r r4
+  r8` c, d $v2 e g f g bb a
+  a c b! c a f d e f 
+  e g f g e c g a bb $$
+  $v3 a c b $$ $v2 c a f $$ $v3 d e f
+  e c d $$ $v2 e g fs! g b a
+  b g a b d c c e d 
+  d g fs g d b g a b
+  c d e d c b a b g
+  fs d e fs a g a c b
+  c a fs d fs a c b a
+  b g a b d c c e d
+  d g fs g d b g a b
+  e, d' c b a g d g fs
+  g b d g d b g b d 
+  f d b g b d e c a
+  fs a c d b g e g b
+  c a fs d fs a c b a
+  b g a b d c c e d 
+  d g fs g d b g a b
+  c d e d c b a b g 
+  fs g a d, fs a c b a 
+  b g a b d c c e d 
+  d g fs g d b g a b 
+  e, d' c b a g d g fs $$
+  g2.\fermata
+}

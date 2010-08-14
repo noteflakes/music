@@ -1,0 +1,61 @@
+\relative c' {
+  \time 3/4
+  \key g \major
+
+  r4 d e
+  g e b
+  a d c ~
+  c a fs'
+  g g, e' 
+  g e b
+  c e d
+  d r8 r6 d b8. g'6 \bar "|:"
+  d4 r r
+  R2.*2
+  
+  r4 $v1 a a d d 
+  fs a fs d a d $$
+  d4 d e 
+  g d b
+  c8 a d b c a
+  b4 d e 
+  g e b
+  a d c ~
+  c a fs'
+  g g, e'
+  g e b 
+  c e d \bar ":|"
+  d4 r8 r6 g d8. e6
+  fs4 d d
+  e a, a' ~
+  a a gs
+  e a, f'
+  a f c
+  d fs! e
+  e r r 
+  r a g
+  d f g
+  g e g
+  f a g
+  g r8 r6 d d8. d6
+  d4 d e 
+  g e b
+  a d c ~
+  c $v1 a a d d 
+  fs a fs d a d $$
+  d4 d e 
+  g d b
+  (c8 a) (d b) (c a)
+  b4 r8 r6 g' d8. g6
+  d4 r8 r6 g e8. c6
+  a4 r8 r6 d $v1 b e
+  e, a fs a' fs d $$
+  d4 d e 
+  g e b
+  a d c ~
+  c a fs'
+  g g, e'
+  g e b 
+  c e d 
+  d2.\fermata
+}

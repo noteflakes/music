@@ -1,0 +1,46 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+
+  r4 r8 r6 a' (d8 cs6\trill d) e8 a,6 e'
+  \segno (f6 g3 f) (e6 f3 d) cs8. a'6 $v4 f d a' f d a' bb g d bb g g'
+  e c g' e c g' a f c a f f' d bb f' d bb f' c a f' c a f'
+  bb, g c a f g e c d e c c' f, d c' g e c' a f c' e, c c'
+  f, d c' g e c' a f c' g e c' a f d' bb g e' c a f' d bb g'
+  c, a f' bb, g e' f c a $$ f6. c'3 (c6 d3 eb) (d6 eb) c8 a'6 c,
+  (bb6 c3 bb) (a6 bb3 c) $v4 fs, d d' c bb a bb d g, a g f g d' e, f e d
+  eb bb' g eb f d cs a' e cs a a' d, b a' e cs a' f d a' cs, a a'
+  d, b a' e cs a' f d a' e cs a' f d b' g e cs' a f d' bb g e'
+  a, f d' g, e cs' d a f d f a bb g eb' bb g bb g eb bb' g eb bb''
+  a e f a, d cs $$ d8 d,\fermata r2
+  r4 r8 r6 a''6 $v4 f d a' f d a' bb g d bb g d'
+  cs a e' cs a e' f d a f d d' bb g d' a f d' g, e d' f, d d'
+  bb' e, f a, d cs d a f $$ d6. a'3 $v4 f\p d a' f d a' g e a g e a 
+  f d a' f d a' e cs a' $$ a,8 r2
+  R1
+  r4 r8 r6 f'' $v4 d bb f' d bb f' c a f' c a f'
+  bb, g c a f g e c d e c c'\p f, d c' g e c' a f c' e, c c'
+  f, d c' g e c' a f c' g e c' a f d' bb g e' c a f' d bb g'
+  c, a f' bb, g e' f c a $$ f8 r r6 e' $v4 c a e' c a e'
+  b gs e' gs, e d c a e' c a e' $$ f8 r r4
+  r r8 r6 e a8 gs6 a b8 e,6 b'
+  (c d3 c) (b6 c3 a) gs8. e'6\p $v4 c a e' c a e' f d a f d d'
+  b g d' b g d' e c g e c c' a f c' a f c' g e c' g e c'
+  a f c' a f c' g e c' $$ c,8 r2
+  r4 r8 r6 g' $v4 eb c g' eb c g' d bb g' d bb g'
+  c, a g' c, a g' bb, g g' bb, g g' e! c a' fs d bb' g e c' a fs d'
+  bb c d d, g fs $$ g,8 r r2
+  R1
+  r4 r8 r6 a' (d8 cs6\trill d) e8 a,6 e'
+  (f6 g3 f) (e6 f3 d) cs8. a'6 $v4 f d a' f d a' bb g d bb g g'
+  e c g' e c g' a f c a f f' d bb f' d bb f' c a f' c a f'
+  bb, g c a f g e c d e c c' f, d c' g e c' a f c' e, c c'
+  f, d c' g e c' $$ c,8 r r2
+  R1
+  r4 r6 d' $v4 c bb a bb d g, a g f g d' e, f e d
+  eb bb' g eb f d cs a' e cs a a' d, b a' e cs a' f d a' cs, a a'
+  d, b a' e cs a' f d a' e cs a' f d b' g e cs' a f d' bb g e'
+  a, f d' g, e cs' d a f d f a bb g eb' bb g bb g eb bb' $$ bb,8
+  r4 r8 r6 a' (d8 cs6\trill d) e8 a,6 e'
+  \dalsegno
+}

@@ -1,0 +1,36 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+
+  R1*10
+  r4 r8 r6 a' d8 cs6 d e8 a,6 e'
+  ([f6 g3 f]) e6 d cs8 r r2
+  R1
+  r4 r8 r6 a d8 cs6 d e8 a,6 e'
+  ([f6 g3 f]) e6 d cs8. e6 f8 g6 a bb,8 a6 g
+  e'8 f6 g a,8 g6 f d'8 e6 f [g a3 bb] a6 f
+  c8 f6 e f4 r2
+  r4 r8 r6 c d8 f6 e f8 a6 c,
+  d8 f6 e f8 e f a6 g a8 [d,3 e] f6
+  a,8\trill g6 f f8 [f'6 e] e2 ~
+  e ~ [e6 f3 e] d6 c ([f e3 d]) e6 f
+  c8 b6 a a4 r2
+  r4 r8 r6 gs a8 b6 c d8 e6 f
+  d8 g6 f e8. g,6 a8 c6 f, e8 c'6 g
+  a8 c6 f e8 d6 c [fs g3 fs] g6 a c,8 eb6 d
+  bb8 a6 g g4 r2
+  R1
+  r4 r8 r6 g' e8 f6 d cs8 d6 g
+  e8 f6 d cs8 d6 a bb8 a6 g e'8 d6 cs
+  d8 e6 f e4 r r8 r6 a,
+  d8 cs6 d e8 a,6 e' f4 ~ [f6 g3 f] e6 d
+  e4 r8 c d bb6 g c8 a6 f
+  e'8 g6 f g8 e6 c d8 f6 e f8 a6 c,
+  d8 f6 e f8 c6 d eb8 d6 eb c8 a'6 c,
+  [bb6 c3 bb] a6 g e'8. cs6 d8 f6 e f8 g6 a 
+  a,8 d6 cs d2 r4
+  r4 r8 r6 e f8 a6 cs, d8 f6 e
+  f8 a6 cs, d8 f6 e f8 e6 cs d8 [g,3 a] bb6
+  f8 e6 d d8 d' eb4. cs6 d
+  a8 d6 cs d4 r2
+}

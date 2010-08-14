@@ -1,0 +1,46 @@
+\relative c {
+  \time 4/4
+  \key c \major
+
+  d8 a' e a f a cs, a'
+  \segno d, a' a, cs' d d, g bb
+  c c, f a bb bb, a a'
+  e f c c c c c c 
+  c c c bb' a g f bb
+  c c, f a fs a d, fs
+  g c, d fs g f e d
+  g g, a a a a a a 
+  a a a g' f e d g
+  a a, d f, g4. g'8
+  a a, d\fermata a' f a cs, a'
+  d, a' a, cs' d d, g, g' 
+  a a, d, d' g f e d
+  g, a d, d' f a cs, a'
+  d, a' a, cs' d d, g bb
+  c c, f a bb g e f
+  c' c, f a bb bb, a a'
+  e f c c c c c c 
+  c c c bb' a g f bb
+  c c, f d gs, gs' a a,
+  e' e, a c d f b, a
+  e' e, a e' c e gs, e'
+  a, d e e, a a' f d
+  g g, c e f f, c' e
+  f a c bb a g fs g
+  d' d, g bb c c, bb bb'
+  a a, g g' c, d e fs
+  g d g, bb' cs, d a' bb
+  cs, d e f g e cs a'
+  f d a a' f a cs, a'
+  d, bb a cs d f g g,
+  c e f a bb bb, a a'
+  g f c c c c c c 
+  c bb' a g fs g a d,
+  g e cs a' f cs d bb'
+  a a, d fs g f e d
+  g g, a a a a a a 
+  a a a a d e f g
+  a a, bb a g4. g'8
+  a a, d a' f a cs, a'
+  \dalsegno
+}

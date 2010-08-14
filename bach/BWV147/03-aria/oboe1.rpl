@@ -1,0 +1,98 @@
+\relative c' {
+  \time 3/4
+  \key c \minor
+
+  r4 g' c
+  b2 eb4 ~
+  eb d8 eb\trill (f d)
+  b4 (g'8 c,) (ab' f)
+  e4\trill g bb, ~
+  bb8 (db c bb ab g)
+  (ab c) (f bb,) (g' eb)
+  d4\trill f ab, ~
+  ab8 c (bb ab) (g f)
+  (g eb) (bb' g) (eb' g,)
+  (ab f) (c' ab) (eb' ab,)
+  (bb g) (d' bb) (eb bb)
+  (c ab') (g eb) (bb d)
+  (eb, g bb db) (c bb)
+  (ab c f d) (eb c)
+  (b6 g a b c d eb f) g8 b,
+  c4 c,\fermata r
+  R2.*2
+  
+  r4 g'' bb, ~
+  bb8 (db c bb ab g)
+  (ab c f d) (eb c)
+  b6 g a b c d eb f g8 b,
+  c4 eb (d8 eb6 f)
+  b,4 g'2 ~
+  g4 (f8 g) (ab f)
+  (d6 g, a b c d eb f) g8 d
+  eb4 c, r
+  r (c'8 ab) (f bb)
+  (eb, bb') (c ab) (f f')
+  (bb, g eb) (eb' d c) 
+  (bb g eb g bb eb)
+  (eb, ab c ab f bb)
+  (eb, bb' c ab f f')
+  (bb, g eb eb' d ab)
+  (g eb) (bb' g) (eb' g,)
+  (ab f) (c' ab) (eb' ab,)
+  (bb g) (d' bb) (eb bb)
+  (c ab') (g eb) (bb d)
+  eb,4 bb'\f eb
+  d2 g4 ~
+  g (f8 g ab f)
+  (d c bb) eb c ab
+  g4 bb db ~
+  db8 (f eb db c bb)
+  c (f, g ab bb c)
+  (d eb f d) ab4 ~
+  ab8 (c bb ab g f)
+  (g eb) (bb' g) (eb' g,)
+  (f6 d eb f g ab bb c d eb f ab,)
+  g8 bb eb4 r
+  R2.*2
+  
+  r4 c f
+  e2 ab4 ~
+  ab (g8 ab) (bb g)
+  (e f g e c) f
+  e (db c bb ab g)
+  (ab f) (c' ab) (f' ab,)
+  (bb g) (db' bb) (f' bb,)
+  (c ab) (e' c) (f c)
+  db2. ~
+  db4 (c8 d) (e f)
+  (g ab) e4.\trill f8
+  f4 c, (d8 e6 f)
+  e2 ab4 ~
+  ab (g8 ab) (bb g)
+  e2\trill r4
+  r4 (c'8 ab) (f ab)
+  bb g eb4 r
+  r bb' eb
+  c eb, ab ~
+  ab8 f d g eb c
+  g' (g' d b g) c
+  b4 (d8 g,) (eb' c)
+  b4\trill d f, ~
+  f8 (ab g f eb d)
+  eb4 d8 c c'4 
+  c2. ~
+  c ~
+  (c6 f, g ab bb c d eb) f8 d
+  b (g' d b g) c
+  b (ab g f eb d)
+  c g' (eb' d c b)
+  c ab (f b d) f,
+  (eb c) (g' eb) (c' eb,)
+  (f d) (ab' f) (c' f,)
+  (g eb) (b' g) c4 ~
+  c8 (bb ab g f eb)
+  d4 g2 ~
+  (g6 g a b) (c d eb f) g8 b,
+  c4 g c
+  \dalsegno
+}

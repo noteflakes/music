@@ -3,6 +3,8 @@ subtitle: "\"Herz und Mund und That und Leben\""
 subsubtitle: "Source: D B Mus. ms. Bach P 102"
 composer: Johann Sebastian Bach
 parts:
+  tromba: 
+    midi_instrument: trumpet
   continuo:
     embed_figures: true
   violoncello:
@@ -20,6 +22,8 @@ movements:
     midi_tempo: 86 4
   07-aria:
     midi_tempo: 76 4
+  09-aria:
+    midi_tempo: 80 4
 score:
   hide_figures: true
   order:

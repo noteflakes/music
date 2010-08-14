@@ -1,0 +1,5 @@
+parts:
+  oboe1:
+    source: violino1
+  oboe2:
+    source: violino2

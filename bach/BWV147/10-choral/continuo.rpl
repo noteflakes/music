@@ -1,0 +1,61 @@
+\relative c {
+  \time 3/4
+  \key g \major
+
+  g4 g' e
+  b e e,
+  a b c 
+  d fs d 
+  g e c
+  b e d 
+  c cs d
+  g, r8 r6 g' d8. b6 \bar "|:" 
+  g4 fs' e
+  (fs e) d
+  (e fs) g
+  d r8 r6 d d8. d6
+  d,4 r8 r6 d' d8. d6
+  g4 fs e
+  b' b, e
+  c d d,
+  g g' e
+  b e e,
+  a b c 
+  d fs d
+  g e c
+  b e d 
+  c cs d \bar ":|"
+  g, r8 r6 g' fs8. e6
+  d4 c b
+  a a'8 g f e
+  d4 b e
+  a, f' d
+  c f e
+  d ds e
+  a, a' b
+  c a e
+  f d g
+  c, e c
+  f d g
+  c, r8 r6 c b8. d6
+  g,4 g' e
+  b e e,
+  a b c
+  d r8 r6 d d8. d6
+  d,4 r8 r6 d' d8. d6
+  g4 fs e
+  b' b, e
+  c d d,
+  g2. ~
+  g ~
+  g ~
+  g ~
+  g4 g' e
+  b e e,
+  a b c
+  d fs d
+  g e c
+  b e d 
+  c cs d
+  g,2.\fermata
+}

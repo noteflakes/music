@@ -1,0 +1,37 @@
+\relative c' {
+  \time 3/4
+  \key g \major
+
+  R2.*8 \bar "|:"
+  g'2 g4
+  (a g) fs
+  g d2
+  d4 d r
+  R2.
+  g2 g4
+  (g d) e
+  e ([fs8 e] fs4)
+  d2 r4
+  R2.*6 \bar ":|"
+  r2.
+  fs2 gs4
+  a2 a4
+  a2 gs4
+  a a r
+  R2.*2
+  a2 g4
+  (g c) g
+  (f a) g
+  g g r
+  R2.*2
+  g2 g4
+  g2 g4
+  [g8 fs] g2
+  fs2 r4
+  R2.
+  g2 g4
+  (g d) e
+  e ([fs8 e] fs4)
+  d2.
+  R2.*11
+}

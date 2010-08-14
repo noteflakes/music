@@ -18,6 +18,8 @@ movements:
     midi_tempo: 86 2
   06-choral:
     midi_tempo: 86 4
+  07-aria:
+    midi_tempo: 76 4
 score:
   hide_figures: true
   order:
@@ -36,3 +38,6 @@ score:
     - brace: [oboe1, oboe2]
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+macros:
+  c1: "[#6*2/3 # #]"
+  t1: "[#6 #3 # #6 #3 #]"

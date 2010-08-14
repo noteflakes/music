@@ -17,7 +17,7 @@ movements:
   03-aria:
     midi_tempo: 90 4
   05-aria:
-    midi_tempo: 86 2
+    midi_tempo: 54 4
   06-choral:
     midi_tempo: 86 4
   07-aria:
@@ -48,3 +48,4 @@ macros:
   v1: "#8. #6"
   v2: "[(#8` #) #]"
   v3: "[#8` # #]"
+  v4: "[(#6` #) #]"

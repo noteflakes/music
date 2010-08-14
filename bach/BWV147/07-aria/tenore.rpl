@@ -1,0 +1,58 @@
+\relative c' {
+  \time 3/4
+  \key f \major
+  
+  R2.*5
+  r8 c f e f4
+  r8 f e d c bb
+  a4 g8 bb a g
+  c d c bb [a6 f] f'8
+  ([e8. f3 g]) c,8 f d bb
+  g' e c d g, ([a6 bb3 c])
+  a8 [g6 f] d'4 r8 d
+  g b, c4 r8 c
+  a' f d f b, [a6 g]
+  g'8. f6 (e4 [d6\trill c d8])
+  c4 r r
+  R2.*4
+  r8 c g a bb4 ~ 
+  bb8 a ([d6 f e f] g8) e
+  cs a a' e f4 ~
+  f8 g, g' d eb4 ~
+  eb8 d cs d g,4 ~
+  g8 f g a bb4 ~
+  bb8 a d e f4 ~
+  f8 d b c d4 ~
+  d8 b gs a b e,
+  ([e'6 a gs fs] e8) f c [b6 a]
+  a4 r r
+  R2.*2
+  r8 a b cs d e
+  f4 ~ [f6 a g f] [e g f e]
+  [d c bb a] [g a bb c] [d e3 f e f d6]
+  e4 ~ [e6 g f e] [d f e d]
+  [c bb a g] [f g a bb] [c d3 c bb d c6]
+  d2. ~
+  [d6 bb g a] [bb c d e] [f g3 f] ([e6 f3 g])
+  ([cs,8 d6\trill cs3 d]) e8 g f cs
+  ([d6 f]) e8 cs4. d8
+  d e [f e] f4
+  bb,8 d (c4 [bb6\trill a]) bb8
+  a eb' d c bb a
+  (f'4 [eb8 d]) [c bb]
+  bb4 r r
+  R2.
+  r8 d c bb a g
+  c e, f4. bb8
+  [g6 f] $c1 e f g f g a g a bb a bb c bb c d $$
+  [c6 a] $c1 f g a g a bb a bb c bb c d c d eb $$
+  [d6 bb] $c1 g a bb a bb c bb c d c d eb d e f $$
+  [e8 d6\trill c] c8 f e d
+  c d c bb a [g6 f]
+  $t1 bb c bb a c bb c d c bb d c d e f e g f $$
+  g8 g, a4. [d6 c]
+  e,8. bb'6 g4. f8
+  f f r c' f e
+  f4 r r
+  R2.*4
+}

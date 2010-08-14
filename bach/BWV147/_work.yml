@@ -43,5 +43,8 @@ score:
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
 macros:
-  c1: "[#6*2/3 # #]"
+  c1: "[#6` # #]"
   t1: "[#6 #3 # #6 #3 #]"
+  v1: "#8. #6"
+  v2: "[(#8` #) #]"
+  v3: "[#8` # #]"

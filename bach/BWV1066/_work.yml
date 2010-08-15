@@ -4,6 +4,8 @@ parts:
   violoncello:
     source: continuo
 movements:
+  02-courante:
+    midi_tempo: 86 2
   03-gavotte-I:
     midi_tempo: 84 2
   04-gavotte-II:

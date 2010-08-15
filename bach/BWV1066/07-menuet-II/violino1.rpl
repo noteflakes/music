@@ -1,0 +1,31 @@
+\relative c' {
+  \time 3/4
+  \key c \major
+  \bar "|:"
+  e4\p (a g)
+  (bb a) d
+  (b! c) f,
+  d2\trill c4
+  e (a g)
+  (c b) e
+  d g, fs
+  g2. \bar ":|:"
+  g4 (c b)
+  (e d) f
+  (gs, a) d
+  b2\trill a4
+  c, (f e)
+  (a g) bb
+  (a g) f
+  ^e8 d2.\trill
+  e4 (a g)
+  (bb, a) c
+  fs (a b!)
+  (c, b) d
+  f! (b c)
+  (fs, g) f'!
+  e c b
+  c2.
+  \inlineInclude dacapo.ly
+  
+}

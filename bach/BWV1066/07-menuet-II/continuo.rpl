@@ -1,0 +1,31 @@
+\relative c {
+  \time 3/4
+  \key c \major
+  \bar "|:"
+  a2\p r4
+  c f d
+  g e a
+  f g c,
+  c'2 b4
+  (a g) fs
+  g b, d
+  g,2. \bar ":|:"
+  g2 r4
+  gs (b a)
+  (d c) f
+  (d e) a,
+  a'2 g4
+  f2 e4
+  (f e) d
+  (g, c) b
+  (c d) e
+  f,2 r4
+  a' fs d
+  g,2 r4
+  g' (d e)
+  (a, b) r
+  c e, g
+  c,2.
+  \inlineInclude dacapo.ly
+  
+}

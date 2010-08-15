@@ -37,7 +37,6 @@ dacapo = {
   \once \override Score.RehearsalMark #'break-visibility = #begin-of-line-invisible
   \once \override Score.RehearsalMark #'direction = #DOWN
   \once \override Score.RehearsalMark #'self-alignment-X = #RIGHT
-  %\once \override Score.RehearsalMark #'font-size = #-2
   \mark \markup {\bold {\italic {"Da capo"}}}
 }
 

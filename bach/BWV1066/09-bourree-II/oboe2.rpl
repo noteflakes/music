@@ -25,5 +25,6 @@
   g4 f2 eb8 d 
   eb4 \acciaccatura { [f6 g] } ab2 g8 f
   g eb f2 eb8 d
-  eb2. \bourreedacapo
+  eb2.
+  \inlineInclude dacapo.ly
 }

@@ -26,5 +26,5 @@
   eb'4 d8 c b4 g
   c ab8 f g4 g 
   c,2.
-  \bourreedacapo
+  \inlineInclude dacapo.ly
 }

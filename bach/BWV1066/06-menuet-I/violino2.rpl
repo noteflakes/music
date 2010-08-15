@@ -1,0 +1,47 @@
+\relative c' {
+  \time 3/4
+  \key c \major
+  g'4 c c 
+  \repeat volta 2 {
+    c a a 
+    d c d 
+    b d b
+    c2 e4
+    d a g
+    g8 a fs4. d8
+  }
+  \alternative {
+    {
+      d2.
+      g4 c c
+    }
+    {
+      d,2.
+    }
+  }
+  \repeat volta 2 {
+    d4 g g
+    b b4.\trill a6 b
+    c4 c b
+    b2 gs4
+    a c a
+    a gs8 a b4
+    c b8 a gs a
+    e4. e8 f8.\trill e3 f
+    g2 g4
+    f g2
+    g4 c a
+    g4 g2
+    g4 b d
+    c c d
+    c a g
+  }
+  \alternative {
+    {
+      g2.
+    }
+    {
+      g2.
+    }
+  }
+}

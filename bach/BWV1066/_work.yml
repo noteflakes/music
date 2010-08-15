@@ -6,6 +6,10 @@ parts:
 movements:
   05-forlane:
     midi_tempo: 200 4
+  06-menuet-I:
+    midi_tempo: 150 4
+  07-menuet-II:
+    midi_tempo: 140 4
   08-bourree-I:
     title: "8. Bourrée I"
     midi_tempo: 100 2

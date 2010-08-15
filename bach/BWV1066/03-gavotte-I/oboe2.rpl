@@ -1,0 +1,29 @@
+\relative c' {
+  \time 2/2
+  \key c \major
+  \partial 2 e'4 f
+  g a8 f g4 c,
+  a' f d e
+  f g8 e f d g4
+  e\trill (d8 c) (f e d c)
+  d4 e8 c d b e4
+  c\trill b8 a (d c b a)
+  d4 g b,\trill a8 g
+  g2 \bar ":|:" b4 c
+  d e8 c d4 bb'
+  cs,\trill b8 a b cs d e
+  f4 e8 d e cs a'4
+  f\trill (e8 d) (g f e d)
+  e4 f8 d e c f4
+  d\trill (c8 b) (e d c b)
+  (d c b a) b4 gs
+  a2 c4 e
+  a, b8 c d e f4 ~
+  f b, e g
+  c, d8 e f g a4 ~
+  a g8 f e d g4
+  bb, c8 a bb4 g'
+  (bb,8 a g f) (c' b a g)
+  g'4 a e\trill d8 c
+  c2
+}

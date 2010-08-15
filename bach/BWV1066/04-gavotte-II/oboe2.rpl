@@ -1,0 +1,30 @@
+\relative c' {
+  \time 2/2
+  \key c \major
+  \partial 2 e4 f8 d
+  e f g2 f4 
+  f\trill $o2 e d e g c b
+  d c f e d c b a $$
+  b2 g4 a8 b 
+  c d e2 d4
+  d\trill (c8 b) (c d e d)
+  fs e g4 b, c8 a 
+  b2 \bar ":|:" b4 g8 a
+  b cs d2 cs4
+  d8 e f2 e8 d
+  (e d cs d) (e d e cs)
+  d4 a (d8 c! b a)
+  (c b a g) (a b c b)
+  c1
+  c2 ~ c8 (e d c)
+  (b a) (g f) (e d c d)
+  e f g2 f4
+  f\trill $o2 e d e g c b
+  d c f e d c b a $$
+  b2 g4 a8 b
+  c d e2 d4
+  d\trill c8 b (c d e d)
+  (f e d c) e,4 f8 d
+  e2
+  \inlineInclude dacapo.ly
+}

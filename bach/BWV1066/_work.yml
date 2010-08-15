@@ -12,6 +12,10 @@ movements:
   09-bourree-II:
     title: "9. Bourrée II"
     midi_tempo: 100 2
+  10-passepied-I:
+    midi_tempo: 134 4
+  11-passepied-II:
+    midi_tempo: 154 4
 score:
   order:
     - oboe1

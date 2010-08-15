@@ -1,0 +1,51 @@
+\relative c' {
+  \time 3/4
+  \key c \major
+  \partial 4 g4
+  \repeat volta 2 {
+    c (e8 d c b)
+    c d e f g4 ~
+    g a f
+    d\trill (c8 b a g)
+    c4 (e8 d c b)
+    (d c) (b a) d4 ~
+    d (c8 b) (a b)
+  }
+  \alternative {
+    {
+      g2 g4
+    }
+    {
+      g2 d'4
+    }
+  }
+  \repeat volta 2 {
+    b (c8 b a g)
+    e' f g a bb4 ~
+    bb a g
+    f (g8 f e d)
+    cs d e4 a ~
+    a (g8 f e d)
+    (cs d e f) g4 ~
+    g (f8 e d cs)
+    d a (f' e d c!)
+    (bb d g) e f4 ~
+    f8 d (f e) (d cs)
+    d2 a8 b!
+    c!4 (d8 c b a)
+    b a g a b c
+    d e f4 e
+    d8 c b c d e
+    f g a4 g ~
+    g (bb,8 a bb g)
+    a4 d b!\trill
+  }
+  \alternative {
+    {
+      c2 d4
+    }
+    {
+      c2
+    }
+  }
+}

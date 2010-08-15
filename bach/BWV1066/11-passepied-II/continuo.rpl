@@ -1,0 +1,51 @@
+\relative c {
+  \time 3/4
+  \key c \major
+  \partial 4 r4
+  \repeat volta 2 {
+    (c'\p c c)
+    (a a a)
+    (f f f)
+    (g a b)
+    (c c c)
+    (c, c c)
+    (b c d)
+  }
+  \alternative {
+    {
+      g,2 r4
+    }
+    {
+      g2 r4
+    }
+  }
+  \repeat volta 2 {
+    (g4 g g)
+    (g' g g)
+    (cs, cs cs)
+    (d c! bb)
+    (a a a)
+    (g' g g)
+    (e e e)
+    (cs b! a)
+    (d e f)
+    (g g g)
+    (a a a)
+    d, f a
+    (fs fs fs)
+    (f! f f)
+    (b, b c)
+    (g' f e)
+    (d c bb)
+    (e, e e)
+    f d g
+  }
+  \alternative {
+    {
+      c,2 r4
+    }
+    {
+      c2
+    }
+  }
+}

@@ -1,0 +1,30 @@
+\relative c' {
+  \time 2/2
+  \key c \major
+  \partial 2 r2
+  r4 c e g
+  c g e c
+  g'4 g8 g g4 g
+  g1 ~
+  g2 r
+  R1*2
+  
+  r2 \bar ":|:" r2
+  r4 d f a 
+  d a f d
+  a' a8 a a4 a
+  a1
+  R1
+  r4 c, e g
+  c g e c
+  g'4 g8 g g4 g
+  g2 ~ [(g8` e)^\markup { \italic 3 } g] [(g e)^\markup { \italic 3 } g]
+  c4 g e c
+  g'4 g8 g g4 g
+  g1 ~
+  g2 r2
+  R1*2
+  
+  r2
+  \inlineInclude dacapo.ly
+}

@@ -4,6 +4,10 @@ parts:
   violoncello:
     source: continuo
 movements:
+  03-gavotte-I:
+    midi_tempo: 84 2
+  04-gavotte-II:
+    midi_tempo: 84 2
   05-forlane:
     midi_tempo: 200 4
   06-menuet-I:
@@ -35,4 +39,5 @@ score:
 macros:
   c1: "(#8 #8)"
   c2: "[(#8 #8) (#8 #8) (#8 #8)]"
+  o2: "(#8 #)"
   v4: "\stemUp (#6 \stemDown [# # #] \stemUp #8) \stemNeutral"

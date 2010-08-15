@@ -1,0 +1,134 @@
+\relative c' {
+  \time 4/4
+  \key c \major
+  
+  g'2 ~ g8. g6 c,8. e6
+  \repeat volta 2 {
+    f4. a8 g8. a6 g8. f6
+    e4. e8 d4. d8
+    d4 g g4. g8
+    g2 ~ g8. d6 g8. \ficta fs6
+    e8. g6 a8. b6 c8. b6 a8. a,6
+    e'2 ~ e8. e6 b'8. b6
+    a2 ~ a8. d,6 a'8. a6
+    a8. g6 fs8. a6 d,8. g6 fs8. a6
+    g2 ~ g8 b,6 c d b c d 
+    g,2 ~ g8. g6 c8. d6
+    e4 a, c4. a8
+    e'4. b8 e8. d6 e8. c6
+    g'4. d8 a'8. g6 a8. e6
+    a,8. a'6 d,8. e6 d4 c
+  }
+  \alternative {
+    {
+      b1
+      g'2 ~ g8. g6 c,8. e6
+    }
+    {
+      \time 2/2
+      \sixteenTwoTwoBeam
+      b4 r r2
+    }
+  }
+  \repeat volta 2 {
+    \segno
+    R1*2
+    r8 g' g g e f6 g a8 f
+    d g g, f' e6 d c d e d e fs
+    g8. d6 g8. g6 [g8. fs3` e fs] fs8.\trill g6
+    g a b c d8 g, c4 e,8. e6
+    a8 a, d8. d6 g8 g, c8. c6
+    f8 f, b8. b6 e8 e, a8. a6
+    d c d b e8 d c d6 e f8 f 
+    g d g b g a d, g
+    e8 r r4 r2
+    R1*4
+    r2 r6 a, b c d b c d
+    e f e d c d e c d8 d d d 
+    b c6 d e8 c a d e, e'
+    e a e fs g ds e8. e6
+    fs e ds e fs g e fs g8 e a4 ~
+    a8 gs6 fs gs8 a b6 a b gs a b c d
+    e b c a e4 ~ e6 d c b a c d e
+    f8 gs, b e e a6 gs a8 c6 b
+    a b a g f e f d gs,8 gs' a b
+    e, f e d c a' a a 
+    g a6 b c8 a fs b b, b'
+    e, g g g e a a a 
+    f g6 a bb8 g e a a, a'
+    d, f f f d g g g 
+    e f6 g a8 f d g g, g'
+    c,6 f e d c b c a e' d e fs g8 e
+    d d d d b c6 d e8 c 
+    a d d, d' ~ d c6 b c4 ~
+    c6 a b c d e fs g a8 a, r d ~
+    d6 g fs g e8 a ~ a c fs, b ~
+    b6 e, d e c8 a' ~ a6 g fs e d c b a 
+    d8 e6 fs g8 e a6 g fs e d c b a
+    g8 d' d d d4 r
+    R1*4
+    r8 b' b b g a6 b c8 a 
+    fs b b, b e4 r
+    R1*2
+    r2 r6 c' b a g fs g e
+    c' b a g fs8 b e,4 r
+    R1*2
+    r8 c' c c a r r4
+    R1
+    r8 bb bb bb g r r4
+    R1
+    r6 bb a g f e f d a' g a bb c8 a
+    g g g g e f6 g a8 f
+    d g g, g' ~ g f6 e f e d c 
+    d8 g g6 f g e c8 d6 e f e f d
+    b8 e c a d8. e6 f8 g6 d
+    e8 c c' g c, f g a 
+    d,4 r r2
+    R1*2
+    r8 g g g e f6 g a8 f
+    d g g, f' e6 d c d e d e fs
+    g8 d g8. g6 [g8. fs3` e fs] fs8. g6
+    g a b c d8 g, c6 b a g f8 g
+    a6 d c d d,8 g ~ g6 c bb c c,8 f ~
+    f6 b! a b b,8 e ~ e6 a g a a,8 d ~
+    d6 c' b a g f e d g8 a6 b c8 a,
+    d6 c b a g f e d c8 g' g g 
+    g4 r r2
+    r2 r6 b c d e d e f 
+    g bb a g f e f d g f g a g f e d 
+    c4 r8 e f d b c6 d 
+    e g f e d c b a g8 g' ~ g6 e d e 
+    f4 ~ f6 f g a g g a bb e,8 a ~
+    a6 g f e d8 g g4 e8. e6
+    a8 a, d8. d6 g8 g, c8. c6
+    f8 f, b8. b6 e8 e, a8. a6
+    d c d b e8 d c d6 e f8 f
+    g d g b g a d, g \bar "||" \time 4/4
+    e8. d6 c8. d6 e4 ~ e6 e d c
+    g'8. a6 g8. f6 e8. d6 c8. c6
+    c8. f6 a8. g6 f4. d8
+    bb'4. bb8 e,4 a
+    a8. f6 d8. a6 d4. d8
+    d8. a'6 g8. f6 e8. f6 g8. e6
+    f8. a6 d8. a6 d,4 ~ d6 c d e
+    f g a g f e d e f4. e8
+    d8. e6 d8. c6 b8. d6 g8. b6
+    b8. g6 c,8. d6 e4. e8
+    e8. c6 f8. d6 d8. e6 f8. g6
+    a4 d, f4. a8
+    d,8. f6 e8. d6 c4. c8
+    c8. a6 d8. c6 b8. c6 b8. c6
+    d8. g,6 g'8. a6 g4 d
+    \bar "||"
+  }
+  \alternative {
+    {
+      \time 2/2
+      e4 r r2
+      \segno
+    }
+    {
+      e1\fermata
+    }
+  }
+}

@@ -1,0 +1,46 @@
+\relative c' {
+  \time 3/4
+  \key c \major
+    \partial 4 c4
+  g2 g4
+  \repeat volta 2 {
+    c2 d4
+    e c f
+    g a b
+    c c, d
+    e2 d4
+    g d c
+  }
+  \alternative {
+    {
+      b2 c4
+      g2 g4
+    }
+    {
+      b2
+    }
+  }
+    \bar "|:" g'4
+  d2 d4
+  c c' f,
+  e a, a'
+  a2 bb4
+  e,4 a,8 b cs d
+  e4 a g8 f
+  e d cs d e4
+  e cs r
+  d2 d4
+  d e d
+  f g e
+  f2 d4
+  c a d
+  d2 c4
+  g g' g
+  g d g
+  c, f d
+  g f g
+  c, f d
+  e2 \bar ":|"
+  \once \override Staff.TimeSignature #'transparent = ##t
+  \time 3/4
+}

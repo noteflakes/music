@@ -1,0 +1,33 @@
+\relative c' {
+  \time 3/2
+  \key c \major
+  \partial 8 g'8
+  g2 c b4.\trill c8
+  c b c d e4 d8 c d4. e8
+  f4 a, b d g, a 
+  d,2. g4 a g
+  g gs a fs g4. a8
+  d,4 g a b a g
+  g a g e d2
+  d2. ~ d2 r8 \bar ":|:" b'
+  b a b cs d2 bb
+  a4 d8 cs d1 ~
+  d2. a4 a g
+  e2. d'4 d cs
+  d a2 gs4 a4. b8
+  e,4 a b c b a
+  a b2 a8 b gs4. e8
+  e2. a8 b c b c d 
+  e4 c g e f g 
+  f2. e4 a a 
+  a2. a4 e d
+  d2 g b,
+  g' c b4.\trill c8
+  c b c d e4 d8 c d4. e8
+  f4 a,2 b4 c4. d8
+  b4.\trill c8 c4 c a4. a8
+  a g f g a4 f8 e f4 a
+  d,2. d'4 b d
+  c4. b8 c4 a g2
+  g2. ~ g2 r8
+}

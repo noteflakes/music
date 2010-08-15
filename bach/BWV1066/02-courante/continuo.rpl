@@ -1,0 +1,33 @@
+\relative c {
+  \time 3/2
+  \key c \major
+  \partial 8 c8
+  c2. c'4 g a 
+  e8 f e d c4 bb' a g
+  f e d b c f,
+  g g' f e f g 
+  c, e a, d8 e [d c b a]
+  b4 c a g fs g
+  e fs g c d d,
+  g2. ~ g2 r8 \bar ":|:" g'
+  g4 f8 e d2 ~ d8 cs d e
+  f g f e d4 c' bb a
+  g8 f g a bb4 cs, d g,
+  a a' g f g a
+  d, f b, e8 f [e d c b]
+  c4 d b a gs a
+  fs gs a d e e,
+  a8 gs a b c4 e a g!8 f
+  e d e f g4 c, d e
+  f8 e f g a bb a g f e d cs
+  d4 e f d e f
+  g g, g' a g f 
+  e d c c' g a
+  e8 d e f g a bb4 a g
+  f e d g8 a g f e d 
+  e4 g c8 b a g f e d c
+  d4 a'8 g f e d c b a g f 
+  f'2. b,4 g b
+  c g a f g2
+  c,2. ~ c2 r8 
+}

@@ -25,7 +25,7 @@ rescue Timeout::Error
 end
 
 def check_work(id)
-  puts "(#{id})"
+  STDOUT << "."
   url = URL_PATTERN % id
   begin
     h = Nokogiri::HTML(open_url(url))
@@ -102,4 +102,4 @@ end
 $work_range.each {|id| check_work(id)}
 $pool.join
 puts "*************************"
-puts "found #{$sources.size} (#{$first_sources.size})"
+puts "found #{$sources.size} (#{$start_sources.size})"

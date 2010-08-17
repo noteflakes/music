@@ -36,6 +36,7 @@ parts:
     source: continuo
     breaks:
       - 02-courante
+      - 02-courante
       - 11-passepied-II
 movements:
   02-courante:

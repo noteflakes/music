@@ -1,8 +1,42 @@
 title: Orchestral Suite BWV 1066
 composer: Johann Sebastian Bach
 parts:
+  oboe1:
+    breaks: 
+      - 02-courante
+      - 02-courante
+      - 04-gavotte-II
+      - 10-passepied-I
+  oboe2:
+    breaks: 
+      - 02-courante
+      - 02-courante
+      - 04-gavotte-II
+      - 10-passepied-I
+  violino1:
+    breaks:
+      - 02-courante
+      - 02-courante
+      - 04-gavotte-II
+      - 11-passepied-II
+  violino2:
+    breaks:
+      - 02-courante
+      - 02-courante
+      - 05-forlane
+      - 08-bourree-I
+      - 10-passepied-I
+  viola:
+    breaks:
+      - 02-courante
+      - 05-forlane
+      - 08-bourree-I
+      - 10-passepied-I
   violoncello:
     source: continuo
+    breaks:
+      - 02-courante
+      - 11-passepied-II
 movements:
   02-courante:
     midi_tempo: 86 2

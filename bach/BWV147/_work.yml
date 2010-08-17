@@ -26,6 +26,7 @@ parts:
     embed_figures: true
   violoncello:
     source: continuo
+    hide_figures: true
     breaks:
       - 07-aria
       - 09-aria

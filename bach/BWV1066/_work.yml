@@ -34,10 +34,11 @@ parts:
       - 10-passepied-I
   violoncello:
     source: continuo
+    hide_figures: true
     breaks:
-      - 02-courante
-      - 02-courante
-      - 11-passepied-II
+      - 03-gavotte-I
+      - 03-gavotte-I
+      - 06-menuet-I
 movements:
   02-courante:
     midi_tempo: 86 2

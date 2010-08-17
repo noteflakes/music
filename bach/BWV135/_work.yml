@@ -10,6 +10,7 @@ parts:
     embed_figures: true
   violoncello:
     source: continuo
+    hide_figures: true
     breaks:
       - 05-aria
       - 06-choral

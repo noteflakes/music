@@ -3,6 +3,8 @@ parts:
     source: violino1
   oboe2:
     source: violino2
+  tromba:
+    source: soprano
   basso:
     lyrics: [choral.lyrics, choral.lyrics2]
   tenore:

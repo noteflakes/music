@@ -3,12 +3,32 @@ subtitle: "\"Herz und Mund und That und Leben\""
 subsubtitle: "Source: D B Mus. ms. Bach P 102"
 composer: Johann Sebastian Bach
 parts:
+  oboe1:
+    breaks:
+      - 06-choral
   tromba: 
     midi_instrument: trumpet
+    breaks:
+      - 09-aria
+      - 10-choral
+  violino1:
+    breaks:
+      - 05-aria
+      - 06-choral
+      - 09-aria
+      - 09-aria
+  violino2:
+    breaks:
+      - 06-choral
+      - 09-aria
+      - 10-choral
   continuo:
     embed_figures: true
   violoncello:
     source: continuo
+    breaks:
+      - 07-aria
+      - 09-aria
 movements:
   01-coro:
     midi_tempo: 108 4

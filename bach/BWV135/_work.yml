@@ -3,10 +3,16 @@ subtitle: "\"Ach Herr, mich armen Sünder\""
 subsubtitle: "Source: D Leb P I 4"
 composer: Johann Sebastian Bach
 parts:
+  violino1:
+    breaks:
+      - 05-aria
   continuo:
     embed_figures: true
   violoncello:
     source: continuo
+    breaks:
+      - 05-aria
+      - 06-choral
 movements:
   01-coro:
     midi_tempo: 130 4

@@ -8,6 +8,12 @@ parts:
       - 05-aria
   continuo:
     embed_figures: true
+  talig:
+    title: Viola
+    clef: treble_8
+    source: viola
+    breaks:
+      - 05-aria
   violoncello:
     source: continuo
     hide_figures: true

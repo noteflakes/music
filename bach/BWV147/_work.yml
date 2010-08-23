@@ -22,6 +22,10 @@ parts:
       - 06-choral
       - 09-aria
       - 10-choral
+  talig:
+    title: Viola
+    clef: treble_8
+    source: viola
   continuo:
     embed_figures: true
   violoncello:

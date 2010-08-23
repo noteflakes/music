@@ -32,6 +32,15 @@ parts:
       - 05-forlane
       - 08-bourree-I
       - 10-passepied-I
+  talig:
+    title: Viola
+    clef: treble_8
+    source: viola
+    breaks:
+      - 02-courante
+      - 05-forlane
+      - 08-bourree-I
+      - 10-passepied-I
   violoncello:
     source: continuo
     hide_figures: true

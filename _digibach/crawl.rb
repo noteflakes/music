@@ -25,7 +25,7 @@ rescue Timeout::Error
 end
 
 def check_work(id)
-  STDOUT << "."
+  STDOUT << "."; STDOUT.flush
   url = URL_PATTERN % id
   begin
     h = Nokogiri::HTML(open_url(url))

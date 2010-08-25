@@ -20,6 +20,12 @@ parts:
     breaks:
       - 05-aria
       - 06-choral
+  continuo:
+    breaks:
+      - 02-recitativo
+      - 03-aria
+      - 04-recitativo
+      - 05-aria
 movements:
   01-coro:
     midi_tempo: 130 4

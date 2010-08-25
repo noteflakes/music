@@ -48,6 +48,11 @@ parts:
       - 03-gavotte-I
       - 03-gavotte-I
       - 06-menuet-I
+  continuo:
+    breaks:
+      - 03-gavotte-I
+      - 03-gavotte-I
+      - 10-passepied-I
 movements:
   02-courante:
     midi_tempo: 86 2

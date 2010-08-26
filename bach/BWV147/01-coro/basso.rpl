@@ -41,8 +41,8 @@
   c r ([g' a]) ([b g]) a d, ([d' e]) ([d c])
   [b6 a g a] [b c b c] [d c d b] [c g a b] [c b c a b8] e,
   a4. g8 ([f e]) ([d c]) ([b a]) ([b g])
-  a4 a r a'8 c f, a c, f
-  d4 d r g8 b d, g b, e
+  c4 c r a'8 c f, a c, f
+  d4 d r g8 b e, g b, e
   c8 c e a c,4 r8 a' f a d, d 
   r4 g8 a b4. g8 [d6 e] f8 b, g
   r4 ([c8 d]) ([e c]) f a, ([d e]) ([f d])

@@ -84,7 +84,7 @@
   g4 a b
   [c8 d] (d4. [c6 d])
   e8 g, [c bb] [a g]
-  (a4 f) c' ~
+  (a4 f) c'
   (c b2)
   c2 r4
   R2.*7
@@ -94,7 +94,7 @@
   
   
   
-  r4 [b8 c] d4
+  r4 [b8 c] d4 ~
   d [cs8 d] e4 ~
   e [d8 e] f4 ~
   f8 b, [e d] [c b]

@@ -1,0 +1,8 @@
+parts:
+  violoncello:
+    source: violoncello
+score:
+  order:
+    - tenore
+    - violoncello
+    - continuo

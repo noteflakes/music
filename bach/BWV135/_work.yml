@@ -6,8 +6,6 @@ parts:
   violino1:
     breaks:
       - 05-aria
-  continuo:
-    embed_figures: true
   talig:
     title: Viola
     clef: treble_8
@@ -21,6 +19,7 @@ parts:
       - 05-aria
       - 06-choral
   continuo:
+    embed_figures: true
     breaks:
       - 02-recitativo
       - 03-aria
@@ -38,7 +37,7 @@ movements:
   06-choral:
     midi_tempo: 86 4
 score:
-  hide_figures: true
+  hide_figures: false # true
   order:
     - oboe1
     - oboe2

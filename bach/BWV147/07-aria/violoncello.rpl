@@ -1,0 +1,69 @@
+\relative c {
+  \time 3/4
+  \key f \major
+  
+  r8 c' f e f4
+  r8 f $c1 e f g d e f c d e bb c d
+  a bb c f, g a e f g c, d e f g a c, e f
+  g a bb c, f g a bb c c, g' a bb c d g, a bb
+  e, f g c, d e f g a bb, c d $$ c6 bb c8
+  f,4 r8 c'' f e
+  f4 r r
+  r8 f $c1 e f g d e f c d e bb c d
+  a bb c f, g a e f g c, d e f g a c, e f
+  g a bb c, f g a bb c c, g' a bb c d g, a bb
+  e, f g c, d e f g a bb, c d $$ c6 bb c8
+  f,4 r8 f''6 e $c1 d e f b, c d $$
+  e,4 r8 e'6 d $c1 c d e a, b c
+  d, f e d e f b, c d g, a b $$ f8. f'6
+  $c1 e f g c, d e f g a d, e f $$ g8 g,
+  c g' c b c4 
+  r8 c $c1 b c d a b c g a b f g a 
+  e f g c,d e b c d g, a b  c d e g, b c
+  d e f g, c d e f g g, d' e f g a d, e f
+  b, c d g, a b c d e f, g a $$ g6 f g8
+  c,4 r8 $c1 c'' bb a g a bb e, f g $$
+  cs,4 r8 $c1 a' g f e f g cs, d e $$
+  a,4 r8 $c1 a' b cs d e f bb, c d $$
+  g,4 r8 $c1 g a bb c d eb a, bb c $$
+  f,4 r8 $c1 f g a bb c d g, a bb $$
+  e,4 r8 $c1 d e f g a bb e, f g $$
+  cs,4 r8 $c1 a b cs d e f b, cs d $$
+  gs,4 r8 $c1 gs' a b b c d gs, a b $$
+  e,4 r8 $c1 e fs gs gs a b d, e f
+  c d e b c d c d e d e f $$ e6 d e8
+  a, e' a gs $c1 a b c f, g a
+  d, e f b, c d gs, a b e, fs gs a b c e, gs a
+  b c d e, a b c d e d e f $$ e6 d e8
+  a,4 r r
+  r8 $c1 d e f e f g f g a g a bb a bb c $$
+  bb4 r r
+  r8 $c1 c, d e d e f e f g f g a g a bb $$
+  a4 r r
+  r8 $c1 bb, c d c d e d e f e f g f g a $$
+  g4 r r
+  r8 $c1 a, b cs b cs d cs d e d e f e f g 
+  f g a g a bb a g f e f g $$ a,6 g a8
+  d,4 r8 $c1 a'' b cs d e f bb, c d
+  g, a bb f g a e f g d e f e f g c, d e
+  f g a g a bb f g a eb f g d eb f c d eb
+  d eb f bb, c d eb f g c, d eb $$ f6 eb f8
+  bb, bb' $c1 a bb c g a bb f g a eb f g
+  d eb f bb, c d eb f g c, d eb $$ f6 eb f8
+  bb,4 r r8 $c1 bb' c d 
+  a bb c g a bb f g a e f g d e f g a bb $$
+  c8 c, r e f g 
+  a a, r f' g a 
+  bb bb, r g' a bb
+  c f $c1 e f g d e f c d e bb c d 
+  a bb c f, g a e f g c, d e f g a c, e f 
+  g a bb c, f g a bb c c, g' a bb c d g, a bb
+  e, f g c, d e f g a d, e f $$ bb,4 ~
+  $c1 bb a g a g f $$ c'8 bb c4
+  r8 c' f e f4 
+  r8 f $c1 e f g d e f c d e bb c d
+  a bb c f, g a e f g c, d e f g a c, e f
+  g a bb c, f g a bb c c, g' a bb c d g, a bb
+  e, f g c, d e f g a bb, c d $$ c6 bb c8
+  f,4 r r
+}

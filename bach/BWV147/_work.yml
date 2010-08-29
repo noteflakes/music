@@ -28,6 +28,12 @@ parts:
     source: viola
   continuo:
     embed_figures: true
+    breaks:
+      - 03-aria
+      - 06-choral
+      - 07-aria
+      - 08-recitativo
+      - 09-aria
   violoncello:
     source: continuo
     hide_figures: true
@@ -68,6 +74,12 @@ score:
     - brace: [oboe1, oboe2]
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+  breaks:
+    - 02-recitativo
+    - 03-aria
+    - 04-recitativo
+    - 05-aria
+    - 05-aria
 macros:
   c1: "[#6` # #]"
   c2: "#4 r8 [# # #]"

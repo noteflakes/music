@@ -5,7 +5,14 @@ composer: Johann Sebastian Bach
 parts:
   oboe1:
     breaks:
+      - 03-aria
+      - 10-choral
+  oboe2:
+    breaks:
       - 06-choral
+      - 08-recitativo
+      - 09-aria
+      - 10-choral
   tromba: 
     midi_instrument: trumpet
     breaks:

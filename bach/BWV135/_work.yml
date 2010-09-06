@@ -37,7 +37,7 @@ movements:
   06-choral:
     midi_tempo: 86 4
 score:
-  hide_figures: false # true
+  hide_figures: true
   order:
     - oboe1
     - oboe2

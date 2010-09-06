@@ -1,0 +1,54 @@
+title: Irritable Bowel Syndrome
+subtitle: String Compilation I
+movements:
+  - movement: "bach/BWV135#6"
+  - movement: "bach/BWV1066#2"
+  - movement: "bach/BWV1066#7"
+  - movement: "bach/BWV1066#8"
+    parts:
+      ira:
+        breaks: 1
+      rachel:
+        breaks: 1
+      hadas:
+        breaks: 1
+      katya:
+        breaks: 1
+  - movement: "bach/BWV044#2"
+    parts:
+      rachel:
+        source: violino2
+      hadas:
+        source: violino1
+  - movement: "bach/BWV044#6"
+    parts:
+      rachel:
+        source: violino2
+      hadas:
+        source: violino1
+      katya:
+        breaks: 1
+  - movement: "bach/BWV044#7"
+    parts:
+      rachel:
+        source: violino2
+      hadas:
+        source: violino1
+parts:
+  ira:
+    source: continuo
+    clef: bass
+    hide_figures: true
+  zohar:
+    source: continuo
+    clef: bass
+    embed_figures: true
+  rachel:
+    source: violino1
+  hadas:
+    source: violino2
+  katya:
+    source: viola
+    clef: alto
+score:
+  hide_figures: true

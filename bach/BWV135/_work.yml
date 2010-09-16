@@ -53,3 +53,16 @@ score:
     - brace: [oboe1, oboe2]
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+vocal:
+  hide_figures: true
+  order:
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - bracket: [soprano, alto, tenore, basso]
+  breaks:
+    - 03-aria
+    - 04-recitativo

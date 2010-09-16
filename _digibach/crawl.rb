@@ -17,7 +17,7 @@ $start_sources = $sources.clone
 $pool = ThreadPool.new(20)
 
 def open_url(url)
-  r = HTTParty.get(url, :timeout => 35)
+  r = HTTParty.get(url, :timeout => 120)
   r.body
 rescue Timeout::Error
   puts "timeout while getting #{url}"

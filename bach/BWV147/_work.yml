@@ -87,6 +87,19 @@ score:
     - 04-recitativo
     - 05-aria
     - 05-aria
+vocal:
+  order:
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - bracket: [soprano, alto, tenore, basso]
+  breaks:
+    - 02-recitativo
+    - 08-recitativo
+    - 09-aria
 macros:
   c1: "[#6` # #]"
   c2: "#4 r8 [# # #]"

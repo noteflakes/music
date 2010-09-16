@@ -1,0 +1,9 @@
+vocal:
+  order:
+    - oboe1
+    - oboe2
+    - tenore
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    

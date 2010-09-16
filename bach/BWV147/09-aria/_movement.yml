@@ -3,3 +3,9 @@ parts:
     source: violino1
   oboe2:
     source: violino2
+vocal:
+  order:
+    - tromba
+    - violino1
+    - basso
+    - continuo

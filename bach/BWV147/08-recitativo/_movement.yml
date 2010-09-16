@@ -14,4 +14,11 @@ score:
   groups:
     - brace: ["oboe-da-caccia1", "oboe-da-caccia2"]
     - brace: ["oboe1", "oboe2"]
-  
+vocal:
+  order:
+    - oboe1
+    - oboe2
+    - alto
+    - continuo
+  groups:
+    - brace: ["oboe1", "oboe2"]

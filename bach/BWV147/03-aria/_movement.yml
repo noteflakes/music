@@ -2,3 +2,8 @@ parts:
   oboe1:
     title: "Hautb d'amour"
     midi_transpose: "c a,"
+vocal:
+  order:
+    - oboe1
+    - alto
+    - continuo

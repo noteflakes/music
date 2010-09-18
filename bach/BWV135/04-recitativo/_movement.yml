@@ -1,3 +1,5 @@
 parts:
   continuo:
     before_include: alto
+  violoncello:
+    before_include: alto

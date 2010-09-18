@@ -88,7 +88,6 @@ score:
     - 03-aria
     - 04-recitativo
     - 05-aria
-    - 05-aria
 vocal:
   hide_figures: true
   order:

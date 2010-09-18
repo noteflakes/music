@@ -45,6 +45,8 @@ parts:
     source: continuo
     hide_figures: true
     breaks:
+      - 06-choral
+      - 07-aria
       - 07-aria
       - 09-aria
 movements:

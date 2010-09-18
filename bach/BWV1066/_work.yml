@@ -77,6 +77,7 @@ movements:
   11-passepied-II:
     midi_tempo: 154 4
 score:
+  hide_figures: true
   order:
     - oboe1
     - oboe2

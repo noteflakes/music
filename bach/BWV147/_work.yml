@@ -49,6 +49,13 @@ parts:
       - 07-aria
       - 07-aria
       - 09-aria
+  violone:
+    source: continuo
+    clef: bass
+    hide_figures: true
+    breaks:
+      - 06-choral
+      - 09-aria
 movements:
   01-coro:
     midi_tempo: 108 4

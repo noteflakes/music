@@ -3,3 +3,6 @@ parts:
     before_include: tenore
   violoncello:
     before_include: tenore
+  violone:
+    before_include: tenore
+      

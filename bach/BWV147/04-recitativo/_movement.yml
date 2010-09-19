@@ -3,3 +3,5 @@ parts:
     before_include: basso
   violoncello:
     before_include: basso
+  violone:
+    before_include: basso

@@ -48,6 +48,13 @@ parts:
       - 03-gavotte-I
       - 03-gavotte-I
       - 06-menuet-I
+  violone:
+    source: continuo
+    hide_figures: true
+    clef: bass
+    breaks:
+      - 02-courante
+      - 08-bourree-I
   continuo:
     breaks:
       - 03-gavotte-I

@@ -1,0 +1,37 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+  
+  R1 \segno
+  R1*7
+  r4 g'8 a bb c d g
+  [g fs] r4 r2
+  r4 g,8 a bb c d g
+  ([g fs]) d c bb [a6 g] c8 [bb6 a]
+  fs4 r r2
+  r4 d'8 c bb [a6 g] ([g'3 f eb6]) f8
+  ([f eb]) c bb a [g6 f] f'8 eb
+  d4 g8 f e [d6 cs] d8 e
+  a,1 ~
+  a4 d,8 e f g a d
+  ([d cs]) a b cs d e f
+  ^f g4 r8 bb,! a d6 b cs8. d6
+  d4 r r2
+  R1
+  r4 r8 a bb4 c
+  d d ([c8 bb]) c4
+  bb bb8 c d eb f ab,
+  ([ab g]) r g e' f g bb,
+  ([bb ab]) g a b c d f
+  ([f eb]) r g f4 eb
+  ([d8 c6 b c8]) d eb4 ([d6 c d8])
+  c4 r r2
+  r8 d eb f g g [f6 eb] f8
+  eb4 eb8 d c ([bb6 a]) bb8 c
+  d,1 ~
+  d4 fs8 g a bb c d
+  eb4 r8 d c4 bb
+  ([a8 g6 fs g8]) a bb4 ([a6 g a8])
+  g4 r r2
+  \dalsegno
+}

@@ -1,0 +1,43 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+  
+  g'4 r g,8 a bb c \segno
+  d4 r d8 e fs d
+  g4. g8 f eb d bb
+  eb4 r8 eb' d c b g
+  c4 r8 a [fs-. a-.] [c,-. eb-.]
+  [a,-. c-.] [fs,-. a-.] d, [d' g d]
+  eb d c b c bb a g
+  a g fs d g bb d d,
+  g4\fermata r g8\p a bb c
+  d4 r d8 e fs d
+  g4 r g,8 a bb g
+  d' e fs d g f eb c
+  d4 r8 a' [fs-. a-.] [c,-. eb-.]
+  [a,-. c-.] \autoBeamOff fs,-. d' \autoBeamOn g f eb d
+  c bb a g f' eb d c
+  bb f' bb a g e f g ~
+  [g f6 e f8 d] a b cs a
+  d4 r d8 e f d
+  a'4 r a,8 b cs d
+  e f g e cs d a' a,
+  d e fs d g f e d
+  e d cs a f' d a' a,
+  (d6 cs) (d e) (fs d) (e fs) g8 f eb c
+  (g'6 fs) (g a) (bb g) (a bb) a8 g fs d
+  g f! eb ab d, f c b
+  c c' bb ab g f (eb6 g) (f e)
+  [f8 ab6 g f8 eb!] d c (eb6 d) (c b)
+  c8 g' f eb d b' c g
+  ab d, eb f g f g g,
+  c4 r c8 d eb f
+  g ab g f [eb ab] [d, g]
+  c, a fs g eb d c r
+  r4 c''8 bb a g fs d
+  g4 c,8 bb a g fs g
+  fs [d'' c bb] [a (g6 fs) g8 eb]
+  c d eb c d c d d,
+  g4 r g8 a bb c
+  \dalsegno
+}

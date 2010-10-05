@@ -1,0 +1,75 @@
+\relative c' {
+  \time 12/8
+  \key g \minor
+  
+  r4. r8 r g'8 (g ab g) g (f'6 eb f d) \segno
+  (g,8 ab g) g (eb'6 d eb c) f,8 (ab'6 g ab f eb d f eb d c)
+  b4\trill g8 (g ab g) g (eb'6 d eb c) (f,8 g f)
+  f4 f8 (f g f) f (d'6 c d bb) (eb,8 f eb)
+  eb4 c'8 (c d c) c2. ~
+  c8 (f6 eb d c) b8 (d6 c b a) g8 g'-. eb-. c (eb6 d c b)
+  c4\fermata b8\p c4 r8 $o1 b c
+  c d bb! c
+  g c ab c $$
+  r4. r8 r g\f (g ab g) g (f'6 eb f d)
+  (g,8 ab g) g (d'6 c d b) g8 (g'6 f g eb d c eb d c b)
+  c8 (ab'6 g ab f eb d f eb d c) b4. r
+  r8 r g (g ab g) g (eb'6 d eb c) (g8 ab g)
+  g (d'6 c d b) (g8 ab g) g (eb'6 d eb c) (f,8 g f)
+  f4 f8\p (f g f) g4. r8 r bb
+  c (ab6 g ab bb) (g f g ab g a) f4. r8 r c'
+  d (g,6 f g ab) (f eb f g f g) eb4 r8 r r g
+  (g ab g) g (f'6 d eb c) (g8 ab g) g (d'6 c d b)
+  g8 (g'6\f f g eb) (d c) (eb d c bb) (eb d) (f eb d c) (f eb) (g f eb d)
+  g2. ~ g ~
+  g8 (c,6 bb c d) (e d e f) (e f) (g f g ab) (g ab) (g f g ab) (g ab)
+  f8 (c6 db c bb) (c bb c d!) (c d) c8 d eb f-. b,-. d-.
+  g,4 r8 r r g (g ab g) g (f'6 eb f d)
+  (g,8 ab g) g (eb'6 d eb c) f,8 (ab'6 g ab f) (eb d) (f eb d c)
+  b4 g8 (g ab g) g (eb'6 d eb c) (f,8 g f)
+  f4 f8 (f g f) f (d'6 c d bb) (eb,8 f eb)
+  eb4 c'8 (c d c) c2. ~
+  c8 (f6 eb d c) b8 (d6 c b a) g8 g'-. eb-. c (eb6 d c b)
+  c4 b8\p c4 r8 $o1 b c
+  c d bb! c
+  g c ab c $$
+  r4. r8 r g\f (g ab g) g (f'6 eb f d)
+  (g,8 ab g) g (d'6 c d b) g8 (g'6 f g eb) (d c) (eb d c b)
+  c8 (ab'6 g ab f) (eb d f eb d c) b4. r
+  r8 r g (g ab g) g (eb'6 d eb c) (g8 ab g)
+  g (d'6 c d b) (g8 ab g) g (eb'6 d eb c) (f,8 g f)
+  f4 f8\p (f g f) g4. r8 r bb
+  c (ab6 g ab bb) (ab bb g f g a) f4. r8 r c'
+  d (g,6 f g ab) (g ab f eb f g) eb4 r8 r r g
+  (g ab g) g (f'6 d eb c) (g8 ab g) g (d'6 c d b)
+  g8 (g'6\f f g eb) (d c) (eb d c bb) (eb d) (f eb d c) (f eb) (g f eb d)
+  g2. ~ g ~
+  g4. r8 r c, (c db c) c (bb'6 ab bb g)
+  (c,8 db c) c (ab'6 g ab f) c8 b c f, ab f
+  g4. r8 r eb (eb f eb) eb (db'6 c db bb)
+  (eb,8 f eb) f4 ab8 bb4. r8 r g
+  ab4 r8 r4. r8 (f'6 eb f db) bb8 r r
+  r (eb,6 d) (eb f) (g f g ab bb g) ab4. ~ ab6 g ab bb g ab
+  f4 f8 (f g f) f2. ~
+  f8 (bb'6 ab g f) e8 (g6 f e d) c8 c'-. ab-. f (ab6 g f e)
+  f4 r8 r4. r2.
+  R1.*3
+  
+  
+  r4. r8 r bb,\f (bb c bb) bb (ab'6 g ab f) 
+  (bb,8 c bb) bb (g'6 f g eb) (ab,8 bb ab) ab (f'6 eb f d)
+  g,4 r8 r r eb (eb f eb) eb (db'6 c db bb) 
+  (eb,8 f eb) eb (c'6 bb c ab) eb8 eb'6 d eb8 ab, c ab
+  bb g6 ab bb c d c d eb c d eb4. ~ (eb6 d eb c d eb)
+  d4 eb8 f4. ~ f8 (g,6 a b c) (d c d b c d)
+  c4 c8\p b4 r8 r r c f,4 r8
+  $o1 d' g, g c,
+  ab'' ab, c eb,
+  d' f, bb d $$
+  r4. r8 r g,8\f (g f) eb d (g'6 f g eb)
+  (g,8 ab g) g (eb'6 d eb c) (g8 ab g) g (c6 b c ab)
+  g8 (ab'6 g ab g) (f eb) (g f eb d) c2. ~
+  (c6 bb c db c db) (bb ab bb c bb c) (ab g f g ab bb c8) c, f
+  eb4 r8 r r g (g ab g) g (f'6 eb f d)
+  \dalsegno
+}

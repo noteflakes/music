@@ -1,0 +1,75 @@
+\relative c {
+  \time 12/8
+  \key g \minor
+  
+  $c1 c c' b g $$ \segno
+  $c1 c bb ab ab $$
+  $c2 g c a! f
+  bb bb g eb $$
+  $c1 ab e f g
+  ab d, $$ eb4 c8 g'4 g,8
+  c4.\fermata r8 r g'\p $c1 c f,
+  bb c, f d
+  b c ab! f
+  g b c d\f
+  eb g $$ c4 c,8 f4 g8
+  ab4 g8 (f eb f) $c1 g a
+  b g $$ c,6 b c d c d eb d eb f eb f
+  $c2 g c a f $$
+  $c1 bb bb,\p eb eb
+  ab c, f f,
+  bb bb $$ $c3 eb c f g
+  ab eb b c f, eb' b g'
+  eb c'\f bb ab g eb d bb
+  eb d $$ c eb c $c1 g' g, $$
+  $c3 c c' bb ab g f e c
+  f c ab f $$ $c1 c' c
+  c, c'' b g
+  c bb ab ab $$
+  $c2 g c a! f
+  bb bb g eb $$
+  $c1 ab e f g
+  ab d, $$ eb4 c8 g'4 g,8
+  $c1 c g'\p c f,
+  bb, c f d
+  b c ab f
+  g b c d\f
+  eb g $$ $c3 c c, fs, g
+  ab g $$ (f eb) f $c1 g a
+  b g $$ c6 b c d c d eb d eb f eb f
+  $c2 g c a f $$
+  $c1 bb bb,\p eb eb
+  ab c, f f,
+  bb bb $$ $c3 eb c f g
+  ab eb b c f, eb' b g'
+  eb c'\f bb ab $$ (g f eb) (d eb) c
+  (b g') f eb4 c8 g'4. r8 r g,
+  $c3 c c' bb ab g f e c
+  f c ab f $$ $c1 c' c
+  c, c' bb bb
+  ab ab g g $$
+  f4 f'8 (f g f) f (db'6 c db bb) (eb,8 f eb)
+  eb4 eb8 (eb f eb) eb (c'6 bb c ab) (db,8 eb db)
+  $c1 db a bb c
+  db g, $$ $c3 ab f c' c, $$
+  f (f'6\p e) (f g) ab4. ~ ab8 (bb6 ab) (bb c) f,4 f,8
+  g (g'6 f) (g ab) bb4. ~ bb8 (ab6 g) (ab bb) eb,4 eb,8
+  f (f'6 eb) (f g) ab4. ~ ab8 (g6 f) (g ab) bb4. ~
+  bb8 (ab6 g) (ab bb) c4. ~ c8 (bb6 ab) (bb c) d,4 eb8
+  $c1 bb bb\f c d
+  eb eb $$ $c3 ab f bb bb, $$
+  $c1 eb eb eb, eb $$
+  $c3 ab bb c ab $$ $c1 eb' eb
+  eb, bb' $$ $c3 eb d c ab $$
+  $c1 d, eb' $$ $c3 d c b g $$
+  c, $c4 c''\p d c bb ab g ab bb ab g f eb f g f eb d c d eb d c $$
+  b8 $c4 g' ab g f eb d eb f eb d c bb c d c bb ab g ab bb ab g $$
+  f8 $c4 f' g f eb d c d eb d c $$ b8 $c4 c' d c bb! ab g ab bb ab g
+  f eb f g f eb d c d eb d c bb a bb c bb ab g f g ab g f $$
+  eb4 eb''8\f d c6 b c8 g4 c8 b c6 b c d
+  b4 g8 c c,6 b c a b8 f'6 eb f g eb d eb f eb d
+  c8 ab f g4 g8 $c1 c c
+  c, c' $$ ab4 c8 f, e f 
+  $c1 c c'' b g $$
+  \dalsegno
+}

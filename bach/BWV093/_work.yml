@@ -3,7 +3,7 @@ subtitle: "\"Wer nur den lieben Gott lässt walten\""
 composer: Johann Sebastian Bach
 movements:
   01-coro:
-    midi_tempo: 108 4
+    midi_tempo: 200 8
   03-aria:
     midi_tempo: 165 8
   04-aria:
@@ -33,4 +33,8 @@ macros:
   v1: "(#8 #) #-. #-. #-. r"
   v2: "[(#6 #) (# #) (# #)]"
   v3: "(#8 #) #-. (#6 #) #8-. r"
-  
+  c1: "#4. r8 r #"
+  c2: "#4. r r8 r # #4 #8"
+  c3: "#4 #8"
+  c4: "(#6 #)"
+  o1: "r8 r # #4 r8"

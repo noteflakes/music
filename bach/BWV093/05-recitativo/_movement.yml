@@ -1,0 +1,3 @@
+parts:
+  continuo:
+    before_include: tenore

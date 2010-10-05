@@ -1,0 +1,35 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+ 
+  \tempo "Adagio"
+  eb4 r a,2
+  ab \tempo "Allegro" r8 r3 d f bb d8 r
+  r3 bb ab bb eb, g f g c, eb d eb a, c bb c  \tempo "Andante" (fs,6 fs fs fs) (fs fs fs fs)
+  (fs fs fs fs) (fs fs fs fs) \tempo "Adagio" (g g g g) (g g g g)
+  (ab ab ab ab) (db, db db db) \tempo "Recitativo" d2 ~
+  d b' ~
+  b bb ~
+  bb a4 eb' ~ \bar "||" \tempo "Adagio"
+  eb8 gb f eb db c bb ab
+  gb4 f \tempo "Recitativo" a2
+  d eb \bar "||" \tempo "Adagio"
+  bb8 ab g f eb c g' f \bar "||" \tempo "Recitativo"
+  e1
+  a2 g ~
+  g cs
+  d4 f g2
+  r4 a \tempo "Adagio" d,2
+  gs, \tempo "Recitativo" a ~
+  a1 ~
+  a2 ds 
+  e1
+  g2 fs4 a
+  d,1 ~
+  d ~
+  d2 eb
+  a, fs ~
+  fs \tempo "Adagio" g8 bb eb d
+  c bb c d [eb d6 c d8 d,]
+  g1\fermata
+}

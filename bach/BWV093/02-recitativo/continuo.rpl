@@ -1,0 +1,27 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+ 
+  \tempo "Adagio"
+  g8 g' fs c' [bb eb] [a, d]
+  [g, c] [f, bb] eb, c d eb
+  d a bb c fs,2 ~ \bar "||" \tempo "Recitativo"
+  fs1
+  f! \bar "||" \tempo "Adagio"
+  bb8 d c bb [a d] [g, c]
+  [fs, bb] [eb, eb'] d c d d, \bar "||" \tempo "Recitativo"
+  a'1 \bar "||" \tempo "Adagio"
+  c8 eb d c [bb eb] [fs, d']
+  [g, c] [f, bb] eb, c' d eb
+  d a bb c \tempo "Recitativo" f,2
+  gs a ~
+  a bb 
+  gb \tempo "Adagio" f8 ([g'! f eb])
+  d g [c, f] [bb, d] g, bb
+  [e, a] [d, d'] \tempo "Recitativo" db2 ~
+  db b ~
+  b e
+  f \tempo "Adagio" eb!
+  fs,8 g c d eb d6 c d8 d,
+  g1\fermata
+}

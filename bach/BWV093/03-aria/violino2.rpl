@@ -1,0 +1,89 @@
+\relative c' {
+  \time 3/8
+  \key eb \major
+  
+  $v1 g c d
+  eb bb $$ \segno
+  $v1 eb eb d
+  eb g,
+  g' ab eb
+  f ab,
+  bb d eb
+  eb f
+  ab g f
+  g ab
+  f eb d
+  eb f $$
+  (bb, ab) g-.
+  [ab-. f'-.] eb ~
+  eb (eb d)
+  bb4.\fermata
+  \repeat volta 2 {
+    bb4.\p ~
+    bb ~
+    bb ~
+    bb4 r8
+    $v1 bb' ab eb
+    f bb,
+    bb d eb
+    eb f
+    eb' d c
+    d c
+    c bb a
+    bb a $$
+    $v3 bb a g
+    f c d $$
+    R4.*2
+    
+    $v1 d\f g a
+    bb f 
+    bb bb a
+    bb d, $$
+    (d' eb) bb-.
+    (c eb,) d-.
+    g-. (bb a)
+  }
+  \alternative {
+    {
+      \grace s8 f4.
+    }
+    {
+      \grace s8 f4.
+    }
+  }
+  R4.
+  (eb6\p g) f8-. r
+  R4.
+  (eb6 ab) g8-. r
+  $v3 bb ab g
+  f c db
+  bb' ab g
+  f bb, c $$
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  $v1 ab' g f
+  g ab
+  c, bb ab
+  bb d $$
+  (eb d) c-.
+  d-. (d c)
+  eb-. (eb d)
+  eb4 r8
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  $v1 g c d
+  eb bb $$
+  \dalsegno
+}

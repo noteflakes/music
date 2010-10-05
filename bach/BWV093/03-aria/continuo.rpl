@@ -1,0 +1,92 @@
+\relative c {
+  \time 3/8
+  \key eb \major
+  
+  $v1 eb c bb
+  eb d $$ \segno
+  $v1 c bb ab
+  g g' 
+  eb ab g 
+  f bb
+  g f eb 
+  bb' bb, $$
+  R4.
+  bb'8-. bb,-. r
+  R4.
+  bb'8-. bb,-. r
+  R4.
+  (bb8 b) c-.
+  ab-. (f bb)
+  eb,4.\fermata
+  \repeat volta 2 {
+    $v1 eb\p g bb
+    eb d
+    d eb f
+    g ab $$
+    (g ab) g-.
+    (f bb) ab-.
+    (g f) eb-.
+    bb'-. bb,-. r
+    R4.
+    bb'8-. bb,-. r
+    R4.
+    bb'8-. bb,-. r
+    R4.
+    (f8 fs) g-.
+    (eb f!) f'-.
+    bb,-. d-. f-.
+    $v1 bb\f g f
+    bb a
+    g f eb 
+    d d'
+    $$
+    (bb eb) d-.
+    (c fs,) g-.
+    eb-. (c f)
+  }
+  \alternative {
+    {
+      \grace s8 bb,8. ab6 g f
+    }
+    {
+      \grace s8 bb8 ([bb'\p ab])
+    }
+  }
+  g4 f8
+  (eb d) eb-.
+  f g g,
+  c eb g
+  c4 bb8
+  (ab g) ab
+  bb c c,
+  f, ab c
+  f f, eb
+  d fs d
+  (g bb) db-.
+  c e c
+  f ab f
+  bb d, bb
+  (eb d) c-.
+  bb bb' r
+  R4.
+  bb8-. bb,-. r
+  R4.
+  bb'8-. bb,-. r
+  R4.
+  (bb8 b) c-.
+  (ab bb) bb'
+  (c g) eb-.
+  ab-. g-. r
+  $v2 ab bb ab g f eb
+  d bb c d eb f
+  g ab bb c d bb $$
+  $v1 eb ab, f
+  bb ab $$
+  (g ab) bb
+  eb, (bb6 ab g f)
+  $v1 eb c' bb
+  eb d $$
+  \dalsegno
+}
+
+ 

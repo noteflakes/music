@@ -4,6 +4,8 @@ composer: Johann Sebastian Bach
 movements:
   01-coro:
     midi_tempo: 108 4
+  04-aria:
+    midi_tempo: 90 4
   06-aria:
     midi_tempo: 88 4
   07-choral:

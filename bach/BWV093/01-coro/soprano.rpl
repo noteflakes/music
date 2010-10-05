@@ -1,0 +1,75 @@
+\relative c' {
+  \time 12/8
+  \key g \minor
+  
+  R1. \segno
+  R1.*5
+  
+  
+  
+  
+  r8 r g' c4 d8 ([eb6 f g8]) f ([eb c]) f
+  [d f6 eb f eb] [d8 eb6 d eb d] [c8 f e] f4. ~
+  [f6 \ficta e f g f g] [eb d eb f eb f] [d c d eb d eb] [c b c d c d]
+  [b c d b] g8 r4. r g
+  c d eb d
+  c d (b4 a8) g4. ~
+  g1. ~
+  g4. r r2.
+  r2. r8 r eb' eb ([db6 c db8])
+  c\staccatissimo f4 [d6 e] [e8.\trill d3 e] f4 f8 f ([eb6 d eb8])
+  d\staccatissimo g4 [c,6 d] [d8.\trill c3 d] eb4 g,8 [a! c] b
+  [c d] eb ~ eb d c g' r r r4.
+  r bb, bb ab
+  g c (c4 d8) b4.\trill
+  c1. ~
+  c ~
+  c4 r8 r4. r2.
+  R1.*8
+  
+  
+  
+  
+  
+  
+  
+  r2. r4. g
+  c d eb d
+  c d (b4 a8) g4. ~
+  g1. ~
+  g4. r r2.
+  R1.*4
+  
+  
+  
+  r4. bb bb ab
+  g c (c4 d8) b4.
+  c1. ~
+  c ~
+  c4 r8 r4. r2.
+  R1.*6
+  
+  
+  
+  
+  
+  r4. r8 r bb c4 d8 [eb f] eb
+  [db c] bb c d e f4. ~ [f8 eb6 d] ([eb f])
+  g4. ~ [g8 f6 eb f g] ab4. ~ [ab8 g6 f] g8
+  f4 r8 d4. eb f
+  g g f f
+  eb1. ~
+  eb ~
+  eb4 r8 r4. r2.
+  R1.*2
+  
+  r2. r8 r g [f eb6 d] eb8
+  [d6 c b8] c d4 d8 [d c6 b c d] eb4. ~
+  [eb8 d6 c d eb] f4. ~ f ~ [f8 eb6 d eb f]
+  g2. ~ g4 r8 g4.
+  f eb d (c4 d8)
+  (eb4. [d8\trill c]) d c2. ~
+  c1. ~
+  c4 r8 r4. r2.
+  \dalsegno
+}

@@ -1,0 +1,75 @@
+\relative c' {
+  \time 12/8
+  \key g \minor
+  
+  R1. \segno
+  R1.*8
+  
+  
+  
+  
+  
+  
+  
+  r2. r4. b
+  c b ([c8 d]) eb f4 f8
+  [eb d eb] [f g eb] d4. ~ [d8 c6 d c d]
+  [b a b c b c] [d c d eb d eb] [c8 g c] [c\trill b c]
+  b4. r r2.
+  R1.*4
+  
+  
+  
+  r4. d bb bb
+  ([bb8 eb]) b [c g eb'] [d6 eb f8 eb] [d\trill c] d
+  c4 e8 e4 f8 [e f] g [g f] e
+  f4. f ~ [f6 \ficta e f g eb f] [d c d eb] f8
+  eb4 r8 r4. r2.
+  R1.*5
+  
+  
+  
+  
+  r8 r g, c4 d8 ([eb6 f g8]) f ([eb c]) f
+  d4. ~ [d8 eb6 d eb d] [c8 f e] f4. ~
+  [f6 \ficta e f g f g] [eb d eb f eb f] [d c d eb d eb] [c b c d c d]
+  [b c d b] g8 r4. r b
+  c b c4. ~ c4 g'8
+  ([eb d]) eb [f g eb] d4. ~ [d8 c6 d c d]
+  [b a b c b c] [d c d eb d eb] [c8 g c] ~ [c b c]
+  b4. r r2.
+  r2. r8 r eb eb [db6 c db8]
+  c\staccatissimo f4 [d6 e] [e8.\trill d3 e] f4 f8 f [eb6 d eb8]
+  d\staccatissimo g4 [c,6 d] [d8.\trill c3 d] eb4 g,8 [a! c] b
+  [c d] eb [eb d] c g' r r r4.
+  r d bb d
+  d4 b8 [g c eb] [d f eb] [d c] d
+  c4 e8 e4 f8 ([e f]) g ([g f]) e
+  f4. f ~ [f8 b, c] [d f6 eb] f8
+  eb4 r8 r4. r2.
+  R1.*5
+  
+  
+  
+  
+  r4. r8 r c d4 e8 ([f g]) f
+  [eb! d] c d4 eb8 c4 f8 eb4 bb8
+  [f' eb] db c f bb, c [bb6 ab bb c] d4. ~
+  [d8 c6 bb c d] eb4. ~ [eb8 d6 c d eb] [f8 d] eb
+  d4 r8 f4. eb bb
+  bb eb eb d
+  eb4 eb8 db4 c8 [bb g] ab ([g eb']) eb
+  eb4 eb8 eb4. ~ eb4 eb8 f4 f8
+  eb4 r8 r4. r2.
+  R1.
+  r8 r g ([f eb6 d]) eb8 ([d6 c b8]) c d4 d8
+  [d c6 b c d] eb4. ~ [eb8 d6 c d e] f4. ~
+  f ~ [f8 eb6 d eb f] g4 g,8 c4 c8
+  [c bb] ab d4 d8 [d6 c d eb d c] bb4. ~
+  bb4 g'8 ([f eb6 d]) eb8 ([d6 c b8]) c ([d c]) d
+  g,4 d'8 eb4 c8 f4 b,8 c4. ~
+  c b g4 g8 c4 bb8
+  (ab4. bb c4) f,8 [f' c] f
+  eb4 r8 r4. r2.
+  \dalsegno
+}

@@ -1,0 +1,75 @@
+\relative c' {
+  \time 12/8
+  \key g \minor
+ 
+  $v4 eb g g g $$ \segno
+  $v4 g g ab ab $$
+  d,4 r8 r r g, c4 g'8 f c f
+  f4 r8 r r f, bb4 f'8 eb bb eb
+  eb4 r8 r r c $v4 c c
+  f ab $$ b, eb g ~ g c g 
+  $v4 g d\p $$ $v5 c c 
+  bb c' c d
+  d g, ab c, $$
+  g [d'6\f c d eb] f8 d g c4. r8 r b
+  $v4 g b g f
+  eb eb $$ d g f eb c c'
+  $v4 g g g c, 
+  g' g, $$ c4 g'8 f c f
+  f6 eb f g f g ab4 r8 r c,6\p bb c db bb ab bb c bb c
+  ab4 r8 r r e' c [d6 c d eb] c bb c d c d 
+  bb4. r8 r d bb4 c8 c f d
+  ab' f eb ~ eb f eb $c3 d c b d
+  g c,\f d f bb bb, d f
+  g f $$ eb g c ~ c f, eb d ab'6 f g8
+  g4 r8 r r c, (e f g) (g f e)
+  (f e f) f c ab' ~ ab f eb d4 d8
+  $v4 c g' g g
+  g g ab ab $$
+  d,4 r8 r r g, c4 g'8 f c f 
+  f4 r8 r r f, bb4 f'8 eb bb eb
+  eb4 r8 r r c $v4 c c
+  f ab $$ b, eb g ~ g c g
+  g4. r8 r d\p $v5 c c
+  bb c' c d
+  d g, ab c, $$
+  g' [d6\f c d eb] f8 d g $v4 c b
+  g b g g
+  eb eb $$ d g f eb c c' 
+  $v4 g g g c,
+  g' g, $$ c4 g'8 f c f
+  f6 eb f g f g ab4 r8 r c,6\p bb c db c db bb ab bb c
+  ab4 r8 r r e' c [d6 c d eb] d eb c bb c d
+  bb4. r8 r d bb4 c8 c f d
+  ab' f eb ~ eb f eb $c3 d c b d
+  g c,\f d f bb bb, d f
+  g g $$ c g eb d f eb d ab'6 f g8
+  g4 r8 r r c, e f g ~ g f e
+  f e f f c ab' ~ ab f eb d4\trill d8
+  $v4 c g bb bb $$
+  eb,4 r8 r r f g4. r8 r bb
+  f'4 f8 (f g f) f (db'6 c db bb) (eb,8 f eb)
+  eb4 eb8 (eb f eb) eb (c'6 bb c ab) (db,8 eb db)
+  db4. r8 r f f4. r8 r f
+  bb,4. r8 r db' e, ab c, ~ c f c
+  c4 r8 r4. r2.
+  R1.*3
+  
+  
+  $v4 r d g bb
+  bb bb c bb
+  bb eb, $$ g4 bb8 ~ bb ab g
+  (ab g) ab ab eb c' ~ c ab eb ab f d' 
+  bb4 bb,8 (bb c bb) bb (g'6 f g eb) (ab,8 bb ab)
+  ab4 ab8 (ab bb ab) ab (f'6 eb f d) (g,8 ab g)
+  $v5 g c\p d ab'
+  d, g, c f
+  f, f' f g
+  c, f ab, eb' $$
+  bb4 eb8\f d c6 b c8 g f' eb d c6 b c d
+  b4 g'8 g eb g g d g g c, g'
+  g c, ab' (d, eb f) eb4. r8 r e
+  f4. r8 r g ab f c f bb ab
+  g4 r8 r r g g4. r8 r g
+  \dalsegno
+}

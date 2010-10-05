@@ -4,6 +4,8 @@ composer: Johann Sebastian Bach
 movements:
   01-coro:
     midi_tempo: 108 4
+  03-aria:
+    midi_tempo: 165 8
   04-aria:
     midi_tempo: 90 4
   06-aria:
@@ -27,3 +29,8 @@ score:
     - brace: [oboe1, oboe2]
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+macros:
+  v1: "(#8 #) #-. #-. #-. r"
+  v2: "[(#6 #) (# #) (# #)]"
+  v3: "(#8 #) #-. (#6 #) #8-. r"
+  

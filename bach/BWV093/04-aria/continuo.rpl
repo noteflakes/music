@@ -1,0 +1,55 @@
+\relative c {
+  \time 4/4
+  \key g \minor
+ 
+  [c8_\markup { \italic "piano sempre" } c'6 b c8 g] [ab ab6 g ab8 f]
+  [g f6 eb f8 d] [eb eb6 d eb8 c]
+  [bb bb6 a bb8 fs] g eb' c d
+  g, a bb c f, g ab bb
+  c [g' c c] [c b6 a g8 f]
+  [eb d6 c b8 g] c c c bb
+  [ab g f eb6 f] g8 a b g
+  c, [c'6 d eb8 c] [g' fs g a]
+  [bb a6 g a8 fs] [g bb6 a bb8 g]
+  c c, bb ab g c ab bb
+  eb, [eb'6 f g8 eb] [d d6 c d8 a!]
+  bb g' eb f bb, c d eb
+  c c6 bb c8 d6 c [b8 c ab' g6 f]
+  eb8 f g g, c b c d
+  [e d6 c d8 e] f e f g
+  [ab ab6 g ab8 f] g f g g,
+  [c c'6 b c8 g] [ab ab6 g ab8 f]
+  [g f6 eb f8 d] [eb eb6 d eb8 c]
+  [bb bb6 a bb8 fs] g eb' c d
+  g, a bb c f, g ab bb
+  c [g' c c] [c b6 a g8 f]
+  [eb d6 c b8 g] c c c bb
+  [ab g f eb6 f] g8 a b g
+  c, [c'6 d eb8 c] [g' fs g a]
+  [bb a6 g a8 fs] [g bb6 a bb8 g]
+  c c, bb ab g c ab bb
+  eb, [eb'6 f g8 eb] [d d6 c d8 a!]
+  bb g' eb f bb, c d eb
+  c c6 bb c8 d6 c [b8 c ab' g6 f]
+  eb8 f g g, c b c d
+  [e d6 c d8 e] f e f g
+  [ab ab6 g ab8 f] g f g g,
+  c c' b g [c c,6 bb! c8 d]
+  [eb eb6 d eb8 f] g c, ab bb
+  eb, [eb' d c] [g' f6 eb f8 a]
+  [bb eb,6 d eb8 c] d g eb f
+  bb,4 r8 bb c c' bb ab
+  [g c6 bb c8 ab] [bb bb6 ab bb8 bb,]
+  eb, [eb'6 d eb8 c] [f f6 eb f8 g]
+  [ab ab6 g ab8 bb] c f, db eb
+  f eb d! bb [c d6 eb f8 d]
+  [eb ab,6 g ab8 f] g c ab bb
+  eb, [eb'6 d eb8 c] d c6 b c4 ~
+  [c8 bb6 ab bb8 g] [ab g6 f g8 g]
+  c,4 r8 e' f bb4 [ab6 g]
+  ab8 db4 [c6 bb] c8 f, (ab6 g) (f e)
+  [f8 f6 g ab8 f] [g g6 ab g8 f]
+  [eb eb6 f eb8 d] c ab' f g
+  [ab g6 f eb8 d] eb f g g,
+  c,4 r r2
+}

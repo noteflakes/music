@@ -1,0 +1,56 @@
+\relative c' {
+  \time 4/4
+  \key g \minor
+ 
+  R1
+  r2 r4 c
+  g'8 fs g a ([bb a6 g a8]) fs
+  g4 d8 bb' ([bb ab]) ab4
+  r8 ([g6 f g8]) eb ([f g]) ([a b])
+  c c, g' g ([g f6 eb f8]) d
+  ([eb f6 g ab8]) ab ([g f]) f f
+  ([f eb]) eb4 r8 ([eb6 d eb8]) c
+  d e fs a ([a g]) g4
+  r8 ([g6 f g8]) ab ([bb ab6 g ab8]) f
+  eb4 r8 eb bb' a! bb c
+  ([d c6 bb c8]) a bb4 f8 g
+  ([g f]) f4 r8 ([eb6 d eb8]) f
+  ([g f6 eb f8]) d eb ab ([ab g])
+  g c ([c bb]) bb ([ab6 g ab8]) g
+  ([g f6 eb f8]) d [eb8. f6] [d8. c6]
+  c4 r r2
+  r2 r4 r8 c
+  g'8 fs g a ([bb a6 g a8]) fs
+  g4 d8 bb' ([bb ab]) ab4
+  r8 ([g6 f g8]) eb ([f g]) ([a b])
+  c c, g' g ([g f6 eb f8]) d
+  ([eb f6 g ab8]) ab ([g f]) f f
+  ([f eb]) eb4 r8 ([eb6 d eb8]) c
+  d e fs a ([a g]) g4
+  r8 ([g6 f g8]) ab ([bb ab6 g ab8]) f
+  eb4 r8 eb bb' a! bb c
+  ([d c6 bb c8]) a bb4 f8 g
+  ([g f]) f4 r8 ([eb6 d eb8]) f
+  ([g f6 eb f8]) d eb ab ([ab g])
+  g c ([c bb]) bb ([ab6 g ab8]) g
+  ([g f6 eb f8]) d [eb8. f6] [d8. c6]
+  c4 r8 d (eb ab4 [g6 f]
+  g8) c4 ([bb6 ab bb8]) eb, ([g6 f]) ([eb d])
+  eb8 g f eb d bb' a c
+  f, bb eb,4 r8 d ([f6 eb]) ([d c])
+  d8 ab' g f eb c ab'4 
+  r8 g eb c' d, eb bb d
+  eb bb' db c ^bb ab4 r
+  R1
+  r4 r8 d, (eb ab4 [g6 f]
+  g8) c4 ([bb6 ab bb8]) eb, ([g6 f]) ([eb d])
+  eb8 g f eb d ab' g c
+  f, f e g c, ab' g f
+  e f g4. f8 e g
+  c,4 r8 db' e, ([f6 e]) f8 g
+  g ([ab6 g]) ([f eb]) ([d c]) g'2 ~
+  g ~ [g8 f6 eb] f4 ~
+  f8 [eb6 d] eb8 f g ab eb [d6 c] 
+  c4 r r2
+  
+}

@@ -1,0 +1,75 @@
+\relative c' {
+  \time 12/8
+  \key g \minor
+ 
+  $v4 g' c d b $$ \segno
+  $v4 c c c c $$
+  d [g,6 f g a] b a b c d b c4. ~ c6 bb c a bb c
+  bb a bb c bb c a g a bb c a bb4. ~ bb6 ab bb g ab bb
+  ab g ab bb ab bb g f g ab g ab (f8 ab c) (f eb d)
+  (d c b) (b c) d ~ d g, c ~ c (g6 f eb d)
+  $v4 eb g\p $$ $v5 g a!
+  f eb' f f
+  f eb d c $$
+  b [g6\f g g a] b a b c d b $v4 g d'
+  c d c d
+  c f $$ b,4. ~ b8 (eb6 d eb c)
+  $v4 d b c g $$
+  b [g6 f g a] b a b c d b c4. ~ c6 bb c a bb c
+  bb a bb c bb c d4 r8 r c,6\p bb c db bb ab bb c bb c
+  ab4 r8 r r g' a! [d,6 c d eb] c bb c d c d 
+  bb4. r8 r ab' ab [g6 f g ab] g ab f eb f g
+  (eb8 d c) $c3 g' g g c d d,
+  eb g\f bb d eb bb $$ bb4. ~
+  bb8 [c6 b c d] eb d eb f eb f g eb d c b c d c d eb d eb
+  c4 r8 r r c (c db c) c (bb'6 ab bb g)
+  (c,8 db c) c (ab'6 g ab f) (c8 b c) f, ab f
+  $v4 g c d b
+  c c c c $$
+  d [g,6 f g a] b a b c d b c4. ~ c6 bb c a bb c
+  bb a bb c bb c a g a bb c a bb4. ~ bb6 ab bb g ab bb
+  ab g ab bb ab bb g f g ab g ab (f8 ab c) (f eb d)
+  (d c b) (b c) d ~ d g, c ~ c (g6 f eb d)
+  $v4 eb g\p $$ $v5 g a!
+  f eb' f f
+  f eb f f $$
+  b, [g6\f f g a] b a b c d b $v4 g d'
+  c d c d
+  c f $$ b,4. ~ b8 (eb6 d eb c)
+  $v4 d b c g $$
+  b [g6 f g a] b a b c d b c4. ~ c6 bb c a bb c
+  bb a bb c bb c d4 r8 r c,6\p bb c db c db bb ab bb c
+  ab4 r8 r r g' a! [d,6 c d eb] d eb c bb c d
+  bb4. r8 r f' eb [g6 f g ab] g ab f eb f g
+  (eb8 d c) $c3 g' g g c d d,
+  eb g\f bb d eb bb bb c $$
+  d [c6 b c d] eb d eb f eb f g eb d c b c d c d eb d eb 
+  c8 [c,6 bb c d] e d e f e f g f g ab g ab g f g ab g ab
+  f8 [c6 db c bb] c bb c d c d (c8 d) eb f b, d
+  $v4 g eb eb db $$
+  c4 r8 r r c (c db c) c (bb'6 ab bb g)
+  c,8 [f6 e f g] ab g ab bb c ab bb4. ~ bb6 ab bb c ab bb
+  g4 r8 r4. r8 (eb'6 db eb c) ab8 r r
+  r f6 eb f g eb db eb f eb f db8 f bb (db c bb)
+  bb2. ~ bb8 ab f' ~ f (c6 bb ab g)
+  ab4 r8 r4. r2.
+  R1.*3
+  
+  
+  r8 d6\f c d eb f eb f g f g eb d eb f eb f ab, g ab bb ab bb
+  g f g ab g ab bb ab bb c bb c ab g ab bb g ab f eb f g eb f
+  g8 g6 f g ab bb ab bb c bb c db c db eb db eb db c db eb db eb
+  c b c db c bb ab g ab bb ab bb c bb c d bb  c d c d eb c d
+  eb4 bb,8 (bb c bb) bb (g'6 f g eb) (ab,8 bb ab)
+  ab4 ab8 (ab bb ab) ab (f'6 eb f d) (g,8 ab g)
+  $v5 g ab'\p g d'
+  d g, eb c' 
+  ab d g c,
+  c d f, g $$
+  g4 r8 r4. r r8 r eb'\f
+  d6 c d eb d eb c b c d c d g,8 b d eb g,6 ab g f
+  eb8 c'6 b c8 g (eb'6 d) (c b) c8 g g g (bb6 ab bb g)
+  (c,8 db c) c (g'6 f g e) c8 ab'6 g f e f8 c f
+  eb4 r8 r r c' d4. r8 r b
+  \dalsegno
+}

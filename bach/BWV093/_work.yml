@@ -29,6 +29,8 @@ score:
     - brace: [oboe1, oboe2]
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+  breaks:
+    - 02-recitativo
 macros:
   v1: "(#8 #) #-. #-. #-. r"
   v2: "[(#6 #) (# #) (# #)]"

@@ -1,0 +1,33 @@
+title: Missa Brevis G-moll BWV 235
+composer: Johann Sebastian Bach
+parts:
+  violoncello:
+    hide_figures: true
+    source: continuo
+movements:
+  03-gratias:
+    midi_tempo: 80 2
+  05-qui-tollis:
+    midi_tempo: 76 8
+score:
+  hide_figures: true
+  order:
+    - oboe1
+    - oboe2
+    - violino1
+    - violino2
+    - violino
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [oboe1, oboe2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]
+macros:
+  c1: "#4 #6 # #6. #3"
+  c2: "#8 # #6 # #6. #3"
+  c3: "#6. #3"

@@ -1,0 +1,106 @@
+\relative c {
+  \key d \minor
+  \time 2/2
+  
+  R1*14
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 (a' bb) a8 bb
+  g4 f8 g a2
+  d, r
+  R1*3
+  
+  
+  r4 (a' bb) a8 bb
+  g4 f8 g a2
+  d, g
+  c,4 (e f) e8 f
+  d4 cs8 d e2
+  a, r 
+  R1*2
+  
+  r4 (e' f) e8 f
+  d4 c8 d e2
+  a, d
+  g,4 (g' a) g8 a
+  f1 ~
+  f4 [e8 f] g4 f8 g
+  e4 c r2
+  r2 r4 f ~
+  f d2 g4 ~
+  g e2 a4 ~
+  a ([gs8 a] b) c d4
+  (gs, [fs8 gs]) e2
+  r r4 b' ~
+  b [a8 gs] a4 c
+  d, e8 f e2
+  a, r
+  R1*3
+  
+  
+  r4 (e' [f8 e]) d c
+  g'2 g,
+  r4 ([g'8 a] bb4) a8 bb
+  c,4 d eb2 ~
+  eb4 d g2 ~
+  g fs
+  r4 [g8 a] bb4 [a8 bb]
+  g4 fs8 g a2
+  d, g4 bb
+  eb c f, a
+  d bb eb, g
+  c bb8 a d4 d,
+  g2 r
+  R1*3
+  
+  
+  r2 bb
+  r4 [c,8 d] e4 [d8 e]
+  f4 c a'2 
+  r4 [d,8 e] fs4 [e8 fs]
+  g4 d bb'2 ~
+  bb4 a2 g4
+  f g8 a [g f] [e d]
+  cs2 r
+  R1
+  r4 (a' bb) a8 bb
+  g4 fs8 g a2
+  d, r
+  R1
+  r4 (g a) g8 a
+  f4 e8 f g2
+  c, r
+  R1
+  r4 (f g) f8 g
+  e4 d8 e f2
+  bb, r4 bb' ~
+  bb g2 c4 ~
+  c a2 d4 ~
+  [d8 c bb a] g f [e d]
+  (cs'4 [b8 cs]) a4 r
+  R1
+  r4 [d,8 e] f4 [e8 f]
+  d4 cs8 d e2
+  a, d4 f
+  bb g c, e
+  a f d' bb
+  g f8 e a4 a
+  d,2 r 
+  R1
+  r4 (bb' a) g
+  (cs d) d, bb'
+  \grace { ([a6 g] } f2) e
+  d r
+  R1*14
+}

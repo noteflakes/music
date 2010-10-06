@@ -1,0 +1,5 @@
+parts:
+  violino1:
+    title: "Violini"
+  violino2:
+    source: violino1

@@ -1,0 +1,80 @@
+\relative c' {
+  \key eb \major
+  \time 4/4  \set tupletSpannerDuration = #(ly:make-moment 1 16)
+  \tempo "Adagio" \override TupletBracket #'bracket-visibility = ##f 
+  
+  R1*4
+  
+  
+  
+  r2 r8 bb bb4 ~
+  [bb6 eb3 d] eb6. eb,3 [eb6. f3] eb8 r6 [eb'3 d] eb6. f,3 [f6. g3] f8
+  r6 [f3 g] [ab bb c6] ~ [c3 eb d c bb ab] f'6 g,8 [f6 eb] r8 g'6. bb,3
+  bb6 [a3 g a6.] f'3 [(f eb d c bb6.)] ab3 [ab6 g] g8 r6 [eb'3 d eb6.] g,3
+  f8 [a6 c] [eb d] eb8 [eb6 c] a8 r c6. eb,3
+  d6 f [a bb] ~ [bb c3 d eb g f6] ~ [f eb3 d c bb] eb6 [c8. bb6]
+  bb4 r r2
+  r2 r4 r8 [(d6. f3)]
+  [(f6. d3)] d6. bb3 bb6. d3 [d6. eb3] eb6. [(g64 f eb8)] r [(e6. g3)]
+  [(g6. e3)] e6. c3 c6. e3 [e6. f3] [f6 c] ab8 r6 [g3 f g6.] f'3
+  [eb d c b c6.] ab3 [g8 f6. g3] g8 f' ~ [f6 eb] [f d]
+  [eb g3 f g6.] eb3 [d8 c3 b c6] ~ c8 b r4
+  r4 r8 eb6. b3 [c6 ab] f8 r c' ~
+  c6 b c f [d8. c6] c4 r
+  R1*3
+  
+    \bar "||" \time 3/8 \tempo "Un poco allegro"
+  r8 d8. d6
+  g,8 [(d' eb)]
+  f ab,4
+  r8 [g ab]
+  [bb c] db
+  r c f
+  d4 c8
+  bb ab g
+  f eb d
+  [eb c'] ab
+  f4 r8
+  r [g8 ab]
+  [bb c6 eb d f]
+  [eb g] [f g] [ab f]
+  d8 [c6 d] bb8
+  r bb c
+  d, eb ab
+  g [f6 eb f8]
+  eb4 r8
+  r eb' eb,
+  eb [g6 f eb8]
+  r eb' f,
+  f [ab6 g f8]
+  r [g ab]
+  [bb db] f
+  [eb db6 c] [bb ab]
+  ab4 r8
+  r c g
+  ab [f6 ab f8] 
+  r d' eb
+  [f eb6 d] [c bb]
+  r8 [bb g]
+  [c eb6 d] eb8
+  bb4. ~
+  [bb8 c6 bb ab g]
+  ab4. ~ 
+  ab8 f' ab,
+  g4. ~
+  [g8 b] c
+  f,4. ~
+  [f8 g6 f] [eb d]
+  eb4 r8 
+  r [c' d]
+  e f g
+  ab [c,6 bb] c8
+  bb4. ~
+  [bb8 g'] bb,
+  ab4. ~
+  [ab8 f'] ab,
+  [g6 bb ab c bb db]
+  [c f] [d8. eb6]
+  eb4 r8
+  R4.*5
+}

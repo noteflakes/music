@@ -1,0 +1,84 @@
+\relative c' {
+  \key eb \major
+  \time 4/4  \set tupletSpannerDuration = #(ly:make-moment 1 16)
+  \tempo "Adagio" \override TupletBracket #'bracket-visibility = ##f 
+  
+  r6 [(eb'3 d eb6.) eb,3] ([eb6. f3 eb8]) r6 [(eb'3 d eb6.) f,3] ([f6. g3 f8])
+  r6 ([f3 g ab bb c6]) ~ [c3 (eb d c bb ab f'6)] g,8\trill f6 eb g'4 ~
+  [g6 (f3 eb f eb d c)] ^bb8 a8 f' ~ [f6 (eb3 d eb d c bb)] ^ab8 g eb' ~
+  [eb3 (f, a g f a g f)] [c'-. (f, a g f a g f)] [eb'-. (f, a g f a g f)] [(a c eb g f d eb c)]
+  ^a'8 [bb6 (a3 g)] \times 2/3 { [(f3 eb d) (eb d c)] } [(bb8 a6.) bb3] bb4 r
+  r4 r6 [(eb3\p d eb6.) eb,3] ([eb6. f3 eb8]) r6 [(eb'3 d eb6.) eb,3]
+  ([d6. eb3 d8]) r6 [(f'3 eb f6.) f,3] [eb (bb' d c bb d c bb)] g'4 ~
+  [g6 (f3 eb f eb d c)] ^bb8 a f' ~ [f6 (eb3 d eb d c bb)] ^ab8 g eb' ~
+  [eb3 (f, a g f a g f)] [c'-. (f, a g f a g f)] [f'-. (f, a g f a g f)] a'8-. r
+  R1
+  r3 [(bb,\f d c bb d c bb)] [ab'-. (bb, d c bb d c bb)] [g'-. (bb, d c bb d c bb)] [f'-. (bb, d c bb d c bb)]
+  ^a'8 [bb6 (a3 g)] \times 2/3 { [(f eb d) (eb d c)] } (bb8 a6.) bb3 [(bb6 a3 g f eb d eb)] d8 r
+  r6 [(d'3 c d6.) f3] [(f6. d3) (d6. bb3)] [(bb6 eb3 d eb6.) g3] g8 r
+  r6 [(e3 d e6.) g3] [(g6. e3) (e6. c3)] [(c6 f3 e f6.) ab3] d,8 r
+  r2 r3 [(g, b a g b a g)] [d'-. (g, b a g b a g)]
+  g'8 r r4 r8 f\f ~ [f3 (eb d c b d g, f]
+  [eb6) (c'3 b c6.) c,3] [(c6. d3 c8)] r6 [(c'3\p b c6.) d,3] [(d6. eb3) d8]
+  r6 [(d3 eb f g ab6)] ~ [ab3 (c b a g f d'6-.)] ^f,8 eb (d6 c) eb'4\f ~
+  [eb6 (d3 c d c bb a)] (g6 fs) a'8 ~ [a6 (g3 fs g fs e d)] (c6 bb) bb'8 ~
+  [bb6 (a3 g a g f! eb!)] (d6 c) c'8 ~ [c3 (d,, fs e d fs e d)] [a'-. (d, fs e d fs e d)]
+  [c'-. (d, fs e d fs e d)] [(eb'8. d3 c] [bb) (g' f! eb d cs d g,)] [(bb8. a3 g)] \bar "||" \time 3/8 \tempo "Un poco allegro"
+  g4 r8 
+  R4.
+  r6 f' d bb f' ab,
+  g8 r r
+  r6 bb' g eb bb' db,
+  c8 r r 
+  r6 f\p d bb f' ab,
+  g eb' c ab eb' bb
+  ab d ab f f' ab,
+  g c ab f c' eb,
+  d ab' f d bb' f
+  g8 r r
+  R4.*2
+  
+  r6 f' d bb f' ab,
+  g eb' bb g eb' g,
+  f bb g eb bb' r 
+  R4.
+  r6 g' eb bb f' ab,
+  g bb g eb bb' db
+  c d! eb8 eb, ~
+  eb (g6 f eb8)
+  r8 f'-. ab,-.
+  g6 g' eb bb f' ab,
+  g bb g eb db' g,
+  ab8 bb g
+  ab c ab'
+  g6 g, e c bb' r
+  r8 c d
+  eb6 bb ab f g eb
+  d8 bb' d,
+  eb (g6 f eb8) 
+  eb'4. ~
+  eb8 ab,6 g f eb
+  eb'4. ~
+  eb8 f6 eb d c
+  d4. ~
+  d6 g, f eb d c
+  c'4. ~
+  c8 d6 c b a
+  b4.
+  c6 g' eb c g' bb,!
+  ab ab' f c ab' c,
+  bb8 r r
+  R4.
+  r6 f' d bb f' ab,
+  g8 r r 
+  r6 eb' c ab eb' g,
+  f8 r r 
+  R4.*2
+  
+  r6 bb\f g eb bb' d,
+  c c' ab f c' eb,
+  d f' d bb f' ab,
+  g bb ab c bb db
+  (c bb) (ab g) (f eb)
+  eb4.\fermata
+}

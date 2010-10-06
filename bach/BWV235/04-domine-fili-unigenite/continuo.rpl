@@ -1,0 +1,214 @@
+\relative c {
+  \key bb \major
+  \time 3/8
+  
+  bb8 d bb
+  f' a f
+  bb b, r
+  bb\p d bb
+  f' a f 
+  bb bb, r
+  bb\f d bb
+  eb eb, r
+  c' e c
+  f f, r
+  f4._\markup { \italic "Tasto solo" } ~
+  f ~
+  f ~
+  f ~
+  f
+  fs8\p r g\f
+  eb f! f
+  bb4 r8
+  bb\p d f
+  bb a f
+  bb eb, d
+  c d eb ~
+  eb (d6 c) (d bb)
+  f4._\markup { \italic "Tasto solo" } ~
+  f ~
+  f ~
+  f ~
+  f
+  fs8\p r g
+  eb f! f
+  bb d f
+  bb,\p d bb
+  f' a f
+  bb bb, r
+  bb\pp d bb
+  f' a f
+  bb bb, r
+  bb\p d bb
+  eb4 d8
+  c e c
+  f4 e8
+  f e d
+  c6 d c bb a g
+  f8\f a f
+  c' e c
+  f f, r
+  f\p a f
+  c' e c
+  f f, r
+  f' c' bb
+  a b g
+  c e, c
+  f6 e f g a f
+  bb c bb a g f
+  e f e d c bb
+  a8 bb c
+  d e c
+  f c'6 bb a g
+  f8 e d
+  c8. bb6 a g
+  f8 e c
+  f4 g8
+  a d bb
+  c4._\markup { \italic "Tasto solo" } ~
+  c ~
+  c ~
+  c ~
+  c 
+  cs8 r d
+  bb c! c,
+  f f'\f e
+  d a f
+  bb bb' r
+  d, b g
+  c,4. ~
+  c_\markup { \italic "Tasto solo" } ~
+  c ~
+  c ~
+  c ~
+  c
+  cs'8\p r d\f
+  bb c! c,
+  f a\p c
+  f4 r8
+  f,4 r8
+  r6 (a' fs d) d'8 ~
+  d6 (bb g d) d'8 ~
+  d6 (a fs d) d'8 ~
+  d6 (bb g d) d'8 ~
+  d6 (c bb a g fs)
+  g8 d c
+  bb a g
+  c4 bb8
+  a d fs
+  g, g' f!
+  eb d c
+  f4 eb8
+  d bb d
+  eb, eb' d
+  cs cs cs 
+  c! bb a
+  g a bb
+  eb, c d
+  g r6 (d'\f e fs)
+  g8 b g
+  c c, r 
+  a' cs a
+  d d, c!
+  bb\p bb' g
+  d' fs, d
+  g g, f!
+  eb eb' c
+  g' b, g
+  c eb, g
+  c, c'4 ~
+  c8 (bb a)
+  (bb4 a8)
+  (g6 fs g a bb g)
+  c8 (c' bb)
+  (ab4 g8)
+  (f4 eb8)
+  (d6 eb f g ab) c,
+  b8 g b
+  c d eb
+  e f g 
+  ab e f
+  db4 c8
+  b c d
+  g,4._\markup { \italic "Tasto solo" } ~
+  g ~
+  g ~
+  g8 (g' ab)
+  (bb ab g)
+  (f6 g f eb d c)
+  (d bb eb db c bb)
+  (a8 bb) c
+  (f, ab) g
+  (c ab bb)
+  eb,4 r8
+  bb'\f d bb
+  f' a f
+  bb bb, r
+  bb\p d bb
+  f' a f 
+  bb bb, r
+  bb'4 a8 
+  bb4 d,8
+  eb4. ~
+  eb8 (d6 c) (d bb)
+  f4.\f_\markup { \italic "Tasto solo" } ~
+  f ~
+  f ~
+  f ~
+  f
+  fs4\p r8
+  g bb g
+  d' fs d
+  g g, r
+  g'4 fs8
+  g4 g,8
+  f4 bb8
+  eb, eb'4 ~
+  eb8 d g
+  f f, a
+  bb c db 
+  eb f gb
+  ab gb f
+  gb d! eb
+  cb4 bb8
+  a! bb c
+  f,4._\markup { \italic "Tasto solo" } ~ 
+  f ~
+  f ~
+  f8 (f' gb)
+  (ab gb f
+  eb) (gb, bb)
+  eb, eb' eb
+  db db db
+  c eb db
+  gb eb f
+  ab, ab ab
+  gb gb gb
+  f6 (f'_\markup { \italic "Tasto solo" } gb) (e f) c-.
+  f,-. (e' f) (db eb) c-.
+  f,-. (d'! eb) (c db) bb-.
+  f-. (c' db) (a! bb) gb'-.
+  (e8 f) r
+  gb r r 
+  g! r r
+  (e f) f,
+  bb db\f f
+  bb, db bb
+  f' a f
+  bb bb, r
+  bb\p db bb
+  f' a f
+  bb bb, r
+  bb\f d! bb
+  eb eb, r 
+  c' e c
+  f f, r
+  f4._\markup { \italic "Tasto solo" } ~
+  f ~
+  f ~
+  f ~
+  f 
+  fs8\p r g\f
+  eb f! f
+  bb4.\fermata
+}

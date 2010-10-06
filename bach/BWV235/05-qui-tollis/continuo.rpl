@@ -1,0 +1,84 @@
+\relative c {
+  \key eb \major
+  \time 4/4
+  \tempo "Adagio"
+  
+  $c1 eb r c c c g r ab' ab ab $$
+  d,8 f bb, d $c2 eb eb, r eb' eb eb
+  a, a' f d d d g, g' eb c c c $$
+  f,8 r a r c r eb r
+  d g f f, $c3 bb bb'\p bb ab ab g g f $$
+  $c1 eb r c c c g r ab' ab ab $$
+  bb8 f bb, d $c2 eb eb, r eb' eb d
+  c eb r d d c bb d r c c bb $$
+  a8 r f r a c f a
+  bb f g c, d eb f f,
+  bb\f r d r eb r d r
+  g a6 bb f8 f, bb d6. f3 bb8 bb,\p
+  ab ab ab ab g g eb db'
+  c c bb bb ab f b g
+  c eb ab ab, g r b r
+  c eb f fs $c3 g, g'\f g g $$ b,8 g
+  $c1 c r g\p g g ab r fs fs fs $$
+  g8 ab f! g $c2 c c, r c'\f c bb
+  a a' r d, d c bb bb' r g g f
+  eb c' r a a g $$ fs8 r d r
+  $c2 a r r fs' fs fs $$ g8 bb d d, \bar "||" \time 3/8 \tempo "Un poco allegro" m{{ \tempo 8 = 180 }}
+  g,4 r8
+  r6 g'6\p (f g) (eb f)
+  d8 bb d
+  eb6 c' (bb c) (ab bb)
+  g8 eb g
+  ab (bb6 ab g f)
+  bb4 r8
+  eb, f g
+  bb,4 r8
+  c f, ab 
+  bb d bb
+  eb4 r8
+  r eb f
+  g ab f
+  bb bb, d
+  eb g, ab
+  bb c d
+  eb bb' bb,
+  eb g, bb
+  eb,4 g8
+  ab g ab
+  a g a
+  bb c d
+  eb4 r8
+  db4 r8
+  c db eb
+  ab,6 ab' (g ab) (f g)
+  e4 r8
+  f6 c' (bb c) (ab bb)
+  g8 f eb
+  bb bb' ab
+  g eb r
+  ab,6 ab' (g ab) (f ab)
+  g8 eb g
+  c, eb c
+  f ab f
+  bb, d bb
+  eb f g
+  ab6 g f eb d c
+  d8 f d
+  g f g
+  c, d e
+  f e f
+  g6 bb (ab bb) (g ab)
+  f eb f g eb f
+  d8 bb d
+  eb6 d eb f d eb
+  c8 ab c
+  d6 c d eb c d
+  eb8 f g
+  ab bb bb,
+  eb eb,\f g 
+  ab f ab
+  bb bb' d,
+  eb c g
+  ab f bb
+  eb,4.\fermata
+}

@@ -1,0 +1,214 @@
+\relative c' {
+  \key bb \major
+  \time 3/8
+ 
+  bb8 bb f' ~
+  f c a ~
+  a f r
+  bb\p bb f' ~
+  f c a ~
+  a f r
+  r r d'\f ~
+  d bb r
+  r r e ~
+  e c r
+  r (db c)
+  r (d! c)
+  r (c bb)
+  r (f' bb)
+  (bb, c) a\p ~
+  a d d\f 
+  c d eb
+  d4 r8
+  R4.*5
+  
+  
+  
+  
+  r8 (db\f c)
+  r (d! c)
+  r (c bb)
+  r (f' bb)
+  (bb, c) a\p ~
+  a d d\f 
+  c d eb
+  d f c
+  bb\p bb f' ~
+  f c a ~
+  a f r
+  bb\pp bb f' ~
+  f c a ~
+  a f r
+  r r d'\p ~
+  d bb r
+  r r e ~
+  e c r
+  R4.*2
+  
+  f8\f f c' ~
+  c g e ~
+  e c r
+  a'\p f c' ~
+  c g e ~
+  e c r
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  r8 r bb'\p ~
+  bb a f 
+  g r r 
+  r r e
+  c d g, 
+  c r r 
+  r (ab' g)
+  r (a,! c)
+  r (g f)
+  r (c' b)
+  (f' e) r
+  R4.*3
+  
+  
+  r8 r a\f ~
+  a f r
+  r r b ~
+  b g r
+  r (ab g)
+  r (a! g)
+  r (g f)
+  r (c c')
+  (f, g) e\p ~
+  e a a\f 
+  d, c c
+  c4 r8
+  (a'\p g f)
+  (bb a) a, ~
+  a (a d)
+  r (d bb)
+  r (c d)
+  r (d g,)
+  r (g c)
+  r (a d)
+  R4.*2
+  
+  r8 r c ~
+  c bb r
+  R4.*2
+  
+  r8 r bb ~
+  bb bb r
+  e4 r8
+  d d c
+  bb r r
+  R4.*2
+  
+  r8 r b'\f ~
+  b g r
+  r r cs ~
+  cs a r
+  g\p d g ~
+  g a fs ~
+  fs d b
+  c g' c ~
+  c d b ~
+  b g b,
+  g r r 
+  r (g a)
+  d, (bb' c)
+  d r r 
+  r (g e)
+  c (ab bb)
+  c4 r8
+  d4 r8
+  d g, g'
+  g r r 
+  c, f e
+  f r r 
+  r ab, c
+  d r r 
+  r (c g')
+  r (g, d')
+  r (d c)
+  r (c f,)
+  r (c' e)
+  r ab, c
+  f bb, c ~
+  (c d) r
+  (f f,) r
+  R4.*2
+  
+  bb8\f bb f' ~
+  f c a ~
+  a f r
+  bb\p bb f' ~
+  f c a ~
+  a bb r
+  R4.*4
+  
+  
+  
+  r8 (e\f c)
+  r (bb a)
+  r (c bb)
+  r (f' bb)
+  (bb, c) a\p
+  a4 r8
+  g g d' ~
+  d a fs ~
+  fs g r
+  R4.*4
+  
+  
+  
+  r8 (d' eb)
+  r (c f,)
+  f4 r8
+  eb' r r 
+  bb' eb, f
+  eb r r 
+  r gb, bb
+  c r r 
+  r (bb f')
+  r (f c')
+  r (c, bb)
+  r (f' c)
+  r (bb d)
+  r (bb' f)
+  eb4 r8
+  R4.
+  (c'8 c,) r
+  R4.
+  f4 r8
+  bb,4 r8
+  c r r 
+  f r r 
+  eb r r 
+  db r r 
+  (g, c) r
+  c r r 
+  g r r 
+  R4.*2
+  
+  bb8\f bb f' ~
+  f c a ~
+  a f r
+  bb\p bb f' ~
+  f c a ~
+  a f r
+  r r d'\f ~
+  d bb r
+  r r e ~
+  e c r
+  r (db c)
+  r (d! c)
+  r (c bb)
+  r (f' bb)
+  (bb, c) a\p ~
+  a d d 
+  c d eb
+  d4.\fermata
+}

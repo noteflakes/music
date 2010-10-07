@@ -7,6 +7,8 @@ parts:
 movements:
   03-gratias:
     midi_tempo: 80 2
+  04-domine-fili:
+    midi_tempo: 148 8
   05-qui-tollis:
     midi_tempo: 76 8
 score:

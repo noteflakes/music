@@ -1,0 +1,214 @@
+\relative c' {
+  \key bb \major
+  \time 3/8
+ 
+  d8 f bb ~
+  bb f c ~
+  c bb r
+  d\p f bb ~
+  bb f c ~
+  c bb r
+  r r f'\f ~
+  f eb r
+  r r g ~
+  g f r
+  r (bb a)
+  r (bb a)
+  r (a f)
+  r (bb db)
+  (g, a) c,\p ~
+  c a g\f
+  g' f f
+  f4 r8
+  R4.*5
+  
+  
+  
+  
+  r8 (bb\f a)
+  r (bb a)
+  r (a f)
+  r (bb db)
+  (g, a) c,\p ~
+  c a g\f
+  g' f f
+  f bb f
+  d\p f bb ~
+  bb f c ~
+  c bb r
+  d\pp f bb ~
+  bb f c ~
+  c bb r
+  r r f'\p ~
+  f eb r
+  r r g ~
+  g f r
+  R4.*2
+  
+  a8\f c f ~
+  f c g ~
+  g f r
+  f\p c' f ~
+  f c g ~
+  g f r
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  r8 r c'\p ~
+  c c, d
+  e r r
+  r r bb'
+  a bb bb 
+  a r r
+  r (f e)
+  r (f e)
+  r (e f)
+  r (f ab) ~
+  (ab g) r
+  R4.*3
+  
+  
+  r8 r c\f ~
+  c bb r
+  r r d ~
+  d c r
+  r (f e)
+  r (f e)
+  r (e f)
+  r (f ab)
+  (d, e) g,\p ~
+  g e d\f
+  g a bb
+  a4 r8
+  c4.\p ~
+  c ~
+  c8 (d, fs)
+  r (g d')
+  r (a c)
+  r (bb g)
+  r (g eb)
+  r (d a)
+  R4.*2
+  
+  r8 r a' ~
+  a g r
+  R4.*2
+  
+  r8 r f ~
+  f eb r
+  g4 r8
+  a d, d
+  d r r
+  R4.*2
+  
+  r8 r d'\f ~
+  d c r
+  r r e ~
+  e d r
+  d,\p g bb ~
+  bb a c, ~
+  c bb d
+  g c eb ~
+  eb d f, ~
+  f eb d
+  c r r
+  r (g' fs)
+  g (g' fs)
+  g r r
+  r c, g ~
+  g (f' e)
+  f4 r8
+  b,4 r8
+  g b d
+  c r r
+  bb! ab g
+  f r r
+  r f f 
+  f r r
+  r (eb' d)
+  r (c b)
+  r (b c)
+  r (c b)
+  r (c bb!)
+  r f ab ~
+  ab gb6 f gb8 ~
+  (gb f) r
+  (c bb) r
+  R4.*2
+  
+  d8\f f bb ~
+  bb f c ~
+  c bb r
+  d\p f bb ~
+  bb f c ~
+  c bb r
+  R4.*4
+  
+  
+  
+  r8 (b'\f a)
+  r (d c)
+  r (a f)
+  r (bb db)
+  (g, a) c,\p
+  c4 r8
+  bb d g ~
+  g d a ~
+  a g r
+  R4.*4
+  
+  
+  
+  r8 (f' g)
+  r (f eb)
+  db4 r8
+  bb' r r
+  f bb d
+  eb r r 
+  r eb eb
+  eb r r 
+  r (db c)
+  r (bb a)
+  r (a bb)
+  r (bb a)
+  r (bb ab)
+  r (eb' bb)
+  bb r r 
+  R4.
+  (g'8 f) r
+  R4.
+  d4 r8
+  e4 r8
+  f r r
+  db r r 
+  a r r 
+  bb r r 
+  (g f) r
+  eb r r 
+  bb r r 
+  R4.*2
+  
+  db8\f f bb ~
+  bb f c ~
+  c bb r
+  db\p f bb ~
+  bb f c ~
+  c bb r
+  r r f'\f ~
+  f eb r 
+  r r g ~
+  g f r
+  r (bb a)
+  r (bb a)
+  r (a f)
+  r (bb db)
+  (g, a) c,\p ~
+  c a g\f 
+  g' f f 
+  f4.\fermata
+}

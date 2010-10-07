@@ -1,0 +1,110 @@
+\relative c' {
+  \key g \minor
+  \time 4/4
+
+  R1*6
+  
+  
+  
+  
+  
+  r2 r8 g'-. b,-. c-.
+  g4 g' ~ g8 (f6 eb d c b a
+  g8) g' c a bb6 a bb c bb d c bb
+  a g a bb a c bb a g4 r
+  d g ~ g8 (fs6 e d c bb a
+  g8) g'6 fs g8 a6 bb c d c bb a8 d ~
+  d g,6 fs g a bb g eb'8 d4 c8
+  d4 r r8 d-. fs,-. g-.
+  d4 r r2
+  d4 g2 f4
+  eb6 d eb f eb g f eb d c d eb d g f g
+  a g a bb a c bb a g f g a g c bb c
+  f, a bb c d f eb d c bb c d c8 a
+  bb f bb4 ~ bb8 a g4
+  f r r8 f'-. a,-. bb-.
+  f r r a f r r bb
+  d r r b g r r c
+  e r r cs a (f'6 e d c bb a)
+  bb a bb a bb c bb c a g a g a bb a bb
+  g f g f g a g a f e f e f g f g 
+  e2 ~ e6 cs' d cs d e d e 
+  f e f e d4 ~ d6 cs d e cs4
+  d4 r8 b e, e' a, cs
+  d4 r r8 a-. cs,-. d-.
+  a r r cs' a r r fs
+  d r r bb' g r r e
+  c a'6 bb c8 d g, g' c, e
+  f r r4 r8 c-. e,-. f-.
+  c4 g' ~ g8 (a6 bb a g f e
+  f8) f-. c-. eb-. a,-. c-. f-. r
+  r4 c' ~ c8 (d6 eb d c bb a
+  bb8) d-. g,-. bb-. e,-. g-. cs,-. a'-.
+  f a d4 ~ d8 cs6 b cs8 d6 e
+  f8 a, bb!4 ~ bb8 a6 g a8 bb6 c
+  d8 d, g4 ~ g8 fs6 e fs8 g6 a 
+  bb a bb a bb c bb c a g a g a bb a bb 
+  g f g f g a g a f e f e f g f g 
+  e2 ~ e6 cs' d cs d e d e
+  f e f e d4 ~ d6 cs d e cs4
+  d r r2
+  R1*5
+  
+  
+  
+  
+  r4 d, d' d
+  [d8. d6 d8 d] c6 d c bb a d c d
+  bb c bb a g bb a c bb c bb a g bb a c
+  bb a bb c d c bb a g8 a bb c
+  bb bb6 a bb8 g b2
+  c8 g-. eb-. g-. c,-. g'-. eb-. g-.
+  c g eb c6 d eb c f d g eb ab f
+  g ab g f g f g eb c'8 bb a c
+  f, f f eb d6 f eb f bb, bb' a bb
+  c d c d bb c bb c a8 bb4 a8
+  f4 r8 g c c' f, a
+  bb6 (d, c d eb d eb d c d c d eb d eb d 
+  c4) r r2
+  r8 g-. g-. a-. f-. f-. d-. f-.
+  bb,-. f'-. d-. f-. bb-. f-. d-. f-.
+  bb, r r4 r2
+  r8 c'-. f,-. f-. g6 ab g f eb g f ab
+  g ab g f eb g f ab g c b d c eb d c
+  b8 a g a b g-. b,-. c-.
+  g-. g'-. b,-. c-. g g' ab g
+  g c eb, f g c eb, f
+  g c bb ab g ab g f
+  eb d eb c d g4 fs8
+  g d g fs g d g fs
+  g4 r8 g6 f! eb8 eb' d d
+  g, fs d' fs, g fs d' fs,
+  g4 g, g' g
+  [g8. g6 g8 g] g6 a g f e a g a 
+  f g f e d f e g f g f e d f e g
+  f8 a, d cs d a'6 g f8 g 
+  a b6 c d8 d, gs2
+  a8 e e a6 gs a8 e e a6 gs
+  a bb! a g! f e f d e d e f g f g e
+  a bb a g f g g\trill (f3 g) a2 ~
+  a1 ~
+  a8 fs g a g2 ~
+  g ~ g8 e4 d8
+  e4 r8 a cs (bb' a g)
+  (f g a) bb (f4 e)
+  d r r8 d-. g,-. b-.
+  c,4 r r8 c'-. f,-. a-.
+  bb,4 r c'4. d6 c
+  bb4. c6 bb ab4. b6 a
+  g4. a6 g f4. g6 f
+  eb4. fs6 g a8 g6 fs g8 d
+  fs d'-. fs,-. a-. d,-. d'-. fs,-. a-.
+  d,6 fs g a bb d c bb a g a bb a c bb a
+  g f! g ab g bb ab g f eb f g f ab g f
+  eb d eb f eb g f eb d c d eb d f eb d 
+  c8 g' c2 bb4 ~
+  bb a2 g4 ~
+  g6 fs g fs g a g a fs8 (eb' d c)
+  (bb c d) eb (bb4 a)
+  g r r2
+}

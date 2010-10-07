@@ -11,6 +11,8 @@ movements:
     midi_tempo: 148 8
   05-qui-tollis:
     midi_tempo: 76 8
+  06-cum-sancto-spiritu:
+    midi_tempo: 96 4
 score:
   hide_figures: true
   order:

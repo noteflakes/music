@@ -10,7 +10,7 @@
   c f ([ab6 g]) ([f e]) \tempo "Recitativo" f8 r6 f f8 d
   b d f, g ab4 r8 d 
   d f, ab g e4 r6 g c d
-  e8 b g c, f f r6 c eb c \bar "||" \tempo "Adagio"
+  e8 e g c, f f r6 c eb c \bar "||" \tempo "Adagio"
   a8 a r f bb c db c
   ([bb6 gb]) ([eb c']) a8 f6 f' \tempo "Recitativo" f8 c a6 bb c f,
   bb8 r6 bb d8 f g eb c f \bar "||" \tempo "Adagio"

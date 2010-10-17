@@ -1214,16 +1214,16 @@
   BWV: "237"
   work_id: 296
   work: Bach-Werke-Verzeichnis (BWV) 237 Bach-Compendium (BC) E 11
-- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000829
-  name: D B Mus. ms. Bach P 13, Faszikel 5 (Digitalisat)
-  BWV: "238"
-  work_id: 297
-  work: Bach-Werke-Verzeichnis (BWV) 238 Bach-Compendium (BC) E 12
 - name: D B Mus. ms. Bach P 13, Faszikel 5 (Digitalisat)
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000829
   BWV: "238"
   work_id: 297
   work: Bach-Werke-Verzeichnis (BWV) 238 Bach-Compendium (BC) E 11
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000829
+  name: D B Mus. ms. Bach P 13, Faszikel 5 (Digitalisat)
+  BWV: "238"
+  work_id: 297
+  work: Bach-Werke-Verzeichnis (BWV) 238 Bach-Compendium (BC) E 12
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000827
   name: D B Mus. ms. Bach P 13, Faszikel 3 (Digitalisat)
   BWV: "239"
@@ -1499,6 +1499,36 @@
   BWV: "596"
   work_id: 679
   work: Bach-Werke-Verzeichnis (BWV) 596
+- name: D B N. Mus. ms. 10117
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
+  BWV: "600"
+  work_id: 683
+  work: Bach-Werke-Verzeichnis (BWV) 600
+- name: D B N. Mus. ms. 10117
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
+  BWV: "625"
+  work_id: 710
+  work: Bach-Werke-Verzeichnis (BWV) 625
+- name: D B N. Mus. ms. 10117
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
+  BWV: "636"
+  work_id: 723
+  work: Bach-Werke-Verzeichnis (BWV) 636
+- name: D B N. Mus. ms. 10117
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
+  BWV: "639"
+  work_id: 727
+  work: Bach-Werke-Verzeichnis (BWV) 639
+- name: D B N. Mus. ms. 10117
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
+  BWV: "641"
+  work_id: 729
+  work: Bach-Werke-Verzeichnis (BWV) 641
+- name: D B N. Mus. ms. 10117
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
+  BWV: "644"
+  work_id: 732
+  work: Bach-Werke-Verzeichnis (BWV) 644
 - name: D B Mus. ms. Bach P 271, Faszikel 2 (Digitalisat)
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001203
   BWV: "651"

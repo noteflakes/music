@@ -4,6 +4,11 @@
   BWV: "1"
   work_id: 1
   work: Bach-Werke-Verzeichnis (BWV) 1 Bach-Compendium (BC) A 173
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000764
+  name: D B N. Mus. ms. 681
+  BWV: "2"
+  work_id: 2
+  work: Bach-Werke-Verzeichnis (BWV) 2 Bach-Compendium (BC) A 98
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00003218
   name: D LEb Thomana 3
   BWV: "3"
@@ -199,6 +204,11 @@
   BWV: "33"
   work_id: 43
   work: Bach-Werke-Verzeichnis (BWV) 33 Bach-Compendium (BC) A 127
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000379
+  name: D B Am. B. 39
+  BWV: "34"
+  work_id: 44
+  work: Bach-Werke-Verzeichnis (BWV) 34 Bach-Compendium (BC) A 84
 - name: D B Mus. ms. Bach P 86 (Digitalisat)
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000949
   BWV: "35"
@@ -704,6 +714,11 @@
   BWV: "116"
   work_id: 141
   work: Bach-Werke-Verzeichnis (BWV) 116 Bach-Compendium (BC) A 164
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000755
+  name: D B N. Mus. ms. 34
+  BWV: "117"
+  work_id: 142
+  work: Bach-Werke-Verzeichnis (BWV) 117 Bach-Compendium (BC) A 187
 - name: D B Mus. ms. Bach P 878
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001914
   BWV: "119"
@@ -1394,6 +1409,11 @@
   BWV: "299"
   work_id: 369
   work: Bach-Werke-Verzeichnis (BWV) 299 Bach-Compendium (BC) F 47.1
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000763
+  name: D B N. Mus. ms. 468
+  BWV: 500a
+  work_id: 571
+  work: Bach-Werke-Verzeichnis (BWV) 500a
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001136
   name: "D B Mus. ms. Bach P 225 [2. Notenb\xC3\xBCchlein der A. M. Bach, 1725]"
   BWV: "508"
@@ -1569,28 +1589,168 @@
   BWV: "600"
   work_id: 683
   work: Bach-Werke-Verzeichnis (BWV) 600
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "611"
+  work_id: 694
+  work: Bach-Werke-Verzeichnis (BWV) 611
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "613"
+  work_id: 696
+  work: Bach-Werke-Verzeichnis (BWV) 613
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "619"
+  work_id: 702
+  work: Bach-Werke-Verzeichnis (BWV) 619
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "620"
+  work_id: 703
+  work: Bach-Werke-Verzeichnis (BWV) 620
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "621"
+  work_id: 705
+  work: Bach-Werke-Verzeichnis (BWV) 621
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "622"
+  work_id: 706
+  work: Bach-Werke-Verzeichnis (BWV) 622
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "623"
+  work_id: 708
+  work: Bach-Werke-Verzeichnis (BWV) 623
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "624"
+  work_id: 709
+  work: Bach-Werke-Verzeichnis (BWV) 624
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
   name: D B N. Mus. ms. 10117
   BWV: "625"
   work_id: 710
   work: Bach-Werke-Verzeichnis (BWV) 625
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "625"
+  work_id: 710
+  work: Bach-Werke-Verzeichnis (BWV) 625
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "626"
+  work_id: 711
+  work: Bach-Werke-Verzeichnis (BWV) 626
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "627"
+  work_id: 712
+  work: Bach-Werke-Verzeichnis (BWV) 627
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "628"
+  work_id: 713
+  work: Bach-Werke-Verzeichnis (BWV) 628
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "629"
+  work_id: 714
+  work: Bach-Werke-Verzeichnis (BWV) 629
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "630"
+  work_id: 715
+  work: Bach-Werke-Verzeichnis (BWV) 630
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "631"
+  work_id: 717
+  work: Bach-Werke-Verzeichnis (BWV) 631
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "632"
+  work_id: 719
+  work: Bach-Werke-Verzeichnis (BWV) 632
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "633"
+  work_id: 720
+  work: Bach-Werke-Verzeichnis (BWV) 633
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "634"
+  work_id: 721
+  work: Bach-Werke-Verzeichnis (BWV) 634
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "635"
+  work_id: 722
+  work: Bach-Werke-Verzeichnis (BWV) 635
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
   name: D B N. Mus. ms. 10117
   BWV: "636"
   work_id: 723
   work: Bach-Werke-Verzeichnis (BWV) 636
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "636"
+  work_id: 723
+  work: Bach-Werke-Verzeichnis (BWV) 636
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "637"
+  work_id: 724
+  work: Bach-Werke-Verzeichnis (BWV) 637
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "638"
+  work_id: 725
+  work: Bach-Werke-Verzeichnis (BWV) 638
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
   name: D B N. Mus. ms. 10117
   BWV: "639"
   work_id: 727
   work: Bach-Werke-Verzeichnis (BWV) 639
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "639"
+  work_id: 727
+  work: Bach-Werke-Verzeichnis (BWV) 639
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "640"
+  work_id: 728
+  work: Bach-Werke-Verzeichnis (BWV) 640
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
   name: D B N. Mus. ms. 10117
   BWV: "641"
   work_id: 729
   work: Bach-Werke-Verzeichnis (BWV) 641
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "641"
+  work_id: 729
+  work: Bach-Werke-Verzeichnis (BWV) 641
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "642"
+  work_id: 730
+  work: Bach-Werke-Verzeichnis (BWV) 642
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: "643"
+  work_id: 731
+  work: Bach-Werke-Verzeichnis (BWV) 643
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000787
   name: D B N. Mus. ms. 10117
+  BWV: "644"
+  work_id: 732
+  work: Bach-Werke-Verzeichnis (BWV) 644
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
   BWV: "644"
   work_id: 732
   work: Bach-Werke-Verzeichnis (BWV) 644
@@ -2399,6 +2559,16 @@
   BWV: "1080"
   work_id: 1266
   work: Bach-Werke-Verzeichnis (BWV) 1080
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000690
+  name: D B Mus. ms. 30199, Faszikel 14
+  BWV: "1083"
+  work_id: 1269
+  work: Bach-Werke-Verzeichnis (BWV) 1083 / 243a-&gt; Bach-Compendium (BC) B 26
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000763
+  name: D B N. Mus. ms. 468
+  BWV: "1084"
+  work_id: 1270
+  work: Bach-Werke-Verzeichnis (BWV) 1084 / 438-&gt;
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000855
   name: D B Mus. ms. Bach P 36, Faszikel 2 (Digitalisat)
   BWV: Anh. 2
@@ -2539,6 +2709,11 @@
   BWV: Anh. 198
   work_id: 1509
   work: Bach-Werke-Verzeichnis (BWV) Anh. 198 / Anh. I 19-&gt; Bach-Compendium (BC) A 182
+- name: D B Mus. ms. Bach P 283
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001229
+  BWV: Anh. 200
+  work_id: 1511
+  work: Bach-Werke-Verzeichnis (BWV) Anh. 200 / Anh. I 21-&gt;; Anh. I 200 [BWV 1998]
 - href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000989
   name: D B Mus. ms. Bach P 122 (Digitalisat)
   BWV: BC A 64
@@ -2569,3 +2744,8 @@
   BWV: "Serie II: 001"
   work_id: 1676
   work: "Bach-Werke-Verzeichnis (BWV) deest (Serie II: 001)"
+- href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000763
+  name: D B N. Mus. ms. 468
+  BWV: "Serie II: 005"
+  work_id: 1680
+  work: "Bach-Werke-Verzeichnis (BWV) deest (Serie II: 005)"

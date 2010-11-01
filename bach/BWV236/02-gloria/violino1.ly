@@ -47,7 +47,7 @@
   e fis g fis e d c b c a d e fis g a fis
   g2 ~ g16 g, a b c d e fis
   g8 fis g e fis4. g8
-  g2 r
+  g2 {{r}} [[r_\markup { \italic "V.S." } \break]]
   r8 g,, g g g g g g 
   g4 g8 g g a16 b c b a g
   a8 b16 c d c b a b8 c16 d e d c b
@@ -91,7 +91,7 @@
   c2 ~ c8 b16 a b d c b
   a8 b16 c d4 ~ d16 b cis d e fis g e
   cis8 e a, cis d4 r
-  r1
+  R1 [[\pageBreak]]
   r2 r8 g, g g
   g g g g a4 a8 a
   a b16 c d c b a b8 c16 d e d c b

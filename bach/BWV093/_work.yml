@@ -34,8 +34,8 @@ parts:
     breaks:
       - 02-recitativo
       - 03-aria
-      - 04-aria
-      - 06-aria
+      - 05-recitativo
+      - 05-recitativo
       - 06-aria
   continuo:
     breaks:

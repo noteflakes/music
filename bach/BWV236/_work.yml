@@ -22,6 +22,8 @@ parts:
       - 06-cum-sancto-spiritu
   violino1:
     breaks:
+      - 02-gloria
+      - 03-gratias
       - 03-gratias
       - 04-domine-deus
       - 04-domine-deus

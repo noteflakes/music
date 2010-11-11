@@ -102,4 +102,4 @@ end
 $work_range.each {|id| check_work(id)}
 $pool.join
 puts "*************************"
-puts "found #{$sources.size} (#{$start_sources.size})"
+puts "found #{$sources.uniq.size} (#{$start_sources.uniq.size})"

@@ -1,0 +1,102 @@
+\relative c {
+  \key e \minor
+  \time 4/4
+  \tempo "Allegro" m{{\tempo 4 = 78}}
+  
+  r8 e g e r b e e,
+  r ds' e e, r b' e e,
+  r fs' e fs d4 cs
+  b2 cs
+  d4. g8 es cs fs e
+  ds b e2 ds8 b
+  e4 fs b, c
+  a b e,8 \clef tenor b'' d b
+  e \clef bass e, ds d cs a d d,
+  g4 g'8 fs e4 e,
+  a8 b c b as gs6 as b8 a
+  gs fs6 gs a8 b c b a4
+  e8 e' g! e b' a g fs
+  e \clef tenor b' cs ds e4. ds8
+  e \clef bass e, b' b, fs' e d cs
+  b fs' gs as b4. as8
+  b4 e, ds e
+  g a g fs
+  e b'8 e, ds e g4
+  fs4. e8 d4. cs8
+  b4. b'8 cs4. cs8
+  b a g fs e cs fs4
+  b,8 ds e g, a fs b4
+  e, a' b g
+  fs2 e4 a ~
+  a8 g6 fs g8 a6 g fs4 b,
+  gs a b g
+  fs2 e4 e' ~
+  e8 fs6 e d8 e6 d cs4 fs
+  b, e ~ e8 fs6 e ds8 cs6 ds
+  e4. d6 e c8 b6 c d4
+  g,8 g' fs g r e g e ~
+  e ds e c a fs b4
+  e,8 e' gs e a a, gs e
+  r a c a e' e, r e'
+  a a, r a d d, e b'
+  c a d ds e d c b
+  a fs b b e, \clef alto e'' g e
+  r a, c a r \clef bass e g e
+  r a, e' e, g' fs e d
+  c b a4 d8 c b4
+  c8 a b4
+  e,8 e' g e
+  r a, e' e, e' d c b
+  a a' c a g a g fs
+  e fs e d c b a d
+  g, g'6 a b8 g c c,6 b c8 a
+  d d6 c d8 b e c' d d,
+  g, g' b g e \clef tenor e' ds4
+  e fs d cs
+  b cs8 fs ds e4 d8 ~
+  d8 c6 d e8 \clef bass e, a4 gs
+  a b g fs
+  e fs8 b g e b'4 ~
+  b8 b as4 b8 b, ds b
+  e e, e'4. fs6 e d8 cs
+  b a g fs es cs' fs fs,
+  r b ds b e e, g e
+  b' b' g g, fs fs' g g,
+  d d' ds b e c a b
+  e, e' e c g g' e c
+  g' g, d' d, c c' b4
+  a8 a d d, a'' a, d d,
+  a'' a, as fs b g' e fs
+  b, d g g, d' fs g g, 
+  d d' ds b e c a b
+  e, e' e' e, fs \clef tenor fs' g g,
+  d d' ds ds, \clef bass e c a b
+  \bar "||" \tempo "Alla breve" m{{\tempo 2 = 72}}
+  e, r r4 r8 e'4 d8
+  c4 b a8 a'4 g8
+  fs4 e d8 d e fs
+  g b, cs ds e e fs gs
+  a g fs e d fs gs as
+  b b4 a8 g4 fs
+  e8 e4 d8 c4 b
+  a8 a'4 g8 fs4 e
+  d8 d e fs g g4 fs8
+  e4 d c8 e fs gs
+  a a, b cs d d e fs
+  g g4 fs8 e4 d
+  c8 c'4 b8 a4 g
+  fs8 fs4 e8 e4 ds
+  e8 e'4 d8 c e, fs gs
+  a a4 g8 fs r r g
+  fs r r g ds b cs ds
+  e e4 d8 c4 b
+  a8 a'4 g8 fs4 e
+  ds8 b cs ds e e4 d8
+  c4 r8 c b4 r8 c
+  b1 ~
+  b ~
+  b ~
+  b ~
+  b8 r r a b4 b
+  e,1\fermata
+}

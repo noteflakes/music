@@ -1,0 +1,49 @@
+\relative c {
+  \key e \minor
+  \time 4/4
+
+  r8 \clef tenor b' as b d e d cs
+  b b e fs6 e ds8 e4 ds8
+  e \clef bass e, ds e g a g fs
+  e e b' cs6 b as8 b es, fs
+  b,4 fs'8 fs, cs' cs'6 b a8. gs6
+  fs8. e6 d8. e6 fs4. e8 ~
+  e fs6 e d8. cs6 b8 cs6 d e8. d6
+  cs8. b6 a8 b6 cs d8. cs6 b8 cs6 d
+  e8. d6 cs8 d6 e fs8 b, fs' fs,
+  b b'6 a gs4 as b8 d,
+  e b ~ b a ~ a b6 a g8 a6 g
+  fs4 b e,8 \clef tenor b'' as b6 cs
+  d8 e d cs b b e fs6 e
+  ds8 e4 ds8 e \clef bass e, ds e6 fs
+  g8 a g fs e e b' cs6 b
+  as8 b es, fs b,4 fs'8 fs,
+  cs' cs'6 b a8. gs6 fs8. e6 d8. e6
+  fs4. es8 fs8. e6 d8. cs6
+  b8 cs6 d e8. d6 cs8. b6 a8 b6 cs
+  d8. cs6 b8 cs6 d e8. d6 cs8 d6 e
+  fs8 b, fs' fs, b b'6 a gs4
+  as b8 d, e b4 a8 ~
+  a b6 a g8 a6 g fs4 b
+  e,8 e'6 fs g4 a e
+  g8 fs6 g a8 g6 a b4 a
+  g fs8 g6 fs e8. d6 cs4
+  b8 b'4 a8 g4. g,8
+  $d1 d' e d cs d cs b cs b a b a $$
+  g2 fs8 r r fs'
+  b fs, b fs b as b cs
+  d cs b fs b cs d cs
+  b4 fs'8 e d4 a'8 gs
+  fs4 cs'8 b a4. gs8
+  fs es fs es fs es fs es
+  fs r r fs d r r fs
+  d r r g fs r r e
+  d4 cs b a
+  g8 fs es fs d' b cs4
+  fs, r8 d'' gs,4 as
+  b r8 b e,4 fs
+  g r8 g cs,4 ds
+  e r8 g, a4 b
+  c r8 g a4 b
+  e,1\fermata
+}

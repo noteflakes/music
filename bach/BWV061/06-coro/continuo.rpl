@@ -1,0 +1,101 @@
+\relative c {
+  \key e \minor
+  \time 3/4
+  
+  \partial 4 e4
+  ds2 d4
+  cs2 c4
+  b8 c b a g fs
+  e b' e d c d 
+  e d c g a b
+  e, g' fs e d e
+  fs g fs e d cs
+  b fs' b a g fs
+  g d g fs e fs
+  b, fs' g a b b,
+  c4. b8 c4
+  b8 c a b c g
+  a fs b a' b b,
+  e, g' fs e ds b
+  e fs e d cs fs
+  ds b cs ds e g,
+  a fs b a' b b,
+  e4 e, e'
+  ds2 d4
+  cs2 c4
+  b8 c b a g fs 
+  e b' e d c d
+  e d c g a b
+  e, g' fs e d e
+  fs g fs e d cs
+  b fs' b a g fs
+  g d g a g fs
+  es2.
+  r8 es fs e fs fs,
+  b fs' g a b b,
+  c4. b8 c4
+  b8 c a b c g
+  a fs b a' b b,
+  e, g' fs e ds b
+  c2 cs4
+  d ds e8 g,
+  a fs b a' b b,
+  e,4 e' gs
+  a a, b
+  c a e'
+  a a, r 
+  r a c
+  e c a
+  d4. d8 fs d
+  g4 r8 g b g
+  c4 r8 a c a
+  d4 r8 d, fs d
+  g c, d4 d,
+  g g' fs
+  e2 r4 
+  r a, c
+  e4. d8 e b
+  c4 d8 d, fs d
+  g a b a g fs
+  e ds e fs g a
+  b a b c b a
+  g a g fs e g
+  fs cs' fs e d cs
+  b fs b a g fs
+  e cs' fs e fs fs,
+  b fs' b c b a
+  g b a g fs g
+  e g fs e d cs
+  b cs b a g fs
+  es2.^"tasto" ~
+  es ~
+  es4 fs2
+  b2 b4\p
+  e, fs2
+  b2 r4 
+  r d' g,
+  r d g,
+  r d g
+  d'8 d e fs g a
+  b a, b c d ds
+  e fs e d c b
+  a g' fs e ds cs
+  b b cs ds e fs 
+  g g, a b cs ds
+  e g, a fs b a
+  g a g fs e4
+  b'8 c b a g a
+  b a b c d b
+  e c a fs' b b,
+  e4 r a
+  a, r d
+  d, r g'
+  g, r c
+  a d b
+  e r a, 
+  r b e
+  r r8 a, b4
+  e, r r
+  e'8 g b4 b,
+  e,2.\fermata
+}

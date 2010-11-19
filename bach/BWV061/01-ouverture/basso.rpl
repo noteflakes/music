@@ -40,8 +40,8 @@
   
   r4 gs' a 
   (b a) gs 
-  a [b8 a gs fs]
-  gs4 [a8 gs] ([fs e])
+  (a [b8 a gs fs]
+  gs4 [a8 gs]) ([fs e])
   b'4 fs gs
   (a g!) fs
   (g [a8 g]) ([f! g])

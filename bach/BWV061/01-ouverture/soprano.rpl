@@ -37,7 +37,7 @@
   r4 c d
   (e d) c 
   (d [e8 d c b]
-  c4 [d8 c b c])
+  c4 [d8 c]) ([b c])
   b4 e4. f8
   d4 ([c8 b]) e4
   c r r 

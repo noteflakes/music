@@ -45,7 +45,7 @@
   (d [e8 d c b]
   [a c b a]) d4
   d b a
-  ([b8 cs]) d4 e
+  ([b8 cs] d4) e
   ([a,8 b] c!4) d
   g, c e
   (d b) e
@@ -61,20 +61,20 @@
     f8 b,4. c8
   c4 c d
   (e d) c
-  d [e8 d c b]
-  c4 ([d8 c]) ([b c])
+  (d [e8 d c b]
+  c4 [d8 c]) ([b c])
   b ([d c b a b]
   gs4 a) b
   e, a4. e'8
   e4 ([f8 e]) ([d c])
-  b4 ([c8 b]) ([a gs])
+  (b4 [c8 b]) ([a gs])
   a2. ~
   a ~
   a ~
   a2 a4
   a4 c d
   (g, [a8 b]) c4
-  g g' e ~
+  (g g') e
   e ([d8 c]) ([b a])
   d2 c4
   (c b) b
@@ -84,8 +84,8 @@
   d2. ~
   d4 [e8 d] ([c b])
   c4 ([gs8 a]) ([b c])
-  d4. b8 [c gs]
-  [a b] gs4. a8 \bar "||" \time 2/2
+  d4. b8 ([c gs]
+  [a b] gs4.) a8 \bar "||" \time 2/2
   a4 r r2
   R1*2
   

@@ -36,13 +36,13 @@
   R1 \bar "||" \time 3/4 \tempo "gay"
   R2.
   r4 gs a
-  b a gs
+  (b a) gs
   (a [b8 a gs fs] 
   gs4 [a8 gs]) ([fs a])
   gs4 b4. c8
   a4 ([gs8 fs]) b4
   e, e gs
-  ([fs8 gs]) a4 b
+  ([fs8 gs] a4) b
   ([e,8 fs] g!4) a
   d, g d
   (e [a8 g f e]
@@ -79,11 +79,11 @@
   a g g
   a d, d
   (d c) b
-  [a8 e' d c b a]
+  ([a8 e' d c b a]
   f'2. ~
   f4 [g8 f e d]
   e2. ~
-  e4 [f8 e] ([d c])
+  e4 [f8 e]) ([d c])
   b4. e8 e4.|
     f8 e4.\trill d8  \bar "||" \time 2/2
   cs4 r r2

@@ -1,101 +1,22 @@
 \relative c' {
-  \key e \minor
+  \key c \major
   \time 4/4
-  \tempo "Allegro"
-
-  r2 r8 b g g 
-  fs4 e fs g8 e'
-  cs2 r8 fs, gs as
-  [b fs] b4. [as6 gs] as4 ~
-  [as8 fs] b2 a!4 ~
-  a g8 [c6 b] as8 fs b4 ~
-  b a4. [b6 a] g8 e
-  fs2 e4 r
-  R1
-  r8 b' d ds e b e4 ~
-  [e8 ds] e e, e4 d! ~
-  d [c8 d] e4. fs8
-  gs4 r r8 a g fs
-  e b' [cs ds] [e6 b] e4 ds8
-  e4 b as b
-  d e (d cs)
-  b8 b g a b2
-  b8 b e fs b, [c!6 b] a4
-  g r r2
-  r8 cs b cs d d [e6 fs d e]
-  fs8 b, as b cs cs [cs6 d b cs]
-  d8 b r b b4 a
-  a4. g8 [fs g6 a] b8 b
-  g4 a b g
-  [fs8 e] fs4 e a
-  [a8 g6 fs] [g8 a6 g] fs4 ~ [fs8 g6 fs]
-  e4 e' ds e
-  fs d [cs8 b] cs4
-  b4. [cs6 d] e4. [fs6 e]
-  ds4 e fs b,
-  r r8 g $d3 g a g fs e fs
-  g a g fs g fs $$ e8 e g e
-  a fs [g e] ~ [e fs6 e] ds4
-  e r r8 a e' d
-  c b [c8 b6 a] gs4 r
-  R1
-  R1
-  R1
-  a4 c e b
-  [c6 e d c] [b c b a g8] g g b
-  c g [c6 d c b a8] a [b6 c b a]
-  g8 a fs8. e6 e4 e8 g
-  a e [g6 a g fs e8] e [e'6 fs e d]
-  [c d c b a8] a b4 [b6 c b a]
-  g8 g [g6 a g fs e8] a c d 
-  d4 r r2
-  R1
-  r4 b e ds
-  e fs d cs
-  b8 b cs [fs6 e] ds8 e e8. d6
-  d8 c b8. a6 a8 a [b e6 d]
-  [cs8 fs6 e ds8] ds e e e8. ds6
-  e8 e e ds e e [d! cs6 b]
-  cs8 cs cs cs b4 r
-  r8 b b [e6 d] cs8 cs d e 
-  fs r r4 r8 cs [cs fs6 e]
-  ds8 ds ds ds e e e8. e6
-  ds4 b d b
-  d a g fs
-  e8 b' e r r d e r 
-  r d f f e e d d 
-  cs r r d cs r r d
-  cs r r cs cs b b as
-  b r r g d r r g
-  d r r b' b c c b
-  g r b4 d b
-  d a g fs
-  \bar "||" \tempo "Alla breve"
-  e8 b'4 a8 g4 fs
-  e8 e'4 d8 c4 b
-  a8 a b cs d fs, g a 
-  b ds e fs b, r r4
-  r8 a b cs d fs, gs as
-  b4 r r8 b4 a8
-  g4 fs e8 e'4 d8
-  c4 b a8 a b cs
-  d d4 c8 b4 a
-  g8 b c d e gs, a b
-  c c4 b8 a c b a 
-  g b cs ds e b c d 
-  e g, a b c c d e 
-  fs a, b c a fs fs b
-  b r r4 r8 gs a b
-  c c d e ds e ds r 
-  r e ds r r b4 a8
-  g4 fs e8 e'4 d8
-  c4 b a8 a4 g8
-  fs a g fs e g a b
-  c ds e r r ds e r
-  r ds, e fs g fs g a 
-  b b4 a8 g4. fs8
-  e ds e fs g fs g a 
-  b b4 a8 g4. fs8
-  e4 r8 g fs4 fs
-  gs1\fermata
+ 
+  r4 r8 g c g e8. f6
+  g8 c, r e a a b c
+  d4 r8 b gs gs a b
+  c c r6 a b c fs,8 d d'4 ~
+  d8 g, c b g4 r
+  r f' r8 f6 d e8 b
+  c4 r6 c d e a,8 d gs,8. a6
+  b4 r r8 a ([e'6 f3 e]) ([d6 e])
+  f8 a, d4. bb8 g8. a6 \bar "||"
+  a8 a r8 a fs ([g6 a]) ([g fs]) ([e d])
+  b'4 r8 d b ([c6 d]) ([c b]) ([a g])
+  e'8 g, ([c8. bb6] [a g]) ([f e]) ([f d]) g8
+  ([e8. d3 e]) d8 g e ([f6 g]) ([f e]) ([d c])
+  a'8. g6 ([f6 e]) ([d c]) ([b'8. a6] [g f e f3 d]
+  [e6 c]) f8 ([e d6 c]) c4 r8 g'
+  a a b c c g r4
+  R1*2
 }

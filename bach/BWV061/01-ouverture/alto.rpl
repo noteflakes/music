@@ -1,0 +1,98 @@
+\relative c' {
+  \key a \minor
+  \time 2/2
+  
+  R1*8
+  
+ 
+  
+  
+  
+  
+  
+  e2 e
+  ds g
+  (fs4 e) fs2\trill
+  e1
+  R1*15
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  e2 e
+  (f4 e) e2
+  d2. g4
+  e2 r
+  R1 \bar "||" \time 3/4 \tempo "gay"
+  R2.
+  r4 gs a
+  b a gs
+  (a [b8 a gs fs] 
+  gs4 [a8 gs]) ([fs a])
+  gs4 b4. c8
+  a4 ([gs8 fs]) b4
+  e, e gs
+  ([fs8 gs]) a4 b
+  ([e,8 fs] g!4) a
+  d, g d
+  (e [a8 g f e]
+  [d f e d]) g4
+  g g a
+  (a d,) g
+  (e [f8 e d e]
+  f4 [g8 f]) ([e f])
+  d4 e f 
+  g2. ~
+  g4 [a8 g f e]
+  f2. ~
+  f4 ([g8 f]) ([e d])
+  e4 d e
+  f4. d8 g4.| 
+    a8 g4.\trill f8
+  e4 r r
+  r gs a
+  (b a) gs
+  a [b8 a gs fs]
+  gs4 [a8 gs fs e]
+  b'4 [c8 b a gs]
+  a4 a2\trill
+  gs4 gs a
+  (d, e) f
+  ([e8 f e d c bb]
+  [a e' a g f e]
+  [d f e d cs b]
+  cs4 d) e
+  d ([e8 f]) g4
+  (c, [d8 e]) [f e]
+  [d e c d e d]
+  [c e f g] a4 ~
+  a g g
+  a d, d
+  (d c) b
+  [a8 e' d c b a]
+  f'2. ~
+  f4 [g8 f e d]
+  e2. ~
+  e4 [f8 e] ([d c])
+  b4. e8 e4.|
+    f8 e4.\trill d8  \bar "||" \time 2/2
+  cs4 r r2
+  R1*2
+  
+  f2 f
+  b, (a4 c)
+  (f a) gs2\trill
+  a r
+  R1
+  r1\fermata
+}

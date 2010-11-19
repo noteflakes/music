@@ -1,27 +1,11 @@
-title: Cantata BWV 4
-subtitle: "\"Christ lag in Todesbanden\""
+title: Cantata BWV 61
+subtitle: "\"Nun komm, der Heiden Heiland\""
 composer: Johann Sebastian Bach
 parts:
   violini:
     no_part: true
-  violino1:
-    breaks:
-      - "-04-versus-III"
-  violino2:
-    breaks:
-      - "-04-versus-III"
-  viola1:
-    breaks:
-      - "-06-versus-V"
-  viola2:
-    breaks:
-      - "-06-versus-V"
-  continuo:
-    breaks:
-      - "-03-versus-II"
-      - "-05-versus-IV"
-      - "-06-versus-V"
-      - "-07-versus-VI"
+  violoncello:
+    source: continuo
 score:
   order:
     - violini
@@ -29,6 +13,7 @@ score:
     - violino2
     - viola1
     - viola2
+    - fagotto
     - soprano
     - alto
     - tenore
@@ -39,9 +24,4 @@ score:
     - brace: [viola1, viola2]
     - bracket: [soprano, alto, tenore, basso]
 macros:
-  d1: "#8 #6 #"
-  d2: "#6 # #8"
-  v1: "r6 # # # #4"
-  d3: "[#8 #6 #]"
-  d: "#8. #6"
-  t: "\\times 2/3 {#8[ # #]}"
+  c1: "#8. #6"

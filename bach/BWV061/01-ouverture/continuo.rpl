@@ -1,0 +1,98 @@
+\relative c {
+  \key a \minor
+  \time 2/2 m{{\tempo 2=50}}
+  
+  a'2 a
+  gs4 ~ gs6 gs a b c2
+  b4 a b2
+  a4 ~ a6 g f e $c1 d d c b $$
+  e4 ~ e6 e fs gs $c1 a a b c $$
+  d8. c3 b $c1 c d e b e d $$
+  cs4 ~ cs6 a b cs $c1 d c b a $$
+  gs4 e a a,
+  $c1 e b' e fs g g fs e $$
+  b'4 ~ b6 b, cs ds $c1 e e fs g
+  a g fs g a fs b b, $$
+  e4 ~ e6 b' c d $c1 e d c b $$
+  a2 a
+  gs4 ~ gs6 gs a b c2
+  b4 a b2
+  a4 ~ a6 g f e $c1 d d c b $$
+  e4 ~ e6 e fs gs $c1 a a b c $$
+  d8. c3 b $c1 c d e b e d $$
+  cs4 ~ cs6 a b cs $c1 d c b a $$
+  gs4 e a a,
+  $c1 e b' e fs g g fs e $$
+  b'4 ~ b6 b, cs ds $c1 e e fs g
+  a g fs g a fs b b, $$
+  e4 ~ e6 d c b $c1 a g f e $$
+  d4 ~ d6 d' e f $c1 g g a b $$
+  c,4 ~ c6 c d e $c1 f f g a $$
+  b,4 ~ b6 b c d $c1 e e fs gs
+  a e $$ c8. d3 e a,4 a' ~
+  a8. gs3 fs gs8. e6 a4 e
+  f! d g g,
+  a8. g3 f $c1 e c f g a f
+  g f' $$ [e8. d3 c] g'4 g, \bar "||" \time 3/4 \tempo "gay" m{{\tempo 4=200}}
+  c,4 r r 
+  R2.*3
+  
+  
+  r4 gs'' a 
+  b a gs 
+  a b8 a gs fs
+  gs4 a8 gs fs e
+  b'4 fs gs
+  a g! fs
+  g (a8 g) (f! g)
+  e4 b c 
+  d c b
+  c d8 c b a
+  b4 c8 b a g
+  a4 a' c, 
+  d (e8 d) (c b)
+  g'2. ~ 
+  g4 (a8 g) (f e)
+  f2. ~ 
+  f4 (g8 f) (e d)
+  e2. ~
+  e4 (f8 e) (d c)
+  b g a b c d 
+  e f g4 g,
+  c r r 
+  R2.*2
+  
+  r4 c d 
+  e d c 
+  d e8 d c b
+  c4 (d8 c) (b a)
+  e'4 r r 
+  R2.
+  r4 e f 
+  g f e 
+  f g8 f e d
+  e4 f8 e d cs
+  d4 a' b
+  c b a 
+  b c8 b a g
+  a4 b8 a g f
+  g4 a8 b c4
+  fs, gs8 a b4
+  e, e gs,
+  a (b8 a) (g! f)
+  d'2. ~
+  d4 (e8 d) (c bb)
+  c2. ~
+  c4 (d8 c) (b! a)
+  gs e fs gs a b
+  c d e4 e, \bar "||" \time 2/2 m{{\tempo 2=50}}
+  a1 ~
+  a4 ~ a6 a b cs $c1 d d e f $$
+  e4 a, ~ $c1 a a b cs
+  d a $$ [f8. g3 a] $c1 d, d' c b $$
+  e4 ~ e6 e fs gs $c1 a a b c $$
+  d4 b e e,
+  a6 b c b a g f e d e f e d c b a
+  $c1 e' d c d $$ e4 e,
+  a1\fermata
+}

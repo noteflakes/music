@@ -30,6 +30,8 @@ def check_work(id)
   begin
     h = Nokogiri::HTML(open_url(url))
     
+    return unless h.at_css('div.contentlinecontent')
+    
     title = h.at_css('div.contentlinecontent table tr td').inner_html.
       gsub(/\<br\s?\/?\>/m, " ").gsub(/\n/, " ").gsub(/\s{2,}/, " ").strip
     bwv = ''
@@ -50,7 +52,8 @@ def check_work(id)
       $pool.process {check_source(ref[0], ref[1], id, title, bwv)}
     end
   rescue => e
-    puts "!!!!!!!!!"
+    puts "!!!!!!!!!!!!!!!!!!!!!!!!"
+    puts "Error encountered while processing #{url}"
     puts e.message
     e.backtrace.each {|l| puts l}
   end

@@ -1,0 +1,98 @@
+\relative c' {
+  \key a \minor
+  \time 2/2
+  
+  e'4 ~ e6 e fs gs $c1 a a b c $$
+  b4 e, ~ $c1 e a gs a
+  f e d c b f' e d
+  c e a g $$ f8. e3 d $c1 e f
+  b, e, $$ b''4 ~ b8. e,6 a4 ~
+  a8. b3 gs a4 ~ a8. g3 fs g4 ~
+  g8. f!3 e $c1 a g f a, $$ d4 ~
+  d8. c3 b e8. d6 c4.\trill b8
+  b4 ~ b6 b cs ds $c1 e e fs g $$
+  fs4 b, ~ $c1 b e ds e 
+  c b a g fs c' b a $$
+  gs1
+  e'4 ~ e6 e fs gs $c1 a a b c $$
+  b4 e, ~ $c1 e a gs a
+  f e d c b f' e d
+  c e a g $$ f8. e3 d $c1 e f
+  b, e, $$ b''4 ~ b8. e,6 a4 ~
+  a8. b3 gs a4 ~ a8. g3 fs g4 ~
+  g8. f!3 e $c1 a g f a, $$ d4 ~
+  d8. c3 b e8. d6 c4.\trill b8
+  b4 ~ b6 b cs ds $c1 e e fs g $$
+  fs4 b, ~ $c1 b e ds e 
+  c b a g fs c' b a
+  gs b e d $$ c8. b3 a $c1 b cs
+  d a $$ f'4 ~ f8. g3 e f4 ~
+  f8. e3 d e4 ~ e8. f3 d e4 ~
+  e8. d3 c d4 ~ d8. c3 b e8. d6
+  c b a b c d e fs3 gs $c1 a a b c $$
+  b4 e, ~ $c1 e c' b c
+  a g f e d a' g f $$
+  e4 ~ e6 d c b $c1 a g f e $$
+  [d8. f3*2/3 e d] b'8. c6 d,4.\trill c8 \bar "||" \time 3/4 \tempo "gay"
+  c4 c' d
+  e d c 
+  d e8 d c b
+  c4 (d8 c) (b c)
+  b4 e4. f8
+  d4 (c8 b) e4
+  c r r 
+  r b c
+  d c b
+  c d8 c b a
+  b4 e f
+  g f e
+  f g8 f e d
+  e4 f8 e d c
+  d4 g b,
+  c (d8 c) (b a)
+  f'2. ~
+  f4 (g8 f) (e d)
+  e2. ~
+  e4 (f8 e) (d c)
+  d2. ~
+  d4 (e8 d) (c b)
+  c4 (d8 c) (b c)
+  g4. f'8 e4.|
+    d8 d4.\trill c8
+  c4 (e8 d) (c d)
+  b4 e, e'
+  e2.\trill ~
+  e ~
+  e ~
+  e ~
+  e4 (f8 e) (d c)
+  b4 b c 
+  d c b
+  c2. 
+  cs\trill
+  d4 e f
+  g f e
+  f g8 f e d
+  e4 f8 e d c
+  d4 e b
+  c d8 e f4
+  b, c8 d e4
+  a, d fs,
+  gs (a8 gs) (fs e)
+  c'2. ~
+  c4 (d8 c)  (bb a)
+  bb2. ~
+  bb4 (c8 bb) (a gs)
+  a4 (b!8 a) (gs a)
+  e4. d'8 c4.|
+    b8 b4.\trill a8 \bar "||" \time 2/2
+  a4 ~ a6 a b cs $c1 d d e f $$
+  e4 a, ~ $c1 a d cs d
+  bb a g f e bb' a g $$
+  f e d e f g a b3 cs $c1 d d e f
+  b, e, $$ e'4 ~ $c1 e a, a' e
+  f e d c b f' e d $$
+  c4 ~ c6 b3 a b c d e f4 ~ f6 e3 d e fs gs a
+  gs8. fs3 e a8. b6 gs4.\trill a8
+  a1\fermata
+}

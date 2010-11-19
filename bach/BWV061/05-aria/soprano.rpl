@@ -1,49 +1,58 @@
 \relative c' {
-  \key e \minor
-  \time 4/4
+  \key g \major
+  \time 3/4
 
-  R1
-  r8 b' g a b g [fs6 e fs8]
-  e [g6 a] [b a] [g a] [b a] [b c] [b c] [b a]
-  g8 g' fs [e6 d] cs8 b [b as]
-  b b [a6 b] [cs d] gs,8 gs cs4
-  r8 [a6 gs] [fs es] [fs gs] [a gs] [a b] cs8 cs,
-  fs r r4 r8 [b6 a] g8 [g6 fs]
-  e8 [fs6 g] [a b a g] fs8 [gs6 a] [b cs] [b a]
-  gs8 [a6 b] [cs d] [cs b] as8 b [b8. as6]
-  b8 r r [e6 d] cs8 fs, b b
-  [b6 cs] [d e] fs8 fs, [b cs6 ds] e4 ~
-  [e6 g fs e] ds4 e8 r r4
-  r2 r8 b g a
-  b g [fs6 e fs8] e [g6 a] [b a g a]
-  [b a] [b c] [b c] [b a] g8 g' fs [e6 d]
-  cs8 b [b as] b b [a6 b] cs d
-  gs,8 gs cs4 r8 [a6 gs] [fs es fs gs]
-  [a gs] [a b] cs8 cs, fs r r4
-  r8 [b6 a] g8 [g6 fs] e8 [fs6 g] [a b a g]
-  fs8 [gs6 a] [b cs] [b a] gs8 [a6 b] [cs d cs b]
-  as8 b6 b [b8. as6] b8 r r [e6 d]
-  cs8 fs, b b [b6 cs] [d e] fs8 fs,
-  [b cs6 ds] e4 ~ [e6 g fs e] ds4
-  e r r8 ([e,6 fs g8]) g
-  b4 e, $d3 g fs g a g a $$
-  b8. b6 a8 a [g fs6 g e8] fs6 e
-  d8 ([d'6 e fs8]) fs g4 d
-  [fs8 g6 fs] [e8 fs6 e d8.] d6 cs8 cs
-  b8. as6 b4 as8 fs b (as
-  b) cs d cs b fs b (as 
-  b) cs d cs b [d6 e] fs4 ~
-  [fs8 d6 e] fs4 ~ [fs8 d6 e] fs4 ~
-  [fs8 a,6 b] cs4 ~ [cs8 a6 b cs8] b
-  a [fs6 gs] a8 gs fs r r4
-  r8 a fs r r fs d r
-  r d' cs r r b as r
-  r fs' fs e4 d8 d c!
-  c b b a a gs [gs cs6 b]
-  as4 r8 d [d cs] cs4
-  [cs8 b] b4 [b8 a] a4
-  [a8 g] g4 [g8 fs] fs4
-  [fs8 e] e4 [e8 ds] ds4
-  e r8 e [e ds] ds4
-  e1\fermata
+  R2.*6
+  
+  
+  
+  
+  
+  r4 b'8 c d4
+  r8 fs, g4 ([a8 c6 b])
+  (b4.\trill [a6 b]) a4
+  R2.*3
+  
+  
+  r4 b8 c d4
+  r8 e (c4.\trill b6) c
+  (b4.\trill [a6 b]) a4
+  c4. b8 a4.|
+    g8 fs4.\trill g8
+  a2.
+  g'4. fs8 ([e d6 cs])
+  ([d8 e]) a,4.\trill cs8
+  d4 r r
+  R2.*5
+  
+  
+  
+  
+  r4 a8 b c4
+  r b8 c d4.|
+    e8 f4. g8
+  e2\trill d4
+  r e ([d8 e6 c])
+  (b4 [c8.\trill b3 c]) d4
+  (g, [e'8 c]) ([b\trill a])
+  a4 ([c8 b]) ([a g])
+  d'4. d,8 (e4.|
+    c'8) (a4.\trill g8)
+  g2 r4
+  R2.*5
+  
+  
+  
+    \bar "||" \tempo Adagio \time 4/4
+  r4 b8 ([c6 d]) gs,8.\trill a6 f8 f
+  ([f6 e]) e8 d'8. e6 c8 [b6 a] f'8 ([e6 d])
+  d4 b8 ([a6 g]) c8. a6 f8 ([e6 d])
+  d8 g6 a ([b c d e] [f b,]) ([c d]) g,8. b6
+  c8 c r4 r2
+  r4 e8. e6 ([e8 d]) d4
+  r c8. c6 ([c8 b]) b c6 d
+  e8 [fs6 g] c,8 ([b6 a]) a8 ([b6 c3 d]) b8\trill a
+  r d8. ([c6 b c3 a]) [b6\trill a] a8 r d
+  g, g [g6\trill fs] g8 a4 r
+  \dacapo
 }

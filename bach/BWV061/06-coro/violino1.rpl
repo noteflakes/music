@@ -1,90 +1,19 @@
 \relative c' {
-  \key e \minor
-  \time 3/4
+  \key g \major
+  \time 4/4
   
-  \partial 4 r4
-  R2.*5
-  r4 r b'
-  as2 b4
-  d2 e4
-  d2 cs4
-  b2 ds4
-  e8 ds e g fs e
-  ds e cs ds e4 ~
-  e8 fs ds4. e8
-  e2 b4
-  g2 a4
-  b4. a8 g4
-  fs fs2
-  e4 g'2
-  fs8 e fs a g fs
-  e ds e g fs e
-  b'4. fs8 g ds
-  e4 b c
-  b e4. ds8
-  e2 b4
-  as2 b4
-  d2 e4
-  d2. ~
-  d8 e cs e d4
-  cs4 cs4.\trill b8
-  b2 ds4
-  e8 ds e g fs e
-  ds e cs ds e4 ~
-  e8 fs ds4. e8
-  e2 b4
-  g2 a4
-  b4. a8 g4
-  fs fs2
-  e r4
-  R2.
-  r4 e' gs
-  a r r 
-  R2.*3
-  d,8 g, g'4 fs
-  e8 a, a'4 g
-  fs8 a, d4 c
-  b8 c a4. g8
-  g4 r r 
-  r e gs
-  a2 e4
-  g2.
-  a
-  b
-  r4 r e,
-  b'2. ~
-  b2 cs4
-  as2.
-  r4 fs b ~
-  b b4. as8
-  b2 b4
-  e2 ds4
-  e2 fs4
-  d2. ~
-  d ~
-  d ~
-  d8 cs cs2\trill
-  b d,4 
-  cs cs2
-  b r4
-  r6 fs'' d fs a fs d fs b, d g e
-  fs a, g a c a fs a d, g b g
-  a d a d fs c a c b d g e
-  fs8 fs, r4 r
-  R2.*6
-  r4 r b
-  d2 b4
-  d2 a4
-  g fs2
-  e8 b' e4. d8
-  cs e a4. g8
-  fs a, d4. c8
-  b d g4. e8
-  a4. fs8 b4 ~
-  b8 b, e d c b
-  a c b a g b
-  e4. g,8 fs4\trill
-  e6 g fs e d c b a g e' g b
-  g b e g, fs4. e8
-  e2.\fermata
+  r2 r8 g'6 a b c d e 
+  d a b c d e fs d g d e fs g a b g
+  a a, b c d c b a b a g fs g d b d 
+  g,4 r r2
+  r8 d'' g g g fs6 g a8 a
+  a g6 fs g a b g a b a g fs e d c
+  b8 c6 d e d e fs g8 d g6 a b a
+  g fs g a b a b g c b a g fs a g a 
+  b a g fs e g fs g a g fs e d fs e fs
+  g e fs g a g fs e d fs e fs g b, c d
+  e d c b a g fs e d e fs g a g a fs
+  g fs e fs g a b c d c b c d e f d
+  g e f g a b c d e g, a b c d e fs
+  g1\fermata
 }

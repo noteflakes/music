@@ -1,6 +1,9 @@
 title: Cantata BWV 61
 subtitle: "\"Nun komm, der Heiden Heiland\""
 composer: Johann Sebastian Bach
+movements:
+  06-coro:
+    midi_tempo: 100 4
 parts:
   violini:
     no_part: true

@@ -1,0 +1,98 @@
+\relative c' {
+  \key a \minor
+  \time 2/2 \clef treble
+  
+  $c1 a' gs a b c c b a
+  e' d c b $$ a4 e8. fs6
+  gs4 a4. b8 gs4\trill
+  $c1 a a b cs d gs, a f
+  e b' e d c c d e $$
+  f8. e3 d e8. f6 b,4. e8
+  a,4. e8 $c1 f a gs a $$
+  b2 ~ b8. a3 gs a8. b6
+  gs4. a8 b4. b8
+  $c1 b a g! fs g g a b $$
+  a2 ~ $c1 a a fs\trill b $$
+  b1
+  $c1 a gs a b c c b a
+  e' d c b $$ a4 e8. fs6
+  gs4 a4. b8 gs4\trill
+  $c1 a a b cs d gs, a f
+  e b' e d c c d e $$
+  f8. e3 d e8. f6 b,4. e8
+  a,4. e8 $c1 f a gs a $$
+  b2 ~ b8. a3 gs a8. b6
+  gs4. a8 b4. b8
+  $c1 b a g! fs g g a b $$
+  a2 ~ $c1 a a fs\trill b $$
+  b4 r r8 r6 e, a8. g6
+  f4 ~ $c1 f d' b b c d
+  c c, c' b a a b c
+  b b, b' a gs gs a b $$
+  a2 ~ $c1 a a gs a
+  b d e b $$ c4. c8
+  c4. c8 b4. b8
+  $c1 e, f g a $$ f4. a,8
+  $c1 b d g e $$ b4. c8 \bar "||" \time 3/4 \tempo "gay"
+  c4 r r
+  r gs' a
+  b a gs
+  a b8 a gs fs 
+  gs4 (a8 gs) (fs a)
+  gs4 b4. c8
+  a4 (gs8 fs) b4
+  e, e gs
+  fs8 gs a4 b
+  e,8 fs g!4 a
+  d, g d
+  e a8 g f e
+  (d f) (e d) g4
+  g g a
+  a d, g
+  e (f8 e) (d e)
+  f4 (g8 f) (e f)
+  d4 e f 
+  g2. ~
+  g4 (a8 g) (f e)
+  f2. ~
+  f4 (g8 f) (e d)
+  e4 d e
+  f4. d8 g4.| 
+    a8 g4.\trill f8
+  e4 r r
+  r gs a
+  b a gs
+  a b8 a gs fs
+  gs4 a8 gs fs e
+  b'4 c8 b a gs
+  a4 a2\trill
+  gs4 gs a
+  b a b
+  e,8 f e d c bb
+  a e' a g f e
+  d f e d cs b
+  cs4 d e
+  d e8 f g4
+  c, d8 e f e
+  d e c d e d
+  c e f g a4 ~
+  a g g
+  a d, d
+  d c b
+  a8 e' d c b a 
+  f'2. ~
+  f4 (g8 f) (e d)
+  e2. ~
+  e4 (f8 e) (d c)
+  b4. e8 e4.|
+    f8 e4.\trill d8 \bar "||" \time 2/2
+  $c1 cs cs d e f f e d
+  a' g f e f f e d
+  g f e d cs g' f e $$
+  d2 ~ $c1 d gs a b
+  gs b e d $$ c4. a8
+  $c1 b gs a b $$ gs4. gs8
+  a4 r8 r6 a a4 r8 r6 c
+  $c1 b b a d $$ b4. b8
+  c1\fermata
+}

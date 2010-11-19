@@ -1,0 +1,98 @@
+\relative c' {
+  \key a \minor
+  \time 2/2
+  
+  R1*15
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  a2 a
+  gs c
+  (b4 [a8. b6]) b2\trill
+  a1
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  c2 e
+  b (a4 g)
+  a2 b
+  c2 r
+  R1 \bar "||" \time 3/4 \tempo "gay"
+  R2.*3
+  
+  
+  r4 c d
+  (e d) c
+  (d [e8 d c b]
+  c4 [d8 c]) ([b c])
+  b4 e e
+  (d [e8 d c b]
+  [a c b a]) d4
+  d b a
+  ([b8 cs]) d4 e
+  ([a,8 b] c!4) d
+  g, c e
+  (d b) e
+  c2. ~
+  c4 a d
+  b2. ~
+  b4 [c8 b a g]
+  a2. ~
+  a4 [b8 a g f]
+  g2. ~ 
+  [g8 b a8 b] ([c a])
+  d4. g8 c,4.|
+    f8 b,4. c8
+  c4 c d
+  (e d) c
+  d [e8 d c b]
+  c4 ([d8 c]) ([b c])
+  b ([d c b a b]
+  gs4 a) b
+  e, a4. e'8
+  e4 ([f8 e]) ([d c])
+  b4 ([c8 b]) ([a gs])
+  a2. ~
+  a ~
+  a ~
+  a2 a4
+  a4 c d
+  (g, [a8 b]) c4
+  g g' e ~
+  e ([d8 c]) ([b a])
+  d2 c4
+  (c b) b
+  b ([c8 b]) ([a gs])
+  e'2. ~
+  e4 [f8 e d c]
+  d2. ~
+  d4 [e8 d] ([c b])
+  c4 ([gs8 a]) ([b c])
+  d4. b8 [c gs]
+  [a b] gs4. a8 \bar "||" \time 2/2
+  a4 r r2
+  R1*2
+  
+  d2 d
+  e e
+  d d
+  c r 
+  R1
+  r1\fermata
+}

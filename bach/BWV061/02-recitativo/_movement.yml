@@ -1,0 +1,5 @@
+parts:
+  continuo:
+    before_include: tenore
+  violoncello:
+    before_include: tenore

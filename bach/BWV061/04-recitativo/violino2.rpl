@@ -1,0 +1,15 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+  
+  b'8_"senza l'arco" r $c2 b b b
+  c c c c
+  c c b b
+  b b b b 
+  b b a a 
+  a a b b 
+  b b g g 
+  g g fs g
+  g fs b, b 
+  a a $$ g4 r
+}

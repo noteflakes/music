@@ -28,3 +28,4 @@ score:
     - bracket: [soprano, alto, tenore, basso]
 macros:
   c1: "#8. #6"
+  c2: "#8 r"

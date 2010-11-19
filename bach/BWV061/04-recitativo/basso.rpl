@@ -1,0 +1,15 @@
+\relative c {
+  \key g \major
+  \time 4/4
+  
+  r4 b'8 fs g g r g
+  fs fs a fs ds4 r8 ds
+  ([c'-. a-. fs-.]) a b,4 r6 fs' b fs
+  g4 r8 b, e4 e
+  g8 g fs g a8. d,6 d4
+  r8 fs6 g a8 [b6 c] b4 r8 b
+  g a6 b d,8 g e ([d6 c]) r8 e6 b
+  c8 b6 a a'8 e fs ([e6 d]) r8 g
+  d4. b'8 ^a6 g4 r4
+  R1
+}

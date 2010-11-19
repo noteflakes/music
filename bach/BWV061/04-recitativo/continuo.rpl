@@ -1,49 +1,15 @@
 \relative c {
-  \key e \minor
-  \time 4/4 m{{\tempo 4=96}}
-
-  e4 g8 e a fs b b,
-  e4 b8 g c a d d,
-  g4 d'8 b e cs fs fs,
-  b4 e8 g, c a b4
-  e, g'8 cs, fs e d as
-  b4 g'8 e b' d, e fs
-  b,4 d8 b e cs fs fs,
-  b4 e8 g, c a b4
-  e8 d c cs d ds e g,
-  a c b4 e g8 e
-  a fs b b, e4 b8 g
-  c a d d, g4 d'8 b
-  e cs fs fs, b4 e8 g,
-  c a b4 e g8 cs,
-  fs e d as b4 g'8 e
-  b' d, e fs b,4 d8 b
-  e cs fs fs, b4 g'8 e
-  a fs b b, e d c cs
-  d ds e g, a c b4
-  e4. b8 c a d d,
-  g4. d'8 e cs fs fs,
-  b4 e8 g, c a b4
-  e8 d c b a b c a
-  e' d c4 b6 b' a b a b a b
-  g a g a fs g e fs ds e cs ds b cs a b
-  g a g a fs g fs g e8 r \tempo "Adagio" r4
-  r4 r8 b'' es, es es es
-  fs fs fs, fs \tempo "Allegro" b4\f d8 b
-  e cs fs fs, b4 g'8 e
-  a fs b b, e4 g8 e
-  fs d g g, fs' e ds b
-  e g, a b e, fs g e
-  a b c a b cs ds b
-  e4 r r8 e6 d e fs d e
-  c b c d c d b c
-  a8 a b c
-  d c b g r6 c b a b4
-  e8 d c b a g fs a
-  b c a b e,4 g'8 e
-  a fs b b, e4 b8 g
-  c a d d, g4 d'8 b
-  e cs fs fs, b4 e8 g,
-  c a b4 e,\fermata r
+  \key g \major
+  \time 4/4
   
+  e8_"senza l'arco" r $c2 e e e
+  e e e e
+  e e e e 
+  e e e e 
+  e e fs fs
+  fs fs g g
+  b, b c c 
+  a a d d 
+  d d e b
+  c d $$ g,4 r
 }

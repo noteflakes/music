@@ -1,0 +1,48 @@
+\relative c' {
+  \key c \major
+  \time 9/8
+ 
+  R2.*48/2
+  r4. r8 r c ([b c]) a
+  ^a6 g4.\trill ~ $t g a f e f d $$
+  (e4 d8) c4 e'8 ([d e]) f
+  ([e d c] [b c]) d ([g, c]) b
+  c4. c,4 d8 ([e g]) fs
+  ([g b a] [b c]) d ([b a]) g
+  g4. f' r
+  r d r
+  r ([b8 d]) c ([e, a]) gs
+  a4. a4 c8 ([g a]) bb
+  a4. r8 r a ([e f]) g
+  ([f a g] [a b]) c ([f, d]) e
+  d4 d8 b'4. r
+  r f' r
+  r g, r8 r b
+  ([c d]) e f,2. ~
+  [f8 d] e ([f g]) a ([g e]) f
+  ([g a]) bb ([a b]) c ([e, d]) c
+  c2. r4.
+  R2.*45/2
+  r4.\fermata r8 r e ([a b]) c
+  b4. ~ [b8 c] d ([c d]) b
+  (c4 b8) a4 d8 ([g, a]) b
+  a4. ~ [a8 b] c ([b c]) a
+  (b4 a8) g4 b8 ([c b]) a
+  ds4\trill e8 (g,4. [fs8\lineprall) e] fs
+  e4. r r
+  R2.*15/2
+  r4. r8 r b' ([e f]) d
+  cs4. ~ [cs8 d] e ([d f]) e
+  ([f e d]) d4 a8 ([d e]) c
+  b4. ~ [b8 c] d ([c e]) d
+  ([e d c]) ([c b]) a ([f' e]) d
+  e4 f8 (a,4. gs4\trill) a8
+  a4. r8 r e' ([c b]) a
+  f'4. ~ [f8 d] b [g e] f
+  e4. r8 r e ([a b]) c
+  d4. ~ [d8 b] gs ([e c]) d
+  c4. r8 r e ([a c]) b
+  ([c e d] e4) f8 ([c b]) a
+  a4. r r 
+  \dalsegno
+}

@@ -2,6 +2,8 @@ title: Cantata BWV 61
 subtitle: "\"Nun komm, der Heiden Heiland\""
 composer: Johann Sebastian Bach
 movements:
+  03-aria:
+    midi_tempo: 250 8
   06-coro:
     midi_tempo: 100 4
 parts:
@@ -29,3 +31,6 @@ score:
 macros:
   c1: "#8. #6"
   c2: "#8 r"
+  c3: "(#8 #) #"
+  c4: "#4 #8"
+  t: "[#8 #] #"

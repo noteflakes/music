@@ -1,0 +1,81 @@
+\relative c' {
+  \key c \major
+  \time 9/8
+ 
+  r4. r8 r c' (b c) a
+  g4.\trill ~ $c3 g a f e f d $$
+  e4\trill d8 $c3 c e d e g fs
+  g b a b c d d, g fs $$
+  g4. ~ $c3 g b c d c d $$
+  f,4. ~ $c3 f b c d c d $$
+  e,4. ~ $c3 e gs b d c b
+  c a b c b a g a bb
+  a f g a g f e f g 
+  f d e f g a b c d $$
+  f,4. ~ $c3 f d e f e f $$
+  b,4. ~ $c3 b d e f e f $$
+  g,4. ~ $c3 g b d f e d 
+  g f e d e c g c b $$
+  b'4. ~ $c3 b c d f, e d 
+  g f e d e c g c b $$ \segno
+  c4. r r
+  R2.*3/2
+  r4. r8 r c'\p (b c a)
+  g4.\trill ~ $c3 g a f e f d 
+  e\trill d c $$ g'2. ~
+  g4. ~ $c3 g a b d, g fs $$
+  g4. ~ $c3 g b c d c d $$
+  f,4. ~ $c3 f b c d c d $$
+  e,4. ~ $c3 e gs b d c b 
+  c a b c b a $$ r4.
+  r8 (f g) (a g) f r4.
+  r8 d e $c3 f g a b c d $$
+  f,4. ~ $c3 f d e f e f $$
+  b,4. ~ $c3 b d e f e f $$
+  g,4. ~ $c3 g b d f e d 
+  g f e d e c g c b $$
+  b'4. ~ $c3 b c d f, e d 
+  g f e d e c g c b $$
+  c4. r8 r c'\f (b c a)
+  g4. ~ $c3 g a f e f d $$
+  e4\trill d8 $c3 c e d e g fs
+  g b a b c d d, g fs $$
+  g4. ~ $c3 g b c d c d $$
+  f,4. ~ $c3 f b c d c d $$
+  e,4. ~ $c3 e gs b d c b
+  c a b c b a g a bb
+  a f g a g f e f g 
+  f d e f g a b c d $$
+  f,4. ~ $c3 f d e f e f $$
+  b,4. ~ $c3 b d e f e f $$
+  g,4. ~ $c3 g b d f e d 
+  g f e d e c g c b $$
+  b'4. ~ $c3 b c d f, e d 
+  g f e d e c g c b $$
+  c4\fermata e8\p a2. ~
+  a ~ $c3 a b gs
+  a b c d, e fs $$ g4. ~
+  g2. ~ g8 a fs
+  g4. r r
+  R2.*3/2
+  r8 g\f a $c3 b a g fs g a
+  g e f! g f e d e f 
+  e c d e fs g a b c $$
+  ds,4. ~ $c3 ds fs g a g a $$
+  b,4. ~ $c3 b ds fs a g fs
+  b a g fs g e b e ds $$
+  e4. r r
+  r8 r e\p $c3 a bb g f d' cs $$
+  d4. r r 
+  r8 r d, $c3 g a f e c' b $$
+  c4. r8 r a (gs a) f!
+  e4.\trill ~ $c3 e f d c d b $$
+  c b a e'2.\p ~
+  e8 d c d2. ~
+  d8 c b c2. ~
+  c8 b a b2. ~
+  $c3 b a gs a c b c e d 
+  e a gs a c b c e gs, $$
+  a4. r r
+  \dalsegno 
+}

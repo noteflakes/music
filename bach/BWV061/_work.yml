@@ -1,5 +1,6 @@
 title: Cantata BWV 61
 subtitle: "\"Nun komm, der Heiden Heiland\""
+subsubtitle: "Source: D B Mus. ms. Bach P 45"
 composer: Johann Sebastian Bach
 movements:
   03-aria:
@@ -9,8 +10,24 @@ movements:
 parts:
   violini:
     no_part: true
-  violoncello:
-    source: continuo
+  violino1:
+    breaks:
+      - 03-aria
+  violino2:
+    breaks:
+      - 03-aria
+  viola1:
+    breaks:
+      - 03-aria
+  viola2:
+    breaks:
+      - 03-aria
+  continuo:
+    breaks:
+      - 02-recitativo
+      - 03-aria
+      - 03-aria
+      - 05-aria
 score:
   order:
     - violini

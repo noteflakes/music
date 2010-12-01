@@ -5,7 +5,6 @@ require 'fileutils'
 require 'hpricot'
 require 'httparty'
 require 'open-uri'
-require 'iconv'
 require 'pp'
 
 def open_url(url)
@@ -15,18 +14,6 @@ rescue Timeout::Error
   puts "timeout while getting #{url}"
   ''
 end
-
-UTF8CONVERTER = Iconv.new( 'ISO-8859-15//IGNORE//TRANSLIT', 'utf-8')
-
-# Fix PDF/Writer to display UTF8 strings correctly
-# require 'iconv'
-# class PDF::Writer
-#   UTF8CONVERTER = Iconv.new( 'ISO-8859-15//IGNORE//TRANSLIT', 'utf-8')
-#   alias_method :old_text, :text
-#   def text(textto, options = {})
-#     old_text(UTF8CONVERTER.iconv(textto), options)
-#   end
-# end
 
 class String
   def uri_escape

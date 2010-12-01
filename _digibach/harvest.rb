@@ -1,9 +1,11 @@
 require 'rubygems'
-require 'pdf/writer'
+require 'prawn'
+require 'prawn/layout'
 require 'fileutils'
 require 'hpricot'
 require 'httparty'
 require 'open-uri'
+require 'iconv'
 require 'pp'
 
 def open_url(url)
@@ -14,15 +16,17 @@ rescue Timeout::Error
   ''
 end
 
+UTF8CONVERTER = Iconv.new( 'ISO-8859-15//IGNORE//TRANSLIT', 'utf-8')
+
 # Fix PDF/Writer to display UTF8 strings correctly
-require 'iconv'
-class PDF::Writer
-  UTF8CONVERTER = Iconv.new( 'ISO-8859-15//IGNORE//TRANSLIT', 'utf-8')
-  alias_method :old_text, :text
-  def text(textto, options = {})
-    old_text(UTF8CONVERTER.iconv(textto), options)
-  end
-end
+# require 'iconv'
+# class PDF::Writer
+#   UTF8CONVERTER = Iconv.new( 'ISO-8859-15//IGNORE//TRANSLIT', 'utf-8')
+#   alias_method :old_text, :text
+#   def text(textto, options = {})
+#     old_text(UTF8CONVERTER.iconv(textto), options)
+#   end
+# end
 
 class String
   def uri_escape
@@ -173,35 +177,36 @@ class Harvester
   end
   
   def make_pdf
-    pdf = PDF::Writer.new; first = true
-    pdf.select_font "Helvetica-Bold"
+    pdf = Prawn::Document.new(:page_size => 'A4'); first = true
+    pdf.font "Helvetica"
+    pdf.font_size = 9
     page = 0
     process_jpgs do |jpg, label, hrefs|
       pdf.start_new_page unless first; first = false;
       page += 1
       # page identification
-      pdf.text "-#{page}-", :font_size => 9, :justification => :center
-      pdf.text "#{@work} - #{title} - #{label}", :font_size => 7, :justification => :center
+      pdf.text "page #{page}", :align => :center
+      pdf.text "#{@work} - #{title} - #{label}", :font_size => 7, :align => :center
       if jpg
         begin
-          pdf.image jpg, :resize => :full, :justification => :center
+          pdf.image jpg, :position => :center, :vposition => :center, :fit => [520, 700]
         rescue
-          pdf.text "", :font_size => 20, :justification => :left
+          pdf.text "", :font_size => 20, :align => :left
           text = hrefs.inject("Failed to load jpg for #{label}:\n") do |t, r|
             t << "  #{r}\n"
           end
-          pdf.text text, :font_size => 9, :justification => :left
+          pdf.text text, :font_size => 9, :align => :left
         end
       else
         puts "could not load jpg for #{label}"
         text = hrefs.inject("Could not load jpg for #{label}:\n") do |t, r|
           t << "  #{r}\n"
         end
-        pdf.text "", :font_size => 20, :justification => :left
-        pdf.text text, :font_size => 14, :justification => :left
+        pdf.text "", :font_size => 20, :align => :left
+        pdf.text text, :font_size => 14, :align => :left
       end
     end
-    pdf.save_as(pdf_filename)
+    pdf.render_file(pdf_filename)
   end
   
   def self.get_receipts(work_dir)
@@ -280,7 +285,6 @@ $pool = ThreadPool.new(1)
 idx = 1
 
 manuscripts.each do |h, m|
-  #next unless m.first['work_id'] == 65
   works = m.map {|i| Harvester.format_bwv_dir_name(i['BWV'])}.join(',')
   puts "(#{idx}) processing #{works}: #{m.first['name']}"
   #$pool.process {Harvester.process(m)}

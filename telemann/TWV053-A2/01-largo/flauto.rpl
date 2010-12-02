@@ -1,0 +1,59 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+
+  (gs'6 a) (cs e) (fs a) e8 (gs,6 a) (cs e) (d b') d,8
+  (e,6 gs) (b d) fs (e8 d6) [(cs3 b cs b) a8] [(d3 cs d cs) b8]
+  [(cs3 b cs b) a8] r6 (cs b) (d cs) (a cs) e cs4\trill
+  b $v3 fs' e fs e $$ cs4\trill r
+  a\trill (e6 gs) (a cs) fs, (as8 b6) (fs as) (b d)
+  gs, (bs8 cs6) (gs bs) (cs e) a, (cs8 d6) b (ds8 e6)
+  (cs e) (gs a) (gs, a) (cs e) (d cs) d8 $v3 a' gs fs e $$
+  (d3 cs b6) (cs3 b a6) r4 (d3 cs b6) (cs3 b a6) b8.\trill a6
+  $v3 b' a gs fs a gs fs e gs fs e ds fs e d cs $$
+  r6 d-| b-| gs-| e e' cs a e d' b gs e e' cs a
+  (d3 cs b6) (cs3 b a6) b4\trill a4 r8 e'
+  a a ~ (a3 b a e) (cs' d cs e,) a8 a ~ (a3 b a e) (cs d cs a)
+  fs'8 fs4 e6 d d8\trill cs r4
+  R1
+  r2 (gs6 a) (cs e) (fs a) e8
+  R1
+  r4 r8 gs [fs6 b (b3\trill as b6)] [fs6 b (b3\trill as b6)]
+  [e, (cs'3 b as b cs6)] [e, (cs'3 b as b cs6)] [ds, (fs3 e ds e fs6)] b,4\trill
+  r4 [(a'3 gs a gs) fs8] r4 b ~
+  b6 gs e fs e4\trill ds r
+  gs\trill r e\trill b6 (ds e) gs
+  r4 cs,6 (es fs) a r4 \ficta ds,6 (fss gs) b
+  r4 fs!6 (as8 b6) (gs b) (ds e) r8 e,
+  (ds6 e) ds8 r4 (a'6\p gs) a8 r4
+  r6 [ds,6\f (ds\trill cs3 ds)] [e6 e (e\trill ds3 e)] [fs6 fs (fs\trill e3 fs)] [gs6 gs (gs\trill fs3 gs)]
+  (a3 b cs6) (cs3 b a6) r4 (fs3 gs a6) (a3 gs fs6) r4
+  (fs3 e fs a) (fs3 e fs a) (fs3 e fs a) (fs3 e fs a) (gs fs e6) (a3 gs fs6) fs8.\trill e6
+  e4 r r2
+  R1*2
+  
+  r2 r4 [(cs'3 b cs b) a8]
+  [(b3 a b a) gs8] r4 r2
+  R1
+  r4 [(fs3 e fs e) d8] [(e3 d e d) cs8] r4
+  R1
+  r2 r4 [(g'3 fs g fs) e8]
+  [(fs3 e fs e) d8] a'4 ~ a6 fs d e d4\trill
+  cs8 r d r e r fs r
+  [(cs6 b3 cs) cs8\trill] [(d6 cs3 d) d8\trill] [(e6 d3 e) e8\trill] [(fs6 e3 fs) fs8\trill]
+  (g3 fs e6) (fs3 e d6) e8.\trill d6 d4 r
+  R1
+  r8 fs b b (b6 gs) a8 r a ~
+  a gs r gs ~ gs a r4
+  r8 a, fs' fs (fs6 ds) e8 r e ~
+  e ds r ds ~ ds e r4
+  r $v3 fs e fs e $$ r4 $v3 d cs d cs $$
+  r6 a' e cs a (cs b) (d cs) a cs e cs4\trill
+  b (e,6 gs) (a cs) fs, (as8 b6) (fs as) (b d)
+  gs, (bs8 cs6) r4 r b6 (ds8 e6)
+  (cs e) (gs a) (gs, a) (cs e) (d cs d8) $v3 a' gs fs e $$
+  (d3 cs b6) (cs3 b a6) r4 (d3 cs b6) (cs3 b a6) b8.\trill a6
+  $v3 b' a gs fs a gs fs e gs fs e ds fs e d cs $$
+  r6 d-| b-| gs-| e e' cs a e d' b gs e e' cs a
+  (d3 cs b6) (cs3 b a6) b4\trill a r
+}

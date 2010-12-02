@@ -1,0 +1,25 @@
+title: Concert
+subtitle: "TWV 53:A2"
+subsubtitle: "Tafelmusik (Hamburg, 1733) - 1re Production"
+composer: Georg Philipp Telemann
+parts:
+  fondamento:
+    clef: bass
+    midi_instrument: bassoon
+    embed_figures: true
+score:
+  hide_figures: true
+  order:
+    - flauto
+    - violino
+    - violoncello
+    - violino1
+    - violino2
+    - viola
+    - fondamento
+  groups:
+    - brace: [violino1, violino2]
+macros:
+  v1: "\\times 2/3 { #6[( # #)] }"
+  v2: "([#6*2/3 # #])"
+  v3: "[(#3 #6.) (#3 #6.)]"

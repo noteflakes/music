@@ -1,0 +1,155 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+
+  cs8 b a a cs d e e 
+  d e r4 b'8 e, r4
+  d8\p e r4 b'8 e, r4
+  d8\f d a fs' e e e e 
+  fs b, b fs' e e r4
+  fs8\p b, b fs' e e r4
+  e,8 a a e' a, e' a, e'
+  cs a' a a a4 a
+  fs,8 b b fs' b, b' b, fs'
+  ds b' b b b4 b
+  r2 e,4 e,
+  r2 e'4 e,
+  r2 e'4 e,
+  r2 e8 gs r4
+  e'8\f (fs6 gs) a b cs ds e8 b a b
+  e, e fs e cs a\p a' b,
+  b4 r e e,
+  r2 e'4 e,
+  r2 e'4 e,
+  r2 e8 gs r4
+  e'8\f (fs6 gs) a b cs ds e8 b a b
+  e, e fs e cs6 cs cs' cs a a e e 
+  fs fs a a fs fs cs cs ([d8 ~ d3 e fs gs] a8) cs,
+  d4 e a, r
+  R1*3
+  
+  
+  cs8\f b a a cs d e e 
+  d e r4 b'8 e, r4
+  R1*3
+  
+  
+  gs,8 fs e e' gs, a b b 
+  a b r4 fs'8 b, r4
+  R1*6
+  
+  
+  
+  
+  
+  r8 a\p a4 r8 a a4
+  r8 a a4 r8 a a4
+  r8 a a4 r8 a a4
+  r8 g g4 r8 g g g 
+  a4 r r2
+  R1
+  fs'8\f e d d fs g a a 
+  g a r4 e8 a, r4
+  R1*4
+  
+  
+  
+  r8 b\p b4 r8 b b4 
+  r8 b b4 r8 b b4 
+  r8 b b4 r8 b b4 
+  r8 a a4 r8 a a a
+  b4 r r2
+  R1*5
+  
+  
+  
+  
+  gs4\f\trill gs\trill gs\trill gs\trill
+  gs8 gs' e e e4 e
+  as,\trill as\trill as\trill as\trill
+  as8 as' fs fs fs4 fs
+  r2 b,4 b
+  r2 b4 b
+  r2 b4 b
+  b r8 e e b b cs
+  b4 b gs r
+  cs'6 cs e e cs cs gs gs ([a8 ~ a3 b cs ds] e8) gs,
+  a4 b e, r
+  r2 a,8\f e' a, cs
+  d cs r4 r2
+  d8 a' d, a' g fs r4
+  R1*2
+  
+  r4 e8\p r e r gs r
+  e r e r e r a r 
+  gs r e r gs,6\f gs b b e e gs gs
+  e4 r r2
+  R1*2
+  
+  r2 a,6 a cs cs e e a a 
+  a,4 r r2
+  R1*2
+  
+  r2 e'6 e gs gs b b e e 
+  e,4 r r2
+  R1*2
+  
+  gs4\p e r2
+  e4 e r2
+  fs8 fs fs fs e4 r
+  R1*3
+  
+  
+  a,8\f (b6 cs) d e fs gs a8 e b' b 
+  b4 r r2
+  R1*6
+  
+  
+  
+  
+  
+  cs,8\f b a a cs d e e 
+  d e r4 b'8 e, r4
+  d8 d a fs' e e e e 
+  fs fs fs fs e4 r
+  e,8 a a e' a, e' a, e'
+  cs a' a a a4 a
+  fs,8 b b fs' b, b' b, fs'
+  ds b' b b b4 b
+  gs r e e,
+  r2 e'4 e,
+  e'8 (fs6 gs) a b cs ds e8 b a b
+  e, e fs e cs6 cs cs' cs a a e e 
+  fs fs a a fs fs cs cs ([d8 ~ d3 e fs gs] a8) cs,
+  d4 e a,8 a' e cs
+  a4\fermata r \key a \minor r2
+  R1
+  a8\pp a a a gs gs g g 
+  fs fs f f e e ds ds 
+  e e e e e e e e 
+  ds ds ds ds e4 e'8 d
+  c c c c c c c c 
+  c c b b c c e e 
+  f f f f f f f f 
+  d d cs cs d d d d 
+  g g g g e e e e 
+  f f f f d d d d 
+  e e e e cs cs cs cs
+  d bb f a d bb f a
+  d g, a a d d c c
+  b! b b b e e e, e
+  a a a a fs' fs fs fs
+  g, g g g e' e e e 
+  fs, fs fs fs ds' ds ds ds
+  e c g b e c g b
+  e a, b b e e d d 
+  cs4 r fs, r 
+  cs' r fs, r
+  cs' r r2
+  R1*5
+  
+  
+  
+  
+  \dacapo
+}

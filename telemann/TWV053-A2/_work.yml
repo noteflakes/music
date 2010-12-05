@@ -12,7 +12,8 @@ parts:
     midi_instrument: bassoon
     embed_figures: true
 score:
-  hide_figures: true
+  embed_figures: true
+  figures_below: true
   order:
     - flauto
     - violino

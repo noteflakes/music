@@ -1,0 +1,226 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+
+  a''8 a,4 b6 cs d e fs gs 
+  a8 a,4 b6 cs d e fs d
+  e8 fs6 gs a8 gs6 fs e8 d
+  ^e d (cs6 b)  cs4 r
+  a'8\p a,4 b6 cs d e fs gs 
+  a8 a,4 b6 cs d e fs d
+  e8 fs6 gs a8 gs6 fs e8 d
+  ^e d (cs6 b)  cs4 r
+  e6\f e e e e e e e e e e e 
+  e d d cs d cs b a d cs b a
+  gs' gs gs gs gs gs gs gs gs gs gs gs
+  gs fs fs es fs e d cs fs e d cs
+  b' b b b b b b b b b b b 
+  b a a gs a gs fs e fs e d cs
+  d d d d d d d d d d d d 
+  (d e fs2) r8
+  (cs6 d e2) r8
+  (b6 cs d2) r8
+  cs8 (a6 b3 cs) d8 (b6 cs3 d) cs8 (a6 b3 cs)
+  (b6 a gs a b8) e, r4
+  cs'8\p (a6 b3 cs) d8 (b6 cs3 d) cs8 (a6 b3 cs)
+  (b6 a gs a b8) e, r4
+  d'4.\f (cs6 b) ^d8 cs (b6 a)
+  ^e'8 d (cs6 b) ^d8 cs (b6 a) ^cs8 b (a6 gs)
+  a a' gs a a, a' gs a a, a' gs a 
+  a, a' gs a a, a' gs a a, a' gs a 
+  d,4. (cs6 b) ^d8 cs (b6 a)
+  fs'4. (e6 d) a'8 (gs6 fs)
+  e8 a, b4 gs\trill
+  a8 e6 cs a4 r4
+  R2.
+  r4 cs'6 e cs a cs e cs a
+  gs b gs e gs b gs e gs b gs e 
+  a cs a e a e a cs a e a cs
+  b e, b' d b e, b' d b e, b' d 
+  cs8 (d6 cs d8) (fs6 e fs8) a,
+  gs6-| (b a b) e, gs b e e, gs b e 
+  d e cs e b e cs e b e a, e'
+  gs,-| (b a b) e, gs b e e, gs b e 
+  b'-| (gs a b) gs-| (e fs gs) e-| (b cs d)
+  cs4 r r
+  R2.*3
+  
+  
+  r6 (e d e) a, cs e a a, cs e a
+  g a, fs' a, e' a, fs' a, e' a, d a
+  cs-| (e d e) a, cs e a a, cs e a
+  (g fs g) b-| (g fs g) e-| (g fs g) a,-|
+  fs'8 d4 e6 fs g a b cs
+  d8 d,4 e6 fs g a b g
+  a8 b6 cs d8 cs6 b a8 g
+  ^a g (fs6 e) fs8 a6 fs d8 a6 fs 
+  d4 r r
+  fs8 g4 (g6 a3 b) a8 (e6 fs3 g)
+  fs8 e'4 (e6 fs3 g) fs8 (cs6 d3 e)
+  d4 r r
+  R2.*2
+  
+  fs6\f fs fs fs fs fs fs fs fs fs fs fs 
+  b b b b b b b b b b b b 
+  b a a gs a gs gs fs gs fs fs e
+  fs fs fs fs fs fs fs fs fs fs fs fs 
+  fs e e ds e4 r
+  r4 (e8.\trill ds3 e) fs8 e
+  ds\trill e b'4-| b-|
+  b-| b-| b-|
+  b2.\trill ~
+  b ~
+  b8 (cs6 b cs8) (a6 gs a8) gs
+  fs4 r r
+  (e6 fs gs2) r8
+  (ds6 e fs2) r8
+  (cs6 ds e2) r8
+  R2.
+  b'8 (gs6 a b8) e, ^gs fs (e6 ds)
+  e4 r8 gs, ^b a (gs6 fs)
+  gs8 a4 (a6 b3 cs) b8 (fs6 gs3 a)
+  gs8 fs'4 (fs6 gs3 a) gs8 (ds6 e3 fs)
+  e4 r r
+  r6 b cs ds e fs ds e fs gs e fs
+  gs8 (e6 fs gs8) gs, ^b a (gs6 fs)
+  e'8\f e,4 fs6 gs a b cs ds
+  e8 e,4 fs6 gs a b cs a
+  b8 cs6 ds e fs gs a b8 a
+  ^b a (gs6 fs) gs4 r
+  ^a8 g4. (fs6 e) ^g8 fs (e6 d)
+  ^a'8 g (fs6 e) ^g8 fs (e6 d) ^fs8 e (d6 cs)
+  d d' cs d d, d' cs d d, d' cs d 
+  d,, d' cs d d, d' cs d d, d' cs d 
+  g,4. (fs6 e) ^g8 fs (e6 d)
+  d'4. (cs6 b) ^d8 cs (b6 a)
+  a'8 (fs6 g3 a) g8 (e6 fs3 g) fs8 (d6 e3 fs)
+  e8 (cs6 d3 e) d8 (b6 cs3 d) cs8 (a6 b3 cs)
+  (b6 a gs a b8) e, [d' (b6 cs3 d)]
+  cs8 (a6 b3 cs) b8 (gs6 a3 b) a8 (fs6 gs3 a)
+  (gs6 fs e fs) gs4 r8 gs'
+  a,4\trill r8 cs (d6 cs d) e-|
+  cs8 a' a,4\trill r
+  r r8 cs (d6 cs d) e-|
+  cs8 e e2\trill ~
+  e4 r8 e,6 cs a4
+  r8 a'' (a6 fs ds8) r b'
+  (gs6 fs) e8 r (gs6 e) (b' gs e8)
+  r fs, (b6 ds fs8) r a
+  gs e e2\trill ~
+  e4 r8 b6 gs e8 gs
+  a4 $v4 a gs a a gs a $$
+  b4 $v4 b a b b a b $$
+  cs6 a' gs a a, a' gs a a, a' gs a 
+  a, a' gs a a, a' gs a a, a' gs a 
+  (a,6 b cs4) a8 b gs
+  (a6 b cs4) a8 b gs
+  cs (b6 a) gs8 a e gs
+  a6 cs cs cs cs cs cs cs cs cs cs cs 
+  fs fs fs fs fs fs fs fs fs fs fs fs 
+  fs e e ds e8 (b6 a b8) cs
+  $v4 d\trill cs d $$ fs8 d a' d,
+  $v4 d\trill cs d $$ e8 d b' d,
+  cs d e fs e d 
+  cs d e fs e d 
+  cs d e fs e d 
+  cs d e fs e d 
+  a'8 (gs6 fs) e8 d cs b
+  a'8 a,4 b6 cs d e fs gs 
+  a8 a,4 b6 cs d e fs d
+  e8 fs6 gs a8 gs6 fs e8 d
+  cs6 cs cs cs cs cs cs cs cs cs cs cs 
+  cs b b a b a a gs a gs gs fs
+  gs gs gs gs gs gs gs gs gs gs gs gs 
+  g' fs fs e fs e e d e d d cs
+  d d d d d d d d d d d d 
+  (d e fs2) r8
+  (cs6 d e2) r8
+  (b6\p cs d2) r8
+  (a6 b cs2) r8
+  b8\f (gs6 a3 b) cs8 (a6 b3 cs) d8 (b6 cs3 d)
+  e8 (cs6 d3 e) fs8 (d6 e3 fs) gs8 (e6 fs3 gs)
+  a4. (gs6 fs) ^a8 gs (fs6 e)
+  ^b'8 a (gs6 fs) ^a8 gs (fs6 e) ^gs8 fs (e6 ds)
+  e8 d!4 (cs6 b) a'8 (gs6 fs)
+  e8 a, b4 gs\trill
+  a8 e6 cs a4\fermata r
+  cs'8 (d6 cs) fs4 a
+  (b,6 cs b as) (as4 b)
+  R2.*2
+  
+  (a6 d8.) (fs6 d8.) (a'6 d,8.)
+  R2.
+  (fs6 e) (d cs) (d cs) (b a) (b a) (gs fs)
+  cs'8. d6 (fs,4 es)
+  r8 gs' cs, gs' es, gs'
+  ^a gs (fs6 gs) (a gs) (fs gs) a8 fs,
+  r fs' b, fs' ds, fs'
+  ^gs fs (e6 fs) (gs fs) (e fs) gs8 e,
+  (gs'6 fs gs) b a4-| gs-|
+  gs8. e6 (e4 fs)
+  (fs6 e fs) a gs4-| fs-|
+  fs8. ds6 (ds4 e)
+  (gs3 fs e8.) (gs3 fs e8.) ds8\trill cs
+  R2.
+  (bs6 cs8.) r4 (e6 cs8.)
+  (bs6 cs8.) r4 (fs6 cs8.)
+  bs6 gs' bs, gs' bs, gs' bs, gs' cs, gs' cs, gs' 
+  ds gs ds gs ds gs ds gs e gs e gs 
+  bs, gs' bs, gs' bs, gs' bs, gs' cs, gs' cs, gs' 
+  ds8 (ds6 cs) bs4\trill r8 bs
+  (cs6 bs cs e) ds4 bs\trill
+  cs8. ds,6 (ds4 e)
+  e'8\trill (ds6 e) g4-| e-|
+  R2.
+  (d6 e d cs) d4-| e,-|
+  R2.
+  r8 e' a, e' cs, e'
+  fs (d6 cs) d8 a fs d
+  r fs' b, fs' ds, fs'
+  gs (e6 ds) e8 b gs e
+  (cs'6 b cs) e-| d4-| cs-|
+  cs8. a6 (a4 b)
+  (b6 a b) d-| cs4-| b-|
+  b8. gs6 (gs4 a)
+  (fs6 gs a b cs8) fs, cs' fs,
+  R2.
+  (es'6 fs8.) r4 (a6 fs8.)
+  (es6 fs8.) r4 (b6 fs8.)
+  es6 cs es cs es cs es cs fs cs fs cs
+  gs' cs, gs' cs, gs' cs, gs' cs, a' cs, a' cs,
+  es cs es cs es cs es cs fs cs fs cs
+  gs'8 (gs6 fs) es4\trill r8 es
+  (fs6 es fs) a gs4 es\trill
+  fs4 $v4 cs d cs fs gs fs $$
+  a2. ~
+  a2\fermata r4
+  r4 (gs8 fs es) fs
+  (es fs) gs2 ~
+  gs4 cs, fs
+  r8 (fs6 es) (fs gs) (fs gs) (gs8.\trill fs3 gs)
+  a8. fs6 es4.\trill fs8
+  fs2.
+  \dacapo
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

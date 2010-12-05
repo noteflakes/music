@@ -1,0 +1,195 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+
+  cs8 d e a4 a8 ~
+  [a gs6 fs e8] a4 a8 ~
+  a d cs b6 a gs8 b
+  a4 r8 a,\p cs e
+  cs8 d e a4 a8 ~
+  [a gs6 fs e8] a4 a8 ~
+  a d cs b6 a gs8 b
+  a4 r8 a,\f cs e
+  cs a r4 r
+  fs''6 fs fs fs fs fs fs fs fs fs fs fs 
+  fs e e ds e d cs b e d cs b
+  a' a a a a a a a a a a a 
+  a gs gs fs gs fs e ds e d cs b
+  cs cs cs cs cs cs cs cs cs cs cs cs 
+  cs b b as b a gs fs b a gs fs
+  gs gs gs gs gs gs gs gs gs gs gs gs 
+  a a a a a a a a a a a a 
+  b b b b b b b b b b b b 
+  a4 b a
+  gs r8 gs\p gs, gs'
+  a4 b a
+  gs r8 b,\f gs gs'
+  a fs gs b a a ~
+  a gs a e fs e ~
+  e d cs e fs d
+  e d cs e fs d
+  fs fs gs b a a 
+  a (d6 cs) d8 d4 b8
+  cs e, fs4 e
+  e r r
+  R2.*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  cs8 d e a4 a8 ~
+  [a (gs6 fs) e8] a4 a8 ~
+  a d cs (b6 a) gs8 b
+  a4 r8 e'6 cs a8 e6 cs
+  a4 r r
+  R2.*3
+  
+  
+  fs'8 g a d4 d8 ~
+  [d (cs6 b) a8] d4 d8 ~
+  d g fs (e6 d) cs8 e
+  d4 r8 a'6 fs d8 a6 fs
+  d4 r r
+  d\pp d d
+  d d d 
+  d r r 
+  R2.*2
+  
+  fs'6 fs fs fs fs fs fs fs fs fs fs fs 
+  fs e e ds e d d cs d cs cs b
+  cs cs cs cs cs cs cs cs cs cs cs cs 
+  cs b b as b a a gs a gs gs fs
+  gs2 r4
+  R2.*6
+  
+  
+  
+  
+  
+  ds'8\f (b6 cs3 ds) e8 (cs6 ds3 e) fs8 (ds6 e3 fs)
+  e4 r r
+  R2.*2
+  
+  ds8 (b6 cs3 ds) e8 (cs6 ds3 e) fs8 (ds6 e3 fs)
+  e4 r r
+  R2.
+  e,4\pp e e
+  e e e
+  e r r 
+  R2.*2
+  
+  b8\f a b e4 e8 ~
+  [e (ds6 cs) b8] e4 e8 ~
+  e a b e fs fs ~
+  [fs e6 ds e8] b4 gs8
+  e cs' d a a d ~
+  d cs d a b a ~
+  a g fs a b g
+  a, g a a b g
+  b b cs e d d~
+  d fs gs b a a ~
+  a a b a a b ~
+  b e, fs e e a
+  (gs6 fs e fs) gs4 r
+  R2.*5
+  
+  
+  
+  
+  r4 r8 e'6 cs a8 e6 cs
+  a4 r r
+  R2.*3
+  r4 r8 b''6 gs e8 b6 gs
+  e4 r r
+  R2.*7
+  
+  
+  
+  
+  
+  
+  cs'6 cs cs cs cs cs cs cs cs cs cs cs 
+  cs b b a b a a gs a gs gs fs
+  gs2 r4
+  R2.*7
+  
+  
+  
+  
+  
+  
+  cs,8 d e a4 a8 ~
+  [a (gs6 fs) e8] a4 a8 ~
+  a d cs b6 a gs8 b
+  a2 r4
+  fs'6 fs fs fs fs fs fs fs fs fs fs fs 
+  fs e e ds e d d cs d cs cs b
+  cs cs cs cs cs cs cs cs cs cs cs cs 
+  cs b b as b a a gs a gs gs fs
+  gs gs gs gs gs gs gs gs gs gs gs gs 
+  a a a a a a a a a a a a 
+  b\p b b b b b b b b b b b 
+  a a a a a a a a a a a a 
+  gs8\f e e a gs gs
+  e a4 b cs8 ~
+  cs cs ds b b e ~
+  e ds e b cs b ~
+  b a gs gs e d
+  e e fs4 e
+  e8 e6 cs a4\fermata r
+  a'_\markup { \italic { pizz } \dynamic pp } a cs
+  b b b 
+  gs gs gs
+  fs gs a 
+  a a a 
+  gs gs gs
+  fs fs fs
+  gs a gs
+  cs r r 
+  cs r r 
+  b r r 
+  b r r 
+  b fs' e
+  e r ds
+  bs cs bs
+  gs r gs
+  cs cs cs 
+  cs cs cs
+  e e e 
+  e e cs
+  ds r cs
+  bs r e
+  ds r cs
+  bs bs bs
+  cs ds bs
+  cs r gs
+  cs cs cs
+  cs fs, fs 
+  b b b 
+  e, gs e
+  a r r 
+  a r r 
+  b r r 
+  b r r 
+  cs d cs 
+  cs r b 
+  es fs es
+  cs r cs
+  cs cs a
+  a a a 
+  a a a 
+  a a b
+  gs r a'
+  es r fs
+  gs r a
+  es es es
+  fs gs es
+  fs r r 
+  R2.*8
+  \dacapo
+}

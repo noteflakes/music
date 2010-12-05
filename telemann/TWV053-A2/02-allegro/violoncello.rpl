@@ -1,0 +1,204 @@
+\relative c {
+  \key a \major
+  \time 3/4
+
+  a8 b cs a fs' d
+  cs b cs a fs' d
+  cs b cs d e e,
+  a4 r8 a'\p e cs
+  a b cs a fs' d
+  cs b cs a fs' d
+  cs b cs d e e,
+  a4 r8 a'\f e cs
+  a cs cs cs cs cs
+  d d d d d d 
+  e e e e e e 
+  fs fs fs fs fs fs
+  gs gs gs gs gs gs
+  a a a a a a 
+  b b b b b b 
+  e,6 e e e e e e e e e e e
+  e e e e e e e e e e e e 
+  e e e e e e e e e e e e 
+  a4 gs a
+  e r r
+  R2.
+  r4 r8 e\f e, e'
+  fs b e, gs a cs
+  b e, a cs, d e
+  cs b a cs d b
+  cs b a cs d fs
+  b, b' e, gs a cs
+  d, d, d' e fs gs
+  a cs, d4 e
+  a, r r
+  R2.
+  r4 a'6 e a cs a e a cs 
+  b e, b' d b e, b' d b e, b' d 
+  cs a cs e cs e cs a cs e cs a 
+  gs b gs e gs b gs e gs b gs e 
+  a4 d, d,
+  e r r 
+  gs'8 a gs a gs fs
+  e4 r r 
+  gs8 e b' e, gs e
+  a,8\f b cs a fs' d
+  cs b cs a fs' d
+  cs b cs d e e,
+  a4 a a 
+  a r r 
+  cs'8 d cs d cs b
+  a4 r r 
+  cs8 a e' a, cs a
+  d, e fs d b' g
+  fs e fs d b' g
+  fs e fs g a a,
+  d4 d d 
+  d fs8 b g a
+  d,4 r r
+  R2.*4
+  
+  
+  
+  d8\f d d d d d 
+  gs, gs gs gs gs gs
+  a a a' a a a 
+  ds, ds ds ds ds ds
+  e4 e, r
+  R2.
+  r4 e'6 gs e b e gs e b
+  fs' b, fs' a fs b, fs' a fs b, fs' a 
+  gs e gs b gs b gs e gs b gs e 
+  ds fs ds b ds fs ds b ds fs ds b 
+  e4 a a,
+  b\f b b
+  e,6 e e e e e e e e e e e 
+  b' b b b b b b b b b b b 
+  e e e e e e e e e e e e 
+  b4 b b
+  e, r8 gs' a fs
+  gs (e6 fs gs8) cs a b
+  e,4 r r
+  R2.
+  r4 gs ds
+  e cs a
+  gs4. cs8 a b
+  e fs gs e cs' a
+  gs fs gs e cs' a
+  gs fs gs e ds b
+  e4 e8 e, e' d
+  cs a b cs d fs 
+  e a, d fs g a
+  fs e d fs g e
+  fs e d fs, g b
+  e, e' a, cs d fs
+  b, b' e, gs! a cs
+  d, d' b cs d b
+  gs a fs gs a a,
+  e'4 e, r
+  R2.
+  r4 r8 e''6 d cs8 b
+  cs6 a a a e' a, a a fs' a, a a
+  e' a, a a cs a a a d a a a 
+  cs a a a e' a, a a fs' a, a a
+  e' a, gs a a,4 a
+  a4 r8 a'6 gs fs8 e
+  ds6 b' b b ds b b b ds, b' b b
+  e, b' b b e b b b e, b' b b
+  ds, b' b b ds b b b ds, b' b b
+  e, b gs b e,4 e
+  e4 r8 e' e, e'
+  fs4 $v4 fs e fs fs e fs $$
+  gs4 $v4 gs fs gs gs fs gs $$
+  a8 b cs d cs b
+  a8 b cs d cs b
+  a4 a,8 a' d, e
+  a4 a,8 a' d, e
+  cs d e fs e e,
+  a a' a a a a 
+  ds, ds ds ds ds ds
+  e4 e, r8 e'
+  fs4 $v4 fs e fs fs e fs $$
+  gs4 $v4 gs fs gs gs fs gs $$
+  a8 b cs d cs b
+  a8 b cs d cs b
+  a4 a,8 a' d, e
+  a4 a,8 a' d, e
+  cs d e fs e e,
+  a8 b cs a fs' d
+  cs b cs a fs' d
+  cs b cs d e e,
+  a a' a a a a 
+  ds, ds ds ds ds ds
+  e e e e e e 
+  as, as as as as as 
+  b b b b b b
+  e6 e e e e e e e e e e e 
+  e e e e e e e e e e e e 
+  e,\p e e e e e e e e e e e 
+  e e e e e e e e e e e e 
+  e'8\f e, a' a, b' b,
+  cs' cs, d' d, e' e,
+  fs a b, ds e gs
+  fs b, e gs a b
+  gs fs e d' cs b
+  cs cs, d4 e
+  a,2\fermata r4 \clef tenor
+  fs''_\markup { \italic { pizz } \dynamic pp } fs fs
+  gs gs gs
+  es es es
+  fs fs fs
+  fs fs fs
+  e! e e
+  d d d 
+  cs cs cs
+  es r r
+  fs r r 
+  ds r r 
+  e r r
+  e ds e
+  b b b 
+  gs gs gs
+  cs cs cs
+  e, e e
+  fs fs fs
+  gs gs gs
+  a a a 
+  gs r r
+  gs r r 
+  gs r r 
+  gs gs gs 
+  cs fs, gs
+  cs, r cs'
+  as as as
+  b b b
+  gs gs gs
+  a a a 
+  cs r r 
+  d r r 
+  ds r r 
+  e r r 
+  a, gs a
+  e' e e 
+  cs cs cs
+  fs fs fs
+  a, a a 
+  b b b 
+  cs cs cs 
+  d d d 
+  cs r r 
+  cs r r 
+  cs r r 
+  cs cs cs
+  fs b, cs
+  fs, r r \clef bass
+  fs,_\markup { \italic "con l'arco" } r r
+  b2\fermata r4
+  b'2 d4
+  cs es, cs
+  fs fs fs
+  d d b
+  a8. b6 cs4 cs,
+  fs2.
+  \dacapo
+}

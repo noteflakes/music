@@ -1,0 +1,198 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+
+  e8 d cs e fs fs 
+  e d e e d a
+  e' d e fs b, gs'
+  e4 r8 cs\p e a,
+  e' d cs e fs fs
+  e d e e d a
+  e' d e fs b, gs'
+  e4 r8 cs\f e a,
+  e' a a a a a 
+  a a, a a a d
+  b b b b b e
+  cs cs cs cs cs fs
+  fs b, e e e e 
+  e e e a a a 
+  fs fs fs fs fs b,
+  b6 b b b b b b b b b b b 
+  cs cs cs cs cs cs cs cs cs cs cs cs 
+  gs' gs gs gs gs gs gs gs gs gs gs gs 
+  e4 e e 
+  e r8 gs,\p b e
+  e4 e e 
+  e r8 gs,\f b b
+  a d b e e e 
+  d e e e d b
+  cs d e a, a d
+  cs d e a, a a 
+  b b b e e e 
+  d a a a a e'
+  e e d4 b 
+  cs r r
+  R2.*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  e8\f d cs e fs fs
+  e d e e d a
+  e' d e fs b, gs'
+  e4 e cs
+  cs r r
+  R2.*3
+  
+  
+  a'8 g fs a b b 
+  a g a a g d
+  a' g a b e, cs'
+  a4 a fs
+  fs r r
+  d\pp d d
+  d d d 
+  d r r 
+  R2.*2
+  
+  a'8\f a a a a a 
+  b b e, e e e 
+  e e e e e e 
+  fs fs b, b b b 
+  b2 r4
+  R2.*6
+  
+  
+  
+  
+  
+  b'4\f b b
+  b r r 
+  R2.*2
+  
+  b4 b b 
+  b r r 
+  R2.
+  e,4\pp e e
+  e e e 
+  e r r
+  R2.*2
+  
+  gs,8\f a gs b cs cs
+  b a b b cs e
+  b' a e b b ds
+  b4 b8 gs e b'
+  a a' d, e d a'
+  b a a a g e
+  fs g a d, d g
+  d e fs, d d d 
+  e e e a a fs
+  fs' b, b e e e 
+  d d d e d fs
+  b, cs a b a e'
+  e2 r4
+  R2.*5
+  
+  
+  
+  
+  r4 r8 cs6 cs cs8 cs,6 cs
+  cs4 r r
+  R2.*3
+  
+  
+  r4 r8 gs''6 gs gs8 gs,6 gs
+  gs4 r r
+  R2.*7
+  
+  
+  
+  
+  
+  
+  e'8 e e e e e 
+  fs fs b, b b b 
+  b2 r4
+  R2.*7
+  
+  
+  
+  
+  
+  
+  e8 d cs e fs fs 
+  e d e e d a
+  e' d e fs b, e
+  e e e e e e 
+  fs fs b, b b b 
+  b b b b b e
+  e e cs fs fs fs
+  fs fs fs fs fs b,
+  b6 b b b b b b b b b b b 
+  cs cs cs cs cs cs cs cs cs cs cs cs 
+  gs'\p gs gs gs gs gs gs gs gs gs gs gs 
+  e e e e e e e e e e e e 
+  e8\f b a cs b b'
+  a e d fs e gs
+  fs fs fs fs e b'
+  cs b b b a fs
+  e fs b, e e gs
+  a a d,4 b
+  cs2\fermata r4
+  fs_\markup { \italic { pizz } \dynamic pp } fs fs
+  gs gs gs
+  es es es
+  fs fs fs
+  fs fs fs
+  e! e e
+  d d d 
+  cs cs cs
+  es r r
+  fs r r 
+  ds r r 
+  e r r
+  e ds e
+  b b b 
+  gs gs gs
+  cs cs cs
+  e, e e
+  fs fs fs
+  gs gs gs
+  a a a 
+  gs r r
+  gs r r 
+  gs r r 
+  gs gs gs 
+  cs fs, gs
+  cs, r cs'
+  as as as
+  b b b
+  gs gs gs
+  a a a 
+  cs r r 
+  d r r 
+  ds r r 
+  e r r 
+  a, gs a
+  e' e e 
+  cs cs cs
+  fs fs fs
+  a, a a 
+  b b b 
+  cs cs cs 
+  d d d 
+  cs r r 
+  cs r r 
+  cs r r 
+  cs cs cs
+  fs b, cs
+  fs, r r
+  R2.*8
+  \dacapo
+  
+}

@@ -1,0 +1,72 @@
+\relative c' {
+  \key a \major
+  \time 6/8
+
+  (e'8. fs6) e8 e fs e
+  ^d (cs8. d6) cs8 cs ^e d ^cs b
+  (a8. b6) a8 a e a
+  b ^b cs8. d6 ^cs8 b (e6 d) (cs b)
+  cs8 (e6 d) (cs b) a8 e a
+  b ^b cs8. d6 ^cs8 b4.\trill
+  \grace { [cs6 d] } e4. \grace { [fs6 gs] } a4.
+  \grace { [gs6 fs] } e8 (d6 cs) (d b) a fs'4 r6
+  e8 (d6 cs) (d b) a d4 r6
+  (cs3 d e6) (e e e e) (cs3 d e6) (e e e e)
+  e8 (fs6 e) (d cs) [(b ds e) a,] <gs b e>8
+  R2.*3
+  
+  
+  (e'3 fs gs6) (gs gs gs gs) (e3 fs gs6) (gs gs gs gs)
+  gs8 (a6 gs) (fs e) (ds cs ds) as b8
+  (fs'6 as b) e, ds8 r6 (cs ds) as b8
+  \grace { [cs6 ds] } e4. (e8\trill ds6) e (fs3 e ds6)
+  (b'8. cs6) b8 b cs b
+  ^a (gs8. a6) gs8 gs ^b a ^gs fs
+  (e8. fs6) e8 e b e
+  fs ^fs gs8. a6 ^gs8 fs (b6 a) (gs fs)
+  gs8 (b6 a) (gs fs) e8 b e
+  fs ^fs gs8. a6 ^gs8 fs cs-| r
+  ^e ds (cs6 b) e8 a r6 fs gs8
+  r6 e fs4\trill e r8
+  R2.*6
+  
+  
+  
+  
+  
+  e8 ^e fs8. g6 ^fs8 e (d6 cs) d8
+  e8 ^e fs8. g6 ^fs8 e b'-| r
+  cs,\trill (b6 a) d8 g r6 e fs8
+  r6 g e8.\trill d6 d4 r8
+  (e6 cs) (e cs) (fs d) (e6 cs) (e cs) (fs d)
+  (e cs) (b a) (b gs) a4 r8
+  R2.
+  (gs'6 e) (gs e) (a fs) (gs e) (gs e) (a fs)
+  (gs b,) (a gs) (a fs) gs4 r8
+  r4 r8 r (gs6 a) (b gs)
+  \grace { [a6 b] } cs4. \grace { [a6 b] } cs4. 
+  ^d8 cs (b6 a) (b gs) a d4 r6
+  cs8 (b6 a) (b gs) a fs'4 r6
+  (e3 gs a6) (a a a a) (cs,3 d e6) (e e e e)
+  cs8 (d6 cs) (b a) (gs fs gs) ds-| e8
+  (b'6 ds e) a,-| gs8 r6 (fs gs) ds-| e8
+  \grace { [fs6 gs] } a4. (a8\trill gs6 a) (b3 a gs6)
+  (e'8. fs6) e8 e fs e
+  ^d (cs8. d6) cs8 cs ^e d ^cs b
+  (a8. b6) a8 a e a
+  b ^b cs8. d6 ^cs8 b (e6 d) (cs b)
+  cs8 (e6 d) (cs b) a8 e a
+  b ^b cs8. d6 ^cs8 b d r
+  cs fs r e a r
+  (gs6 fs e8) r r4 r8
+  (ds6 e ds e ds e) r4 r8
+  (d!6 cs d cs d b') r4 r8
+  (d,6 fs) (e d) (cs b) (cs e) (d cs) (b a)
+  (gs b) (a gs) (fs e) cs'8 fs-| r
+  e a-| r gs\trill (fs6 e) a8
+  d, r6 b cs8 r6 d b8.\trill a6
+  a4 r8 e'4-| r8
+  e4-| r8 ds4-| r8
+  e2.
+  
+}

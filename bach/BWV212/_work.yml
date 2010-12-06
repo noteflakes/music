@@ -1,0 +1,23 @@
+title: some title
+subtitle: some subtitle
+composer: some composer
+parts:
+  traverso:
+    midi_instrument: flute
+  corno:
+    midi_instrument: horn
+    midi_transpose: "g c,"
+score:
+  hide_figures: true
+  order:
+    - corno
+    - traverso
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - basso
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

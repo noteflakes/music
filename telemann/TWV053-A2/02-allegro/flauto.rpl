@@ -145,7 +145,7 @@
   e8 a, b4 gs\trill
   a2\fermata r4
   R2.*2
-  
+    [[\pageBreak]]
   (gs'6 a gs) cs, (d e d) cs (b' cs b) gs
   (a b a) es (es4 fs)
   R2.

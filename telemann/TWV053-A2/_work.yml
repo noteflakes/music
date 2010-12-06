@@ -9,13 +9,56 @@ movements:
   04-allegro:
     midi_tempo: 116 4
 parts:
+  flauto:
+    breaks:
+      - 02-allegro
+      - 03-gratioso
+  violino:
+    breaks:
+      - 02-allegro
+      - 03-gratioso
+      - 04-allegro
+  violino1:
+    breaks:
+      - 03-gratioso
+  violino2:
+    breaks:
+      - 02-allegro
+      - 03-gratioso
+      - 04-allegro
+  viola:
+    breaks:
+      - 02-allegro
+      - 02-allegro
+  violoncello:
+    breaks:
+      - 02-allegro
+      - 03-gratioso
+      - 04-allegro
+      - 04-allegro
   fondamento:
     clef: bass
     midi_instrument: bassoon
+    hide_figures: true
+    breaks:
+      - 02-allegro
+      - 02-allegro
+      - 03-gratioso
+      - 04-allegro
+      - 04-allegro
+  cembalo:
+    source: fondamento
+    clef: bass
+    midi_instrument: harpsichord
     embed_figures: true
+    breaks:
+      - 02-allegro
+      - 02-allegro
+      - 03-gratioso
+      - 04-allegro
+      - 04-allegro
 score:
-  embed_figures: true
-  figures_below: true
+  hide_figures: true
   order:
     - flauto
     - violino

@@ -1,0 +1,15 @@
+---
+parts:
+  continuo:
+    before_include: basso
+---
+\relative c {
+  \key d \major
+  \time 4/4
+
+  b1 ~
+  b4 as b2 ~
+  b e
+  cs4 fs r e
+  a,1\fermata
+}

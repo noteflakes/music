@@ -1,6 +1,6 @@
-title: some title
-subtitle: some subtitle
-composer: some composer
+title: Cantate Burlesque BWV 212
+subtitle: "Mer hahnen neue Oberkeet"
+composer: Johann Sebastian Bach
 parts:
   traverso:
     midi_instrument: flute

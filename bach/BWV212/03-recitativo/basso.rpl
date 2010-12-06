@@ -1,0 +1,17 @@
+\relative c {
+  \key a \major
+  \time 4/4
+
+  r4 a' r e'8 a,
+  r4 e8 fs g g b a
+  fs4 r r2
+  R1*5
+  r2 r4 d'
+  r8 fs,6 \ficta g a8 d, b' r r e
+  e b gs! b e, r6 e b'8 cs
+  d d r cs ^b a4 r8 cs
+  d4 r8 fs, es fs b a 
+  fs4 r r2
+  R1
+  r2 r4.
+}

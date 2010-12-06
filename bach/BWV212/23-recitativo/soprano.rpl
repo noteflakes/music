@@ -1,0 +1,12 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+
+  r2 r4 r8 d
+  a' a a b c c a d
+  b4 r8 c b a g fs
+  g a b c d e f d
+  e c c g r2
+  R1*3
+  r1\fermata
+}

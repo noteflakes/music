@@ -1,0 +1,17 @@
+---
+parts:
+  continuo:
+    before_include: soprano
+---
+\relative c {
+  \key c \major
+  \time 4/4
+
+  e1 ~
+  cs 
+  c!
+  b ~
+  b2 cs
+  d4 b r a
+  d1\fermata
+}

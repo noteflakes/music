@@ -1,3 +1,7 @@
+---
+layout:
+  shortest_duration_space: 1.7
+---
 \relative c' {
   \key a \major
   \time 3/4
@@ -45,7 +49,7 @@
   cs4 r r
   R2.*3
   
-  
+    
   r6 (e d e) a, cs e a a, cs e a
   g a, fs' a, e' a, fs' a, e' a, d a
   cs-| (e d e) a, cs e a a, cs e a
@@ -59,7 +63,7 @@
   fs8 e'4 (e6 fs3 g) fs8 (cs6 d3 e)
   d4 r r
   R2.*2
-  
+    
   fs6\f fs fs fs fs fs fs fs fs fs fs fs 
   b b b b b b b b b b b b 
   b a a gs a gs gs fs gs fs fs e
@@ -170,8 +174,8 @@
   ds8 (ds6 cs) bs4\trill r8 bs
   (cs6 bs cs e) ds4 bs\trill
   cs8. ds,6 (ds4 e)
-  e'8\trill (ds6 e) g4-| e-|
-  R2.
+  e'8\trill (ds6 e) g4-| e-| 
+  R2. 
   (d6 e d cs) d4-| e,-|
   R2.
   r8 e' a, e' cs, e'

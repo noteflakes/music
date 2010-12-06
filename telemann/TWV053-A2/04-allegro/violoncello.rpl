@@ -1,3 +1,7 @@
+---
+layout:
+  shortest_duration_space: 1.9
+---
 \relative c {
   \key a \major
   \time 4/4

@@ -1,0 +1,11 @@
+\relative c' {
+  \key d \major
+  \time 4/4
+
+  r8 b' e ds e r6 b gs8 a
+  b e, e' b cs4 r6 a cs d
+  e8 e a e fs fs r fs
+  fs cs as b cs fs, fs r6 fs'
+  fs8 b, e d b b r4
+  r1\fermata
+}

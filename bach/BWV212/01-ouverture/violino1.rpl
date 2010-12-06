@@ -1,0 +1,92 @@
+\relative c' {
+  \key a \major
+  \time 3/4 
+    \partial 4. e8 fs gs
+  a gs a e fs gs
+  a gs a e fs gs
+  a gs a b cs d
+  e4. e,8\p fs gs
+  a gs a e fs gs
+  a gs a e fs gs
+  a gs a b cs d \bar "||" \time 2/4 
+  e cs cs a
+  e' d cs4
+  cs8 b6 cs d8 cs
+  b4 a
+  cs8 cs6 cs cs8 a
+  e' d cs4
+  cs8 b6 cs d8 cs
+  b4 a \bar "||" \time 6/8 \tempo Andante
+  cs4 d8 e cs d
+  e a, fs' e4 a,6 b
+  cs4\pp d8 e cs d
+  e a, fs' e4 cs6\f e
+  d4 b6 d cs4 a6 cs
+  b8 a gs a4 cs6\pp e
+  d4 b6 d cs4 a6 cs
+  b8 a gs a4 gs'6\f a \time 2/4 \tempo Allegro
+  b8 gs e fs6 ds
+  e8 b e, gs'6 a
+  b8 gs e fs6 ds
+  e4 e,8 gs'6 a
+  b8 gs e fs6 ds
+  e8 b e, gs'6 a
+  b8 gs e fs6 ds
+  e4 e,8 b'6 cs
+  d8 b6 a b4
+  b'8 b,6 a b8 d
+  cs b6 a b8 gs
+  a4 a,8 gs'6 a
+  b8 b6 a b4
+  d8 b6 a b8 e
+  cs b6 a b8 gs \bar "||" \time 3/4 \tempo "Adagio"
+  a a6 b c8 b a g
+  f e e2
+  d8 e f e d c
+  b a a2
+  a'8 b c b a g
+  f e e2
+  d8 e f e d c
+  b a a2
+  f'8 e e2
+  bb8 a a2
+  d8 e f e d c 
+  b! a a2
+  f'8 e e2
+  bb8 a a2
+  d8 e f e d c 
+  b! a a2 \bar "||" \time 2/4 \tempo "Allegro"
+  a'6 e' d e f8 e
+  d8 b c4 
+  bb8 a a gs
+  a6 gs a b! a b c d
+  e8 d6 e f8 e
+  d b c4
+  bb8 a a gs \bar "||" \time 3/4 \tempo "Presto" \key a \major
+  a gs a e fs gs
+  a gs a e fs gs
+  a gs a b cs d
+  e4. e,8\p fs gs
+  a gs a e fs gs
+  a gs a e fs gs
+  a gs a b cs d
+  es4 r (fs8 e)
+  (e d) d, cs d cs
+  d2 e'8 d
+  d cs cs, b cs b
+  cs2 a'8 cs
+  b4 a cs,8 e
+  d4 cs a''8 gs
+  fs e d cs b e
+  a,4 r (fs8 e)
+  e d (d' cs) (d cs)
+  d2 e,8 d
+  d cs cs' b cs b
+  cs2 a,8 cs
+  b4 a cs'8 e
+  d4 cs a'8 gs
+  fs e d cs b e
+  a,2 a8 gs
+  fs e d cs b e
+  a,2\fermata
+}

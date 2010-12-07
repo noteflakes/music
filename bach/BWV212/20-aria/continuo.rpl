@@ -1,0 +1,175 @@
+\relative c {
+  \key a \major
+  \time 3/8
+    \partial 8 r8 \segno
+  r r e 
+  a cs a
+  gs e a
+  cs, (d6 b) (cs a)
+  d8 d' d,
+  e6 gs e gs e gs
+  cs,8 cs' cs,
+  d6 fs d fs d fs
+  b,8 cs d
+  e fs gs
+  a d, e
+  fs e d
+  cs d e 
+  a, b cs
+  fs, d e
+  a4 r8
+  r r e'
+  a cs a
+  gs e a
+  cs, (d6 b) (cs a)
+  d8 d' d,
+  e6 gs e gs e gs
+  cs,8 cs' cs,
+  d6 fs d fs d fs
+  b,8 cs d
+  e fs gs
+  a d, e
+  a, a' e
+  cs a e'
+  a cs a
+  gs e a
+  cs, (d6 b) (cs a)
+  d8 d' d,
+  e6 gs e gs e gs
+  cs,8 cs' cs,
+  d6 fs d fs d fs
+  b,8 b' r
+  e, gs e
+  a cs, e
+  a, cs a
+  e' gs fs
+  e b6 cs ds e
+  fs8 ds e
+  b cs ds
+  e a, b
+  cs b a
+  gs a b
+  e, fs gs
+  a a' gs
+  fs6 e ds e fs ds
+  gs,8 gs' fs
+  e6 ds cs ds e cs
+  fs,8 fs' e
+  ds e fs
+  b, ds fs
+  ds b a
+  gs6 b gs b gs b
+  cs e cs e cs e
+  a8 b b,
+  e,4 r8
+  r r b'
+  e gs e
+  ds b e
+  gs (a6 fs) (gs e)
+  a8 a, a'
+  b6 ds b ds b ds
+  gs,8 gs, gs'
+  a6 cs a cs a cs
+  fs,8 gs a ~
+  a gs6 fs e ds
+  e8 gs, b
+  e, e'6 fs gs e
+  a8 a, a' 
+  gs (a6 gs fs e)
+  a8 gs fs
+  e fs gs
+  a6 e a e a e
+  gs e gs e gs e
+  a e a e a e 
+  gs a gs fs e d
+  cs8 a e'
+  a cs a
+  gs e a
+  cs, (d6 b) (cs a)
+  d8 d' d,
+  e6 gs e gs e gs
+  cs,8 cs' cs,
+  d6 fs d fs d fs
+  b,8 cs d
+  e gs e
+  a d,6 cs d8 ~
+  d cs b
+  cs d e
+  a, b cs
+  fs, d e
+  a a' gs
+  fs6 a fs a fs a
+  ds, fs ds fs ds fs
+  b,8 fs a
+  gs e gs
+  a4 r8
+  b4 r8
+  cs d e
+  a,4 r8
+  r r e' 
+  a cs a
+  gs e a
+  cs, (d6 b) (cs a)
+  d8 d' d,
+  e6 gs e gs e gs
+  cs,8 cs' cs,
+  d6 fs d fs d fs
+  b,8 cs d
+  e fs gs
+  a d, e
+  fs e d
+  cs d e 
+  a, b cs
+  fs, d e \bar "||" \time 2/2
+  a2.\fermata a'4
+  $c1 gs gs b b 
+  es, es cs cs
+  fs e! ds fs
+  b, cs ds e
+  fs e ds cs
+  bs ds bs gs
+  cs ds $$ e fs8 gs
+  $c1 a gs fs gs
+  cs, ds e cs
+  fs d! b cs $$
+  fs,2 cs'4 cs
+  fs a (a8 gs fs e)
+  $c1 fs fs a a 
+  ds, ds b b 
+  e d! cs e
+  a, b cs d
+  e d cs b
+  as cs as fs
+  b cs $$ d e8 fs
+  $c1 g fs e fs
+  b, cs d b
+  e c a b $$
+  e,2 b'4 b
+  e g (g8 fs e d)
+  cs4 fs (fs8 e d cs)
+  b4 e (e8 d cs b)
+  as4 d (d8 cs b a)
+  gs4 cs (cs8 b a gs)
+  $c1 fs b cs d $$
+  cs cs' (cs8 b a gs)
+  fs4 b (b8 a gs fs)
+  (es4 fs8 gs) (fs es ds cs)
+  (fs4 b,) (cs d!)
+  cs cs' (cs8 b a gs)
+  fs4 a (a8 gs fs e)
+  d4 cs b cs 
+  fs, gs as fs
+  b g e fs
+  b2 fs4 fs
+  b d (d8 cs b a)
+  gs4 cs (cs8 b a gs)
+  fs4 b (b8 a gs fs)
+  es4 cs' (cs8 b a gs)
+  fs4 fs' (fs8 e d cs)
+  b4 b' (b8 a gs fs)
+  es4 fs b,2 ~
+  b4 (a8 gs) (b a gs fs)
+  cs'2 cs,
+  fs r4 \bar "|" \time 3/8 r8
+  \dalsegno
+}

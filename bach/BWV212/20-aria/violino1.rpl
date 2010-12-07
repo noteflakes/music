@@ -1,0 +1,174 @@
+\relative c' {
+  \key a \major
+  \time 3/8
+    \partial 8 e8 \segno
+  a cs b
+  a e6 fs gs a 
+  b8 (d6 b) (cs a)
+  e'4 e8 
+  fs6 d fs d fs d
+  b8 cs d
+  e6 cs e cs e cs
+  a8 b cs
+  (d6 cs) (cs b) (b a)
+  (gs d) (d cs) (cs b)
+  cs e (fs a) (gs b)
+  a e (fs a) (gs b)
+  a cs b d cs b
+  cs e d fs e8
+  (d,6 cs) (cs b) (b a)
+  a4 r8
+  R4.*3
+  
+  
+  r8 r e''
+  fs6 d fs d fs d
+  b8 cs d
+  e6 cs e cs e cs
+  a8 b cs
+  (d6 cs) (cs b) (b a)
+  (gs d) (d cs) (cs b)
+  cs e (fs a) (gs b)
+  a e (fs a) (gs b)
+  a8 cs b
+  a e6 fs gs a
+  b8 (d6 b) (cs a)
+  e'4 e8 
+  fs6 d fs d fs d
+  b8 cs d
+  e6 cs e cs e cs
+  a8 b cs
+  (d6 b) (b a) (a gs)
+  gs b gs b gs b
+  cs e, (e d) (d cs)
+  cs e cs e cs e
+  gs, e' b' e, a e
+  gs e fs e gs e
+  a ds fs b, e b
+  ds fs e gs fs a
+  gs b, cs e ds fs
+  e b cs e ds fs
+  e gs fs a gs fs
+  gs e, (e d) (d cs)
+  cs e cs e cs e
+  a gs fs e ds cs
+  b ds b ds b ds
+  gs fs e ds cs b
+  a b a b a b 
+  a cs a cs a cs
+  ds8 fs a
+  (gs6 fs e ds) b'8
+  b6 gs b gs b gs
+  e gs e gs e gs
+  (cs, e a gs a fs)
+  e gs b e b gs
+  e8 gs fs
+  e (b6 cs ds e)
+  fs8 (a6 fs) (gs e)
+  b'4 b8
+  cs6 a cs a cs a
+  fs8 gs a
+  b6 gs b gs b gs
+  e8 fs gs
+  a6 cs d b cs e
+  ds fs e gs fs a
+  gs8 e ds 
+  e4. ~
+  e8 (d!6 cs b a)
+  e'4. ~
+  e8 e, a ~ a6 (gs a gs fs e)
+  (cs' d e4)
+  b8 cs\trill d
+  cs (d6 cs b a)
+  b8 e,6 fs gs e
+  a8 cs b
+  a e6 fs gs a 
+  b8 (d6 b) (cs a)
+  e'4 e8 
+  fs6 d fs d fs d
+  b8 cs d
+  e6 cs e cs e cs
+  a8 b cs
+  (d6 cs) (cs b) (b a)
+  (gs d) (d cs) (cs b)
+  cs e fs a gs fs
+  b e, fs a gs b
+  a cs b d cs b
+  cs e d fs e8
+  (d,6 cs) (cs b) (b a)
+  a4 r8
+  a'4 r8
+  fs4 r8
+  ds4 r8
+  e4. ~
+  e6 fs gs a b cs
+  d fs e d cs b
+  a8 e6 d cs b
+  a4 e'8
+  a cs b
+  a e6 fs gs a 
+  b8 (d6 b) (cs a)
+  e'4 e8 
+  fs6 d fs d fs d
+  b8 cs d
+  e6 cs e cs e cs
+  a8 b cs
+  (d6 cs) (cs b) (b a)
+  (gs d) (d cs) (cs b)
+  cs e (fs a) (gs b)
+  a e (fs a) (gs b)
+  a cs b d cs b
+  cs e d fs e8
+  (d,6 cs) (cs b) (b a) \bar "||" \time 2/2
+  a2\fermata r
+  r gs'' ~
+  gs es
+  fs4 cs fs, e'!
+  ds cs8 ds b4 r
+  r2 fs' ~
+  fs4 (gs8 a) (gs fs e ds)
+  e4 ds8 e cs4 r
+  R1
+  r4 cs, gs'2 ~
+  gs4 a8 b a gs fs e
+  fs4 es8 fs gs4 fs8 es
+  fs2 r
+  r fs' ~
+  fs ds
+  e4 b e, d'!
+  cs b8 cs a4 r
+  r2 e' ~
+  e4 (fs8 g) (fs e d cs)
+  d4 cs8 d b4 r
+  R1
+  r4 b, fs'2 ~
+  fs4 g8 a g fs e ds
+  e4 ds8 e fs4 e8 ds
+  e2 r4 b'
+  e2 r4 fs,
+  d' b as cs
+  (fs,8 e d cs) b2
+  r gs'' ~
+  (gs8 fs e d cs) as b4 ~
+  (b8 a! g fs es) (d' cs b)
+  (a gs fs es) fs2
+  r gs' ~
+  (gs8 fs e d cs) as b4 ~
+  (b8 a! g fs es) (d' cs b)
+  (a gs fs es) fs2
+  R1
+  r4 fs cs'2 ~
+  cs4 (d8 e) (d cs b as)
+  b4 (as8 b) cs4 (b8 as)
+  b2 r4 fs'
+  b2 r4 cs,
+  a' fs es8 fs gs4 ~
+  (gs8 fs es ds) cs2 ~
+  cs4 cs a fs' ~
+  (fs8 e d cs) (d cs b a)
+  gs4 (fs8 es) (gs fs es ds)
+  es4 cs fs2 ~
+  fs es
+  fs r4 \bar "|" \time 3/8 r8
+  \dalsegno
+}

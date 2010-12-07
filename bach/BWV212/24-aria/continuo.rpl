@@ -1,0 +1,25 @@
+\relative c {
+  \key f \major
+  \time 4/4
+    \partial 4 f8 e
+  f4 g a bb
+  a g a f
+  bb a g f
+  e g e c
+  f a,8 bb c4 c,
+  f2. \bar ":|" f'8 g
+  a4 g a f
+  bb f bb, bb' ~
+  bb a bb g
+  c g c, a'
+  bb a8 g a4 f
+  bb a8 g a4 f
+  bb, c d bb
+  c g' c8 bb a g
+  f4 g a bb
+  a g a f
+  bb a g f 
+  e g e c
+  f a,8 bb c4 c,
+  f2.
+}

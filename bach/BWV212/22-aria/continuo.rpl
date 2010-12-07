@@ -1,0 +1,37 @@
+\relative c {
+  \key d \major
+  \time 2/2
+    \partial 4 r4
+  r2 r4 fs
+  b a g a 
+  d,e fs e8 fs
+  g4 fs8 g e4 d8 e
+  fs4 e8 fs d4 cs8 d
+  e4 d8 e fs4 e8 fs
+  b,4 g e fs
+  b r r fs'
+  b a8 b gs4 fs8 gs
+  as4 gs8 as b4 fs
+  g! fs8 g e4 d8 e
+  fs4 fs, g fs8 g
+  e4 d8 e fs4 e8 fs
+  b4 b' d, fs
+  b,2 r4 a
+  d cs d e 
+  fs g a g
+  fs b g a
+  d, e fs e8 fs
+  g4 fs8 g e4 d8 e
+  fs4 e8 fs d4 cs8 d
+  e4 d8 e fs4 e8 fs
+  b,4 g e fs
+  b2 r4 a
+  d cs d e
+  fs g a g
+  fs b g a
+  d, cs b a
+  g g'8 fs e4 g
+  cs, fs2 e8 d
+  e4 cs fs fs,
+  b2.
+}

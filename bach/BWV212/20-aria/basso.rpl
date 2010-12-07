@@ -1,0 +1,130 @@
+\relative c {
+  \key a \major
+  \time 3/8
+    \partial 8 r8 \segno
+  R4.*15
+  r8 r e 
+  a cs b
+  a [e6 fs] [gs a]
+  b8 ([d6 b]) ([cs a])
+  e'4 r8
+  R4.*7
+  r8 r e, 
+  a cs b
+  a [e6 fs] [gs a]
+  b8 ([d6 b]) ([cs a])
+  e'4 cs8
+  cs fs, r 
+  r r b
+  b e, r
+  r r fs
+  b d cs
+  d b e
+  a, cs b
+  cs4 cs8
+  [b-. b-. b-.] 
+  [b-. b-. b-.]
+  b-. [a6 gs] [fs e]
+  b'4 b8
+  e e, r 
+  r r b'
+  e e, r 
+  r r b'
+  cs4. ~
+  cs8 [fs,6 gs] [a fs]
+  b4. ~
+  b8 [e,6 fs] [gs e]
+  fs8 a cs
+  [b6 a] [gs fs] a8
+  [a6 b a b a b]
+  [a b gs a fs gs]
+  [e8-. gs-. b-.]
+  e-. b a
+  gs [fs6 e] [fs ds]
+  e4 r8
+  R4.*11
+  r8 r b'
+  [cs6 d] e4
+  [b8 cs\trill d]
+  cs [d6 cs] [b a]
+  b8 e, e'
+  e e, r 
+  r r e'
+  e e, r
+  r r e
+  a cs b
+  a [e6 fs] [gs a]
+  b8 ([d6 b]) ([cs a])
+  e'4 cs8
+  cs fs, r
+  r r b
+  b e, r
+  r r fs
+  [d'-. d-. d-.]
+  d-. e, e'
+  cs [b6 a] b8
+  e,4 e8
+  a b e, cs' d e,
+  d cs b
+  a4 e'8 
+  [ds6 e] fs4 ~
+  [fs6 gs] a4 ~
+  [a6 b cs b d cs]
+  [b a gs fs e d]
+  cs8 e a
+  gs e'4
+  e,8 [cs'6 b] [a gs]
+  a4 r8
+  R4.*15 \bar "||" \time 2/2
+  r2 cs4 fs,
+  es2. es4
+  (d' cs2) b4
+  as2 ([b8 as]) ([gs fs])
+  b2. e,4
+  ([ds8 fs] a4. gs8) a4
+  gs1 ~
+  gs4 gs cs2 ~
+  cs4 e ([e8 ds]) ([cs bs])
+  cs2 r4 cs,
+  [a'8 b] cs4 ~ [cs8 b] [a gs]
+  a4 [gs8 a] b4 [a8 gs]
+  a2 fs4 a
+  ds,2. ds4
+  (c' b2) a4
+  gs2 ([a8 gs]) ([fs e])
+  a2. d,4
+  ([cs8 e] g4. fs8) g4
+  fs1 ~
+  fs4 fs b2 ~
+  b4 d ([d8 cs]) ([b as])
+  b2 r4 b,
+  [g'8 a] b4 ~ [b8 a] [g fs]
+  g4 [fs8 g] a4 [g8 fs]
+  g4 b e2
+  r4 fs, d' b
+  [a8 g] [fs e] cs'2
+  r fs,4 fs
+  (d' cs2) b4
+  (a g2) fs4
+  es2 r
+  r fs4 fs
+  (d' cs2) b4
+  (a g2) fs4
+  es2 r
+  r4 cs fs2 ~
+  fs4 a [a8 gs] [fs es]
+  fs2 r4 e!
+  [d8 e] fs4 ~ [fs8 e] [d cs]
+  d4 [cs8 d] e4 [d8 cs]
+  d4 fs b2
+  r4 cs, a' fs
+  [e8 d] [cs b] gs'2
+  r4 gs [a8 gs] [fs es]
+  [fs gs a b] [cs d b cs]
+  [d cs] [b as] b2 ~
+  b4 [a!8 gs] [b a] [gs fs]
+  gs4 es cs b'
+  a2 gs
+  fs r4 \bar "|" \time 3/8 r8
+  \dalsegno
+}

@@ -1,0 +1,37 @@
+\relative c' {
+  \key d \major
+  \time 2/2
+    \partial 4 r4
+  R1*6
+  
+  
+  
+  
+  
+  r2 r4 fs'
+  fs e d cs
+  d2 e
+  fs4 e d cs
+  b2 cs
+  as b
+  cs as
+  b2. r4
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  r2 r4 cs
+  d cs d e
+  fs2 d4 a'
+  a g fs e
+  d2 e
+  fs4 e d cs
+  b2 cs
+  as b
+  cs as
+  b2.
+}

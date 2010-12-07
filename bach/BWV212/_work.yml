@@ -24,3 +24,5 @@ score:
   groups:
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+macros:
+  c1: "(#4 #)"

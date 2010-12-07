@@ -1,0 +1,37 @@
+\relative c' {
+  \key d \major
+  \time 2/2
+    \partial 4 fs'4
+  fs e d cs
+  d2 e
+  fs4 e d cs
+  b2 cs
+  as b
+  cs as
+  b cs4 fs, 
+  d' r r2
+  r r4 b
+  cs fs, fs' e
+  d r r g
+  fs e d b
+  gs e' cs2
+  b2. cs4
+  d cs d e 
+  fs2 d4 a' 
+  a g fs e
+  d2 e
+  fs4 e d cs
+  b2 cs
+  as b
+  cs as
+  b4 b8 d cs4 fs,
+  R1
+  r4 a fs' d
+  R1
+  r4 d d cs
+  d e fs2
+  r4 e ([e8 d]) ([e d])
+  e4 fs g2
+  r4 e cs2
+  b2.
+}

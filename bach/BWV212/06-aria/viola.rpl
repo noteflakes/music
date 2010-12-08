@@ -1,0 +1,40 @@
+\relative c' {
+  \key d \major
+  \time 3/4
+
+  R2.*4
+  
+  
+ 
+  r4 d8 cs d4
+  r8 d cs b cs d 
+  e4 r a,8 gs
+  a b cs d e cs
+  fs4 r8 ds e fs
+  g fs g fs e fs6 g
+  a8 g fs g a g
+  fs g a g6 a d,8 e6 fs
+  b,8 cs6 d e4 ~ e8 e
+  a g fs e d e 
+  cs d e4 r
+  r8 a a, b6 cs d4 ~
+  d8 c d ds e d
+  cs!4  r8 d e cs
+  a4 a d ~
+  d cs8 a b cs
+  d4 a r8 fs
+  g4 d' ds
+  e8 fs g fs g fs
+  e4 b8 a' g fs
+  e d e g6 fs e8 d
+  cs b a4 r8 e'
+  a,4 b d
+  b' a cs,
+  d a r 
+  r g'8 a g fs 
+  e e6 d e8 fs e d 
+  cs cs6 b cs8 d e cs
+  d e fs g a b
+  g fs e d cs b 
+  a g6 a fs2
+}

@@ -1,0 +1,9 @@
+parts:
+  soprano:
+    lyrics: text.lyrics
+  basso:
+    lyrics: text.lyrics
+  violino1:
+    title: Violino
+  violino2:
+    source: violino1

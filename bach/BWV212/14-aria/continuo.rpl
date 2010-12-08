@@ -1,0 +1,150 @@
+\relative c {
+  \key a \major
+  \time 3/8
+  
+  a8 cs e
+  a cs e
+  d4\trill cs8
+  b e, a
+  a, cs e
+  a fs d
+  b gs a
+  (e fs6 gs a b)
+  cs4 b8
+  a cs e
+  gs4 a8 ~
+  a gs a
+  a, cs e
+  a b cs
+  d gs, a
+  e' e, d
+  cs b a
+  fs' d cs
+  b cs d 
+  e fs gs
+  a, b cs 
+  d cs b
+  a d, e
+  a a6 gs a b
+  cs8 fs e
+  fs d cs
+  b e d
+  e cs b
+  a d cs
+  d e, gs
+  a d, e
+  a4 r8
+  (a6 cs) (cs e) (e a)
+  a8 e r
+  r6 gs (gs fs) (fs e)
+  e8 a, r
+  r6 e (e a) (a cs)
+  cs8 gs r
+  r6 b (b a) (a e')
+  e8 e, r
+  (a6 b cs b a gs)
+  (a b a gs a fs)
+  (gs a b a gs fs)
+  (gs a b gs a b)
+  (cs d cs b a gs)
+  a (e fs gs a b)
+  cs8 gs a
+  (e'6 d) (e fs) (e d)
+  (cs b) (b a) (a d)
+  d8 d, r
+  r6 e' (e d) (d e)
+  e8 a, r
+  r6 cs' (cs a) (a fs)
+  fs8 d r
+  r6 e (e d) (d e)
+  a,8 a' r
+  (a,6 g) (fs e) (fs e)
+  (d e fs gs! a b)
+  (cs d e d e d)
+  (cs b a gs a b)
+  (cs fs e d cs b)
+  (a gs a b cs d)
+  e8 d e
+  a e cs
+  a r gs
+  a r e'
+  d r cs
+  b r a
+  a' r gs
+  fs r d
+  e r a,
+  e'8. d6 cs b
+  a8 r r 
+  (a6 b cs d e8)
+  R4.
+  (e6 d cs b a8)
+  R4.
+  (a'6 gs fs e d8)
+  r e, a
+  (e' d6 cs b a)
+  gs8 a as
+  b r fs
+  b r gs
+  a r e
+  a r cs
+  e r fs
+  d r e
+  a,8. b6 a g
+  fs8 r r 
+  r (fs'6 e d cs)
+  b8 r r 
+  r (e6 d cs b)
+  a8 r r 
+  r6 d cs b a gs
+  fs8 d e
+  a4\fermata r8
+  r (fs' e)
+  (d cs b)
+  (a b cs)
+  fs,4 r8
+  r (e' ds)
+  (cs b a)
+  (gs a b)
+  e,4 gs8
+  (a4 gs8)
+  (fs4 gs8)
+  (a gs fs)
+  gs (gs' fs)
+  (e4 ds8)
+  (cs6 ds e fs gs8)
+  fs4\trill e8
+  ds gs cs,
+  fs4. ~
+  fs8 e a
+  gs fs gs
+  cs,6 bs cs ds e cs
+  gs8 cs ds
+  (e ds6 cs bs cs)
+  gs8 ds' e
+  (fs e6 ds cs ds)
+  e8 ds cs
+  bs4 r8
+  cs fs, gs
+  cs4 r8
+  r6 (cs' b a gs fs)
+  (e fs e d cs b)
+  cs8 d e
+  a,4 r8
+  r6 (cs' b a gs fs)
+  (es fs es ds cs b)
+  a8 b cs
+  fs, (fs'6 e d cs)
+  (b cs b a gs fs)
+  es8 es es
+  fs e! d
+  cs cs' b
+  a4 gs8
+  (fs6 gs a b cs8)
+  b4\trill a8
+  gs cs fs,
+  b b b 
+  b b a \tempo Adagio
+  d b cs
+  fs,4.
+  \dacapo
+}

@@ -1,0 +1,150 @@
+\relative c' {
+  \key a \major
+  \time 3/8
+
+  cs8 e gs
+  a4 gs8 ~
+  gs6 fs gs8 a ~
+  a gs a
+  cs cs b
+  cs d d, ~
+  d b' a
+  ^a gs4.
+  r8 a^"pizz." gs
+  a4 gs8
+  r b a
+  b4 a8
+  r a gs
+  r gs a
+  r b a
+  gs4.
+  a8^"arco" b e,
+  d a' as
+  b a!6 gs a8
+  gs a b
+  cs d6 cs b a
+  gs8 a gs
+  a b gs
+  e4.
+  r8 a^"pizz." g
+  a r r 
+  r gs! fs
+  gs r r 
+  r gs a
+  r b e,
+  r fs gs
+  e4.
+  e^"arco" ~
+  e ~
+  e ~
+  e ~
+  e ~
+  e ~
+  e ~
+  e4 r8
+  e a b
+  cs4 b8
+  e, b' cs
+  ^cs d4 cs8
+  e e e 
+  e d6 cs b a
+  gs8 d' cs
+  ^cs b4 r8
+  a,4. ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a8 b gs
+  a4 r8
+  e'' d cs
+  (d8. e3 fs e8)
+  d cs b
+  (cs8. d3 e d8)
+  e, e e 
+  e fs6 gs a b
+  cs8 d b
+  a4.
+  e8 r b'
+  cs r b
+  e, r cs'
+  d r cs
+  e r e
+  e r b6 a
+  gs8 r cs
+  b4 r8
+  cs, e gs
+  a4 gs8
+  gs, gs' a
+  gs4 a8
+  (b6 a) (gs fs) (e d)
+  cs8 d fs6 e
+  d8 b' a
+  gs4 r8
+  e' r cs
+  d r e
+  d r b
+  cs r d
+  e, r e
+  e r a6 b 
+  cs8 r gs
+  e4 r8
+  as b as
+  b fs as
+  b a! gs
+  a e gs
+  (a6 cs b a gs fs)
+  e (gs, a b cs e)
+  a8 b gs
+  e4\fermata r8
+  R4.*2
+  
+  r6 (cs' b a gs b)
+  (a b cs8) r
+  R4.*2
+  
+  r6 (b a gs fs a)
+  (gs a b8) r
+  R4.*4
+  
+  
+  
+  gs4 bs8
+  cs4 bs8
+  bs4 cs8 ~
+  cs bs cs
+  R4.*4
+  
+  
+  
+  (ds,8 cs) r
+  (cs ds) r
+  (gs fs) r
+  (bs cs) r
+  gs fs e
+  ds4 r8
+  cs' ds bs
+  gs4 r8
+  R4.*2
+  
+  r8 b e
+  e4 r8
+  R4.*2
+  
+  r8 gs, cs
+  cs4 r8
+  R4.*4
+  
+  
+  
+  a8 cs es
+  fs4 es8
+  es4 fs8 ~
+  fs es fs
+  R4.*2
+    \tempo Adagio
+  r8 d cs
+  cs4.
+  \dacapo
+}

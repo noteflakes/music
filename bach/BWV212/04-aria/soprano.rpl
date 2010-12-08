@@ -1,0 +1,32 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+
+  cs'8 b a4 gs
+  a8 cs b2
+  a8 cs b2
+  cs8 b ([d cs]) ([b a])
+  [gs6 a] [b gs] a2
+  cs8 b a4 gs
+  a8 cs b2
+  a8 cs b2
+  cs8 b [d cs] [b a]
+  [gs6 a] [b gs] a2
+  cs8 d e4 e
+  fs8 e e4 d
+  b8 cs d4 d
+  e8 d d4 cs
+  cs8 b a4 gs
+  a8 cs b2
+  cs8 b [d cs] [b a]
+  gs b a2
+  [a6 b] [cs d] [e8 d] [e d]
+  fs e [e cs] ^cs d4
+  [b6 a] [b cs] ([d8 cs]) ([d cs])
+  e d [d b] ^b cs4
+  cs8 b a4 gs
+  a8. cs6 b2
+  cs8 [b6 cs] [d8 cs] [b a]
+  [gs6 a] [b gs] a2
+  R2.*4
+}

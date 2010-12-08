@@ -1,0 +1,29 @@
+\relative c' {
+  \key a \major
+  \time 2/2
+    \partial 4 cs8 d
+  e4 r r fs
+  gs r r e
+  a a a gs
+  cs,2. cs8 b
+  a4 cs e a
+  gs e8 b gs4 e'
+  e e8 fs e4 d
+  cs2. cs8 d
+  e4 a,8 a a a a a 
+  fs'4 a,8 a a a a a 
+  e'4 cs b e
+  gs e8 b gs4 e'
+  e1 ~
+  e4 e e e 
+  a a a gs
+  cs,2. cs8 d 
+  e4 a8 gs a4 a
+  d, cs8 b cs b a4
+  a' a a a
+  gs2. e4
+  a gs8 a b a gs fs
+  gs fs gs a gs4 b
+  e, d8 cs d4 b
+  cs2.
+}

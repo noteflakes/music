@@ -1,0 +1,23 @@
+\relative c' {
+  \key a \major
+  \time 2/2
+    \partial 4 [a'8 b]
+  cs4 cs cs [d8 cs]
+  b4 b b cs
+  d [cs8 b] cs4 [b8 a]
+  a2. [a8 b]
+  cs4 cs cs [d8 cs]
+  b4 b b cs
+  d [cs8 b] cs4 ([b8 a])
+  a2. e'4
+  a e e e 
+  fs e e e 
+  e [d8 e] [fs e] [d cs]
+  b2. [a8 b]
+  cs4 [cs8 b] [cs b] [cs a]
+  b4 [b8 cs] b4 cs
+  d [cs8 b] cs4 [b8 a] 
+  a2. r4
+  R1*7
+  r2 r4
+}

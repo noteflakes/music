@@ -1,0 +1,17 @@
+\relative c' {
+  \key d \major
+  \time 3/4
+    \partial 4 r4
+  R2.*3
+  r4 r d8 e
+  d4 d d8 e
+  d4 d b
+  e e8 d cs b
+  a2 r4 
+  R2.*5
+  r4 r g'
+  fs e8 d g4
+  fs e8 d g4
+  fs e8 d e cs
+  d2
+}

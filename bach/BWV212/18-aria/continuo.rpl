@@ -1,0 +1,23 @@
+\relative c {
+  \key d \major
+  \time 3/4
+    \partial 4 d,4
+  d'2 fs4
+  b,2 e8 d
+  cs b cs d e4
+  cs a fs
+  d2 fs4
+  b2 e8 d 
+  cs b cs d e4
+  a, cs a
+  d fs a
+  fs d cs
+  d fs e
+  d fs a
+  d fs, a
+  d, cs8 b cs a
+  d4 fs e
+  d fs a
+  d fs, a
+  d,2
+}

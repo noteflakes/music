@@ -1,0 +1,29 @@
+\relative c' {
+  \key c \major
+  \time 6/8
+    \partial 8 r8
+  R2.*3
+  
+  
+  r4 r8 r r g'
+  (d4 b'8) (d,4 a'8)
+  (d,4 g8) (d4 fs8)
+  d4 d8 d4 d8
+  b4. ~ b4 r8
+  R2.
+  r8 r d d a' r
+  R2.
+  r8 r d, d a' fs
+  d c b a b c
+  b g d' d4 d8
+  d fs g fs d fs
+  d4. ~ d4 r8
+  R2.
+  r4 r8 r r g
+  g4 g8 a g fs
+  g d g, a d fs
+  d a b d e fs
+  d g d fs4 d8
+  d fs g fs6 g fs e d c
+  b4. ~ b4
+}

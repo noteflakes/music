@@ -1,0 +1,82 @@
+\relative c' {
+  \key a \major
+  \time 3/8
+
+  R4.*32
+  e8 a b
+  ^b cs4 b8
+  e, b' cs
+  ^cs d4 cs8
+  e e e 
+  ([e d6 cs]) ([b a])
+  [gs8 d'] cs
+  ^cs b4 ([b6 cs3 d])
+  ^d8 cs4 b8
+  a e e'
+  ^e d4 cs8
+  b e, e 
+  ([a8. b3 cs]) ([b6 cs3 d])
+  ([cs8 a]) e'
+  ([e d6 cs]) ([b a])
+  gs4 r8
+  e' d cs
+  ([d8. e3 fs]) e8
+  d cs b
+  ([cs8. d3 e]) d8
+  e, e e 
+  [e fs6 gs] [a b]
+  [cs8 d] b
+  a4 e'8
+  [cs d] e
+  fs d cs
+  [b cs] d
+  e cs b
+  [a b] cs
+  [d cs6 b] e8
+  [a, b] gs
+  a4. 
+  R4.*31
+  r8\fermata r cs
+  fs4 cs8
+  [b a] gs
+  ([a b cs])
+  fs,4 ds'8
+  e4 b8
+  [a gs] fs
+  [gs a b]
+  e,4 e'8
+  [cs bs] cs
+  ([ds8. e3 fs]) e8
+  ([ds bs]) cs
+  gs4. ~
+  gs ~
+  gs ~
+  gs4 r8
+  r r cs
+  [a cs] fs
+  ([a gs]) fs
+  [e cs] bs
+  cs4 r8
+  R4.*7
+  r8 r e
+  e4 e8
+  e4 e8
+  [e6 a gs fs e d]
+  cs8 [b6 a] cs8
+  cs4 cs8
+  cs4 cs8
+  [cs6 fs e d cs b]
+  a8 fs a
+  [gs6 a b cs] d8
+  [d cs] b
+  [a b6 a] [gs fs]
+  cs'4. ~
+  cs ~
+  cs ~
+  cs4 r8
+  r r fs
+  [d cs] b
+  [cs es,] fs \tempo Adagio
+  [b6 cs] gs4\trill
+  fs4.
+}

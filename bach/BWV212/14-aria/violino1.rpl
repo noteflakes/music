@@ -1,0 +1,150 @@
+\relative c' {
+  \key a \major
+  \time 3/8
+
+  e8 a b
+  cs4 b8
+  e, b' cs
+  d4 cs8
+  e e e 
+  e d6 cs b a
+  gs8 d' cs
+  ^cs b4.
+  e,8 a b
+  cs4 b8
+  e, b' cs
+  d4 cs8
+  e e e 
+  e d6 cs b a
+  gs8 d' cs
+  ^cs b4.
+  e8 d cs
+  (d8. e3 fs e8)
+  d cs b
+  (cs8. d3 e d8)
+  e, e e
+  e fs6 gs a b
+  cs8 d b\trill
+  a4.
+  e'8 d cs
+  (d8. e3 fs e8)
+  d cs b
+  (cs8. d3 e d8)
+  e, e e
+  e fs6 gs a b
+  cs8 d b\trill
+  a4.
+  e ~
+  e ~
+  e ~
+  e ~
+  e ~
+  e ~
+  e ~
+  e4 r8
+  e a b
+  cs4 b8
+  e, b' cs
+  ^cs d4 cs8
+  e e e 
+  e d6 cs b a
+  gs8 d' cs
+  ^cs b4 r8
+  a,4. ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a ~
+  a8 b gs
+  a4 r8
+  e'' d cs
+  (d8. e3 fs e8)
+  d cs b
+  (cs8. d3 e d8)
+  e, e e 
+  e fs6 gs a b
+  cs8 d b
+  a4.
+  r8 a-. b-.
+  r cs-. b-.
+  r b-. cs-.
+  r d-. cs-.
+  r e e 
+  r d6 cs b a
+  r8 d-. cs-.
+  b4 r8
+  e, a b
+  ^b cs4 b8
+  e, b' cs
+  ^cs d4 cs8
+  e e e 
+  e d6 cs b a
+  gs8 d' cs
+  b4 r8
+  r d cs
+  r fs e
+  r cs b
+  r e d
+  r e, e
+  r (fs6 gs a b)
+  r8 d b
+  a4 r8
+  e'8 d cs
+  (d8. e3 fs e8)
+  d cs b
+  (cs8. d3 e d8)
+  e, e e
+  e fs6 gs a b
+  cs8 d b\trill
+  a4\fermata r8
+  R4.*2
+  
+  r6 (a' gs fs es gs)
+  (fs gs a8) r
+  R4.*2
+  
+  r6 (gs fs e! ds fs)
+  (e fs gs8) r
+  R4.*4
+  
+  
+  
+  gs,8 cs ds
+  e4 ds8
+  gs, ds' e
+  fs4 e8
+  R4.*4
+  
+  
+  
+  (fs,8 e) r
+  (gs fs) r
+  (cs' bs) r
+  (ds cs) r
+  gs gs gs
+  (gs as6 bs cs ds)
+  e8 fs ds
+  cs4 r8
+  R4.*2
+  
+  r8 a' gs
+  a4 r8
+  R4.*2
+  
+  r8 fs es
+  fs4 r8
+  R4.*4
+  
+  
+  
+  cs8 fs gs
+  a4 gs8
+  cs, gs' a
+  b4 a8
+  R4.*2
+    \tempo Adagio
+  r8 fs es
+  fs4.
+  \dacapo
+}

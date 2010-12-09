@@ -16,6 +16,29 @@ parts:
   corno:
     midi_instrument: french horn
     midi_transpose: "c d"
+  violino1:
+    breaks:
+      - 02-aria
+      - 06-aria
+      - 12-aria
+      - 20-aria
+  violino2:
+    breaks:
+      - 02-aria
+      - 06-aria
+      - 12-aria
+      - 20-aria
+  viola:
+    breaks:
+      - 02-aria
+      - 14-aria
+  continuo:
+    breaks:
+      - 02-aria
+      - 03-recitativo
+      - 05-recitativo
+      - 09-recitativo
+      - 13-recitativo
 score:
   hide_figures: true
   order:

@@ -1,6 +1,6 @@
 \relative c {
   \key g \major
-  \time 6/8
+  \time 6/8  m{{\tempo 8 = 190}}
     \partial 8 g8
   b a g d' e fs
   g b g d' fs, d

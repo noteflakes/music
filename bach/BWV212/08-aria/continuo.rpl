@@ -1,6 +1,6 @@
 \relative c {
   \key d \major
-  \time 3/4
+  \time 3/4 m{{\tempo 4 = 100}}
 
   b4 d b
   fs' fs, e'

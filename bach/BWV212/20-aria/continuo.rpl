@@ -1,6 +1,6 @@
 \relative c {
   \key a \major
-  \time 3/8
+  \time 3/8  m{{\tempo 8 = 160}}
     \partial 8 r8 \segno
   r r e 
   a cs a
@@ -120,7 +120,7 @@
   fs e d
   cs d e 
   a, b cs
-  fs, d e \bar "||" \time 2/2
+  fs, d e \bar "||" \time 2/2  m{{\tempo 2 = 80}}
   a2.\fermata a'4
   $c1 gs gs b b 
   es, es cs cs

@@ -1,6 +1,6 @@
 \relative c {
   \key a \major
-  \time 3/8
+  \time 3/8 m{{\tempo 8 = 140}}
   
   a8 cs e
   a cs e

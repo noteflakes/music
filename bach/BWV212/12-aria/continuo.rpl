@@ -1,6 +1,6 @@
 \relative c {
   \key bb \major
-  \time 3/4
+  \time 3/4 m{{\tempo 4 = 95}}
   
   bb4 r r
   bb r r

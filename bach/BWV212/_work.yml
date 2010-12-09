@@ -2,6 +2,8 @@ title: Cantate Burlesque BWV 212
 subtitle: "\"Mer hahn en neue Oberkeet\""
 composer: Johann Sebastian Bach
 movements:
+  02-aria:
+    midi_tempo: 4 170
   14-aria:
     midi_tempo: 80 4
   16-aria:

@@ -1,0 +1,27 @@
+\relative c' {
+  \key g \major
+  \time 3/4
+    \partial 4 r4
+  R2.*19
+  r4 r d'
+  g8 d d4 [e8 fs]
+  g d d4 [c8 b]
+  c d ([e d]) ([c b])
+  a4 a r
+  r8 d g d d4
+  r8 d g d d r
+  r g, e' d c b
+  a4 a r
+  g8 a b4 b
+  c8 b c2
+  a8 b c4 [b8 a]
+  d cs d4. c8
+  b d d,4 fs
+  g g r
+  r g8 a b g
+  c b c4 r
+  r [a8 b] [c a]
+  r4 d8 e fs d
+  g d, g b a fs
+  g4 g
+}

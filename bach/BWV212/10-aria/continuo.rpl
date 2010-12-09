@@ -1,0 +1,45 @@
+\relative c {
+  \key g \major
+  \time 3/4 m{{\tempo 4 = 100}}
+    \partial 4 g4
+  g' g fs
+  e e d
+  c8 g c d e c
+  d6 c d e d8 c b a
+  g g g g fs fs
+  e e e e d d 
+  c g' c b a g
+  (d'6 c d e) (d c b c) (d c b a)
+  b c b a g4 f
+  e e g
+  c, d e
+  d8 a' d c b a
+  g a b g d' d,
+  g fs g a b c
+  b b g g f' f
+  e d e f e d 
+  c c a a g' g 
+  fs! e fs a d, fs
+  g b, c e d d,
+  g4 r8 d' g a
+  b c b a g a 
+  b d g, f e d 
+  e g c, d e c 
+  d e d c b a 
+  g4 r8 g6 fs g8 r
+  r4 r8 g6 fs g8 r
+  r8 c6 b c8 d e c
+  d d, d' e d c
+  b d g, d' g f 
+  e d e g c, b 
+  c e a, a' e g 
+  fs e fs a d, fs
+  g d b g d' d,
+  g b6 d g4 r
+  r8 g6 fs g8 r r4
+  e8 e6 d e8 r r4
+  r8 a6 gs a8 r r4
+  r8 fs6 e fs8 r r4
+  r8 g,6 a b8 g d' d,
+  g4 g
+}

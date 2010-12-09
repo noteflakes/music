@@ -1,6 +1,6 @@
 \relative c {
   \key a \major
-  \time 3/4 
+  \time 3/4 m{{\tempo 4 = 160}}
     \partial 4. r8 r4
   a4 a a
   a a a
@@ -16,7 +16,7 @@
   a,8 a'6 b cs8 d
   cs b a4
   a,8 a' b a
-  gs e a4 \bar "||" \time 6/8 \tempo Andante
+  gs e a4 \bar "||" \time 6/8 \tempo Andante m{{\tempo 4 = 100}}
   a,8 a' b cs a b 
   cs4 d8 cs a a,
   a\pp a' b cs a b
@@ -39,7 +39,7 @@
   a,8 a a r
   e' e e r
   e e e r
-  a4 e \bar "||" \time 3/4 \tempo "Adagio"
+  a4 e \bar "||" \time 3/4 \tempo "Adagio" \key a \minor m{{\tempo 4 = 80}}
   a,8 a'6 b c8 b a g
   f e e2
   d8 e f e d c
@@ -55,14 +55,14 @@
   f'8 e e2
   bb8 a a2
   d8 e f e d c 
-  b! a a2 \bar "||" \time 2/4 \tempo "Allegro"
+  b! a a2 \bar "||" \time 2/4 \tempo "Allegro" m{{\tempo 4 = 100}}
   a'6 c b c d8 c
   b gs a a,
   d e6 f e8 e,
   a4 r8 a'6 b
   c8 b6 c d8 c
   b gs a a,
-  d e6 f e8 e, \bar "||" \time 3/4 \tempo "Presto" \key a \major
+  d e6 f e8 e, \bar "||" \time 3/4 \tempo "Presto" \key a \major m{{\tempo 4 = 220}}
   a4 a a
   a a a
   a a a 

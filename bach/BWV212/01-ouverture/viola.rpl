@@ -39,7 +39,7 @@
   cs d6 b cs8 r
   r gs'6 fs gs8 b6 a
   b8 d6 cs d8 gs,
-  e d6 cs d8 b \bar "||" \time 3/4 \tempo "Adagio"
+  e d6 cs d8 b \bar "||" \time 3/4 \tempo "Adagio" \key a \minor
   c a'6 b c8 b a g
   f e e2
   d8 e f e d c

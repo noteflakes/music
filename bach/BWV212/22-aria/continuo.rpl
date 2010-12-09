@@ -1,6 +1,6 @@
 \relative c {
   \key d \major
-  \time 2/2
+  \time 2/2  m{{\tempo 2 = 80}}
     \partial 4 r4
   r2 r4 fs
   b a g a 

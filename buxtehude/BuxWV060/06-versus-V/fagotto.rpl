@@ -1,0 +1,26 @@
+\relative c {
+  \key d \minor
+  \time 6/8
+  
+  {{
+    R2.*32
+    r8 d d bb bb' bb
+  }}
+  [[
+    R2.*30
+    \new CueVoice {
+      r4 r8 \clef treble r a''^"Soprano"  a
+      d,6 e d e f8 [g6 f] [e8. d6] \clef bass
+    }
+    r8 d, d bb bb' bb
+  ]]
+
+  c4 c,8 a4 a'8
+  bb4 bb,8 g4 g'8
+  a4 a,8 d bb8. a6
+  g4 g'8 a4 a,8
+  f4 f'8 g4 g,8
+  e4 d8 ~ d a'4
+  d, g8 e4 d8 ~
+  d a'4 d,4.\fermata
+}

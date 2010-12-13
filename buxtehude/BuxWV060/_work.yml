@@ -1,0 +1,16 @@
+title: "Jesu, meine Freude"
+subtitle: BuxWV 60
+composer: Dietrich Buxtehude
+parts:
+score:
+  hide_figures: true
+  order:
+    - violino1
+    - violino2
+    - soprano
+    - alto
+    - basso
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, basso]

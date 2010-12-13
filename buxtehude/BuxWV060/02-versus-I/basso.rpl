@@ -1,0 +1,29 @@
+\relative c {
+  \key d \minor
+  \time 4/4
+  
+  d4 d e [f8 g]
+  [a g a a,] d2
+  d4 d d cs
+  b2 a4 a'8 g
+  f4 d a'4. a8
+  d,2 r
+  R1*2
+  
+  d4 d e [f8 g]
+  [a g a a,] d2
+  d4 d d cs
+  b2 a4 [a'8 g]
+  f4 d a'4. a8
+  d,2 r
+  R1
+  d4 d g, [a8 bb]
+  c4. c8 f,2
+  f'4 f d a
+  b [c8 d] e2
+  a,4 r d r
+  cs r d a
+  bb g a2
+  d, r
+  R1*8
+}

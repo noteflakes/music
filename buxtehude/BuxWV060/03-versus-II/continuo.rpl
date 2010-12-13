@@ -1,0 +1,34 @@
+\relative c {
+  \key d \minor
+  \time 4/4
+
+  d4. d8 g,8. a6 bb4
+  a2 d,
+  r4 r8 d' cs cs c c 
+  b b bb bb a4 a8 bb
+  a g a4 d,8 d'4 bb8
+  a g a4 d, d'8 e
+  f4 d a' fs
+  g e f4. f8
+  d4 a b cs
+  d8 c! b4 c c6 d c bb
+  a8 f a c f, f'6 g f8. e6
+  d8 b e4 f8 d g g,
+  c6 d c bb a8 f c' d e c
+  f g a f c4 r8 c
+  f f, f'2 e4
+  d2. c8 b6 a 
+  gs4 a8 d, e2
+  a4 a'8 g fs2
+  g4. f8 e2
+  f4 e8 d a g a4
+  d,8 d' d d d4 bb
+  e, a d, g ~
+  g f bb g 
+  c f, c'2
+  f,4 r8 f' g bb g8. f6
+  e4 r8 e $c3 a g f e
+  d c bb a $$ g2
+  a bb4 g
+  a2 d,\fermata
+}

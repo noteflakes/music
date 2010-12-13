@@ -1,0 +1,77 @@
+\relative c {
+  \key d \minor
+  \time 3/4
+
+  d4 r r 
+  d r r 
+  f f, bb
+  g a2
+  d4 r r 
+  d r r 
+  d4. f,8 g4
+  gs a2
+  d,4 r r 
+  g r r 
+  f2.
+  f4 a2
+  d,4 r r 
+  e r r 
+  f4. g8 a4
+  a bb2
+  a4 r cs 
+  d2. 
+  a4 e'2
+  a,4 r gs'
+  a4. g8 f4
+  d e e,
+  a a' g 
+  f d g
+  e a a,
+  d r r 
+  e r f
+  g a a,
+  d2 r4
+  d d d 
+  d d d
+  a2.
+  a4 c2
+  f,2.
+  r4 f f 
+  f f'4. e8
+  d4. c8 b4
+  c2 a4
+  d2. c4 b2
+  a4 a2 ~
+  a4 gs2
+  a a'4
+  bb2.
+  a4 g2
+  f2.
+  r4 d bb
+  g2 r4
+  r c a
+  f f' d
+  bb2 a8 g
+  fs4 fs fs
+  gs2. 
+  a
+  a2 g!4
+  f e2
+  d e4
+  f a2
+  d g,4
+  gs a2
+  d,4 d' bb
+  b c c, 
+  f2. ~
+  f2 e4
+  d2 c4
+  d e2
+  a cs4
+  d2 e4
+  f e2
+  d4 d, e
+  f2 g4 ~
+  g a2
+  d,2.
+}

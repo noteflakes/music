@@ -6,6 +6,7 @@ score:
   order:
     - violino1
     - violino2
+    - fagotto
     - soprano
     - alto
     - basso
@@ -17,3 +18,4 @@ macros:
   c1: "#8. #6 #4"
   c2: "#4. #8"
   c3: "#8. #6"
+  f1: "#8. #6 #8 #"

@@ -1,0 +1,52 @@
+\relative c {
+  \key d \minor
+  \time 4/4
+  
+  d2. a'4
+  bb g f8 d e f
+  g d f c d4 e
+  a, r r2
+  a'4 f d cs
+  d e f g8 a
+  bb f a e f4 e8. d6
+  c4 b a b8 c
+  d a bb! f g4 a
+  bb8 a g4 f8 g a4
+  d c a gs
+  a b c d8 e 
+  f c d a bb!4 a8. g6
+  f4 e d8 d' e f
+  g d f c d4 e
+  f8 e d4 c8 d e e,
+  a4 f d cs
+  d e f g8 a 
+  b2. b4
+  a1\fermata \bar "||" \tempo "Grave"
+  r2 a2 ~
+  a g
+  f1
+  r2 bb ~
+  bb a
+  g1 
+  r2 c ~
+  c b 
+  a1
+  r2 a
+  b cs
+  d gs,
+  a1 
+  a\fermata \bar "||" \tempo "Allegro"
+  $c1 a' g f bb a g
+  a g f g f e 
+  f e d $$ e4 a,
+  e8 e' a f d4 g8 e
+  cs4 d b e
+  a, d gs,8 e' a c,
+  d b e e, $c1 a g f
+  g f e $$ a8 a' bb f
+  g e a a, $c1 d c bb
+  c bb a bb a g $$
+  a8. g6 f8 f' g4 a
+  d,8 d, r d g2
+  a d,\fermata
+}

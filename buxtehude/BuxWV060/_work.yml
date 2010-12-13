@@ -1,6 +1,19 @@
 title: "Jesu, meine Freude"
 subtitle: BuxWV 60
 composer: Dietrich Buxtehude
+movements:
+  02-versus-I:
+    midi_tempo: 80 4
+  03-versus-II:
+    midi_tempo: 115 4
+  04-versus-III:
+    midi_tempo: 130 4
+  05-versus-IV:
+    midi_tempo: 130 4
+  06-versus-V:
+    midi_tempo: 150 8
+  07-versus-VI:
+    midi_tempo: 100 4
 score:
   hide_figures: true
   order:

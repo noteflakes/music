@@ -1,0 +1,26 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+
+  {{
+    R1*20
+  }}
+  [[
+    R1*19
+    \new CueVoice {
+      \override Rest #'direction = #up \stemUp
+      \autoBeamOff a'8^"Soprano"  a g f [f6 g f g] [e8. d6]
+      \autoBeamOn
+    }
+  ]]
+  
+  r8 f' f f f4 d ~
+  d8 e6 d cs4 d bb
+  a r8 a d4. e6 f
+  e4 f f e
+  f r8 a, bb d bb8. a6
+  g4 r8 g e e a8. g6
+  f8 a d8. c6 bb8. a6 g8. f6
+  f8 e e8. f6 d8 f' e d
+  d4 cs d2\fermata
+}

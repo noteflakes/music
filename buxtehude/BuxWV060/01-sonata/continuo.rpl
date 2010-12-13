@@ -1,6 +1,6 @@
 \relative c {
   \key d \minor
-  \time 4/4
+  \time 4/4 m{{\tempo 4 = 110}}
   
   d2. a'4
   bb g f8 d e f
@@ -20,8 +20,8 @@
   f8 e d4 c8 d e e,
   a4 f d cs
   d e f g8 a 
-  b2. b4
-  a1\fermata \bar "||" \tempo "Grave"
+  bb2. b4
+  a1\fermata \bar "||" \tempo "Grave" m{{\tempo 2 = 60}}
   r2 a2 ~
   a g
   f1
@@ -35,7 +35,7 @@
   b cs
   d gs,
   a1 
-  a\fermata \bar "||" \tempo "Allegro"
+  a\fermata \bar "||" \tempo "Allegro" m{{\tempo 4 = 120}}
   $c1 a' g f bb a g
   a g f g f e 
   f e d $$ e4 a,

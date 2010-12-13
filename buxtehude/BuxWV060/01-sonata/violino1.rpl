@@ -1,0 +1,52 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+  
+  a''4 f d8 d cs cs 
+  d4 e f8 f g a
+  bb f a e f4 e8. d6
+  c8 f6 e d8 e6 f e8 e f g
+  a4. a6 g f8 d e4
+  a,8 d c4. f,8 e8. f6
+  <d d'>4 c' a8 a gs gs
+  a4 b c8 c d e
+  f c d a bb4 a8. g6
+  f4 g8 a6 bb a8 g6 f e8 f6 g
+  f8. f'6 e8. d6 c8 a b4
+  e,8 a g4. c8 b4
+  <a a'>4 f' d8 d cs cs
+  d4 e f8 f g a
+  bb f a e f4 e8. d6
+  c4 d8 e6 f e8 d6 c b8 c6 d
+  c8 a4 a'8 f d e4
+  a,8 d cs g' g f eb8. f6
+  d2 ~ d8 f e8. d6
+  cs8 d cs8. b6 cs2\fermata \bar "||" \tempo "Grave"
+  r2 a'
+  bb1 
+  a
+  r2 d,
+  e fs
+  g1
+  r2 e
+  fs gs
+  a1
+  r2 a
+  a g
+  g4. f8 f4. e8
+  f2 e4. d8
+  e1\fermata \bar "||" \tempo "Allegro"
+  r8 e a6 g f e d f e f g f e d
+  cs8 d6 e f g e f d8 d g6 f e d
+  c! e d e f e d c b d c b c d e f 
+  g8. f6 e8 a6 g f8. e6 d8 g ~
+  g6 e f g f4 r8 d g6 f e d 
+  c e d e f e d c b4 e,6 e' a g
+  f e d c b e d e c8. b6 a8 a
+  b8. a6 g4 g f8 a
+  bb!6 a g a f8. e6 f8 a d6 c bb a
+  g bb a bb c bb a g f f g a bb a g f
+  e e' f g a8 a, g8. f6 e8. a6
+  f8 f'6 g a8 a, g f e d
+  d4 cs d2\fermata
+}

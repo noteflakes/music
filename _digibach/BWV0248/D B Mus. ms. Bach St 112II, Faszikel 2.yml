@@ -1,0 +1,54 @@
+--- 
+work: BWV0248
+bwvs: 
+- "248"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002454
+title: D B Mus. ms. Bach St 112II, Faszikel 2
+owner: Bach Archiv Leipzig
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023935&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023935/db_bachst0112-2_pa205.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023935/db_bachst0112-2_pa206.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023935/db_bachst0112-2_pa207.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023935/db_bachst0112-2_pa208.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023937&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023937/db_bachst0112-2_pa209.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023937/db_bachst0112-2_pa210.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023937/db_bachst0112-2_pa211.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023937/db_bachst0112-2_pa212.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023939&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023939/db_bachst0112-2_pa213.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023939/db_bachst0112-2_pa214.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023939/db_bachst0112-2_pa215.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023939/db_bachst0112-2_pa216.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023943&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023943/db_bachst0112-2_pa217.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023943/db_bachst0112-2_pa218.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023943/db_bachst0112-2_pa219.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023943/db_bachst0112-2_pa220.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023945&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023945/db_bachst0112-2_pa221.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023945/db_bachst0112-2_pa222.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023945/db_bachst0112-2_pa223.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023945/db_bachst0112-2_pa224.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023947&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023947/db_bachst0112-2_pa225.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023947/db_bachst0112-2_pa226.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023947/db_bachst0112-2_pa227.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023947/db_bachst0112-2_pa228.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023949&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023949/db_bachst0112-2_pa229.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023949/db_bachst0112-2_pa230.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023949/db_bachst0112-2_pa231.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023949/db_bachst0112-2_pa232.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023951&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023951/db_bachst0112-2_pa233.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023951/db_bachst0112-2_pa234.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023951/db_bachst0112-2_pa235.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023951/db_bachst0112-2_pa236.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=E58741B09ADF16DCC5BE8CB6F8140C12?re_mcrid=BachDigitalSource_source_00002454&se_mcrid=BachDigitalSource_derivate_00023953&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023953/db_bachst0112-2_pa237.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023953/db_bachst0112-2_pa238.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023953/db_bachst0112-2_pa239.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00023953/db_bachst0112-2_pa240.jpg

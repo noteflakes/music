@@ -3,7 +3,5 @@ parts:
     title: Violini
   violino2:
     source: violino1
-  viola1:
-    source: alto
-  viola2:
-    source: tenore
+  ira: 
+    source: fagotto

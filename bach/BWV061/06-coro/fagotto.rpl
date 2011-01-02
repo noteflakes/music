@@ -1,0 +1,19 @@
+\relative c {
+  \key g \major
+  \time 4/4
+  
+  d2 b
+  r8 d6 e fs g a fs g8 d g4 ~
+  g8 fs6 e fs4 g2
+  g,4 r8 g d'4 r8 d
+  g4 r8 g d'4 r8 d,
+  g fs e d c b c d
+  e4. c8 g'4. fs8
+  e fs g e a fs b a
+  g e a g fs d g fs
+  e a fs d g fs e d
+  c4. cs8 d4. ds8
+  e4. d!6 c b4. a6 b
+  c8 d6 e f g a b c8 g e c
+  g'2 g,\fermata
+}

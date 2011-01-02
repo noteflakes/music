@@ -28,6 +28,14 @@ parts:
       - 03-aria
       - 03-aria
       - 05-aria
+  ira:
+    clef: bass
+    source: continuo
+    breaks:
+      - 02-recitativo
+      - 03-aria
+      - 03-aria
+      - 05-aria
 score:
   order:
     - violini

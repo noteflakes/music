@@ -1,6 +1,22 @@
 title: "Concerto \"Jesu, meine Freude\""
 subtitle: BuxWV 60
+transpose: d e
 composer: Dietrich Buxtehude
+parts:
+  violino1:
+    breaks:
+      - -05-versus-IV
+  violino2:
+    breaks:
+      - -05-versus-IV
+  fagotto:
+    breaks:
+      - -03-versus-II
+      - -06-versus-V
+  continuo:
+    breaks:
+      - -05-versus-IV
+      - -07-versus-VI
 movements:
   02-versus-I:
     midi_tempo: 80 4
@@ -20,13 +36,13 @@ score:
     - violino1
     - violino2
     - fagotto
-    - soprano
-    - alto
+    - soprano1
+    - soprano2
     - basso
     - continuo
   groups:
     - brace: [violino1, violino2]
-    - bracket: [soprano, alto, basso]
+    - bracket: [soprano1, soprano2, basso]
 macros:
   c1: "#8. #6 #4"
   c2: "#4. #8"

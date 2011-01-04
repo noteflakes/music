@@ -4,9 +4,9 @@
 
   R1*8
   r4 e2 a4
-  cs,4 r8 e e4 e8 fs
-  g8. g6 ds4 r r8 fs
-  g8. g6 ds8 fs g8. g6 ds4
+  cs,4 r8 e e4 e8 (fs
+  g8.) g6 ds4 r r8 (fs
+  g8.) g6 ds8 (fs g8.) g6 ds4
   e e8 gs gs4 gs
   a1
   gs2 r8 gs gs8. fs6
@@ -15,9 +15,9 @@
   fs4 fs [f8*2/3 e] f [f e] f
   f2 e
   r2 r4 f8 f
-  a4. d,8 d4. a'8
-  b4. e,8 e4. b'8
-  c4. e,8 e4 e
+  a4. d,8 d4. (a'8
+  b4.) e,8 e4. (b'8
+  c4.) e,8 e4 e
   e4. e8 ds ds fs g
   a1 ~
   a2 gs\fermata \bar "||"
@@ -28,30 +28,30 @@
   c e4. e8 e e
   f1
   e4 e r8 e4 e8
-  e4. [fs6 g] [a g8.] [fs6 e8.]
-  ds4 ds8 ds ds2
-  r8 e4 e8 e4. [fs6 g]
-  [a g8.] [fs6 e8.] ds4 ds8 ds
+  (e4. [fs6 g] [a g8.] [fs6 e8.]
+  ds4) ds8 ds ds2
+  r8 e4 e8 (e4. [fs6 g]
+  [a g8.] [fs6 e8.] ds4) ds8 ds
   ds2 r
   r8 b e fs g4. fs8
-  fs4 fs [b8*2/3 a g] [fs e d]
-  cs4 [b8 cs] ds4 cs8 ds
+  fs4 fs ([b8*2/3 a g] [fs e d]
+  cs4 [b8 cs] ds4) cs8 ds
   e4 e r2
   R1
-  [c'8*2/3 b a] [g fs e] ds4 [cs8 ds]
-  e4 e e [ds8 e]
-  fs4 [e8 fs] g4 a8 b
-  g2 fs
-  g r4 d8 d
-  f4 r8 e g4 r8 fs
-  a8. a6 g4 fs2
+  ([c'8*2/3 b a] [g fs e] ds4 [cs8 ds]
+  e4) e (e [ds8 e]
+  fs4 [e8 fs] g4) a8 b
+  g2 (fs
+  g) r4 d8 d
+  (f4 r8 e g4 r8 fs
+  a8.) a6 g4 fs2
   R1
   r4 g8 g b8. b6 a4
   gs2 r4 e8 e
   a4 r8 e a4 a8 a
   bb1 ~
   bb2 a4 a
-  a2 gs
+  (a2 gs)
   a4 a8 gs a4. gs8
   a4 a a a
   b2 b4 b

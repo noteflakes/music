@@ -43,7 +43,7 @@
   before-title-space = 10\mm
   between-title-space = 2\mm
   % between-system-space = 20\mm
-  between-system-padding = 4\mm
+  between-system-padding = 6\mm
 
   top-margin = 1.2\cm
   bottom-margin = 1.2\cm
@@ -115,7 +115,7 @@
 	}
 }
 
-#(set-global-staff-size 13)
+#(set-global-staff-size 15)
 
 prepare = {
 	\override Score.BarNumber #'font-size = #2.5

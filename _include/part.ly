@@ -109,27 +109,6 @@
 	  " "
 	}
 	
-	% bookTitleMarkup = \markup {
-	%   \column {
-	%     \column {
-	%       \large \larger \bold
-	%       \fill-line { \larger \fromproperty #'header:title }
-	%       \fill-line { \larger \fromproperty #'header:subtitle }
-	% 			\null
-	%       \fill-line {
- 	% 				{ \large \larger \bold \underline \fromproperty #'header:instrument }
- 	%         \fromproperty #'header:poet
-  %       	\fromproperty #'header:composer
-	%       }
-	%     }
-	%   }
-	% }
-
-	% scoreTitleMarkup = \markup {
-	% 	\fill-line {
-	% 		\fromproperty #'header:piece
-	% 	}
-	% }
 }
 
 #(set-global-staff-size 17)

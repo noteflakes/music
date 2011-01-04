@@ -1,7 +1,7 @@
 parts:
-  soprano:
+  soprano1:
     lyrics: choral.lyr
-  alto:
+  soprano2:
     lyrics: choral.lyr
   basso:
     lyrics: choral.lyr

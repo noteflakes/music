@@ -28,6 +28,10 @@ class String
   def safe_uri_escape
     gsub(/([^\/]+)$/) {$1.uri_escape}
   end
+  
+  def safe_fn
+    gsub(/\s/, '').gsub(/[:\/]/, '-')
+  end
 end
 
 class Harvester
@@ -232,7 +236,7 @@ class Harvester
   def self.process(entry)
     bwvs = entry.map {|i| i['BWV']}.uniq
     if bwvs.size > 1
-      range = "%s to %s" % [format_bwv_dir_name(bwvs[0]), format_bwv_dir_name(bwvs[-1])]
+      range = "%s-%s" % [format_bwv_dir_name(bwvs[0]).safe_fn, format_bwv_dir_name(bwvs[-1]).safe_fn]
       work = range
       work_dir = range
       href = entry[0]['href']
@@ -240,7 +244,7 @@ class Harvester
       entry = entry[0]
       work = format_bwv_dir_name(entry['BWV'])
       href = entry['href']
-      work_dir = work
+      work_dir = work.safe_fn
     end
 
     FileUtils.mkdir(work_dir) rescue nil

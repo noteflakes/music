@@ -146,7 +146,7 @@ class Harvester
   def save_info
     # info = metadata.merge('jpg' => jpg_hrefs, 'dfg' => dfg_links)
     info = metadata.merge('hrefs' => dfg_info)
-    File.open(File.join(@work_dir, "#{title}.yml"), 'w+') {|f| f << info.to_yaml}
+    File.open(File.join(@work_dir, "#{title.safe_fn}.yml"), 'w+') {|f| f << info.to_yaml}
   end
   
   def process_jpgs

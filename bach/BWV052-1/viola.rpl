@@ -1,0 +1,89 @@
+\relative c' {
+  \key f \major
+  \time 4/4
+ 
+  r8 a c e a, f'6 e d8 e
+  c a c f e6 f g a f8 g
+  g g e d c a' d, c
+  b g' c, bb a c f a
+  g4 r8 g d e6 f g8 d
+  e r r4 r8 d g, d'
+  d r r4 r8 e d a'
+  a, bb c d g, e g c
+  c, e' f g c, a c f
+  f, a' bb c f, bb6 c bb8 g
+  e8. f6 g a bb g c4 ~ c6 bb c bb
+  a8 f f f g c, c8. c6
+  a4 r8 c d a bb c 
+  f, a'6 bb a bb a bb a8 r r4
+  r8 e'6 d e d e d c b c b a8 b
+  g6 f e d c8 c' c2
+  b4 g ~ g6 e a g f e f d
+  e4 r r8 d6 c bb8 a 
+  g4 r r2
+  R1
+  r8 f' d c bb g' c, bb 
+  a f' bb, a g bb eb g
+  f4 r8 f c d6 eb f8 c
+  d r r4 r2
+  R1*2
+  
+  r8 f, a cs f, d' d a
+  a f a d a e' d g
+  e cs e a a, a'6 g f8 e
+  d d, a' d d, d''6 c d8 d,
+  g fs d g e cs e a
+  a4 r8 a ~ a a a e
+  f4 r r2
+  r8 g f e d c b g
+  c4 r r2
+  r4 r8 eb eb d r d
+  d c r c c e! r4
+  f1
+  g
+  a2 r8 a, c fs
+  a c, eb a a c fs, a 
+  b4 r8 g c, c g' d
+  e e, g b e, c'6 b a8 b
+  g e g c g' d c d
+  d g, b d gs gs a b
+  e, a, cs e g! a6 bb a g f e 
+  d4 r8 e e f b, e
+  c r r4 r2
+  R1*3
+  
+  
+  r8 bb d fs bb, g' g d
+  d r r4 r2
+  R1*3
+  
+  
+  r8 a c e a, f'6 e d8 e
+  c4 r8 c d a bb c
+  f, a'6 bb a bb a bb a8 r r4
+  r8 e'6 d e d e d c b c b a8 b
+  g6 f e d c8 c' c2
+  b4 g ~ g6 e a g f e f d
+  e4 r r2
+  r8 f eb! d c bb a f
+  bb ab' d f r g, c eb
+  r f, bb d r4 f, ~
+  f8 f, bb d g2 ~
+  g8 g, c e a2 ~
+  a8 a, d f ab4 ~ ab6 g ab g 
+  ab4 ~ ab6 g ab f g4 r8 g
+  c, c' e, g c d6 c bb a bb g
+  a8 a, c e a, f'6 e d8 e
+  c a c f e6 f g a f8 g
+  g g e d c a' d, c 
+  b g' c, bb a c f a
+  g4 r8 g d e6 f g8 d
+  e r r4 r8 d g, d'
+  g r r4 r8 e d a'
+  a, bb c d g, e g c
+  c, e' f g c, a c f
+  f, a' bb c f, bb6 c bb8 g
+  e8. f6 g a bb g c4 ~ c6 bb c bb
+  a8 f f f g c, c8. c6
+  c8 a c f a2
+}

@@ -1,0 +1,22 @@
+title: Sinfonia BWV 52/1
+composer: Johann Sebastian Bach
+midi_tempo: 96 4
+parts:
+  oboe3:
+    midi_instrument: oboe
+score:
+  order:
+    - corno1
+    - corno2
+    - oboe1
+    - oboe2
+    - oboe3
+    - fagotto
+    - violino1
+    - violino2
+    - viola
+    - continuo
+  groups:
+    - brace: [corno1, corno2]
+    - brace: [oboe1, oboe2, oboe3]
+    - brace: [violino1, violino2]

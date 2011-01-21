@@ -1,0 +1,89 @@
+\relative c {
+  \key f \major
+  \time 4/4
+ 
+  f4 r8 c d a bb c
+  f, f'6 e f e f d e8 c d g,
+  c e c b a d b a
+  g c a g f4 r8 f' ~
+  f6 g f e d c b a g8 c g' g,
+  c r r4 r8 d e fs
+  /1 g6^\markup {Violoncello} d g a g f e d cs8 /2 g'8 r r4 r8 /u a, b cs
+  d g, a bb! c! c, r4
+  r8 c' d e f f, r4
+  r8 f' g a bb6 f bb a bb a bb a
+  bb c bb a g f e d c8 f c' c,
+  d6 c d c bb a bb a g8 f c' c,
+  f4 r r2
+  r8 f a c f d a bb
+  c4 r8 g a e f g
+  c, g' c c, f a d d,
+  g b e e, a f' g g,
+  c /1 c'6^\markup {Violoncello} d c bb a g fs8 d e fs /2 r8 r4 r8 d e fs /u
+  g4 r r8 a, b cs
+  d6 e d c! bb! a g f e8 c' d e
+  f d bb a g c a g
+  f bb g f eb4 r8 eb' ~
+  eb6 f eb d c bb a g f8 bb f' f,
+  bb bb' c d eb a, bb c 
+  d g, a bb c f, g a
+  bb e, f g a e cs a
+  d4 r8 a bb f g a
+  d, d'6 cs d cs d bb c8 a bb g
+  a a' r4 r8 a, b cs
+  d d, r4 r8 d' e fs
+  g a bb g a bb6 a g f e d 
+  cs d e d cs b a g f8 d' a' a,
+  d4 r r2
+  g,4 r r2
+  c8 c' bb a g f e c
+  f c6 bb c bb c d eb f bb, a bb a bb c 
+  d e! a, g a g a bb c8 g e c
+  f6 c' f e f e f e d8 a f d
+  g6 d' g f g f g f e8 b g e
+  a6 e' a g a g a g fs8 eb' c a 
+  fs c' a fs d a fs d
+  f'!4 r8 f e f g g,
+  c4 r8 g a e f g
+  c, c'6 b c b c a b8 g a d,
+  g g' r4 r8 e fs gs
+  a a, r4 r8 a d e
+  f e6 d c b a gs a8 d e e,
+  a a' bb! c d g, a bb
+  c f, g a bb e, f g 
+  a g f e d c bb a 
+  g bb c d eb c d d,
+  g4 r8 d' eb bb c d 
+  g, g' a bb c f, g a 
+  bb e, f g a d, e f 
+  g f e d c bb a g
+  f a bb c d bb c c,
+  f4 r8 c' d a bb c 
+  f,4 r r2
+  r8 f a c f d a bb
+  c4 r8 g a e f g 
+  c, g' c c, f a d d,
+  g b e e, a f' g g,
+  c4 r r2
+  f,4 r r2
+  bb8 f'6 eb f eb f g ab bb eb, d eb d eb f 
+  g a! d, c d c d eb f8 c a f
+  bb6 f' bb a bb a bb a g8 d bb g
+  c6 g' c bb c bb c bb a8 e c a
+  d6 a' d c d c d c b8 ab f d
+  b f' d b g d' b g
+  bb'!4 r8 bb, a bb c c,
+  f4 r8 c' d a bb c 
+  f, f'6 e f e f d e8 c d g,
+  c e c b a d b a 
+  g c a g f4 r8 f' ~
+  f6 g f e d c b a g8 c g' g,
+  c r r4 r8 d e fs
+  /1 g6^\markup {Violoncello} d g a g f e d cs8 /2 g'8 r r4 r8 /u a, b cs
+  d g, a bb! c! c, r4
+  r8 c' d e f f, r4
+  r8 f' g a bb6 bb, bb' a bb a bb a 
+  bb c bb a g f e d c8 f c' c,
+  d6 c d c bb a bb a g8 f c' c,
+  f f6 f f f f f f2
+}

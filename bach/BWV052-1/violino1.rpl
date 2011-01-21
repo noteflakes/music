@@ -1,0 +1,89 @@
+\relative c' {
+  \key f \major
+  \time 4/4
+ 
+  r8 f a c f c [d c6 bb]
+  a g f g a b a b c d e c f e f g 
+  e f g f g f g f g c, f e f e f e 
+  f b, e d e d e d e a, a' g f e d c 
+  b a g a b c d e f8.^\markup {\halign #-3 \center-column {\musicglyph #"scripts.turn" } } g6 d8. c6
+  c8 r r4 r8 d6 eb d c bb a 
+  bb8 d e! f\trill g a6 bb a g f e
+  f d bb' c bb a g f e8 c, e g 
+  bb c6 d c bb a g a8 f a c
+  eb f6 g f eb d c d8 g6 a g f e d
+  c8. d6 e f g a ([bb c3 bb a bb c6]) g8. f6
+  f e f e d c d c ([bb c3 bb a bb c6]) g8. f6
+  f4 r8 c d a bb c 
+  f f'6 g f g f g f8 r r4
+  r8 c'6 b c b c b c8 g [a g6 f]
+  e d c d e f g8 ~ g f6 e f4 ~
+  f8 e6 d e4 ~ e6 d e f d8. c6
+  c8 g a bb c d6 eb d c bb a 
+  bb4 r r2
+  R1
+  r6 c f eb f eb f eb f bb, eb d eb d eb d 
+  eb a, d c d c d c d g, g' f eb d c bb
+  a g f g a bb c d eb8. f6 c8. bb6
+  bb8 r r4 r2
+  R1
+  r8 e6 d e f e d cs d e f g f g e
+  f8 d, f a d a bb a6 g f e d e f g f g a bb c a d f e d 
+  cs8 a cs e a a,6 bb a g f e
+  f8 d fs a c d6 eb d c bb a
+  bb d g a g f e d cs b a b cs d e f 
+  g4 r8 g ~ [g6 a3 g f g a6] e8. d6
+  d4 r r2
+  r8 g, f e d c b g 
+  c g''6 f g f g a bb a bb c bb c bb c
+  a4 r8 eb bb d r d 
+  a c r c g bb r4
+  c2 d ~
+  d e ~
+  e r8 fs, a c
+  eb a, c eb fs a d, fs
+  g4 r8 d e6 f e d d8. c6
+  c8 c, e g c g a g6 f 
+  e d c d e fs e fs g a b g c b c d
+  b8 d, g b d e6 f e d c b 
+  c8 e, a cs e f6 g f e d cs
+  d8 e6 f e d c b c8. d6 b8. a6
+  a8 r r4 r2
+  R1
+  r8 a'6 g a bb a g fs g a bb c bb c a
+  bb a bb c bb a g fs g8. a6 fs8. g6
+  g8 g, bb d g d [eb d6 c]
+  bb8 r r4 r2
+  r8 g'6 f g a g f e8 f6 e f g f e
+  d8 r r4 r2
+  r8 c'6 d c bb a g f8. g6 e8. f6
+  f8 f, a c f c [d c6 bb]
+  a4 r8 c, d a bb c
+  f f'6 g f g f g f8 r r4
+  r8 c'6 b c b c b c8 g [a g6 f] 
+  e d c d e f g8 ~ g f6 e f4 ~
+  f8 e6 d e4 ~ e6 d e f d8.\trill c6
+  c4 r r2
+  r8 a'6 g a g a bb c bb c d c d c d 
+  bb8 f ab d r eb, g c 
+  r d, f bb r4 c, ~
+  c8 d, f bb d2 ~
+  d8 e, g c e2 ~
+  e8 f, a d f4 ~ f6 e f e 
+  f4 ~ f6 e f e f4 r8 d
+  e g c, e a6 g f g e8. f6
+  f8 f, a c f c [d c6 bb]
+  a g f g a b a b c d e c f e f g 
+  e f g f g f g f g c, f e f e f e 
+  f b, e d e d e d e a, a' g f e d c 
+  b a g a b c d e f8. g6 d8. c6
+  c8 r r4 r8 d6 eb d c bb a 
+  bb8 d e! f g a6 bb a g f e
+  f d bb' c bb a g f e8 c, e g
+  bb c6 d c bb a g a8 f a c
+  eb f6 g f eb d c d8 g6 a g f e d
+  c8. d6 e f g a ([bb c3 bb a bb c6]) g8. f6
+  f e f e d c d c ([bb c3 bb a bb c6]) g8. f6
+  f8 f a c f2
+  
+}

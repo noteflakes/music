@@ -1,0 +1,155 @@
+--- 
+work: BWV0846-BWV0869
+bwvs: 
+- "846"
+- "847"
+- "848"
+- "849"
+- "850"
+- "851"
+- "852"
+- "853"
+- "854"
+- "855"
+- "856"
+- "857"
+- "858"
+- "859"
+- "860"
+- "861"
+- "862"
+- "863"
+- "864"
+- "865"
+- "866"
+- "867"
+- "868"
+- "869"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00001076
+title: D B Mus. ms. Bach P 202
+owner: Bach Archiv Leipzig
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003025&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003025/db_bachp0202_ante001.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003025/db_bachp0202_ante002.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003025/db_bachp0202_page001.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003027&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003027/db_bachp0202_page002.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003027/db_bachp0202_page003.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003027/db_bachp0202_page004.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003029&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003029/db_bachp0202_page004.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003029/db_bachp0202_page005.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003029/db_bachp0202_page006.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003031&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003031/db_bachp0202_page007.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003031/db_bachp0202_page008.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003031/db_bachp0202_page009.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003031/db_bachp0202_page010.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003033&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003033/db_bachp0202_page010.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003033/db_bachp0202_page011.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003033/db_bachp0202_page012.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003033/db_bachp0202_page013.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003033/db_bachp0202_page014.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003035&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003035/db_bachp0202_page014.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003035/db_bachp0202_page015.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003035/db_bachp0202_page016.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003035/db_bachp0202_page017.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003037&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003037/db_bachp0202_page017.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003037/db_bachp0202_page018.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003037/db_bachp0202_page019.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003037/db_bachp0202_page020.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003039&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003039/db_bachp0202_page020.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003039/db_bachp0202_page021.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003039/db_bachp0202_page022.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003039/db_bachp0202_page023.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003039/db_bachp0202_page024.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003041&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003041/db_bachp0202_page024.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003041/db_bachp0202_page025.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003041/db_bachp0202_page026.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003041/db_bachp0202_page027.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003041/db_bachp0202_page028.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003043&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003043/db_bachp0202_page028.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003043/db_bachp0202_page029.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003043/db_bachp0202_page030.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003043/db_bachp0202_page031.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003045&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003045/db_bachp0202_page031.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003045/db_bachp0202_page032.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003045/db_bachp0202_page033.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003045/db_bachp0202_page034.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003048&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003048/db_bachp0202_page034.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003048/db_bachp0202_page035.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003048/db_bachp0202_page036.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003050&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003050/db_bachp0202_page036.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003050/db_bachp0202_page037.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003050/db_bachp0202_page038.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003050/db_bachp0202_page039.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003050/db_bachp0202_page040.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003052&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003052/db_bachp0202_page040.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003052/db_bachp0202_page041.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003052/db_bachp0202_page042.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003052/db_bachp0202_page043.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003054&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003054/db_bachp0202_page043.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003054/db_bachp0202_page044.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003054/db_bachp0202_page045.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003056&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003056/db_bachp0202_page046.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003056/db_bachp0202_page047.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003056/db_bachp0202_page048.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003056/db_bachp0202_page049.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003058&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003058/db_bachp0202_page049.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003058/db_bachp0202_page050.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003058/db_bachp0202_page051.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003060&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003060/db_bachp0202_page052.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003060/db_bachp0202_page053.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003060/db_bachp0202_page054.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003062&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003062/db_bachp0202_page054.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003062/db_bachp0202_page055.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003062/db_bachp0202_page056.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003062/db_bachp0202_page057.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003064&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003064/db_bachp0202_page057.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003064/db_bachp0202_page058.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003064/db_bachp0202_page059.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003064/db_bachp0202_page060.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003067&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003067/db_bachp0202_page060.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003067/db_bachp0202_page061.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003067/db_bachp0202_page062.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003067/db_bachp0202_page063.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003067/db_bachp0202_page064.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003069&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003069/db_bachp0202_page065.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003069/db_bachp0202_page066.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003069/db_bachp0202_page067.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003071&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003071/db_bachp0202_page067.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003071/db_bachp0202_page068.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003071/db_bachp0202_page069.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003073&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003073/db_bachp0202_page070.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003073/db_bachp0202_page071.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003075&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003075/db_bachp0202_page072.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003075/db_bachp0202_page073.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003075/db_bachp0202_page074.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003075/db_bachp0202_page075.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=1F3B32CFBE0EB3104C18CC9FF50329AC?re_mcrid=BachDigitalSource_source_00001076&se_mcrid=BachDigitalSource_derivate_00003078&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003078/db_bachp0202_page076.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003078/db_bachp0202_page077.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00003078/db_bachp0202_page078.jpg

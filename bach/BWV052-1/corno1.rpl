@@ -1,0 +1,89 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+ 
+  R1
+  r8 g' c e g d (d6 g,) d'8
+  $c1 d d d $$ (d8. g6) r2
+  R1*5
+  
+  
+  
+  
+  r2 r8 c,, $c1 c c c 
+  c g c c c c $$ (c8. g'6) r4
+  r2 r4 r8 g
+  $c1 c c c c g c g e g e c e $$
+  c8 g''6 f g f g f e f g a f e f d
+  e8 g, c d\trill e6 f e f g f e f 
+  d4 r r2
+  r8 d6 c d e f d e d e d e fs g e
+  fs e fs e fs g a fs g8. a6 fs8. g6
+  g4 r r2
+  R1
+  r8 c, d e f g6 a g f e d
+  e4 r r2
+  R1*2
+  
+  r8 a6 g a bb a g f8 g6 f g a g f 
+  e8 r r4 r2
+  R1
+  r8 (e,6 e e e e e) c4 r
+  R1
+  r8 (e6 e e e e e) e4 r
+  r8 (e'6 e e e e e) (e8. a6) r4
+  r2 r8 (e,6 e e e e e)
+  e4 r r8 e'6 d e d e d
+  c8 e6 d e d e f g f g a g a g a 
+  fs8 r r4 r2
+  R1
+  g2 f
+  e d6 e d e f g f g 
+  e2 ~ e6 f e fs g a g a
+  fs2 ~ fs6 g fs g a b a b
+  g2 ~ g6 fs g fs g4 ~
+  g6 fs g fs g4 ~ g6 fs g fs g fs g a
+  fs e fs e fs g e fs d8 g6 a fs8. g6
+  g4 r r2
+  R1*4
+  
+  
+  
+  r8 g6 f g a g f e8 f6 e f g f e
+  d8 r r4 r2
+  R1*3
+  
+  
+  r8 f6 e f g f e d8 e6 d e f e d
+  c8 r r4 r8 a'6 g a b a g
+  fs e d e fs g a fs g f g f g a g f
+  e d e f e d c b c f e d d8. c6
+  c4 r r2
+  r8 g'6 f g f g f e f g a f e f d
+  e8 g, c d e6 f e f g f e f 
+  d4 r r2
+  r8 d6 c d e f d e d e d e fs g e
+  fs e fs e fs g a fs g8. a6 fs8. g6
+  g4 r r2
+  R1
+  c2 bb
+  a g6 f g f g a bb g
+  a2 ~ a6 g a g a g f e 
+  d c d e d f e f g f g f g f g f 
+  e d e f e g f g a g a g a4 ~
+  a6 g a g a4 ~ a6 g a g a b g a 
+  b a b a b c a b c f, e d d8. c6
+  c4 r r2
+  r8 g c e g d (d6 g,) d'8
+  $c1 d d d $$ (d8. g6) r2
+  R1*5
+  
+  
+  
+  
+  r2 r8 c,, $c1 c c c 
+  c g c c c c $$ (c8. g'6) r4
+  r2 r4 r8 g
+  $c1 c c c c g c g e g e c e 
+  c c c c c c $$ c2
+}

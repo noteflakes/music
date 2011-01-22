@@ -4,6 +4,12 @@ midi_tempo: 96 4
 parts:
   oboe3:
     midi_instrument: oboe
+  corno1:
+    midi_instrument: french horn
+    midi_transpose: "c f,"
+  corno2:
+    midi_instrument: french horn
+    midi_transpose: "c f,"
 score:
   order:
     - corno1
@@ -20,3 +26,5 @@ score:
     - brace: [corno1, corno2]
     - brace: [oboe1, oboe2, oboe3]
     - brace: [violino1, violino2]
+macros:
+  c1: "\\times 2/3 { #8[( # #)] }"

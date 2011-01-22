@@ -29,8 +29,12 @@ class String
     gsub(/([^\/]+)$/) {$1.uri_escape}
   end
   
-  def safe_fn
+  def safe_dir
     gsub(/\s/, '').gsub(/[:\/]/, '-')
+  end
+
+  def safe_fn
+    gsub(/[:\/]/, '-')
   end
 end
 
@@ -164,7 +168,7 @@ class Harvester
   end
   
   def pdf_filename
-    File.join(@work_dir, "#{title}.pdf")
+    File.join(@work_dir, "#{title.safe_fn}.pdf")
   end
   
   def make_pdf
@@ -236,7 +240,7 @@ class Harvester
   def self.process(entry)
     bwvs = entry.map {|i| i['BWV']}.uniq
     if bwvs.size > 1
-      range = "%s-%s" % [format_bwv_dir_name(bwvs[0]).safe_fn, format_bwv_dir_name(bwvs[-1]).safe_fn]
+      range = "%s-%s" % [format_bwv_dir_name(bwvs[0]).safe_dir, format_bwv_dir_name(bwvs[-1]).safe_dir]
       work = range
       work_dir = range
       href = entry[0]['href']
@@ -244,7 +248,7 @@ class Harvester
       entry = entry[0]
       work = format_bwv_dir_name(entry['BWV'])
       href = entry['href']
-      work_dir = work.safe_fn
+      work_dir = work.safe_dir
     end
 
     FileUtils.mkdir(work_dir) rescue nil

@@ -1,0 +1,20 @@
+--- 
+work: BWV0739-BWV0764
+bwvs: 
+- "739"
+- "764"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00001541
+title: D B Mus. ms. Bach P 488
+owner: Bach Archiv Leipzig
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=8722B7BEF9D0AE771B388CEDD9120536?re_mcrid=BachDigitalSource_source_00001541&se_mcrid=BachDigitalSource_derivate_00004327&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004327/db_bachp0488_page001.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004327/db_bachp0488_page002.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004327/db_bachp0488_page003.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004327/db_bachp0488_page004.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004327/db_bachp0488_page005.jpg
+- - http://www.bach-digital.de/servlets/MCRDFGViewerServlet;jsessionid=8722B7BEF9D0AE771B388CEDD9120536?re_mcrid=BachDigitalSource_source_00001541&se_mcrid=BachDigitalSource_derivate_00004330&step=commit&todo=buildMetsMods
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004330/db_bachp0488_page006.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004330/db_bachp0488_page007.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00004330/db_bachp0488_page008.jpg

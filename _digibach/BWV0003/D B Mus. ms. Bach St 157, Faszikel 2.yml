@@ -1,0 +1,35 @@
+--- 
+work: BWV0003
+bwvs: 
+- "3"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002513
+title: D B Mus. ms. Bach St 157, Faszikel 2
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052935?XSL.Style=dfg
+  - - db_bachst0157_pa005.jpg
+    - db_bachst0157_pa006.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052937?XSL.Style=dfg
+  - - db_bachst0157_pa007.jpg
+    - db_bachst0157_pa008.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052939?XSL.Style=dfg
+  - - db_bachst0157_pa009.jpg
+    - db_bachst0157_pa010.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052941?XSL.Style=dfg
+  - - db_bachst0157_pa011.jpg
+    - db_bachst0157_pa012.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052943?XSL.Style=dfg
+  - - db_bachst0157_pa019.jpg
+    - db_bachst0157_pa020.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052945?XSL.Style=dfg
+  - - db_bachst0157_pa021.jpg
+    - db_bachst0157_pa022.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052947?XSL.Style=dfg
+  - - db_bachst0157_pa023.jpg
+    - db_bachst0157_pa024.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00052949?XSL.Style=dfg
+  - - db_bachst0157_pa025.jpg
+    - db_bachst0157_pa026.jpg
+    - db_bachst0157_pa027.jpg
+    - db_bachst0157_pa028.jpg

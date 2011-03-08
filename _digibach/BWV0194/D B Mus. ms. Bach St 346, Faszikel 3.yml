@@ -1,0 +1,34 @@
+--- 
+work: BWV0194
+bwvs: 
+- "194"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002545
+title: D B Mus. ms. Bach St 346, Faszikel 3
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053244?XSL.Style=dfg
+  - - db_bachst0346_pa037.jpg
+    - db_bachst0346_pa038.jpg
+    - db_bachst0346_pa039.jpg
+    - db_bachst0346_pa040.jpg
+    - db_bachst0346_pa041.jpg
+    - db_bachst0346_pa042.jpg
+    - db_bachst0346_pa043.jpg
+    - db_bachst0346_pa044.jpg
+    - db_bachst0346_pa045.jpg
+    - db_bachst0346_pa046.jpg
+    - db_bachst0346_pa047.jpg
+    - db_bachst0346_pa048.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053233?XSL.Style=dfg
+  - - db_bachst0346_pa019.jpg
+    - db_bachst0346_pa020.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053235?XSL.Style=dfg
+  - - db_bachst0346_pa025.jpg
+    - db_bachst0346_pa026.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053237?XSL.Style=dfg
+  - - db_bachst0346_pa031.jpg
+    - db_bachst0346_pa032.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053239?XSL.Style=dfg
+  - - db_bachst0346_pa044.jpg
+    - db_bachst0346_pa045.jpg

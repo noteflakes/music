@@ -1,0 +1,153 @@
+\relative c {
+  \key a \major
+  \time 3/4
+ 
+  $c1 a'\f a, a a' a a,
+    a
+  e' e, e e' e e,
+    e
+  cs' cs' cs as as fs
+    fs
+  b, b' b gs gs e
+    e $$
+  $c2 a cs b a gs fs
+  es d' cs b a gs
+  fs gs a b, b' a $$
+  $c1 gs e a d, e e,
+    a
+  a' a, a a' a a,
+    a $$
+  a r r
+  $c1 a' a, a a' a a,
+    a $$
+  $c2 e' fs gs b a fs
+  gs b a fs gs e $$
+  $c3 b' b, b b' b b, $$
+  b4 r $c4 b' a $$
+  gs4. [fs8 (e8. gs6)]
+  $c3 a a, a a' a a, $$
+  $c2 a a' gs fs gs e $$
+  fs4. e8 $c4 ds b
+  e a $$ b8 a b b,
+  $c1 e e, e e' e e, 
+    e
+  b'' b, b b' b b,
+    b
+  gs gs' gs es es cs
+    cs
+  fs, fs' fs ds ds b
+    b $$
+  $c2 e gs fs e ds cs
+  bs a' gs fs e ds
+  cs ds e fs, fs' e $$
+  $c1 ds b e a b b,
+    e,
+  e' e, e e' e e,
+    e $$
+  e4 e e
+  $c1 e' e, e e' e e,
+    e $$
+  $c2 e' fs e d cs fs $$
+  [(b,8. e6) (fs8. e6) fs8 fs,]
+  $c1 b' b, b b' b b,
+    b $$
+  $c2 b' a g fs g fs $$
+  [(e8. d6) (a'8. g6) a8 a,]
+  $c1 d d, d d' d d,
+    d $$
+  $c2 fs' gs a cs b d
+  cs e d b cs a $$
+  $c3 e e, e e' e e, $$
+  e4 r (e'8. d6)
+  cs4. [b8 (a8. cs6)]
+  $c3 d d, d d' d d, $$
+  $c2 d d' cs b cs a $$
+  b4. [a8 (gs8. e6)]
+  [(a8. d6) (e8. d6) e8 e,]
+  $c1 a cs' cs a a fs
+    fs
+  b, b' b gs gs e
+    e $$
+  $c2 a cs b a gs fs
+  es d' cs b a gs
+  fs gs a b, b' a $$
+  $c3 gs e a d, e e,
+  a' a, a a' a a, $$
+  a4 r r\fermata \bar "||" \time 4/4
+  es1\p ~
+  es ~
+  e2 e'! ~
+  e1
+  as,
+  a! ~
+  a2 ds, ~
+  ds d'! ~
+  d1
+  gs,
+  g'! ~
+  g2 cs, ~
+  cs c
+  b ds
+  e1 ~
+  e8 g ^fs6 e8 ^d6 cs8 as2
+  b1\fermata \bar "||" \time 3/8
+  b8 b' a
+  gs fs e
+  ds cs b
+  e4. ~
+  e8 d! g
+  e cs fs
+  b, b' a 
+  gs a b
+  e, e, e'
+  a, a' fs
+  b b, c ~
+  c a b
+  e, e' d
+  cs d e
+  a, a' a,
+  d, d' b
+  e, e' f ~
+  f d e
+  a, a' g 
+  fs g a 
+  d, d, d'
+  g, g' e
+  a a, b ~
+  b g a 
+  (d6 cs) (e d) (cs b)
+  (as8 as as)
+  (fs fs fs)
+  (b b gs)
+  cs a d ~
+  d b cs
+  fs, \clef alto fs''8. fs6
+  b,8. cs6 ds e
+  (ds fs) (e ds) (cs b)
+  e8 e cs
+  fs fs g ~
+  g e fs
+  b \clef tenor b,8. b6
+  e,8. fs6 gs a
+  (gs b) (a gs) (fs e)
+  a8 a fs 
+  b b c ~
+  c a b
+  e, \clef bass e8. e6
+  a,8. b6 cs d
+  e8 fs g ~
+  g6 fs (b a) (gs! fs)
+  gs8 e a 
+  f d e
+  (ds6 e fs gs a b)
+  (c b a g fs e)
+  ds8 b ds
+  e e, e'
+  a a, bb ~
+  bb g a
+  d,4\fermata \tempo "Adagio" r8
+  r r ds
+  (e e e)
+  (e e e)
+  a4.\fermata
+}

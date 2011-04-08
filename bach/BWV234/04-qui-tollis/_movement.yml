@@ -1,0 +1,7 @@
+parts:
+  violino1:
+    source: viola
+  violino2:
+    source: viola
+  viola:
+    title: "Vni e Vla"

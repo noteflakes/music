@@ -37,6 +37,7 @@ score:
     - brace: [flauto1, flauto2]
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]
+  hide_figures: true
 macros:
   c1: "#8-. #-. #-. #-. #-. #-. #4 r r"
   c2: "[(#8. #6) (#8. #6) (#8. #6)]"

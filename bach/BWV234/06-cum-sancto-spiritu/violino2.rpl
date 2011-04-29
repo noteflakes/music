@@ -1,0 +1,60 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+  \tempo "Grave"
+  
+  r4 a' gs8 fs gs e
+  a4. b6 a gs8 fs e a
+  fs4 e2 ds4 \bar "||" \time 12/8 \tempo "Vivace"
+  e4. ~ e4 r8 r2.
+  r2. r8 e' b gs e a
+  e e' e e e a a4 fs8 e fs d
+  cs e, a cs a cs e r r r4.
+  r4. r8 r a, (e4.\trill fs8) gs a
+  gs e fs gs fs e a2. ~
+  a8 cs b a gs a gs fs gs a gs fs
+  b gs fs e fs gs cs,4 r8 r r b'
+  e, fs gs fs gs a gs e gs a e a
+  cs2. ~ cs8 b as b4. ~
+  b8 a! b a4. a4 g8 fs e d 
+  b'4. ~ b4 a8 g4. ~ g8 fs as
+  b d, e fs4. fs4 ds8 e4. ~
+  e4 es8 fs4. ~ fs8 a gs es fs gs ~
+  gs fs a ~ a b6 a gs fs gs8 es gs cs gs cs
+  es gs, a b a gs fs gs a b cs es,
+  fs4 es8 fs gs a ~ a b a gs fs e
+  fs4. ~ fs8 gs a gs4 a8 b4. ~
+  b4 a8 gs a b es,4. fs4 es8
+  fs a gs fs es fs es cs fs fs4 es8
+  cs a cs fs cs fs a6 gs a b a b gs fs gs a fs gs
+  es ds es fs es fs gs fs gs a fs gs es8 r r r6 gs fs e d cs
+  b8 r r r6 a' g fs e d cs8 gs' b ~ b a gs
+  [fs cs'8. d6] gs,4 gs8 fs4 r8 r4.
+  r2. r6 as, b cs d e fs g fs e d cs 
+  b4 r8 r4. r2.
+  r2. r6 gs a b cs d e fs e d cs b
+  a4 r8 r4. r8 a' fs e cs a 
+  d4. r8 r b' (e,4.\trill fs8) gs a
+  gs e fs gs fs e a4. r8 r gs
+  e4 r8 g4. ~ g8 fs e a4. ~
+  a4 r8 a4. ~ a8 gs fs b4. ~
+  b4 r8 b4. ~ b8 a gs cs4 gs8
+  a4. ~ a8 gs fs b4. ~ b8 fs gs
+  a4. ~ a8 gs fs e fs gs a b cs ~
+  cs b a ~ a gs fs e2. ~
+  e8 d e fs gs a gs4 cs,8 r r es
+  fs cs fs e! b fs' ~ fs e ds cs b cs
+  fs2. ~ [fs8 e6 ds e8] b ds ds
+  e b b b4 e8 e4 r8 g4. ~
+  g2. ~ g8 fs e fs4. ~
+  fs8 e d e4. ~ e6 a, b cs d e fs d e fs gs a
+  b8 e, e e4 e8 e4 r8 r4.
+  r6 e' d cs b as b g fs e d cs d4 r8 r4.
+  r6 d' cs b a gs a fs e d cs b cs4 r8 r4.
+  r8 r a' fs gs a b e, gs a4. ~
+  a8 cs a b4. ~ b8 d6 cs b a b4 r8
+  r6 a, b cs d e fs e d e fs gs a8 fs gs a gs a 
+  a4. ~ a8 gs fs b4 b8 a gs fs
+  gs4 a8 fs b4 ~ b8 d cs a b gs
+  e4. r r2.
+}

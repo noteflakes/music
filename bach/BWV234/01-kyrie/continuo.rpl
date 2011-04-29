@@ -73,7 +73,7 @@
   fs gs a b, b' a $$
   $c3 gs e a d, e e,
   a' a, a a' a a, $$
-  a4 r r\fermata \bar "||" \time 4/4
+  a4 r r\fermata \bar "||" \time 4/4 \tempo "Lento"
   es1\p ~
   es ~
   es2 e'! ~

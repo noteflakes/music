@@ -5,7 +5,7 @@
   
   r4 d2 cs4
   fs, b e, a ~
-  a gs fs2 \bar "||" \time 12/8
+  a gs fs2 \bar "||" \time 12/8 \tempo "Vivace"
   e8 gs b e e' d cs b a gs fs e
   a cs, e a gs fs e r r r4.
   r8 e' b gs e fs cs4 d8 e d e

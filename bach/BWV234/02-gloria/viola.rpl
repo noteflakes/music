@@ -1,0 +1,117 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+  \tempo "Vivace"
+
+  e6 a cs cs a cs e, a e gs b gs e gs b, e
+  e e e e e e e e e e e e e e gs b 
+  a8 r r4 a6 a d d a a fs fs
+  cs'8 r r4 fs,6 fs b b fs fs d d 
+  gs8 r r4 r6 cs, cs cs cs8 r
+  r6 e e e e8 r r6 a a a a8 r
+  r6 fs fs fs b,8 r e6 gs b b gs b e, gs
+  e a cs cs a cs e, a gs b d d b d gs, b
+  d, gs b, d gs, gs gs gs gs gs gs gs gs8 r \bar "||" \time 3/4 \tempo "Adagio"
+  R2.*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    \bar "||" \time 4/4 \tempo "Vivace"
+  e'6 a cs cs a cs e, a e gs b gs e gs b, e
+  e e e e e e e e e8 gs r4
+  e6 a cs cs a cs e, a e gs b gs e gs b, e
+  e e e e e e e e e e e e e e gs b
+  a8 r r4 a6 a d d a a fs fs 
+  cs'8 r r4 fs,6 fs b b fs fs d d 
+  gs8 r r4 r6 cs, cs cs cs8 r
+  r6 e e e e8 r r6 a a a a8 r
+  r6 fs fs fs b,8 r e6 gs b b gs b e, gs
+  e a cs cs a cs e, a gs b d d b d gs, b
+  d, gs b, d gs, gs gs gs gs gs gs gs gs8 r \bar "||" \time 3/4 \tempo "Adagio"
+  R2.*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    \bar "||" \time 4/4 \tempo "Vivace"
+  cs6 fs a a fs a cs, fs cs es gs es cs es gs, cs
+  cs cs cs cs cs cs cs cs cs b' b b b8 r
+  r6 a a a a8 r r6 a a a a8 r
+  r6 g g g g8 r r6 g g g g8 r
+  a,6 d fs fs d fs a, d a cs e cs a cs e, a
+  a a a a a a a a a a a a a a cs e
+  fs8 r r4 d6 d g g d d b b 
+  fs'8 r r4 b,6 b e e b b g g 
+  cs8 r r4 r6 fs, fs fs fs8 r
+  r6 a a a a8 r r6 d d d d8 r
+  r6 b b b b8 r a6 cs e e cs e a, cs
+  a d fs fs d fs a, d cs e g g e g cs, e
+  a, a a a a a a a a a a a a8 r \bar "||" \time 3/4 \tempo "Adagio"
+  R2.*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    \bar "||" \time 4/4 \tempo "Vivace"
+  cs6 fs a a fs a cs, fs cs es gs es cs es gs, cs
+  cs cs cs cs cs cs cs cs cs8 es r4
+  fs6 a cs cs a cs fs, a e gs b gs e gs b, e
+  e e e e e e e e e8 gs r4
+  e6 a cs cs a cs e, a e gs b gs e gs b, e
+  e e e e e e e e e e e e e e gs b
+  a8 r r4 a6 a d d a a fs fs
+  cs'8 r r4 fs,6 fs b b fs fs d d 
+  gs8 r r4 r6 cs, cs cs cs8 r
+  r6 e e e e8 r r6 a a a a8 r
+  r6 fs fs fs b,8 r e6 gs b b gs b e, gs
+  e a cs cs a cs e, a gs b d d b d gs, b
+  d, gs b, d gs, gs gs gs gs gs gs gs gs8 r \bar "||" \time 3/4 \tempo "Adagio"
+  R2.*3
+  
+  
+  r8 r6 a' (e8. fs6) g4 ~
+  g8. cs,6 fs4. fs8
+  [(fs8. e6) (d8. fs6) (e8. d6)]
+  [(e8. gs6) (b8. gs6)] e4 ~
+  [e8. a6 (gs8. fs6) (e8. d6)]
+  [(e8. d6) (cs8. b6)] a4 ~
+  [a8. e'6 (fs8. g6) (a8. d,6)]
+  (e8. fs6) (e4 d8.\trill) cs6
+  [(cs8. d6) (cs8. b6)] a4 ~
+  [a8. cs6 (d8. a6)] a'4 ~
+  a8. fs6 g4. cs,8
+  [(fs8. a,6) (b8. e6) (a,8. e6)]
+  [(e'8. fs6) (b,8. cs6) d8 cs]
+  cs2.\fermata
+}

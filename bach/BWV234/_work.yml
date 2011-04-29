@@ -1,5 +1,20 @@
 title: Missa Brevis A-dur BWV 234
 composer: Johann Sebastian Bach
+parts:
+  continuo:
+    breaks:
+      - 02-gloria
+      - 03-domine-deus
+      - 05-quoniam
+      - 05-quoniam
+      - 06-cum-sancto-spiritu
+  violoncello:
+    source: continuo
+    hide_figures: true
+    breaks:
+      - 02-gloria
+      - 03-domine-deus
+      - 05-quoniam
 score:
   order:
     - flauto1

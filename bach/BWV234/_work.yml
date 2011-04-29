@@ -15,6 +15,11 @@ parts:
       - 02-gloria
       - 03-domine-deus
       - 05-quoniam
+  viola:
+    breaks1:
+      - 04-qui-tollis
+      - 05-quoniam
+      - 06-cum-sancto-spiritu
 score:
   order:
     - flauto1

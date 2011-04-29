@@ -148,6 +148,6 @@
   d4\fermata \tempo "Adagio" r8
   r r c
   b4. ~
-  b8 cs d
+  b8 cs! d
   cs4.\fermata
 }

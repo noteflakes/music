@@ -1,7 +1,7 @@
 \relative c {
   \key a \major
   \time 4/4
-  \tempo "Vivace"
+  \tempo "Vivace" m{{\tempo 4=100}}
 
   a'8 a, r4 gs'8 gs, r4
   a'6 cs e e cs e a, cs e, b' e e gs, b e, gs
@@ -11,7 +11,7 @@
   gs b d d b b gs gs a a e e cs cs a a
   b b a a gs gs fs fs e8 e' r4
   e,8 e' r4 e,8 e' r4
-  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio"
+  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
   cs,4 r r
   fs r r
   b, e e,
@@ -27,7 +27,7 @@
   a, r r
   e r r
   a r r
-  e' r r \bar "||" \time 4/4 \tempo "Vivace"
+  e' r r \bar "||" \time 4/4 \tempo "Vivace" m{{\tempo 4=100}}
   a8 a, r4 gs'8 gs, r4
   a'6 cs e e cs e a, cs e,8 e' r4
   a,8 a, r4 gs'8 gs, r4
@@ -38,7 +38,7 @@
   gs b d d b b gs gs a a e e cs cs a a
   b b a a gs gs fs fs e8 e' r4
   e,8 e' r4 e,8 e' r4
-  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio"
+  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
   cs,4 r r
   fs r r
   b, e e,
@@ -54,7 +54,7 @@
   b, r r
   fs r r
   d' r r 
-  (cs8. b6) cs4 cs, \bar "||" \time 4/4 \tempo "Vivace"
+  (cs8. b6) cs4 cs, \bar "||" \time 4/4 \tempo "Vivace" m{{\tempo 4=100}}
   fs8 fs' r4 es,8 es' r4
   fs6 a cs cs a cs fs, a cs, gs' cs cs es, gs cs, es
   fs, a cs cs a a fs fs b d fs fs d d b b
@@ -67,7 +67,7 @@
   cs e g g e e cs cs d d a a fs fs d d
   e e d' d cs cs b b a8 a' r4
   a,8 a' r4 a,8 a' r4
-  a,6 cs e e cs e a, cs g cs e e cs e g, cs \bar "||" \time 3/4 \tempo "Adagio"
+  a,6 cs e e cs e a, cs g cs e e cs e g, cs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
   fs,4 r r
   b r r 
   e a a,
@@ -83,7 +83,7 @@
   fs, r r
   cs' r r 
   fs r r 
-  cs' r r \bar "||" \time 4/4 \tempo "Vivace"
+  cs' r r \bar "||" \time 4/4 \tempo "Vivace" m{{\tempo 4=100}}
   fs,8 fs, r4 es'8 es, r4
   fs'6 a cs cs a cs fs, a cs, gs' cs cs es, gs cs, es
   fs,8 fs' r4 gs,8 gs' r4
@@ -96,7 +96,7 @@
   gs b d d b b gs gs a a e e cs cs a a
   b b a a gs gs fs fs e8 e' r4
   e,8 e' r4 e,8 e' r4
-  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio"
+  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
   cs,4 r r
   fs r r
   b, e e,

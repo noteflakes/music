@@ -1,5 +1,8 @@
 title: Missa Brevis A-dur BWV 234
 composer: Johann Sebastian Bach
+movements:
+  03-domine-deus:
+    midi_tempo: 80 4
 parts:
   continuo:
     breaks:

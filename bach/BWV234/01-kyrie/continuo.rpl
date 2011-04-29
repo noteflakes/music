@@ -1,6 +1,6 @@
 \relative c {
   \key a \major
-  \time 3/4
+  \time 3/4 m{{\tempo 4=80}}
  
   $c1 a'\f a, a a' a a,
     a
@@ -73,7 +73,7 @@
   fs gs a b, b' a $$
   $c3 gs e a d, e e,
   a' a, a a' a a, $$
-  a4 r r\fermata \bar "||" \time 4/4 \tempo "Lento"
+  a4 r r\fermata \bar "||" \time 4/4 \tempo "Lento" m{{\tempo 4=40}}
   es1\p ~
   es ~
   es2 e'! ~
@@ -90,7 +90,7 @@
   b ds
   e1 ~
   e8 g ^fs6 e8 ^d6 cs8 as2
-  b1\fermata \bar "||" \time 3/8
+  b1\fermata \bar "||" \time 3/8 m{{\tempo 8=150}}
   b8 b' a
   gs fs e
   ds cs b
@@ -145,7 +145,7 @@
   e e, e'
   a a, bb ~
   bb g a
-  d,4\fermata \tempo "Adagio" r8
+  d,4\fermata \tempo "Adagio"  m{{\tempo 8=70}} r8
   r r ds
   (e e e)
   (e e e)

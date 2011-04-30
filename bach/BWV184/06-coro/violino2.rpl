@@ -1,0 +1,76 @@
+\relative c' {
+  \key g \major
+  \time 2/2
+
+    \partial 2 b'4 a \segno
+  g1 ~
+  g ~
+  g8 fs g a b4 a8 g
+  fs2 g4 b8 a
+  g1 ~
+  g ~
+  g8 fs g a b4 a8 g
+  fs2 fs4 a8 gs
+  a1 ~
+  a ~
+  a4 b8 c d4 c
+  b2 b4 b
+  b c c d
+  d c8 b a g fs e
+  d4 g g fs
+  d2 fs4 a8 gs
+  a1 ~
+  a ~
+  a4 b8 c d4 c
+  b2 b4 b
+  b c c d
+  d c8 b a g fs e
+  d4 g g fs
+  d2\fermata r
+  R1
+  r2 g4 a
+  b e, e ds
+  e2 r
+  R1*14
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 d'4 e
+  fs b, b as
+  fs2 r
+  R1
+  r2 g4 a
+  b e, e ds
+  e2 r
+  R1
+  r2 fs4 g
+  a d, d cs
+  a2 r
+  R1*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 b'4 a \dalsegno
+}

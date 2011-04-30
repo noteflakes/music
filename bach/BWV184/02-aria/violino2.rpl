@@ -1,0 +1,216 @@
+\relative c' {
+  \key g \major
+  \time 3/8
+  
+    \partial 8 b'8
+  b g a
+  g6 fs g a b8
+  b g a
+  g6 fs g a b8
+  b8. c6 d8
+  e8. b6 c8
+  g fs g
+  fs6 e fs g a8 ~
+  a g6 a g fs
+  e4 cs'8 ~
+  cs b6 d cs b
+  a8 b cs
+  d8. e6 c!8
+  b cs d
+  d8. b6 a8
+  a4 fs8
+  a8. g6 a8
+  b6 a b c d8
+  c8. a6 gs8
+  a e a
+  a g! a
+  g4 g8
+  g8. d'6 c8
+  a g6 fs e d
+  c'4 r8
+  fs,4_\editP r8
+  d'4_\editF r8
+  b4_\editP r8
+  c8._\editF b6 a8
+  g6 fs g8 a 
+  b a6 g fs8
+  d4 r8
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  c'4 r8
+  fs,4_\editP r8
+  d'4_\editF r8
+  b4_\editP r8
+  c8._\editF b6 a8
+  g6 fs g8 a
+  b a6 g fs8
+  d4 r8
+  R4.*15
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r fs\f
+  fs d e
+  d6 cs d e fs8
+  fs d e
+  d6 cs d e fs8
+  fs8. g6 a8
+  b8. fs6 g8
+  d cs d
+  cs6 e a g a8 ~
+  a g6 a g fs
+  e4 cs'8 ~
+  cs b6 d cs b
+  a8 b cs
+  d8. e6 c!8
+  b cs d
+  d8. b6 a8
+  a4 r8
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  b4 r8
+  d4\p r8
+  g,4\f r8
+  g4 r8
+  g4 r8
+  R4.*17
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r b\f
+  b g a
+  g6 fs g a b8
+  b8 g a
+  g6 fs g a b8
+  b8. c6 d8
+  e8. b6 c8
+  g fs g
+  fs6 e fs g a8 ~
+  a g6 a g fs
+  e4 cs'8 ~
+  cs b6 d cs b
+  a8 b cs
+  d8. e6 c!8
+  b cs d
+  d8. b6 a8
+  a4 fs8
+  a8. g6 a8
+  b6 a b c d8
+  c8. a6 gs8
+  a e a ~
+  a g! a
+  g4 g8
+  g8. d'6 c8
+  a g6 fs e d
+  c'4 r8
+  fs,4\p r8
+  d'4\f r8
+  b4\p r8
+  c8._\editF b6 a8
+  g6 fs g8 a
+  b a6 g fs8
+  d4\fermata r8
+  R4.*7
+  
+  
+  
+  
+  
+  
+  r8 r d\p
+  d8. e6 d8
+  b6 a b c d b
+  gs8 b e 
+  e8. f6 e8
+  c6 b c d e c
+  a8 c fs
+  fs b, r
+  R4.*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r fs'\f
+  g8. a6 fs8
+  e6 ds e fs g8
+  g8. a6 fs8
+  e6 ds e fs g8
+  e4 c'8 ~
+  c b6 c b a
+  g8. a6 fs8
+  g4 r8
+  R4.*11
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  d'4\p r8
+  fs4 r8
+  e4 r8
+  e4 r8
+  e4 r8
+  R4.*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r \dacapo
+}

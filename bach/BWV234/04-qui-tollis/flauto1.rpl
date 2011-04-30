@@ -1,0 +1,118 @@
+\relative c' {
+  \key b \minor
+  \time 3/4
+
+  r8 (d'' cs b as b)
+  e2. ~
+  e8 (d cs b as b)
+  g2. ~
+  g8 (fs e d cs e)
+  [d (fs6 e fs8) a (c b)]
+  r [(e,6 d e8) g (b a)]
+  r [(d,6 cs d8) fs (a g)]
+  r [(c,6 b c8) e (g fs)]
+  (b as) (d cs) (e g,)
+  g4. (fs6 e) fs8 (b6 as)
+  (b cs as b) d,4 cs8 b
+  b (d' cs b as b)
+  e2. ~
+  e8 (d cs b as b)
+  g2. ~
+  g8 fs e d cs e ~
+  e d cs b as b
+  e2. ~
+  e8 (d cs b as b)
+  c (b a g fs g6 a)
+  g4 r r
+  r8 (g' fs e ds e)
+  b'2. ~
+  b8 (b a g fs g6 a)
+  ds,2.\trill 
+  e8 g6 fs g2 ~
+  g8 fs6 e fs2 ~
+  fs8 e6 ds e2 ~
+  [e8 (a6 gs a8) f (e ds)]
+  (g fs) (b a) (e' a,)
+  a2 ~ a8 g6 fs
+  g8 fs6 e ds4. e8
+  e (g fs e ds e)
+  a2. ~
+  a8 (g fs e ds e)
+  c'2. ~
+  c8 (b a g fs g6 a)
+  g4 r r
+  r8 (c, b a gs a)
+  d2. ~
+  d8 (f e d c d6 b)
+  c4 r r
+  r8 (d c b as b)
+  e2. ~
+  e8 (g fs e d e6 cs)
+  d4 r r
+  r8 (e d cs bs cs)
+  bs2.\trill
+  cs8 (d' cs b a b6 gs)
+  [a8 (cs6 b cs8) e (g,! fs)]
+  r [(b6 a b8) d (fs, e)]
+  r [(a6 gs a8) cs (e, d)]
+  r [(g!6 fs g8) b (d, cs)]
+  (fs es) (a gs) (b d)
+  d4. cs6 b cs4 ~
+  [cs8 b6 a b8 d cs b]
+  a4 r r
+  r8 (a, gs fs es gs)
+  cs2. ~
+  cs8 (cs b a gs a6 b)
+  es,2.\trill
+  fs4 c'2 ~
+  c4 b a ~
+  a8 (c b a) (e' ds)
+  e4. (ds8 e ds)
+  e8 b g'2 ~
+  g8 (fs e d cs d)
+  e2 a4 ~
+  a8 (b a g fs e)
+  (f6 e d8) b'2\trill
+  cs4. b8 cs d
+  (d, cs) (d cs) (d cs)
+  d4 e8 f g4 ~
+  g8 (bb a g f e)
+  f (a g f e d)
+  e4 r cs'
+  d d,8 cs d4 ~
+  d8 e, f e f4 ~
+  f8 a' cs,4. d8
+  d4 r r
+  r8 (d' cs b as b)
+  e2. ~
+  e8 (d cs b as b)
+  g2. ~
+  g8 (fs e d cs d6 e)
+  d8 (d' cs b as b)
+  e,2. ~
+  e8 (d' cs b as b)
+  g2. ~
+  g8 (fs e d cs d6 e)
+  d4 r r
+  r8 (d cs b as cs)
+  fs2. ~
+  fs8 (g fs e ds e6 fs)
+  e8 (g, fs e ds e)
+  as2.
+  b8 (d cs b as b)
+  fs'2. ~
+  [fs8 (fs6 e fs8) a (c b)]
+  r [(e,6 d e8) g (b a)]
+  r [(d,6 cs d8) fs (a g)]
+  r [(c,6 b c8) e (g fs)]
+  (b as) (d cs) (e g,)
+  g4. fs6 e fs4 ~
+  [fs8 e6 d e8 g fs e]
+  d (d' cs b as b)
+  e2. ~
+  e8 (d cs b as b)
+  g2. ~
+  g8 (fs e d cs d6 e)
+  d8 cs' as4. b8
+  b2.
+}

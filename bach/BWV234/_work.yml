@@ -3,6 +3,8 @@ composer: Johann Sebastian Bach
 movements:
   03-domine-deus:
     midi_tempo: 80 4
+  04-qui-tollis:
+    midi_tempo: 54 4
 parts:
   continuo:
     breaks:

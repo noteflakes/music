@@ -1,0 +1,47 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+  
+  $t b'' c b c d b c b c d $$ b8 r r4
+  $t e, f e f g e f e f g $$ fs8 r r4
+  $t a b a b c a b a b c $$ a8 r r4
+  $t g a g a b g a g a b $$ g4 r8 fs
+  $t g a g a b g a g a b $$ g8 r $t fs g fs g a $$
+  ds,8 r r4 $t e fs e fs g e fs e fs g $$
+  b,8 r r4 $t e fs e fs g $$ cs,8 r
+  $t cs d cs d e cs d cs d e $$ cs8 r r4
+  $t d e d e fs d e d e fs $$ d8 r r4
+  $t fs g fs g a fs g fs g a $$ a8 r r4
+  $t g a g a b g a g a b $$ c8 r r4
+  r4 $t ds, e ds e fs $$ e8 r r4
+  $t g a g a b g a g a b $$ fs8 r r4
+  $t g a g a b g a g a b $$ g8 r r4
+  $t d e d e f d e d e f $$ b,8 r r4
+  $t b' c b c d gs, a gs a b $$ e,8 r r4
+  $t a b a b c a b a b c $$ a8 r r4
+  $t as b as b cs as b as b cs $$ as8 r r4
+  $t b cs b cs d b cs b cs d $$ b8 r r4
+  $t e, fs e fs g $$ e8 r $t d e d e fs d e d e fs
+  fs g fs g a fs g fs g a e fs e fs g $$ cs,8 r
+  r4 $t cs d cs d e d e d e fs d e d e fs $$ 
+  g8 r $t d e d e f $$ b,8 r r4
+  $t c d c d e e f e f g fs g fs g a a b a b c $$ 
+  a8 r r4 $t g a g a b g a g a b
+  e, fs e fs gs $$ gs8 r $t a b a b cs e, fs e fs g
+  cs, d cs d e $$ a,8 r r2
+  $t e' fs e fs g cs, d cs d e $$ e8 r r4
+  r2 $t d e d e fs $$ b,8 r
+  $t e fs e fs g $$ cs,8 r $t d e d e fs fs g fs g a $$
+  a8 r r4 r2
+  R1*7
+  
+  
+  
+  
+  
+  
+  $t d, e d e fs fs g fs g a $$ a8 r r4
+  $t fs g fs g a d, e d e fs $$ g8 r r4
+  $t g a g a b b c b c d $$ r2
+  r4 $t fs, g fs g a $$ (a8 g) r4
+}

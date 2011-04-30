@@ -1,0 +1,20 @@
+\relative c {
+  \key b \minor
+  \time 4/4
+
+    \partial 4 d'8 cs
+  b4 fs g a
+  b a d,\fermata a'8 g
+  fs4 b,8 cs d4 cs
+  b a8 g a2
+  d,2. \bar ":|" d'4
+  a' d, g\fermata fs
+  gs as b\fermata b8 a
+  gs fs e4 a8 gs fs e
+  d4 e a,\fermata fs'
+  b, cs8 d e fs g4
+  fs a d,\fermata a'8 g
+  fs4 b,8 cs d4 cs
+  b a8 g a2
+  d,2.\fermata
+}

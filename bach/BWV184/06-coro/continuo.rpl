@@ -1,0 +1,77 @@
+\relative c {
+  \key g \major
+  \time 2/2
+
+    \partial 2 g'4 d \segno
+  b e d c
+  b e d c
+  b a g8 a b c 
+  d e d c b a g a 
+  b4 e d c
+  b e d c
+  b a g8 a b c
+  d fs a d c4 b
+  a d c b
+  a d, c b
+  a a' b c
+  g a g fs
+  e8 g c b a g fs e
+  fs b a g fs e d c
+  b4 c d d,
+  g8 b a g d'4 b
+  a d c b
+  a d c b
+  a a' b c
+  g a g fs
+  e8 g c b a g fs e 
+  fs b a g fs e d c
+  b4 c d d,
+  g2\fermata e'8\p fs g fs
+  e4 g fs e
+  b'8 a g fs e4\f fs
+  g a b b,
+  e8 fs g fs e4\p g
+  a cs d, fs
+  g b cs, e
+  fs as b, d
+  e fs g e
+  fs (g8 fs) (e d) (cs b)
+  (as b) (cs d) (e d) (e fs)
+  (g a) (g fs) (e d) (cs b)
+  as4 as' b d,
+  e d cs b
+  as fs b d
+  e fs g e 
+  fs e d cs
+  b fs g e
+  fs e fs fs' 
+  b b,8\f as b4 cs
+  d e fs fs,
+  b8 fs'\p (gs as) (b cs) (d cs)
+  b4 g! a b
+  e, e8\f ds e4 fs
+  g a b b,
+  e,8 e'\p (fs g) (a b) (cs b)
+  a4 fs g a
+  d, d8\f cs d4 e
+  fs g a a,
+  d,8 a'\p (b cs) (d e) (fs e)
+  (d e) (d c!)
+  b4 a
+  (e'8 fs) (gs e) a4 c
+  d,4 fs g! b
+  c, e fs a
+  b, ds e g
+  a, b c a
+  b (c8 b) (a g) (fs e)
+  (ds e) (fs g) (a g) (a b)
+  (c d) (c b) (a g) (fs e)
+  ds4 ds' e g
+  a g fs e
+  ds b e g,
+  a b c a
+  b a g fs
+  e b' c a
+  b a b2
+  e, g'4 d \dalsegno
+}

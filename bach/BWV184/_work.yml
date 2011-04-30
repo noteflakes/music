@@ -1,0 +1,23 @@
+title: Cantata BWV 234
+subtitle: "\"Erwünschtes Freudenlicht\""
+composer: Johann Sebastian Bach
+score:
+  order:
+    - flauto1
+    - flauto2
+    - violino1
+    - violino2
+    - violino
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [flauto1, flauto2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]
+  hide_figures: true
+macros:
+  t: "\\times 2/3 {[#6 # # # #8]}"

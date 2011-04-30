@@ -1,0 +1,117 @@
+\relative c' {
+  \key a \major
+  \time 4/4
+  \tempo "Vivace"
+
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  r2 r4 b' ~ \bar "||" \time 3/4 \tempo "Adagio"
+  [b8. gs6 (a8. b6)] cs4 ~
+  [cs8. b6 (cs8. b6) (cs8. a6)]
+  $c2 fs b a gs b e $$
+  [(e,8. cs'6) (a8. b6)] cs4 ~
+  [cs8. b6 (as8. cs6) (e8. cs6)]
+  [(fs,8. b6) (d8. fs6)] e4 ~
+  [e8. b6 (b'8. gs6) (a8. e6)]
+  e4 (b8. cs6) d4 ~
+  [d8. e6 (cs8. b6) (a8. cs6)]
+  $c2 b cs ds e fs ds $$
+  (e8. cs6) (b4 a8.) gs6
+  [(gs8. a6) (gs8. b6)] d!4
+  $c2 b d cs b cs a
+  b cs d b gs b
+  e, gs a cs b cs $$
+  (gs8. a6) b2 \bar "||" \time 4/4 \tempo "Vivace"
+  R1*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 r4 b ~ \bar "||" \time 3/4 \tempo "Adagio"
+  [b8. gs6 (a8. b6)] cs4 ~
+  [cs8. b6 (cs8. b6) (cs8. a6)]
+  $c2 fs b a gs b e $$
+  [(e,8. cs'6) (a8. b6)] cs4 ~
+  [cs8. b6 (as8. cs6) (e8. cs6)]
+  [(fs,8. b6) (d8. fs6)] e4 ~
+  [e8. b6 (b'8. gs6) (a8. e6)]
+  e4 (b8. cs6) d4 ~
+  [d8. e6 (d8. cs6) (b8. d6)]
+  $c2 cs ds es fs es b $$
+  (fs'8. d6) (cs4 b8.) a6
+  [(a8. gs6) (as8. b6)] cs!4
+  [cs8. d6 (b8. as6) (b8. gs6)]
+  [(a!8. gs6) (fs8. gs6)] a4 ~
+  [a8. b6 (gs8. fs6) (gs8. es6)]
+  (fs8. gs6) es4. fs8 \bar "||" \time 4/4 \tempo "Vivace"
+  fs4 r r2
+  R1*11
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 r4 e' ~ \bar "||" \time 3/4 \tempo "Adagio"
+  [e8. a,6 (d8. e6)] fs4 ~
+  [fs8. e6 (fs8. e6) (fs8. d6)]
+  $c2 b e d cs e a, $$
+  [(a8. fs6) (d8. e6)] fs4 ~
+  [fs8. e6 (ds8. fs6) (a8. c6)]
+  [(b8. g6) (e8. e'6)] a,4 ~
+  [a8. e6 (e'8. cs6) (d8. a6)]
+  [(a8. e6) (a8. b6)] cs4 ~
+  [cs8. b6 (a8. gs6) (fs8. a6)]
+  $c2 fs' a bs, cs bs ds $$
+  (cs8. a6) (gs4 fs8.) e6
+  [(e8. ds6) (es8. fs6)] gs4 ~
+  [gs8. a6 (fs8. es6) (fs8. ds6)]
+  [(es8. fs6) (gs8. a6)] b4 ~
+  [b8. cs6 (a8. gs6) (a8. fs6)]
+  (gs8. b6) es2 \bar "||" \time 4/4 \tempo "Vivace"
+  R1*12
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 r4 b ~ \bar "||" \time 3/4 \tempo "Adagio"
+  [b8. e,6 (a8. b6)] cs4 ~
+  [cs8. b6 (cs8. b6) (cs8. a6)]
+  $c2 fs b a gs b e $$
+  [(e,8. cs'6) (a8. b6)] cs4 ~
+  [cs8. e6 (as,8. cs6) (fs8. cs6)]
+  $c2 b a! b d cs b
+  gs b e, b' e cs $$
+  [(b8. a6) (b8. cs6)] d4 ~
+  [d8. b6 (cs8. d6)] e4 ~
+  [e8. cs6 (d8. e6) (fs8. gs6)]
+  (a8. fs6) (cs4 b8.\trill) a6
+  [(a8. b6) (cs8. d6)] e4 ~
+  [e8. a,6 (d8. cs6)] d4 ~
+  [d8. fs6 (e8. d6)] cs4 ~
+  [cs8. d6 (b8. gs6) (a8. b6)]
+  (a8. fs6) gs4. a8
+  a2.\fermata
+}

@@ -11,7 +11,7 @@
   gs b d d b b gs gs a a e e cs cs a a
   b b a a gs gs fs fs e8 e' r4
   e,8 e' r4 e,8 e' r4
-  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
+  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=66}}
   cs,4 r r
   fs r r
   b, e e,
@@ -38,7 +38,7 @@
   gs b d d b b gs gs a a e e cs cs a a
   b b a a gs gs fs fs e8 e' r4
   e,8 e' r4 e,8 e' r4
-  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
+  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=66}}
   cs,4 r r
   fs r r
   b, e e,
@@ -67,7 +67,7 @@
   cs e g g e e cs cs d d a a fs fs d d
   e e d' d cs cs b b a8 a' r4
   a,8 a' r4 a,8 a' r4
-  a,6 cs e e cs e a, cs g cs e e cs e g, cs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
+  a,6 cs e e cs e a, cs g cs e e cs e g, cs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=66}}
   fs,4 r r
   b r r 
   e a a,
@@ -96,7 +96,7 @@
   gs b d d b b gs gs a a e e cs cs a a
   b b a a gs gs fs fs e8 e' r4
   e,8 e' r4 e,8 e' r4
-  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=58}}
+  e6 gs b b gs b e, gs d gs b b gs b d, gs \bar "||" \time 3/4 \tempo "Adagio" m{{\tempo 4=66}}
   cs,4 r r
   fs r r
   b, e e,

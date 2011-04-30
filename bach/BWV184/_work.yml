@@ -1,6 +1,15 @@
 title: Cantata BWV 234
 subtitle: "\"Erwünschtes Freudenlicht\""
 composer: Johann Sebastian Bach
+movements:
+  02-aria:
+    midi_tempo: 170 8
+  04-aria:
+    midi_tempo: 90 4
+  05-choral:
+    midi_tempo: 90 4
+  06-coro:
+    midi_tempo: 90 2
 score:
   order:
     - flauto1

@@ -1,0 +1,47 @@
+\relative c {
+  \key g \major
+  \time 4/4
+  
+  g1 ~
+  g ~
+  g ~
+  g2 $t g' a g a b g a g a b $$
+  e,1 ~
+  e ~
+  e2 g ~
+  g1
+  fs
+  a2 ds,
+  e a,
+  r4 b e2 ~
+  e a,
+  g1 
+  b
+  gs
+  a2 g!
+  fs1
+  b
+  cs2 d
+  g,1
+  r4 a d2
+  f1
+  e
+  ds2 e ~
+  e4 d! cs2 ~
+  cs1
+  as ~
+  as2 b
+  cs4 a! d2
+  r8 fs e d g a g fs
+  e g fs e a b a g 
+  fs a g fs b cs b a
+  gs e fs gs a b a g
+  fs d e fs g e fs g
+  a fs gs as b b, a! g!
+  fs b g a b4 r8 b'
+  cs e6 d cs b a g fs8 g a a,
+  d4 r $t d e d e fs fs g fs g a $$
+  c,8 r r4 $t b c b c d d e d e f $$
+  g,2 c
+  r4 d g,2
+} 

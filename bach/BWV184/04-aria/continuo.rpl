@@ -1,0 +1,104 @@
+\relative c {
+  \key b \minor
+  \time 3/4
+ 
+  b8 cs d e fs e
+  d cs d b e fs
+  g fs e fs g e 
+  fs fs, fs' g fs e 
+  d e fs d cs b
+  a b cs e a fs
+  g fs e e' d cs
+  b cs d fs b, cs
+  d b e, fs g e
+  fs fs, b cs d e 
+  d\p cs b as b d 
+  e fs g e cs as'
+  b b, e fs g d
+  e g fs e d cs 
+  b\f cs d e fs e
+  d cs d b e fs
+  g fs e fs g e
+  fs fs, fs' g fs e
+  d_\editP b as b cs d
+  e g as, gs as fs
+  b d e fs g a
+  g e fs g fs e
+  d cs d b cs ds
+  e fs g b g e
+  a e cs a b cs
+  d e fs a fs d
+  g e cs a b cs
+  d b a fs g a
+  d e fs d cs b
+  a e' a cs fs, a
+  g fs e e' d cs
+  b fs b, d fs b
+  as fs b a gs cs
+  fs, a b, cs d b
+  cs cs, cs' ds es cs
+  fs fs, b cs d! a
+  b d gs, a b gs
+  es gs' es cs a fs'
+  b, gs' a fs es cs
+  fs d cs b cs cs,
+  fs fs'6\f gs a8 b cs b
+  a gs a fs b cs
+  d cs b cs d b
+  cs cs, cs' d cs b
+  a b cs a gs fs
+  e fs gs b e, cs
+  d cs b b' a gs
+  fs gs a cs fs, gs
+  a fs b, cs d b 
+  cs cs, fs fs' (cs6 b a gs)
+  fs8\p gs a cs fs, e'
+  d cs b cs b a 
+  gs fs e gs b d
+  cs b a b a gs
+  fs e d cs d e
+  fs a d e fs b,
+  cs d e d e e,
+  a\f b cs d e fs
+  g a g fs e d
+  cs a d e fs d
+  e e, a e' a g
+  fs4\p r8 a d, fs
+  g g, g' a g fs
+  g4 r8 b e, g
+  a a, a' b a g
+  fs g6 a b8 b, cs d
+  e fs6 g a8 g fs e 
+  d d' cs d fs, a
+  d,\f e fs d cs b 
+  a b cs e a fs
+  g fs e e' d cs
+  b cs d fs b, cs
+  d b e, fs g e
+  fs fs, b cs d e
+  d\p cs b as b d
+  e fs g e cs as'
+  b b, e fs g d
+  e g fs e d cs 
+  b\f cs d e fs e 
+  d cs d b e fs
+  g fs e fs g e
+  fs fs, fs' g fs e
+  d\p b as b cs d 
+  e g as, gs as fs
+  b d e fs g d
+  e g cs, d e cs
+  as cs b as b cs
+  d b cs d e fs
+  g e as, b fs' fs,
+  b_\editF cs d e fs e
+  d cs d b e fs
+  g fs e fs g e
+  fs fs, fs' g fs e
+  d e fs d cs b 
+  a b cs e a fs
+  g fs e e' d cs
+  b cs d fs b, cs
+  d b e, fs g e 
+  fs fs, b2\fermata
+}

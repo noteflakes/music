@@ -1,0 +1,216 @@
+\relative c' {
+  \key g \major
+  \time 3/8
+  
+    \partial 8 g'8
+  g d fs
+  d6 c d8 g
+  g d fs
+  d6 c d8 g
+  g d a'
+  b d g,
+  g c, d
+  d4 d8
+  d4 b'8 ~
+  b a6 b a g
+  fs4 e8 ~
+  e d e
+  a, d4 ~
+  d8 a' d
+  a8. fs6 e8
+  fs4 d8
+  d8. e6 fs8
+  d4 g8
+  g f e
+  e a c
+  d g, d
+  d4 d8
+  c8. d6 e8
+  d e fs
+  fs4 r8
+  a4_\editP r8
+  b4_\editF r8
+  d4_\editP r8
+  g,8_\editF c, d
+  d e fs 
+  g e a,
+  b4 r8
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  fs'4 r8
+  a4_\editP r8
+  b4_\editF r8
+  d4_\editP r8
+  g,8_\editF c, d
+  d e fs 
+  g e a,
+  b4 r8
+  R4.*15
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r d_\editF
+  d a cs
+  a6 g a8 d
+  d a cs
+  a6 g a8 d
+  d a e'
+  fs a d,
+  d g, a
+  a cs d
+  d4 b'8 ~
+  b a6 b a g
+  fs4 e8 ~
+  e d e
+  a, d4 ~
+  d8 a' d
+  a8. fs6 e8
+  fs4 r8
+  R4.*8
+  
+  
+  
+  
+  
+  
+  
+  g4 r8
+  b4_\editP r8
+  c4_\editF r8
+  e,4 r8
+  g,4 r8
+  R4.*17
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r g'_\editF
+  g d fs
+  d6 c d8 g
+  g d fs
+  d6 c d8 g
+  g d a'
+  b d g,
+  g c, d
+  d4 d8
+  d4 b'8 ~
+  b a6 b a g
+  fs4 e8 ~
+  e d e
+  a, d4 ~
+  d8 a' d
+  a8. fs6 e8
+  fs4 d8
+  d8. e6 fs8
+  d4 g8 ~
+  g f e
+  e a c
+  d g, d
+  d4 d8
+  c8. d6 e8
+  d e fs
+  fs4 r8
+  a4_\editP r8
+  b4_\editF r8
+  d4_\editP r8
+  g,8_\editF c, d
+  d e fs 
+  g e a,
+  b4\fermata r8
+  R4.*25
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r ds_\editF
+  b e ds
+  b6 a b8 e
+  b e ds
+  b e6 ds e8 ~
+  e a6 b a g
+  fs8 fs ds
+  e c b
+  b4 r8
+  R4.*11
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  fs'4_\editP r8
+  b4 r8
+  b4 r8
+  g4 r8
+  g4 r8
+  R4.*16
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 r \dacapo
+}

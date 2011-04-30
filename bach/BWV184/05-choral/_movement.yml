@@ -1,0 +1,11 @@
+parts:
+  viola:
+    source: tenore
+  violino2:
+    source: alto
+  violino1:
+    source: soprano
+  flauto2:
+    source: soprano
+  flauto1:
+    source: soprano

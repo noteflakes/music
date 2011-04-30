@@ -1,0 +1,153 @@
+\relative c' {
+  \key a \major
+  \time 3/4
+ 
+  $c2 a'\f b cs e d b
+  cs e\p d b cs a
+  gs\f a b gs a fs $$
+  [(gs8. b6\p) (a8. fs6)] gs4
+  cs2.\f ~
+  (cs6 d e8) (e6 d cs8) (cs6 b as8)
+  b2. ~
+  (b6 cs d8) (d6 cs b8) (b6 a gs8)
+  a4 r8 r6 fs' (fs8.\trill es3 fs)
+  gs4 r8 r6 es fs8. gs6
+  [(a8. fs6) (ds8. b6)] a8.\trill gs3 a
+  $c2 b gs a fs e gs $$
+  a4 r r
+  r4 r8 r6 e' (d8. b6)
+  [(cs8. e6\p) (d8. b6)] cs4
+  R2.
+  r4 r8 r6 a\f (fs8. d6)
+  [(e8. g6\p) (fs8. d6)] e4
+  R2.*2
+  
+  $c2 b'\f cs ds fs e cs $$
+  [(b8. fs'6) (e8. cs6)] ds4
+  R2.*5
+  
+  
+  
+  
+  $c2 e, fs gs b a fs $$
+  gs4 r r
+  $c2 b cs ds fs e cs $$
+  ds4 r r
+  b r r 
+  (es8 gs,) r4 r
+  a4 r r
+  (ds8 fs,) r4 r
+  (e'8. b6) gs'4 r
+  (ds8. bs6) gs'4 r
+  (e8. gs6) cs,4. cs8
+  $c2 b ds e cs b ds $$
+  e4 r r
+  r r8 r6 b (a8. fs6)
+  [(gs8. b6\p) (a8. fs6)] gs4
+  R2.
+  r4 r8 r6 e'\f (cs8. a6)
+  [(b8. d6\p) (cs8. a6)] b4
+  R2.*2
+  
+  $c2 b\f cs d fs e cs $$
+  [(d8. b6\p) (as8. cs6)] b4
+  R2.*2
+  
+  $c2 fs\f g a d b g $$
+  [(a8. c6\p) (b8. g6)] a4
+  R2.*2
+  
+  $c2 gs\f a b e cs a $$
+  [(b8. d6) (cs8. a6)] b4
+  R2.*5
+  
+  
+  
+  
+  r4 cs2 ~
+  (cs6 d e8) (e6 d cs8) (cs6 b as8)
+  b2. ~
+  (b6 cs d8) (d6 cs b8) (b6 a gs8)
+  a4 r8 r6 fs' es8. fs6
+  gs4 r8 r6 es fs8. gs6
+  [(a8. fs6) (ds8. b6)] a8.\trill gs3 a
+  $c2 b gs a d b a
+  a b cs e d b $$
+  [(cs8. e6\p) (d8. b6)] cs4\fermata \bar "||" \time 4/4 \tempo "Lento"
+  R1*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  a'4 a8 e cs a r a
+  e'8. f6 [e f f\trill e3 f] g4 r8 a
+  bb bb bb a fs (fs8. [g6 (fs g)]
+  (a8 fs) ds4 r8 [fs ^e6 ds8 ^cs6 b8]
+  g'1 ~
+  g2 ~ g8 fs g4
+  fs1\fermata \bar "||" \time 3/8
+  R4.*24
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r8 b,8. b6
+  [fs8. gs6 as b]
+  cs8 d e ~
+  e6 ds gs fs es ds
+  fs es ds cs fs8 ~
+  fs6 gs [gs8. fs3 gs]
+  a4. ~
+  a ~
+  a8 gs6 fs e ds
+  e4. ~
+  e4 d!6 cs
+  b4 as8
+  b6 cs d e fs gs
+  a gs fs e b'8 ~
+  b e,4 ~
+  e8 c' a
+  fs\trill e6 ds e8
+  a fs b6 a
+  g fs e d cs b 
+  cs d cs b a b
+  cs8 d e 
+  [a, fs'8. fs6]
+  b,8 e4
+  (d8 f) e
+  [fs6 gs a8. a6]
+  [ds,8. e6 fs gs]
+  a8 b c ~
+  c6 b e d cs! b
+  d cs b a d8 ~
+  d6 e [e8. d3 e]
+  f4\fermata \tempo "Adagio" r8
+  r r fs,
+  b,6 a b cs d cs
+  d fs e d cs b
+  cs4.\fermata
+}

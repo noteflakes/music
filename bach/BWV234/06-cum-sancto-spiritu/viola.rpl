@@ -8,7 +8,7 @@
   b2 cs8 b a4 \bar "||" \time 12/8 \tempo "Vivace"
   b4. ~ b4 r8 r2.
   r2. r8 e' b gs e a
-  a b' b b b fs e4 a8 a4 e8
+  e b' b b b fs e4 a8 a4 e8
   e cs e a e a cs r r r4.
   R1.
   r4. r8 r e, (a,4.\trill b8) cs d

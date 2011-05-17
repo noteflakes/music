@@ -1,0 +1,61 @@
+\relative c' {
+  \key d \minor
+  \time 3/2
+
+  R1.*5
+
+
+
+
+  a'1\p a2
+  a1 a2
+  d1 g,2
+  a1 a2
+  bb a1
+  a d2
+  e1 f4 e
+  d2 cs d
+  cs1 d2
+  d cs1
+  d2 a1
+  a a2
+  d1 g,2
+  a1 a2
+  bb a1
+  a d2
+  e1 f4 e
+  d2 cs d
+  cs1 d2
+  d cs1
+  d f2 
+  (f e) e
+  (e d) g
+  (g f) f
+  (e d) e4 cs
+  d2 e1
+  e a2
+  a g1
+  g2 f1
+  (e4 d) d2 cs
+  d1 f2
+  (f e) e
+  (e d) g
+  (g f) f
+  (e d) e4 cs
+  d2 e1
+  e a2
+  a g1
+  g2 f1
+  (e4 d) d2 cs
+  d1.
+  R1.*2
+  
+  r2 r d
+  (d cs) c
+  (c b) bb
+  (bb a) a
+  (a gs) g
+  (g fs) f
+  e e2. d4
+  d2\fermata r r
+}

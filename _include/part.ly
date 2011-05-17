@@ -34,11 +34,11 @@
   ragged-bottom = ##f
   ragged-last-bottom = ##t
   
-  between-system-space = 15 \mm
+  between-system-space = 18 \mm
   after-title-space = 10 \mm
   before-title-space = 10 \mm
   between-title-space = 2 \mm
-  between-system-padding = 6 \mm
+  between-system-padding = 8 \mm
 
   top-margin = 1.4\cm
   bottom-margin = 1.4\cm
@@ -111,7 +111,7 @@
 	
 }
 
-#(set-global-staff-size 17)
+#(set-global-staff-size 20)
 
 prepare = {
   \set Score.skipBars = ##t

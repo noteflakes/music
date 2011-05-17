@@ -1,0 +1,13 @@
+title: "Dido & Aeneas"
+composer: Henry Purcell
+subtitle: "When I am Laid"
+midi_tempo: 90 2
+score:
+  order:
+    - violino1
+    - violino2
+    - viola
+    - alto
+    - continuo
+  groups:
+    - brace: [violino1, violino2]

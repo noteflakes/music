@@ -1,0 +1,90 @@
+\relative c' {
+  \key bb \major
+  \time 4/4
+
+ [d'6. c3 d6. eb3] [d6. c3 d6. eb3] d4\trill r6 bb' a6. g3
+ [fs8 g\trill] a bb6 g (fs6.\trill e3) d8 r d
+ g8. f6 (eb6. d3) (c6. bb3) (a6.\trill g3) f8 r f'
+ g6. a,3 bb6. f3 g'6. a,3 bb6. f3 a'8 bb ~ (bb6 g) (eb c)
+ a6.\trill g64 f bb6. eb3 [d8 c6. bb3] bb8 (g'6. f3)  f4
+ r8 (eb6.\trill d3) d4 r8 bb'6. a3 a8 g6.\p fs3
+ fs4 r8 (fs,6. g3) [(g6. a3) (a6. bb3)] (bb6. a3) (a6. c3)
+ (c6. bb3) (bb6. d3) (d6. c3) (c6. eb3) (eb6. d3) (d6. c3) (c6. bb'3) (a6. g3)
+ fs8 g6. c,3 bb8 a6. g3 g2 ~
+ g c ~
+ c1
+ d ~
+ d
+ c ~
+ c
+ bb
+ a
+ d
+ cs2 d
+ cs4 d \key c \major r2
+ R1*6
+ 
+ 
+ 
+ 
+ 
+ f2 b,
+ gs'1
+ e ~
+ e 
+ ds2 r \key e \major \time 3/8 \tempo "Largo"
+ R4. \segno
+ e4 cs6. b3
+ b8 e,8. a6
+ gs fs fs8. e6
+ e4.
+ R4.*4
+ 
+ 
+ 
+ gs8\p fs e
+ e ds r
+ ds e fs
+ b, e'4
+ ds6 cs cs8. b6
+ b4. ~
+ b4 e8
+ gs, fs r
+ a gs r
+ cs ds, e
+ a gs r
+ R4.
+ r8 fs b
+ R4.
+ r8 gs cs
+ R4.*3
+ 
+ 
+ r8 gs b
+ e4 (cs6. b3)
+ b4.\fermata
+ R4.*3
+ 
+ 
+ r8 b'\p a
+ gs\f fs e
+ a gs r
+ b,4 e8
+ b4 a8\p
+ (gs6 fs) fs8. e6
+ e4.\fermata_\markup { \italic { (Fine.) } }
+ R4.*14
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   \dalsegno
+}

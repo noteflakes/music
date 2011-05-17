@@ -1,0 +1,12 @@
+title: Rodelinda
+composer: George Friedrich Handel
+subtitle: "Dove Sei?"
+score:
+  order:
+    - violino1
+    - violino2
+    - viola
+    - alto
+    - continuo
+  groups:
+    - brace: [violino1, violino2]

@@ -1,0 +1,61 @@
+\relative c {
+  \key d \minor
+  \time 3/2
+
+  r1 d2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a1
+  d, d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,1 d'2
+  cs1 c2
+  b1 bb2
+  a1 f2
+  g a a
+  d,\fermata r r
+}

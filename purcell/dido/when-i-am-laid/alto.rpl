@@ -1,0 +1,48 @@
+\relative c' {
+  \key d \minor
+  \time 3/2
+
+  R1.*5
+  d2 e f
+  (f e) fs
+  (g4. f8 e4. d8 cs4.) d8
+  cs1 a'4. bb8
+  (a4. g8 f2.) e4
+  f1 bb2
+  (bb4 e,) e2 a
+  ([a8 d,]) d4 (e2 d4.) cs8
+  e1 r2
+  R1.
+  d2 e f
+  (f e) fs
+  (g4. f8 e4. d8 cs4.) d8
+  cs1 a'4. bb8
+  (a4. g8 f2.) e4
+  f1 bb2
+  (bb4 e,) e2 a
+  ([a8 d,]) d4 (e2 d4.) cs8
+  e1 r2
+  r r r4 a
+  a4. a8 a2 r
+  r r r4 a
+  a4. a8 a2 r
+  r r a
+  (g f) (g4 e)
+  (e [f8 g] a2.\trill) a4
+  a1 r4 a
+  d4. d8 d2. g,4
+  ([a8 bb] c2 bb4 a2)
+  (g4 f) f2 (e4 d)
+  d1 r4 a'
+  a4. a8 a2 r
+  r r r4 a
+  a4. a8 a2 r4 a
+  (g2 f g4 e
+  f4.) g8 g2.\trill a4
+  a1 r4 a
+  d4. d8 d2. g,4
+  ([a8 bb] c2 bb4 a2)
+  (g4 f) f2 (e4 d)
+  d1.
+  R1.*10
+}

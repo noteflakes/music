@@ -1,0 +1,41 @@
+\relative c' {
+  \key c \minor
+  \time 4/4 \tempo "Slow"
+
+  g'8\p g g g ab ab ab ab
+  f f f f g g g g 
+  e e e e f f f f 
+  f f f f eb eb eb eb 
+  d d d d eb eb eb eb 
+  d d d d db db db db 
+  b b b b c c c c 
+  c c c c c c c b
+  c c g'\p g ab ab ab ab 
+  ab ab ab ab g g g g 
+  g g g g c c c c 
+  c c c c c c c c 
+  b b b b c c c c 
+  d d d d d d d d 
+  d d d c d d d d 
+  eb eb eb\f eb f f f f 
+  eb eb eb eb d d d d 
+  c c c c e\p e e e 
+  f f f f g g g g 
+  g g g f f f f f 
+  e e e e f f bb, bb 
+  bb bb bb bb ab ab ab ab
+  g g g g ab ab ab ab 
+  g\f g g g g g g g 
+  a a a\p a bb bb bb bb 
+  bb bb bb bb c c c c 
+  db db db db d d d d 
+  eb eb eb eb b b b b
+  c c c c c c bb bb 
+  bb bb bb bb ab ab ab ab
+  g g g g g g g g 
+  f f f f eb eb eb' eb 
+  d d d d c c c c 
+  b b c c c c c b
+  c c eb, eb d d d d 
+  c2 r
+}

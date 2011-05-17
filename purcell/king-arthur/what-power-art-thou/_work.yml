@@ -1,0 +1,12 @@
+title: King Arthur
+composer: Henry Purcell
+subtitle: "What power art thou"
+score:
+  order:
+    - violino1
+    - violino2
+    - viola
+    - alto
+    - continuo
+  groups:
+    - brace: [violino1, violino2]

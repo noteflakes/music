@@ -1,0 +1,25 @@
+--- 
+work: BWV0014
+bwvs: 
+- "14"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002590
+title: D B Mus. ms. Bach St 398, Faszikel 1
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054787?XSL.Style=dfg
+  - - db_bachst0398_pa043.jpg
+    - db_bachst0398_pa044.jpg
+    - db_bachst0398_pa045.jpg
+    - db_bachst0398_pa046.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054792?XSL.Style=dfg
+  - - db_bachst0398_pa047.jpg
+    - db_bachst0398_pa048.jpg
+    - db_bachst0398_pa049.jpg
+    - db_bachst0398_pa050.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054794?XSL.Style=dfg
+  - - db_bachst0398_pa051.jpg
+    - db_bachst0398_pa052.jpg
+    - db_bachst0398_pa053.jpg
+    - db_bachst0398_pa054.jpg
+    - db_bachst0398_pa055.jpg

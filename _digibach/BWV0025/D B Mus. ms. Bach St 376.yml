@@ -1,0 +1,84 @@
+--- 
+work: BWV0025
+bwvs: 
+- "25"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002560
+title: D B Mus. ms. Bach St 376
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054049?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054049/db_bachst0376_pa001.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054049/db_bachst0376_pa002.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054049/db_bachst0376_pa003.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054049/db_bachst0376_pa004.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054051?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054051/db_bachst0376_pa005.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054051/db_bachst0376_pa006.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054051/db_bachst0376_pa007.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054051/db_bachst0376_pa008.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054053?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054053/db_bachst0376_pa009.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054053/db_bachst0376_pa010.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054053/db_bachst0376_pa011.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054053/db_bachst0376_pa012.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054055?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054055/db_bachst0376_pa011.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054055/db_bachst0376_pa012.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054055/db_bachst0376_pa013.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054055/db_bachst0376_pa014.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054057?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054057/db_bachst0376_pa015.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054057/db_bachst0376_pa016.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054057/db_bachst0376_pa017.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00054057/db_bachst0376_pa018.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054059?XSL.Style=dfg
+  - - db_bachst0376_pa019.jpg
+    - db_bachst0376_pa020.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054061?XSL.Style=dfg
+  - - db_bachst0376_pa021.jpg
+    - db_bachst0376_pa022.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054063?XSL.Style=dfg
+  - - db_bachst0376_pa023.jpg
+    - db_bachst0376_pa024.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054065?XSL.Style=dfg
+  - - db_bachst0376_pa025.jpg
+    - db_bachst0376_pa026.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054067?XSL.Style=dfg
+  - - db_bachst0376_pa027.jpg
+    - db_bachst0376_pa028.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054069?XSL.Style=dfg
+  - - db_bachst0376_pa029.jpg
+    - db_bachst0376_pa030.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054071?XSL.Style=dfg
+  - - db_bachst0376_pa031.jpg
+    - db_bachst0376_pa032.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054073?XSL.Style=dfg
+  - - db_bachst0376_pa033.jpg
+    - db_bachst0376_pa034.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054075?XSL.Style=dfg
+  - - db_bachst0376_pa035.jpg
+    - db_bachst0376_pa036.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054077?XSL.Style=dfg
+  - - db_bachst0376_pa037.jpg
+    - db_bachst0376_pa038.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054079?XSL.Style=dfg
+  - - db_bachst0376_pa039.jpg
+    - db_bachst0376_pa040.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054081?XSL.Style=dfg
+  - - db_bachst0376_pa041.jpg
+    - db_bachst0376_pa042.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054083?XSL.Style=dfg
+  - - db_bachst0376_pa043.jpg
+    - db_bachst0376_pa044.jpg
+    - db_bachst0376_pa045.jpg
+    - db_bachst0376_pa046.jpg
+    - db_bachst0376_pa047.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054085?XSL.Style=dfg
+  - - db_bachst0376_pa048.jpg
+    - db_bachst0376_pa049.jpg
+    - db_bachst0376_pa050.jpg
+    - db_bachst0376_pa051.jpg
+    - db_bachst0376_pa052.jpg
+    - db_bachst0376_pa053.jpg
+    - db_bachst0376_pa054.jpg

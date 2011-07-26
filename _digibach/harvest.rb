@@ -104,11 +104,14 @@ class Harvester
   def jpg_hrefs
     last_label = ''
     last_href = ''
+    doc_counter = -1
     @jpg_hrefs ||= dfg_docs.inject([]) do |jpgs, d|
+      doc_counter += 1 # keep counter in sync
+      
       # get all refs: [page_label, fileid]
       files = (d/'mets:structmap mets:div mets:div').
         map do |page|
-          label = page['orderlabel']
+          label = page['orderlabel'] || page['order']
           if label =~ /_((page|ante|post).+)$/
             label = $1
           end
@@ -133,6 +136,14 @@ class Harvester
               label = file[2]
             end
           end
+          
+          puts "label: #{label}"
+          if href !~ /^http/
+            href = "%s/%s?mode=getImage&XSL.MCR.Module-iview.navi.zoom=1" %
+              [dfg_links[doc_counter].gsub(/\?.+$/, '').gsub('MCRMETSServlet', 'MCRIViewServlet'), href]
+          end
+          puts "href: #{href}"
+          
           
           if (File.basename(href) != File.basename(last_href))
             last_label = label

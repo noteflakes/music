@@ -2,7 +2,6 @@
 # http://http://www.bach-digital.de//receive/BachDigitalWork_work_00000249
 
 $work_range = 1..1725
-
 URL_PATTERN = "http://www.bach-digital.de/receive/BachDigitalWork_work_%08d"
 
 require 'rubygems'
@@ -10,6 +9,9 @@ require 'thread'
 require 'nokogiri'
 require 'httparty'
 require File.join(File.dirname(__FILE__), 'thread_pool')
+
+trap("INT") {exit}
+trap("TERM") {exit}
 
 $sources = YAML.load(IO.read('sources.yml')) rescue []
 $last_sources = $sources.clone
@@ -36,12 +38,14 @@ def check_work(id)
       gsub(/\<br\s?\/?\>/m, " ").gsub(/\n/, " ").gsub(/\s{2,}/, " ").strip
     bwv = ''
     case title
-    when /\(BWV\)\s+(\d+[a-z]?)/
+    when /BWV\s+(\d+[a-z]?)/
       bwv = $1
-    when /\(BWV\)\s(Anh\.\s+\d+[a-z]?)/
+    when /BWV\s(Anh\.\s+\d+[a-z]?)/
       bwv = $1
-    when /\(BC\)\s([A-Z]+\s(\w+))/
+    when /BC\s([A-Z]+\s(\w+))/
       bwv = "BC #{$1}"
+    when /Emans \((\S+)\)/
+      bwv = "Emans #{$1}"
     when /deest \((.+)\)/
       bwv = $1
     end
@@ -62,7 +66,10 @@ end
 def check_source(url, name, work_id, work, bwv)
   source_already_marked = $sources.select {|s| s['href'] == url}.size > 0
   if source_already_marked || is_source_digitized?(url)
-    puts "found source for BWV #{bwv}: #{name}" unless source_already_marked
+    unless source_already_marked
+      puts "=> #{url}"
+      puts "found source for BWV #{bwv}: #{name}"
+    end
     Thread.exclusive do
       $sources << {
         'work_id' => work_id,

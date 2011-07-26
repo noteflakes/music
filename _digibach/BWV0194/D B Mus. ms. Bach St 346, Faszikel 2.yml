@@ -8,7 +8,7 @@ owner: Bach Digital Projekt
 date: ""
 hrefs: 
 - - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053231?XSL.Style=dfg
-  - - db_bachst0346_pa033.jpg
-    - db_bachst0346_pa034.jpg
-    - db_bachst0346_pa035.jpg
-    - db_bachst0346_pa036.jpg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053231/db_bachst0346_pa033.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053231/db_bachst0346_pa034.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053231/db_bachst0346_pa035.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053231/db_bachst0346_pa036.jpg

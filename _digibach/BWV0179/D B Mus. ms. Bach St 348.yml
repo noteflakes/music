@@ -1,0 +1,18 @@
+--- 
+work: BWV0179
+bwvs: 
+- "179"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002548
+title: D B Mus. ms. Bach St 348
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053959?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053959/db_bachst0348_pa001.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053959/db_bachst0348_pa002.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053962?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053962/db_bachst0348_pa003.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053962/db_bachst0348_pa004.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00053963?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053963/db_bachst0348_pa005.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00053963/db_bachst0348_pa006.jpg

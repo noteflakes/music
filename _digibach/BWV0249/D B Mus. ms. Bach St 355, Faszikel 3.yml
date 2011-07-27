@@ -1,0 +1,28 @@
+--- 
+work: BWV0249
+bwvs: 
+- "249"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00002558
+title: D B Mus. ms. Bach St 355, Faszikel 3
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054002?XSL.Style=dfg
+  - - db_bachst0355_pa021.jpg
+    - db_bachst0355_pa022.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054004?XSL.Style=dfg
+  - - db_bachst0355_pa023.jpg
+    - db_bachst0355_pa024.jpg
+    - db_bachst0355_pa025.jpg
+    - db_bachst0355_pa026.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054006?XSL.Style=dfg
+  - - db_bachst0355_pa027.jpg
+    - db_bachst0355_pa028.jpg
+    - db_bachst0355_pa029.jpg
+    - db_bachst0355_pa030.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054008?XSL.Style=dfg
+  - - db_bachst0355_pa031.jpg
+    - db_bachst0355_pa032.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00054010?XSL.Style=dfg
+  - - db_bachst0355_pa081.jpg
+    - db_bachst0355_pa082.jpg

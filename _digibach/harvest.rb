@@ -286,10 +286,10 @@ manuscripts = YAML.load(IO.read('sources.yml')).inject({}) do |m, w|
   m
 end
 
-require File.join(File.dirname(__FILE__), 'thread_pool')
-$pool = ThreadPool.new(1)
-idx = 1
-
+# require File.join(File.dirname(__FILE__), 'thread_pool')
+# $pool = ThreadPool.new(1)
+# idx = 1
+# 
 manuscripts.each do |h, m|
   works = m.map {|i| Harvester.format_bwv_dir_name(i['BWV'])}.join(',')
   puts "(#{idx}) processing #{works}: #{m.first['name']}"

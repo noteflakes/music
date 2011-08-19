@@ -1,6 +1,6 @@
 \relative c {
   \key e \minor
-  \time 2/2 \tempo "Sonata"
+  \time 2/2 % \tempo "Sonata"
   
   e4 fs g ds
   e fs g ds
@@ -157,7 +157,7 @@
   g, g g
   fs d e4 fs
   g1. \clef tenor
-  d' d d \clef bass
+  d'2 d d \clef bass
   g,1 g2
   fs d e4 fs
   g2 g r \clef alto

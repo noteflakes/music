@@ -2,6 +2,9 @@ title: Cantata TWV 7:3
 subtitle: "\"Ach Herr, strafe mich nicht\""
 subsubtitle: "Source: Mus. 2392-E-533"
 composer: Georg Philipp Telemann
+parts:
+  organo:
+    embed_figures: true
 score:
   hide_figures: true
   order:

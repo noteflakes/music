@@ -1,0 +1,18 @@
+title: Cantata TWV 7:3
+subtitle: "\"Ach Herr, strafe mich nicht\""
+subsubtitle: "Source: Mus. 2392-E-533"
+composer: Georg Philipp Telemann
+score:
+  hide_figures: true
+  order:
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - organo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]

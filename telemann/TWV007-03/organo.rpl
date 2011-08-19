@@ -1,0 +1,228 @@
+\relative c {
+  \key e \minor
+  \time 2/2 \tempo "Sonata"
+  
+  e4 fs g ds
+  e fs g ds
+  e fs g a8 d,
+  e2 d4 c
+  b8 g c4 b gs
+  a g fs e
+  a8 fs b4 e, \clef treble b'''
+  c4 b8 a b g \clef alto g4
+  a g8 fs g e d4 
+  e \clef tenor b c b8 a
+  b4 \clef bass g a g8 fs
+  g e c4 a b
+  e c fs g a d, g r
+  r2 r4 b
+  fs8 e6 fs g4 ds e
+  b g a b
+  e fs g ds
+  e fs g ds
+  e fs g ds
+  e2 ~ e4 ds
+  e2 fs
+  g4 e fs2
+  g4 ds e2
+  r8 ds e b c2
+  b4 e8 fs g4 ds
+  e fs g ds
+  e ds e2
+  a, d4 cs
+  d2 b
+  c b
+  a4 b g2
+  fs4 fs' e fs
+  d g cs, fs 
+  b, e c gs
+  a2 e'4 b
+  c2 cs
+  d4 e fs2
+  e4 b c4. gs8
+  a2 a4 gs
+  a2 e'
+  b gs
+  a4 ds, e4. e8
+  a2 d
+  g, c4 gs
+  a d d c
+  b2 e4 r
+  r2 r4 e
+  fs d fs,2
+  b4 e2 a4
+  g c, f2
+  e4 r r gs
+  a gs r gs 
+  a gs r gs
+  a gs r a
+  d,1
+  e4 r r ds
+  e ds r ds
+  e ds r ds
+  e ds r b
+  cs2 b
+  g fs
+  e4. e'8 d2
+  c4 cs d8 b e4
+  d gs, a8 b c4
+  b e ds e
+  fs g fs g
+  fs g g r8 g,
+  gs2 a4. a8
+  fs2 g4 g'8 a 
+  b a g4 c,4. cs8
+  d2 g,4 r
+  r8 c e fs g4. g8
+  c,4 d g, c8 b
+  a4 d g, c8 a
+  b2 e4. d8
+  cs4 ds e4. a,8
+  b2 e,4 c' ~
+  c a gs2
+  a4 b c cs
+  d4. d8 b2
+  c4 a f g
+  e2 f4. fs8
+  g4 b8 e d2
+  g,4 gs a gs8 a
+  fs2 e
+  a4 g fs2
+  e4 e' ds e
+  cs2 d4 r8 d
+  b2 c4 r8 c
+  b4. b8 a4 r
+  a a' gs a 
+  f2 g4 r8 g
+  e2 f4 r8 fs
+  g4 e ~ e ds
+  e d c2
+  b4 c c b
+  a as b g
+  c2. b4
+  a2 g4 g' ~
+  g ds e ds8 e
+  c2 b4 b'
+  g2 a4. a8
+  as2 b4 b,8 r
+  r as' b fs g2
+  fs4 d g cs,
+  fs b, e a,
+  cs fs cs2
+  fs,4. fs8 as4. as8
+  b as r as b as r b
+  gs4 a as2
+  b ds
+  e gs,
+  a4 gs a as
+  b cs d as
+  b cs d as
+  b4. a8 g2
+  fs fs4 as
+  b fs' g ds
+  e as,8 b g2
+  fs4 as b ds
+  e gs, a as
+  b b c cs
+  d ds e a,
+  a g8 a b4 g8 e
+  b'2 e,\fermata
+  e'8. ds6 e4 \ficta ds4. \ficta ds8
+  e d c b a4 g
+  g'8. fs6 g4 fs8. e6 fs4
+  g4. fs8 e a, d4
+  d8. cs6 d4 cs8. b6 cs4
+  d4. c8 b4 a
+  a'8. gs6 a4 gs8. fs6 gs4
+  a4. g8 fs4 e \time 3/2
+  e1.
+  c
+  d
+  d
+  b
+  c
+  a
+  b
+  b'
+  g
+  a
+  a
+  fs
+  g
+  c, 
+  c2 d1
+  g,1. \clef alto
+  g''2 g g \clef tenor
+  d d d \clef bass
+  g, g g
+  fs d e4 fs
+  g1. \clef tenor
+  d' d d \clef bass
+  g,1 g2
+  fs d e4 fs
+  g2 g r \clef alto
+  e'1. 
+  a \clef bass
+  e,1 e2
+  ds b cs4 ds
+  e1. \clef alto
+  b''
+  e, \clef bass
+  b1 b2
+  g e g4 a
+  b1 b,2
+  e d c
+  b1 fs'2
+  g fs1
+  g2 d r4 ds
+  e2 ds1
+  e2 b r \clef soprano
+  r2 b'' b
+  e b b
+  e \clef tenor a,, a 
+  d \clef bass d, d
+  g2. a4 g fs
+  e2. fs4 e d
+  c2. d4 c b
+  a2 a a
+  d2. e4 d c
+  b1.
+  e2 e, r
+  c'1.
+  r2 cs a
+  d1.
+  ds2 b ds
+  e1 fs2
+  g g r
+  ds4 ds ds2 e4 e
+  b2 e, r
+  r ds' e
+  r b e, \time 2/2
+  e'4 e, b'2
+  e4 c b2
+  g4 g' d2
+  g4 e [d6 c d e] [fs e fs d]
+  g4 b, c4. b8
+  a2 d4. b8
+  e4 e, a b
+  e8 a, b4 e,2
+  e' a,4 b
+  c2 b4 r
+  r g' e4. a6 g
+  fs8 d g4 ~ g4. fs8
+  g4 r r e
+  fs b, fs2
+  b4 \clef soprano b'' c b8 a 
+  g4 \clef alto g a g8 fs 
+  e4 \clef tenor d e d8 cs
+  b4 \clef bass g a g8 fs
+  e4 b' b4. as8
+  b4 g c b
+  a g d2
+  g,4 r r e'
+  a4. g8 fs g fs e
+  d4 e8 fs g fs e ds
+  e4. d8 c b a4
+  b1
+  e,\fermata
+}

@@ -1,0 +1,229 @@
+\relative c' {
+  \key e \minor
+  \time 2/2
+  
+  r2 r4 b''
+  e,2 r4 b'
+  e, r8 a d, fs cs8. b6
+  b8 e g, c [fs, b e, a]
+  ds, b'' e,8. fs6 ds4 r8 e
+  e e r e ds ds r e ~
+  e fs ds4 e b
+  c b8 a b e, e'4
+  e4. ds8 e4 fs
+  g ds e4. fs8
+  ds4 r r2
+  r4 g a g8 fs
+  g e e4 d d6 e d e
+  c4 ~ c6 b c a b8 g b'4
+  fs8 e6 fs g4 ds d
+  d2 b
+  ds4 e4. fs8 ds4
+  e r r2
+  R1*7
+  
+  
+  
+  
+  
+  
+  r2 r4 fs
+  g2 r4 fs
+  e r r2
+  r r4 a,4.|
+    a8 a g6 a b4. a8
+  g4 r r2
+  R1
+  r4 cs4. cs8 cs cs
+  d4 b b4. as8
+  b4 g' e gs
+  e2 gs4 r
+  R1*2
+  
+  r4 g g8. fs6 e4
+  e8 d c4 d4. e6 d
+  c4 r r2
+  R1*2
+  
+  e4 e8 e d4 r8 fs
+  d4 d8 d c c e e 
+  c c r4 r2
+  R1*3
+  
+  
+  r4 g'2 c4
+  a e c8 b a4
+  b r r gs'
+  e gs r gs
+  e gs r gs
+  e gs r c,
+  fs1
+  b,4 b b2
+  b1
+  b
+  b
+  b4. as8 b2
+  r2 d8 e fs6 e d8
+  g4 r b,8 c d6 c b8
+  e4 r r2
+  r4 e8 e c b b8. a6
+  b8 b r4 r2
+  r4 d ~ d b
+  d b r2
+  r2 r8 c c c 
+  d4. c8 b b r4
+  R1
+  r2 r8 b c d 
+  e4. e8 d b c d
+  e a, a4 g r
+  R1
+  r2 r8 b c b
+  a g fs6 g a8 [g8. fs6 e8 fs]
+  g fs fs4 e g ~
+  g a b2
+  c4 d g, a
+  a2 b4. a8
+  g4 c8 e [f8. e6 d8 cs6 ds]
+  e4. d8 c4 c8 c
+  b c d g, g4. fs8
+  g4 b c b8 c
+  a2 b4. e,8
+  fs e e4 e4. ds8
+  e4 e8 e' fs4 e
+  a e d r8 d
+  g2 c,4 r8 c
+  d4 d8 d c4 r
+  c e e e 
+  f2 d4 r8 d
+  e4 e8 e c4 r8 a'
+  d,4 r r2
+  R1*4
+  
+  
+  
+  r2 r4 d
+  e fs b, b
+  b4. a8 b4 r
+  R1*3
+  
+  
+  r4 fs' ~ fs e ~
+  e d ~ d cs ~
+  cs8 b a4 ~ a8 gs gs4
+  fs cs' cs r8 cs
+  d cs r cs d cs r d
+  [(e e) (e e)] [(e e) (e e)] 
+  (d d d d) [(b b b b)]
+  b4 b8 b b4 b
+  c b c cs
+  [(d8 d) (e e)] [(d d) (cs cs)]^\markup { "(a#)" }
+  [(d d) (e e)] [(d d) (cs cs)]
+  [(d d cs cs)] [(b b b b)]
+  as4 (cs8 cs) [(fs fs e e)]
+  [(d d) (cs cs)] [(b b) (a a)]
+  [(g g) (fs fs)] fs4. e8
+  fs4 (fs'8 fs) [(d d) (b b)]
+  [(g g) (e' e)] [(cs cs) (fs fs)] 
+  [(d d) (g g)] [(e e) (a a)]
+  [(fs fs) (b b)] [(g g) (fs fs)]
+  ds b e4 ds e
+  e4. ds8 e2\fermata
+  g8. b6 g4 b8. b6 b4
+  g8 fs e fs a4 d,
+  d8. d6 d4 d8. d6 d4
+  d8 d e fs g4 fs
+  fs8. a6 fs4 a8. d,6 e4
+  s1_\markup { \tiny "(missing)" }
+  e8. e6 e4 e8. e6 e4
+  e4 fs8 e e8. ds6 e4 \time 3/2
+  R1.*17
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  b'2 b b 
+  a fs g4 a
+  b2 b d,4 e
+  fs2 fs r
+  R1.
+  fs2 fs fs
+  d b d4 e
+  fs2 fs fs
+  d d r
+  g g g 
+  fs ds e4 fs
+  g2 g b,
+  b b r
+  e e e 
+  ds b cs4 ds
+  e2 b^\markup { "(d)" } g' 
+  fs ds b'4 fs
+  g2 g r
+  r r b
+  b1 a2
+  b b a
+  g a1
+  g2 fs r4 fs
+  e2 fs1
+  e2 ds r
+  R1.
+  r2 g g
+  a1 a2
+  a a r
+  g1 g2
+  g1 r2
+  R1.
+  r2 e e
+  fs2. g4 fs e
+  d1 d2
+  e e r
+  R1.
+  r2 e e 
+  d1 d2
+  fs1 fs2
+  e1 a2
+  g g r
+  fs4 fs fs fs e e 
+  b'2 g r
+  r b g
+  r ds e \time 2/2
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  e4. e8 fs4. b6 a
+  g4. c8 fs,4 r
+  r b g4. e8
+  a fs g4 e4. d8
+  d4 r r g
+  cs, b8 fs' fs2
+  d4 r r2
+  R1*4
+  
+  
+  
+  r4 g g8 g g g
+  a a d, d d2
+  d4 r r e
+  e4. fs6 g a8 b a g
+  fs4 e d e8 fs
+  g4. a6 b e,4 fs8 e
+  ds4 e e4. ds8
+  e1\fermata
+}

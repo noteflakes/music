@@ -1,7 +1,7 @@
 \relative c {
   \key e \minor
   \time 2/2 % \tempo "Sonata"
-  
+     m{{\tempo 4 = 80}}
   e4 fs g ds
   e fs g ds
   e fs g a8 d,
@@ -134,7 +134,7 @@
   d8. cs6 d4 cs8. b6 cs4
   d4. c8 b4 a
   a'8. gs6 a4 gs8. fs6 gs4
-  a4. g8 fs4 e \time 3/2
+  a4. g8 fs4 e \time 3/2 m{{\tempo 2 = 110}}
   e1.
   c
   d
@@ -197,7 +197,7 @@
   ds4 ds ds2 e4 e
   b2 e, r
   r ds' e
-  r b e, \time 2/2
+  r b e, \time 2/2 m{{\tempo 4 = 80}}
   e'4 e, b'2
   e4 c b2
   g4 g' d2

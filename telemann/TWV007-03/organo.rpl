@@ -134,8 +134,9 @@
   d8. cs6 d4 cs8. b6 cs4
   d4. c8 b4 a
   a'8. gs6 a4 gs8. fs6 gs4
-  a4. g8 fs4 e \time 3/2 m{{\tempo 2 = 110}}
+  a4. g8 fs4 e \time 3/2 m{{\tempo 2 = 130}}
   e1.
+  s^\markup { \tiny "(missing)" }
   c
   d
   d
@@ -162,7 +163,7 @@
   fs d e4 fs
   g2 g r \clef alto
   e'1. 
-  a \clef bass
+  b \clef bass
   e,1 e2
   ds b cs4 ds
   e1. \clef alto
@@ -174,7 +175,7 @@
   e d c
   b1 fs'2
   g fs1
-  g2 d r4 ds
+  g2 \ficta ds r4 ds
   e2 ds1
   e2 b r \clef soprano
   r2 b'' b

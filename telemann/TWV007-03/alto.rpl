@@ -1,0 +1,230 @@
+\relative c' {
+  \key e \minor
+  \time 2/2
+ 
+  R1*25
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 r4 fs
+  e2 r4 fs
+  e (fs g8) g g ([fs6 g])
+  a4. g8 fs4 r
+  R1
+  r4 g gs8 gs gs gs
+  a4 fs fs4. e8
+  fs4^"?" r r2
+  R1
+  r4 e e e 
+  e2 e4 (a
+  g) e8 e (a4. g8)
+  fs4 r8 g ds4. [ds6 e]
+  e4 r r2
+  R1
+  e8. e6 fs4 g r8 g
+  fs4 fs8 fs e e e e 
+  c c r4 r2
+  e4 e8 e fs4 r8 fs
+  g4 g8 g e e e e 
+  e e r4 r2
+  R1*3
+  
+  
+  r4 g2 a4
+  b g a4. [b6 a]
+  gs4 r r e
+  a e r e
+  a e r e
+  a e r a
+  b2. a4
+  gs r r2
+  R1*30
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 g fs g
+  a2 fs4 r8 fs
+  g2 e4 r8 e
+  d4 d8 d e4 r
+  e r r2
+  R1*2
+  
+  r4 g fs8 g ([a6 g fs8])
+  g e r b' ([e, ds]) ([e fs])
+  ds4 r8 e fs fs gs4
+  a8 e r ([fs6 e]) ds8 ds r b
+  e4. [d6 e] [fs8 d] g4
+  c,4. [d6 c] b4 r
+  R1
+  r2 r4 fs'
+  [e8 fs e d] (c8. b6) a8 e'
+  fs4 r8 [fs6 e] d4 b8 fs'
+  fs2 fs4. e8
+  fs4 r r2
+  R1*20
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  g8. fs6 g4 fs8. fs6^"?" fs4
+  e8 fs g g [g8. fs6] g4
+  R1*2
+  
+  fs8. e6 fs4 e8. d6 e4
+  fs8 fs gs a a8. gs6 a4
+  R1*2
+    \time 3/2
+  g2. fs4 (g a)
+  g2. fs4 g2
+  a1.
+  fs2 fs fs 
+  fs2. e4 fs2
+  g1.
+  e2 e e 
+  fs fs2. e4
+  ds2 ds r
+  R1.*9
+  
+  
+  
+  
+  
+  
+  
+  
+  g2 g g 
+  fs d e4 fs
+  g2 g r
+  R1.
+  g2 g g
+  fs d e4 fs
+  g2 g r
+  R1.*2
+  
+  e2 e e 
+  ds b cs4 ds
+  e2 e e4 e
+  fs2 ds e4 fs
+  g2 g r
+  b b b
+  g e g4 a
+  b2 b fs4 fs
+  g2 g g4 g
+  fs2 fs fs
+  (g fs) e
+  fs fs a 
+  b a1
+  b2 fs r4 fs
+  g2 fs1
+  g2 fs r
+  R1.
+  r2 e e 
+  a2. b4 a g
+  fs2. g4 fs e
+  d2 d d 
+  g2. a4 g fs
+  e2 e e 
+  a2. b4 a g
+  fs2 fs fs 
+  b2. c4 (b a)
+  gs2 gs r
+  R1.
+  r2 e cs
+  fs1 fs2
+  fs d fs
+  g1 a2
+  b b r 
+  fs4 fs fs fs g g 
+  fs2 g r
+  r fs e
+  r fs e \time 2/2
+  [e6 ds e fs] [e8 fs6 e] ds8. cs6 b4
+  b8 b e e ds4 ds
+  [g6 fs g a] [g8 a6 g] fs8. e6 d4
+  d8 d g g fs4 r
+  [b6 c a b] [g a fs g] e8. d6 c4
+  [a'6 b g a] [fs g e fs] d8. e6 fs8 fs
+  [g8. fs6 e8 fs6 g] [fs8. e6 ds8 e6 fs]
+  e8 e [e8. ds6] e2
+  g4. g8 fs4 ds
+  e4. [fs6 e] ds4 r
+  r4 g g4. a8
+  a4 g a4. a8
+  g4 r r g
+  fs fs fs fs
+  fs r r2
+  r4 g8 g a4 [g8 fs]
+  e4 b' b4. as8
+  b4 r r2
+  r4 fs8 fs e4. e8
+  d4 g8 g g g g g 
+  e fs g4 g4. fs8
+  g4 r r [g8 fs]
+  e4. [fs6 g] [a8 b a g]
+  fs4 e d [e8 fs]
+  g4. [a6 b] e,4 [fs8 e]
+  ds4 e (e4. ds8)
+  e1\fermata
+}

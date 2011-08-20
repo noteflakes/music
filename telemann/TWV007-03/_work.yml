@@ -5,6 +5,7 @@ composer: Georg Philipp Telemann
 parts:
   organo:
     embed_figures: true
+    midi_instrument: cello
 score:
   hide_figures: true
   order:

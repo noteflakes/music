@@ -1,0 +1,230 @@
+\relative c' {
+  \key e \minor
+  \time 2/2
+ 
+  R1*25
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r2 r4 b
+  b2 r4 b
+  b r r2
+  R1*6
+  
+  
+  
+  
+  
+  r4 b c b
+  a2 b4 r
+  R1*4
+  
+  
+  
+  r2 b8. b6 cs4
+  d4 r8 d b4 b8 b
+  a a a a g g r4
+  c4 c8 b a4 r8 a
+  b4 b8 b c c b b 
+  c c fs,4 g a
+  b2 g4 r
+  r2 r4 gs
+  as b (b4. as8)
+  b4 (b e) e
+  b cs (cs fs)
+  b, r r b
+  c b r b
+  c b r b
+  c b r c
+  d1
+  gs,4 r r2
+  R1*4
+  
+  
+  
+  g8 a [b6 a g8] d'4 r
+  e,8 fs [g6 fs e8] b'4 r
+  r a8 a d d d8. cs6
+  d8 d r4 r2
+  r4 b2 g4
+  d' b r2
+  r r8 b b b 
+  e4. [d6 c] c8 c r4
+  r2 r8 d b c
+  [d c b c6 d] [e8 d] [c b]
+  b4. [a6 g] g4 r
+  R1
+  r2 r8 b a b
+  [c b a g6 a] b4 [e,8 fs]
+  g4. [fs6 e] e4 r
+  R1*11
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 b' b b
+  cs2 fs,4 r8 fs
+  b2 e,4 r8 g
+  b4 b8 b c4 r
+  c r r2
+  R1*34
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  b8. b6 b4 d8. d6 d4
+  b8 b c d [e6 d c8] d4
+  R1*2
+  
+  d8. e6 d4 a8. a6 a4
+  d8 d b a b4 c
+  R1*2
+    \time 3/2
+  R1.*8
+  
+  
+  
+  
+  
+  
+  
+  ds2. cs4 (ds e)
+  ds2. cs4 ds2
+  e1.
+  c2 c c 
+  c2. b4 c2
+  d1.
+  b2 b b
+  c1 b2
+  (b4 a) a1
+  g1.
+  R1.
+  d'2 d d
+  b g b4 c
+  d2 d d4 d
+  d2 d r
+  d d d 
+  b g b4 c
+  d2 d r
+  R1.*2
+  
+  b2 b b
+  g e g4 a 
+  b2 b r
+  R1.*2
+  
+  e2 e e 
+  ds b cs4 ds
+  e2 e e4 e
+  ds2 ds b
+  b1 e,2
+  b' b d
+  b d1
+  b2 a r4 b
+  g2 b1
+  g2 b r
+  R1.*2
+  
+  r2 a a
+  d2. e4 d c
+  b2. c4 b a
+  g2 g r
+  R1.*2
+  
+  r2 a a
+  b1 b2
+  b b r
+  R1.
+  r2 cs cs
+  d1 d2
+  b b b
+  e1 d2
+  d d r
+  b4 b b b b b 
+  b2 b r
+  r b b
+  r b b \time 2/2
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  b4. b8 [(a g)] fs4
+  e2 b'4 r
+  r d e4. [c6 b]
+  a4 b a4. a8
+  b4 r r b
+  as b b4. as8
+  b4 r r2
+  R1
+  r4 d8 d e4 [(d8 cs)]
+  b4 e e4. ds8
+  e4 r r2
+  r4 d8 d c c d d 
+  a a ([b c]) d4 a
+  b r r b
+  c4. [d6 e] a,4 r
+  r8 [fs g a] [b a g fs]
+  e4. fs8 g4 c
+  fs, e fs2
+  g1\fermata
+}

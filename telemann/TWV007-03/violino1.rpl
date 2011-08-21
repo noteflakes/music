@@ -83,7 +83,7 @@
   g a b2
   c4 d g, a
   a2 b4. a8
-  g4 c8 e [f8. e6 d8 cs6 ds]
+  g4 c8 e [f8. e6 d8 c6 d]
   e4. d8 c4 c8 c
   b c d g, g4. fs8
   g4 b c b8 c
@@ -125,7 +125,7 @@
   fs4 (fs'8 fs) [(d d) (b b)]
   [(g g) (e' e)] [(cs cs) (fs fs)] 
   [(d d) (g g)] [(e e) (a a)]
-  [(fs fs) (b b)] [(g g) (fs fs)]
+  [(fs fs) (b b)] [(g g) (fs e)]
   ds b e4 ds e
   e4. ds8 e2\fermata
   g8. b6 g4 b8. b6 b4

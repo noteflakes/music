@@ -6,8 +6,10 @@ parts:
   organo:
     embed_figures: true
     midi_instrument: cello
+  violone:
+    clef: bass
 score:
-  hide_figures: true
+  # hide_figures: true
   order:
     - violino1
     - violino2
@@ -17,6 +19,7 @@ score:
     - tenore
     - basso
     - organo
+    # - violone
   groups:
     - brace: [violino1, violino2]
     - bracket: [soprano, alto, tenore, basso]

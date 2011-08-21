@@ -52,7 +52,7 @@
   r2 r4 gs
   as b (b4. as8)
   b4 (b e) e
-  b cs (cs fs)
+  b c (c f)
   b, r r b
   c b r b
   c b r b
@@ -147,8 +147,8 @@
   ds2. cs4 (ds e)
   ds2. cs4 ds2
   e1.
-  c2 c c 
-  c2. b4 c2
+  \ficta cs2 \ficta cs \ficta cs 
+  \ficta cs2. b4 \ficta cs2
   d1.
   b2 b b
   c1 b2

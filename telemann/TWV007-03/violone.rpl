@@ -1,18 +1,18 @@
 \relative c {
   \key e \minor
-  \time 2/2 % \tempo "Sonata"
-     m{{\tempo 4 = 80}}
+  \time 2/2 
+     
   e4 fs g ds
   e fs g ds
   e fs g a8 d,
   e2 d4 c
   b8 g c4 b gs
   a g fs e
-  a8 fs b4 e, \clef treble b'''
-  c4 b8 a b e, \clef alto g4
-  a g8 fs g e d4 
-  e \clef tenor b c b8 a
-  b4 \clef bass g a g8 fs
+  a8 fs b4 e, r
+  R1*3
+
+
+  r4 g' a g8 fs
   g e c4 a b
   e c fs g a d, g r
   r2 r4 b
@@ -134,7 +134,7 @@
   d8. cs6 d4 cs8. b6 cs4
   d4. c8 b4 a
   a'8. gs6 a4 gs8. fs6 gs4
-  a4. g8 fs4 e \time 3/2 m{{\tempo 2 = 130}}
+  a4. g8 fs4 e \time 3/2
   e1.
   s^\markup { \tiny "(missing)" }
   c
@@ -152,24 +152,24 @@
   g
   c, 
   c2 d1
-  g,1. \clef alto
-  g''2 g g \clef tenor
-  d d d \clef bass
-  g, g g
+  g,1. 
+  R1.*2
+  
+  g'2 g g
   fs d e4 fs
-  g1. \clef tenor
-  d'2 d d \clef bass
+  g1. 
+  R1.
   g,1 g2
   fs d e4 fs
-  g2 g r \clef alto
-  e'1. 
-  b \clef bass
-  e,1 e2
+  g2 g r
+  R1.*2
+  
+  e'1 e2
   ds b cs4 ds
-  e1. \clef alto
-  b''
-  e, \clef bass
-  b1 b2
+  e1.
+  R1.*2
+  
+  b'1 b2
   g e g4 a
   b1 b,2
   e d c
@@ -177,11 +177,11 @@
   g fs1
   g2 d r4 ds
   e2 ds1
-  e2 b r \clef soprano
-  r2 b'' b
-  e b b
-  e \clef tenor a,, a 
-  d \clef bass d, d
+  e2 b r
+  R1.*3
+  
+  
+  r2 d d
   g2. a4 g fs
   e2. fs4 e d
   c2. d4 c b
@@ -198,7 +198,7 @@
   ds4 ds ds2 e4 e
   b2 e, r
   r ds' e
-  r b e, \time 2/2 m{{\tempo 4 = 80}}
+  r b e, \time 2/2
   e'4 e, b'2
   e4 c b2
   g4 g' d2
@@ -213,10 +213,10 @@
   fs8 d g4 ~ g4. fs8
   g4 r r e
   fs b, fs2
-  b4 \clef soprano b'' c b8 a 
-  g4 \clef alto g a g8 fs 
-  e4 \clef tenor d e d8 cs
-  b4 \clef bass g a g8 fs
+  b4 r4 r2
+  R1*2
+  
+  r4 g' a g8 fs
   e4 b' b4. as8
   b4 g c b
   a g d2

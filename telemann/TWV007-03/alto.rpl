@@ -133,7 +133,7 @@
   R1*2
   
   fs8. e6 fs4 e8. d6 e4
-  fs8 fs gs a a8. gs6 a4
+  fs8 fs gs a [a8. gs6] a4
   R1*2
     \time 3/2
   g2. fs4 (g a)

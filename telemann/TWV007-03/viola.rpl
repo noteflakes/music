@@ -221,7 +221,7 @@
   e fs g4 g4. fs8
   g4 r r g
   a4. e8 a4. e8 
-  fs4 b,^"?" b2
+  fs4 c^\markup { "(b)" } b2
   e4 a8 d, e2
   b'4 g b2
   g1\fermata

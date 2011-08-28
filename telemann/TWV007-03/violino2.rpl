@@ -62,7 +62,7 @@
   g fs r fs
   g fs r fs
   g fs r fs
-  e4. fs8_\markup { "(a#)" } ds2
+  e4. fs8^\markup { "(a#)" } ds2
   r2 fs8 g a g6 fs
   b4 r fs8 e d fs6 g 
   a4 r r2
@@ -75,7 +75,7 @@
   R1
   r2 r8 g a b
   c4. c8 b g a b
-  c a a8. g6 g4 r
+  c a g8. fs6 g4 r
   R1
   r2 r8 g g fs
   e4 ds8 e6 fs e4. e8

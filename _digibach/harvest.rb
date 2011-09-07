@@ -8,7 +8,7 @@ require 'open-uri'
 require 'pp'
 
 def open_url(url)
-  r = HTTParty.get(url, :timeout => 35)
+  r = HTTParty.get(url, :timeout => 60)
   r.body
 rescue Timeout::Error
   puts "timeout while getting #{url}"
@@ -288,8 +288,10 @@ end
 
 # require File.join(File.dirname(__FILE__), 'thread_pool')
 # $pool = ThreadPool.new(1)
-# idx = 1
 # 
+
+idx = 1
+
 manuscripts.each do |h, m|
   works = m.map {|i| Harvester.format_bwv_dir_name(i['BWV'])}.join(',')
   puts "(#{idx}) processing #{works}: #{m.first['name']}"
@@ -298,4 +300,4 @@ manuscripts.each do |h, m|
   idx += 1
 end
 
-$pool.join
+# $pool.join

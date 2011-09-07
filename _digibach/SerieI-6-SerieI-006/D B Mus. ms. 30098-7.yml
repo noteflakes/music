@@ -1,0 +1,30 @@
+--- 
+work: SerieI-6-SerieI-006
+bwvs: 
+- Serie I:6
+- Serie I:006
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00000677
+title: D B Mus. ms. 30098/7
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00040313?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040313/db_musms30098nr07_page058r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040313/db_musms30098nr07_page058v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00040315?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040315/db_musms30098nr07_page059r.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00040317?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040317/db_musms30098nr07_page059r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040317/db_musms30098nr07_page059v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040317/db_musms30098nr07_page060r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040317/db_musms30098nr07_page060v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00040319?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040319/db_musms30098nr07_page061r.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00040321?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040321/db_musms30098nr07_page061r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040321/db_musms30098nr07_page061v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00040324?XSL.Style=dfg
+  - - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040324/db_musms30098nr07_page062r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040324/db_musms30098nr07_page062v.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040324/db_musms30098nr07_page063r.jpg
+    - http://www.bach-digital.de/servlets/MCRFileNodeServlet/BachDigitalSource_derivate_00040324/db_musms30098nr07_page063v.jpg

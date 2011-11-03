@@ -115,7 +115,7 @@
 	}
 }
 
-#(set-global-staff-size 15)
+#(set-global-staff-size 20)
 
 prepare = {
 	\override Score.BarNumber #'font-size = #2.5

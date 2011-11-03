@@ -1,0 +1,31 @@
+--- 
+work: BWV1043
+bwvs: 
+- "1043"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00003864
+title: PL Kj Mus. ms. Bach St 148, Faszikel 1  [frueher D B Mus. ms. Bach St 148, Faszikel 1]
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056007?XSL.Style=dfg
+  - - db_bachst0148_ante001.jpg
+    - db_bachst0148_ante002.jpg
+    - db_bachst0148_post001.jpg
+    - db_bachst0148_post002.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056020?XSL.Style=dfg
+  - - db_bachst0148-01_page001r.jpg
+    - db_bachst0148-01_page001v.jpg
+    - db_bachst0148-01_page002r.jpg
+    - db_bachst0148-01_page002v.jpg
+    - db_bachst0148-01_page003r.jpg
+    - db_bachst0148-01_page003v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056025?XSL.Style=dfg
+  - - db_bachst0148-02_page001r.jpg
+    - db_bachst0148-02_page001v.jpg
+    - db_bachst0148-02_page002r.jpg
+    - db_bachst0148-02_page002v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056027?XSL.Style=dfg
+  - - db_bachst0148-02a_page001r.jpg
+    - db_bachst0148-02a_page001v.jpg
+    - db_bachst0148-02a_page002r.jpg
+    - db_bachst0148-02a_page002v.jpg

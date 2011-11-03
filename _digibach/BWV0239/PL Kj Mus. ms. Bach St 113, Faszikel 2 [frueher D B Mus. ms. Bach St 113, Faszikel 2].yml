@@ -1,0 +1,39 @@
+--- 
+work: BWV0239
+bwvs: 
+- "239"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00003862
+title: PL Kj Mus. ms. Bach St 113, Faszikel 2 [frueher D B Mus. ms. Bach St 113, Faszikel 2]
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055868?XSL.Style=dfg
+  - - db_bachst0113_ante001.jpg
+    - db_bachst0113_ante002.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055870?XSL.Style=dfg
+  - - db_bachst0113_page001r.jpg
+    - db_bachst0113_page001v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055872?XSL.Style=dfg
+  - - db_bachst0113_page002r.jpg
+    - db_bachst0113_page002v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055874?XSL.Style=dfg
+  - - db_bachst0113_page003r.jpg
+    - db_bachst0113_page003v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055876?XSL.Style=dfg
+  - - db_bachst0113_page004r.jpg
+    - db_bachst0113_page004v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055878?XSL.Style=dfg
+  - - db_bachst0113_page009r.jpg
+    - db_bachst0113_page009v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055880?XSL.Style=dfg
+  - - db_bachst0113_page010r.jpg
+    - db_bachst0113_page010v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055882?XSL.Style=dfg
+  - - db_bachst0113_page011r.jpg
+    - db_bachst0113_page011v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055884?XSL.Style=dfg
+  - - db_bachst0113_page012r.jpg
+    - db_bachst0113_page012v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00055886?XSL.Style=dfg
+  - - db_bachst0113_page013r.jpg
+    - db_bachst0113_page013v.jpg

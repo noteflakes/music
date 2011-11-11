@@ -1,0 +1,29 @@
+\relative c' {
+  \key c \major
+  \time 2/2 \partial 4
+    e4
+  a b c a
+  b2 g4 g
+  a2 b
+  e, r4 e
+  a b c a
+  b2 g4 g
+  a2 b
+  e, r
+  e' e4 d
+  c2 r4 b
+  c d e e 
+  d2 b4 b
+  c c a a 
+  b2 g4 e
+  fs a a gs
+  a2 r
+  e' e4 d
+  c2 r4 b
+  c d e e 
+  d2 b4 b
+  c c a a 
+  b2 g4 e
+  fs a a gs
+  a2 r4
+}

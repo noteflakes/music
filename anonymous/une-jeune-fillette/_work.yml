@@ -1,0 +1,8 @@
+title: Une Jeune Fillette
+composer: Anonymous
+parts:
+  canto:
+    midi_instrument: voice
+score:
+  order:
+    - canto

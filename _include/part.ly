@@ -111,7 +111,7 @@
 	
 }
 
-#(set-global-staff-size 20)
+#(set-global-staff-size 17)
 
 prepare = {
   \set Score.skipBars = ##t

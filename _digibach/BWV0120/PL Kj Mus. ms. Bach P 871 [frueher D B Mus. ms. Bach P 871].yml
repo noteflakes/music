@@ -1,0 +1,31 @@
+--- 
+work: BWV0120
+bwvs: 
+- "120"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00003852
+title: PL Kj Mus. ms. Bach P 871 [frueher D B Mus. ms. Bach P 871]
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056288?XSL.Style=dfg
+  - - db_bachp0871_ante001.jpg
+    - db_bachp0871_ante002.jpg
+    - db_bachp0871_post001.jpg
+    - db_bachp0871_post002.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056290?XSL.Style=dfg
+  - - db_bachp0871_page001.jpg
+    - db_bachp0871_page002.jpg
+    - db_bachp0871_page003.jpg
+    - db_bachp0871_page004.jpg
+    - db_bachp0871_page005.jpg
+    - db_bachp0871_page006.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056293?XSL.Style=dfg
+  - []
+
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056295?XSL.Style=dfg
+  - - db_bachp0871_page016.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056297?XSL.Style=dfg
+  - []
+
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056299?XSL.Style=dfg
+  - - db_bachp0871_page015.jpg

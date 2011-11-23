@@ -1,0 +1,121 @@
+\relative c' {
+  \key eb \major
+  \time 3/2
+
+  r2 r f
+  db2. db4 c2
+  c1 f2
+  f2. g4 e2
+  f1 r2
+  R1.*3
+  
+  
+  r2 r ab
+  g g ab
+  ab2. bb4 eb,2
+  f2. f4 eb2
+  c1 r2
+  R1.*3
+  
+  
+  r2 r ab'
+  f2. f4 eb2
+  f1 eb2
+  eb2. f4 d2
+  eb1 r2
+  R1.*4
+  
+  
+  
+  r2 r g
+  g g g
+  eb2. eb4 f2
+  g1 g2
+  ab2. ab4 g2
+  eb1 r2
+  R1.*3
+  
+  
+  r2 r e
+  f c r
+  r r e
+  f2. f4 f2
+  eb!1 c2
+  c2. db4 c2
+  ab1 r2
+  R1.*3
+  
+  
+  r2 r e'
+  c ab' bb 
+  c g r
+  R1.
+  r2 r g
+  f g a
+  bb f r
+  R1.
+  r2 r f
+  f f db
+  c1 c2
+  db2. bb4 c2
+  c1 r2
+  R1.*2
+  
+  r2 r eb
+  g c b
+  c g r
+  r r f
+  r eb1
+  g1 g2
+  ab ab ab
+  d,1 g2
+  c, c ab'
+  g ab g
+  g1 f2
+  e e r
+  c r c
+  c1 r2
+  r r bb
+  g g' g
+  f1 db2
+  ab g c
+  c1 f2
+  db2. db4 c2
+  db1 r2
+  r r bb'
+  g g f
+  f db g \bar "||" \time 4/4
+  f8 c' bb c6 bb ab8 r g r
+  f bb ab bb6 ab g8 r f r 
+  e r e r r c' bb c6 bb
+  ab8 r g r f c d c6 d 
+  eb8 r bb' r r eb, f eb6 f
+  g8 r g r f r f r 
+  c r g' r r g [e c]
+  f4. [g6 f e8 c] f4.|
+    [g6 f] e8 e f4 r8 f
+  [db bb] bb'4. [c6 bb] a8 a
+  bb f [db bb] [eb c] f4 ~
+  [f8 eb f gb] [c, eb] db c
+  bb bb' [gb eb] c4 a'8 a
+  bb r r4 r8 e, f e6 f
+  g8 c ([ab f bb]) bb r g
+  [e c] f4. [e6 f] f8 e
+  f r r4 r8 c [ab f]
+  c' c r e [f e ab bb6 ab]
+  g4. [ab6 g] f4 r8 f
+  f4 eb d d8 d
+  e4 e e e8 e 
+  f4 f8 f f2
+  e8 r r4 r8 c' bb c6 bb
+  ab8 ab g ab6 g f8 r f r 
+  f f eb f6 eb db8 r db r
+  c c f4. [g6 f] e8 e 
+  f8 r r4 r8 eb! [c ab]
+  g g r g' [g f6 e] f4.|
+    [e6 d] e4 f8 f eb db
+  c c [ab f] db'4 c8 bb
+  a c' [a f bb] f r c
+  db db r f db4 db8 db
+  c1\fermata
+}

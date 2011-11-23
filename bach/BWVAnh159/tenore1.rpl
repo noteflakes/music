@@ -1,88 +1,121 @@
-\relative c {
+\relative c' {
   \key eb \major
   \time 3/2
 
-  r2 r f
-  f2. f4 eb2
-  eb1 db2
-  c2. bb4 c2
-  f,1 r2
+  r2 r c
+  bb2. b4 g2
+  a1 bb2
+  c2. db4 c2
+  ab1 r2
   R1.*3
   
   
-  r2 r f'
-  e e f
-  f2. g4 ab2
-  f2. db4 eb2
-  ab,1 r2
+  r2 r c 
+  c c f
+  f2. eb4 eb2
+  ab,2. bb4 g2
+  ab1 r2
   R1.*3
   
   
-  r2 r ab'
-  ab2. ab4 g2
-  d1 eb2
-  ab,2. ab4 bb2
-  eb1 r2
+  r2 r eb'
+  d2. d4 bb2
+  bb1 bb2
+  c2. c4 (bb ab)
+  g1 r2
   R1.*4
   
   
   
   r2 r c
-  g' g eb
-  ab2. ab4 d,2
-  g1 c,2
-  f2. f4 g2
-  c,1 r2
+  b b c
+  c2. c4 c2
+  b1 c2
+  c2. d4 b2
+  c1 r2
   R1.*3
   
   
   r2 r c
-  f f, r
-  r r c'
-  db2. db4 d2
-  eb1 e2
-  f2. bb,4 c2
-  f,1 r2
+  c ab r
+  r r ab
+  ab2. ab4 ab2
+  g1 g2
+  f2. g4 e2
+  f1 r2
   R1.*3
   
   
-  r2 r c'
-  f f db
-  c c' r
+  r2 r g
+  ab c db
+  g, e' r 
   R1.
-  r2 r bb
-  a g f
-  bb bb, r
+  r2 r c
+  c bb c
+  bb d r
   R1.
-  r2 r ab'
-  bb bb bb,
-  bb1 ab2
-  bb2. g4 c2
-  f,1 r2
+  r2 r c
+  bb db! bb
+  g1 f2
+  f2. g4 e2
+  f1 r2
   R1.*2
   
   r2 r c'
-  g g g 
-  g' g r
-  r r g
-  r g1
-  g eb2
-  f f f 
-  g1 g2
-  ab ab f
-  g f g 
-  c,1 c2
+  b c d 
   c c r
-  c r c
-  c1 r2
-  r r bb
+  r r b
+  r c1
+  d1 eb2
+  d d d 
+  d1 g,2
+  c ab f'
+  c f, d'
+  e1 ab,!2
+  g g r
+  f r f
+  g1 r2
+  r r db'
   c c c 
-  db1 bb2 
-  c bb c
-  f,1 f'2
-  f2. f4 eb2
-  db1 r2
-  r r bb'
-  bb bb ab
-  c bb c
+  bb1 g2
+  ab (db4 c) bb2
+  ab1 c2
+  bb2. bb4 g2
+  ab1 r2
+  r r f'
+  c c c 
+  c db c \bar "||" \time 4/4
+  c8 r r4 r8 f eb f6 eb
+  db8 r c r bb bb ab bb6 ab
+  g8 r g r c r e r
+  f c bb c6 bb ab8 r ab r
+  bb eb db eb6 db c8 c d c6 d 
+  eb8 r c r c c d c6 d 
+  e8 e d c6 d e8 r r c
+  [ab f] bb4. [c6 bb] ab4
+  g g8 g ab c ([ab f]
+  bb) bb r db eb c f4
+  f8 r r4 r8 eb [c a]
+  [db c] bb4 [f'8 gb] f eb
+  db db eb eb r gb [eb c]
+  db db r c bb c6 bb ab8 r 
+  g r f r r f' [db bb]
+  c4. [ab8 bb ab6 g] g8 g
+  f c' [ab f] c'2 ~
+  c1 ~
+  c2 c8 c [ab f]
+  d'4. c4 [b6 a] b8 b
+  c4 c bb bb8 bb 
+  ab4 ab8 ab ab2
+  g8 r r4 r2
+  r8 c bb c6 bb ab8 ab g ab6 g
+  f8 r f r r f g f6 g
+  ab8 r r ab g4 g8 g
+  f c' [ab f] ab4 ab8 ab
+  eb eb r g [ab bb c db]
+  g,4 [c8 bb] [ab f] bb g
+  [e c] f2 e8 e 
+  f4 r8 f' [db bb] c a
+  bb4 c8 c ([c bb6 a]) bb8 bb
+  a1\fermata
 }

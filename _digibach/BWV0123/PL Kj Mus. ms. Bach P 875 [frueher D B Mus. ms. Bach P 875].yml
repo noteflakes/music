@@ -1,0 +1,39 @@
+--- 
+work: BWV0123
+bwvs: 
+- "123"
+url: http://www.bach-digital.de/receive/BachDigitalSource_source_00003853
+title: PL Kj Mus. ms. Bach P 875 [frueher D B Mus. ms. Bach P 875]
+owner: Bach Digital Projekt
+date: ""
+hrefs: 
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056303?XSL.Style=dfg
+  - - db_bachp0875_ante001.jpg
+    - db_bachp0875_ante002.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056305?XSL.Style=dfg
+  - - db_bachp0875_page002r.jpg
+    - db_bachp0875_page002v.jpg
+    - db_bachp0875_page003r.jpg
+    - db_bachp0875_page003v.jpg
+    - db_bachp0875_page004r.jpg
+    - db_bachp0875_page004v.jpg
+    - db_bachp0875_page005r.jpg
+    - db_bachp0875_page005v.jpg
+    - db_bachp0875_page006r.jpg
+    - db_bachp0875_page006v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056307?XSL.Style=dfg
+  - - db_bachp0875_page006v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056309?XSL.Style=dfg
+  - - db_bachp0875_page006v.jpg
+    - db_bachp0875_page007r.jpg
+    - db_bachp0875_page007v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056311?XSL.Style=dfg
+  - - db_bachp0875_page007v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056313?XSL.Style=dfg
+  - - db_bachp0875_page007v.jpg
+    - db_bachp0875_page008r.jpg
+    - db_bachp0875_page008v.jpg
+- - http://www.bach-digital.de/servlets/MCRMETSServlet/BachDigitalSource_derivate_00056315?XSL.Style=dfg
+  - - db_bachp0875_page008v.jpg
+    - db_bachp0875_page009r.jpg
+    - db_bachp0875_page009v.jpg

@@ -1,0 +1,88 @@
+\relative c {
+  \key eb \major
+  \time 3/2
+
+  r2 r f
+  f2. f4 eb2
+  eb1 db2
+  c2. bb4 c2
+  f,1 r2
+  R1.*3
+  
+  
+  r2 r f'
+  e e f
+  f2. g4 ab2
+  f2. db4 eb2
+  ab,1 r2
+  R1.*3
+  
+  
+  r2 r ab'
+  ab2. ab4 g2
+  d1 eb2
+  ab,2. ab4 bb2
+  eb1 r2
+  R1.*4
+  
+  
+  
+  r2 r c
+  g' g eb
+  ab2. ab4 d,2
+  g1 c,2
+  f2. f4 g2
+  c,1 r2
+  R1.*3
+  
+  
+  r2 r c
+  f f, r
+  r r c'
+  db2. db4 d2
+  eb1 e2
+  f2. bb,4 c2
+  f,1 r2
+  R1.*3
+  
+  
+  r2 r c'
+  f f db
+  c c' r
+  R1.
+  r2 r bb
+  a g f
+  bb bb, r
+  R1.
+  r2 r ab'
+  bb bb bb,
+  bb1 ab2
+  bb2. g4 c2
+  f,1 r2
+  R1.*2
+  
+  r2 r c'
+  g g g 
+  g' g r
+  r r g
+  r g1
+  g eb2
+  f f f 
+  g1 g2
+  ab ab f
+  g f g 
+  c,1 c2
+  c c r
+  c r c
+  c1 r2
+  r r bb
+  c c c 
+  db1 bb2 
+  c bb c
+  f,1 f'2
+  f2. f4 eb2
+  db1 r2
+  r r bb'
+  bb bb ab
+  c bb c
+}

@@ -1,0 +1,121 @@
+\relative c' {
+  \key eb \major
+  \time 3/2
+
+  R1.*4
+  
+  
+  
+  r2 r ab'
+  g2. g4 c2
+  f,1 bb2
+  ab2. bb4 g2
+  f1 r2
+  R1.*3
+  
+  
+  r2 r2 f'
+  (g4 e) c2 c
+  db2. eb4 c2
+  c2. db4 bb2
+  ab1 r2
+  R1.*3
+  
+  
+  r2 r c
+  bb2. bb4 eb2
+  ab,1 g2
+  g2. ab4 f2
+  eb1 r2
+  R1.*5
+  
+  
+  
+  
+  r2 r g'
+  g2. g4 f2
+  f1 eb2
+  eb2. f4 (d c)
+  c1 r2
+  r2 r f
+  e c r
+  R1.*3
+  
+  
+  r2 r c
+  c2. db4 bb2
+  bb1 bb2
+  ab2. bb4 g2
+  f1 r2
+  R1.
+  r2 r2 c'
+  ab f f'
+  e c r
+  R1.
+  r2 r d
+  eb bb db
+  c ab r
+  R1.*2
+  
+  r2 r c
+  ab f f'
+  f f eb 
+  d1 b2
+  c d eb 
+  b1 r2
+  r2 r g
+  f f r
+  eb r eb
+  d1 r2
+  r r d'
+  d d eb
+  f1 f2
+  eb f d
+  c1 r2
+  r r g'
+  r f1
+  e1 f2
+  f f f 
+  e1 e2
+  f f g
+  f g e
+  f1 ab,2
+  g2. g4 c2
+  f,1 r2 
+  r r db'
+  c c c
+  ab2. bb4 g2 \bar "||" \time 4/4
+  f8 r r4 r2
+  R1
+  r2 f
+  f ab
+  g c
+  bb ab
+  g1
+  R1
+  r2 ab
+  f c'
+  bb c
+  f, a
+  bb1 
+  R1*3
+  
+  
+  r2 ab 
+  g c
+  bb ab
+  g1
+  R1*2
+  
+  r2 f
+  ab ab
+  bb bb
+  c c
+  ab c
+  bb ab
+  g f
+  ab g
+  f1 ~
+  f ~
+  f\fermata
+}

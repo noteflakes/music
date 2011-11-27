@@ -1,0 +1,19 @@
+title: Motet BWV 226
+subtitle: "\"Der Geist hilft unser Schwachheit auf\""
+composer: Johann Sebastian Bach
+score:
+  order:
+    - soprano1
+    - alto1
+    - tenore1
+    - basso1
+    - soprano2
+    - alto2
+    - tenore2
+    - basso2
+    - continuo
+  groups:
+    - bracket: [soprano1, alto1, tenore1, basso1]
+    - bracket: [soprano2, alto2, tenore2, basso2]
+  hide_figures: true
+macros:

@@ -8,12 +8,12 @@
   c r f, r
   f' r g r
   ab r d, r
-  eb r b r 
+  eb r b r \break
   c r f, r
   fs r g r
   c r d r
-  e r f r
-  g r a r 
+  e r f r 
+  g r a r \break
   bb r bb, r
   db r d r
   g, r e\fermata r8 c

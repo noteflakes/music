@@ -50,7 +50,7 @@
   f f' f
   e eb eb
   d db db
-  c c, c
+  c c, c \break
   f\fermata \tempo "Un poco Allegro" m{{\tempo 2=130}} r r
   r c'' bb
   ab g f

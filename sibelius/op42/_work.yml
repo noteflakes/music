@@ -1,0 +1,17 @@
+title: Romanze in C
+subtitle: Op. 42
+composer: Jean Sibelius
+parts:
+  # global-staff-size 19
+  basso:
+    auto_beam: true
+score:
+  order:
+    - violino1
+    - violino2
+    - viola
+    - violoncello
+    - basso
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [violoncello, basso]

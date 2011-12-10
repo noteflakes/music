@@ -1,0 +1,73 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+  \tempo "Andante"
+
+  R1
+  r2 <g c,>4.\f\> r6\! e
+  (fs8\< g) (c e\!) g4. \times 2/3 {(fs6\> g fs}
+  e8\!) r <g, c,>2\> r4\!
+  (g2\mp\> g4\!) r
+  (e2\> e4\!) r8 (e'\< ~
+  e4.\mf d8) (d c) (g-- a--)
+  (c4.\> b8 a4\!) r6 (e\p\< f g 
+  a8\> d,\!) r4 r2 \mark \markup { \bold A }
+  (f4\mp\< g ~ g\>) r4\!
+  c2_\cr ~ c4 r4
+  r4 g ~ g_\dm a-_
+  g8--\p f6-_ e-_ f8-- g-- a-- g-- e-- f--
+  e2. e8-- f--
+  e2. e8-- f-- \barlineFermata 
+  r2 \tempo "Un pochettino con moto" r8 (eb4\<_\markup { \italic { \dynamic mf \dynamic p } }^\markup { \italic { sonore } } d8\!)
+  gb-- f-- eb--_\markup { \italic { crescendo un pochettino } } d-- r (c4 d8)
+  eb f gb ab r (a4 gs8)
+  c b a gs r (fs4 gs8) \mark \markup { \bold B }
+  fs6_\markup { \right-align \italic { "poco  " \dynamic f } } fs8 fs fs fs fs fs fs (fs6
+  g6) g8 g8 g8 g_\dm g gb gb gb6 ~
+  gb6 gb8 f\p f f f fb_\dm fb fb6
+  fb6 fb8 fb\pp eb eb6 r2\fermata  \mark \markup { \bold C }
+  e8--\mp e-- fs-- gs-- <b e,>4-- <bs e,>--
+  <cs e,>4.( e,8) <gs e>4 (<gs e>8 a)
+  <gs e>8-- e-- fs-- gs-- e4. (ds8\<
+  e\!) <b' e,>4\< <bs e,> <cs e,> <ds e,>8\!
+  <e a,>--\mf <e a,>-- <e b>-- <e cs>-- <e a,>4 <es a,>
+  (<fs a,>4. a,8) a4 (a8 d)
+  cs8--_\markup { \italic { cresc. poco a poco } } cs-- ds-- e-- (e4.. eb6)
+  eb2..\> r8\!
+  eb8-- eb-- f-- gb-- (gb4.. f6)
+  f2..\> r8\! \mark \markup { \bold D }
+  f,--_\markup { \italic { cresc. molto } } f-- g-- ab-- (ab4. g8)
+  f-- f-- g-- ab-- (ab4. g8)
+  f--\p\< g-- ab-- f-- g-- ab-- f-- g--
+  ab-- f-- g-- ab-- f-- g-- ab8.-- g6--
+  (g2\ff\< g8\!) (f4\> e8\!)
+  (e2\< e8\!) (d4\> c8\!)
+  c4\< (g' ab2\>_\dm) [[\break]]
+  g\! f \mark \markup \center-column { \bold { E } \musicglyph #"scripts.ufermata"  } 
+  r2 r8 (eb4_\markup { \italic { \dynamic mf \dynamic p } } d8)
+  gb8-- f-- eb--_\markup { \italic { cresc. un poco } } d-- r8 (c4 d8)
+  eb8 f8 gb8 ab8 r8 (a4 gs8)
+  c! b! a gs r_\markup { \italic { cresc. molto } } (fs4 g8)
+  a b c d <e a, c,>4..\f\<( ds6\!) \tempo "Tempo I"
+  g!2\ff\> ~ g8\! fs-- [e-- r6 ds]
+  ds8 r e2.\>
+  r8.\! e,6--\< fs-- g-- c-- e-- g4.\ff \times 2/3 {(fs6 g fs}
+  e8) r <g, c,>2\> r4\! \mark \markup { \bold F }
+  g2_\markup { \italic { "poco  " \dynamic f } }\> ~ g4\! r4
+  e2\> ~ e4\! r8 (e'\< ~
+  e4.\! d8) (d c) (g-- a--)
+  (c4.\> b8 a4\!) r6 (e\p\< f g\!
+  a8\> d,\!) r4 r2
+  (f4\mp\< g\> ~ g\!) r4
+  c2_\cr ~ c4 r
+  r4 g_\dm ~ g a \mark \markup { \bold G }
+  g8--\p f6-_ e-_ f8-- g-- a-- g-- e-- f--
+  e2. e8-- f--
+  e2. e8-- f--
+  e1\p ~
+  e ~
+  e
+  e2. r4
+  c2 c2
+  c1\fermata
+}

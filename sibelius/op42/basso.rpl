@@ -1,0 +1,73 @@
+\relative c {
+  \key c \major
+  \time 4/4
+  \tempo "Andante"
+
+  R1
+  r2 e4.\f\> r8\!
+  r2 b4.\> r8\!
+  r4 e,2\> r4\!
+  R1*4
+  
+  
+  
+  r2 (a'8\ppp d,) r4 \mark \markup { \bold A }
+  R1*2
+  
+  r2 r4 f-_\mp
+  e8--\p d6-_ c-_ d8-- e-- f-- e-- c-- d--
+  c2. c8-- d--
+  c2. c8-- d-- \barlineFermata 
+  r2 \tempo "Un pochettino con moto" r8 (eb4\<_\markup { \italic { \dynamic mf \dynamic p } }^\markup { \italic { sonore } } d8\!)
+  gb-- f-- eb--_\markup { \italic { crescendo un pochettino } } d-- r (c4 d8)
+  eb f gb ab r (a4 gs8)
+  c b a gs r (fs4 gs8) \mark \markup { \bold B }
+  a8_\markup { \right-align \italic { "poco  " \dynamic f } } a4 a ab (ab8
+  g) g4 g_\dm gb gb8 ~
+  gb f4 f\p fb_\dm fb8 ~
+  fb fb4\pp eb8 r2\fermata \mark \markup { \bold C }
+  e,8\mp^"pizz." b' e, b' e, b' e, bs'
+  e, cs' e, cs' e, cs' e, c'
+  e, b' e, b' e, b' e, b'
+  e,\< b' e, b' e, cs' e, ds'
+  a\mf e' a, e' a, e' a, es'
+  a, fs' a, fs' a, fs' a, f'
+  a,_\markup { \italic { cresc. poco a poco } } e' a, e' bb eb bb eb
+  cb ab' cb, ab' cb, ab' cb, ab' 
+  cb, ab' cb, ab' c, f c f
+  db bb' db, bb' db, bb' db, bb' \mark \markup { \bold D }
+  d,!_\markup { \italic { cresc. molto } } b'! d, b' d, b' d, b' 
+  d, b' d, b' d, b' d, b' 
+  g,4\p\< g g g
+  g g g g
+  c8\ff g' c, g' c, g' c, g' 
+  c, g' c, g' c, g' c, g' 
+  c, g' c, g' c, g'_\dm c, g' 
+  c, g' c, g' c, g' c, g'  \mark \markup \center-column { \bold { E } \musicglyph #"scripts.ufermata"  } 
+  r8 c,4^"arco"_\markup { \italic { \dynamic mf \dynamic p } }( b8) eb-- d-- c-- b--
+  r (a4_\markup { \italic { cresc. un poco } } b8) c d eb f
+  r (gb4 f8) a gs fs es
+  r (ds4 es8) fs_\markup { \italic { cresc. molto } } gs a b
+  c b a g fs2\f \tempo "Tempo I"
+  r4 b,2\ff\> r4\!
+  r2 e,2\ff\>
+  r2\! r8 b'4\ff\> r8\!
+  r4 e,2\ff\> r4\! \mark \markup { \bold F }
+  R1*4
+  
+  
+  
+  r2 (a'8\ppp d,) r4
+  R1*2
+  
+  r2 r4 f-_\mp \mark \markup { \bold G }
+  e8--\p d6-_ c-_ d8-- e-- f-- e-- c-- d--
+  c2. c8-- d--
+  c2. c8-- d--
+  c1\p ~
+  c ~
+  (c2 b)
+  c2. r4
+  c2\pp c
+  c1\fermata
+}

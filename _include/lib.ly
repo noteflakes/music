@@ -9,6 +9,10 @@
 
 #(ly:set-option 'point-and-click #f)
 
+cr = \markup { \italic { cresc. } }
+
+dm = \markup { \italic { dim. } }
+
 ficta = {
   \once \override AccidentalSuggestion #'avoid-slur = #'outside
   \once \set suggestAccidentals = ##t

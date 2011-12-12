@@ -7,6 +7,8 @@ require 'httparty'
 require 'open-uri'
 require 'pp'
 
+HARVESTER_DIR = "/Volumes/SCHATZ EXT/digibach"
+
 def open_url(url)
   r = HTTParty.get(url, :timeout => 60)
   r.body
@@ -137,12 +139,10 @@ class Harvester
             end
           end
           
-          puts "label: #{label}"
           if href !~ /^http/
             href = "%s/%s?mode=getImage&XSL.MCR.Module-iview.navi.zoom=1" %
               [dfg_links[doc_counter].gsub(/\?.+$/, '').gsub('MCRMETSServlet', 'MCRIViewServlet'), href]
           end
-          puts "href: #{href}"
           
           
           if (File.basename(href) != File.basename(last_href))
@@ -252,17 +252,22 @@ class Harvester
     bwvs = entry.map {|i| i['BWV']}.uniq
     if bwvs.size > 1
       range = "%s-%s" % [format_bwv_dir_name(bwvs[0]).safe_dir, format_bwv_dir_name(bwvs[-1]).safe_dir]
-      work = range
-      work_dir = range
+      work = File.join(HARVESTER_DIR, range)
       href = entry[0]['href']
     else
       entry = entry[0]
       work = format_bwv_dir_name(entry['BWV'])
       href = entry['href']
-      work_dir = work.safe_dir
+      work_dir = File.join(HARVESTER_DIR, work.safe_dir)
     end
-
-    FileUtils.mkdir(work_dir) rescue nil
+    
+    begin
+      FileUtils.mkdir(work_dir)
+    rescue RuntimeError => e
+      puts e.class
+      puts e.message
+      exit
+    end
     #Dir.chdir(work_dir) do
     unless already_processed?(href, work_dir)
       m = new(work, href, bwvs, work_dir)

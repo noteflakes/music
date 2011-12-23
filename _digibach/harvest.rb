@@ -261,13 +261,8 @@ class Harvester
       work_dir = File.join(HARVESTER_DIR, work.safe_dir)
     end
     
-    begin
-      FileUtils.mkdir(work_dir)
-    rescue RuntimeError => e
-      puts e.class
-      puts e.message
-      exit
-    end
+    FileUtils.mkdir(work_dir) rescue nil
+
     #Dir.chdir(work_dir) do
     unless already_processed?(href, work_dir)
       m = new(work, href, bwvs, work_dir)

@@ -1,0 +1,15 @@
+\relative c {
+  \key f \minor
+  \time 4/4 \partial 4
+    f4
+  bb [ab8 bb] c4 c
+  c c c\fermata ([c8 bb])
+  ([ab bb]) ([c db]) eb4 eb
+  f c db\fermata c
+  c c e, f
+  e2\fermata r4 ([ab8 bb])
+  c4 cb ([bb8 ab]) ([gb f])
+  eb4 eb' db\fermata eb
+  db d ([g,8 ab]) bb4
+  ([c8 d!]) ([g, bb]) a4\fermata
+}

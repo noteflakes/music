@@ -1,0 +1,22 @@
+title: Choral BWV 47/6
+subtitle: "\"Warum betrübst du dich, mein Herz?\""
+composer: Johann Sebastian Bach
+parts:
+  soprano:
+    lyrics: lyrics.lyr
+  alto:
+    lyrics: lyrics.lyr
+  tenore:
+    lyrics: lyrics.lyr
+  basso:
+    lyrics: lyrics.lyr
+score:
+  order:
+    - soprano
+    - alto
+    - tenore
+    - basso
+  groups:
+    - bracket: [soprano, alto, tenore, basso]
+  hide_figures: true
+macros:

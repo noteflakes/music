@@ -1,0 +1,5 @@
+\relative c {
+  \key c \major
+  \time 2/2
+
+}

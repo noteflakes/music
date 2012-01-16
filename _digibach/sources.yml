@@ -1642,6 +1642,11 @@
 - work_id: 304
   work: Bach-Werke-Verzeichnis BWV 244 Bach-Compendium BC D 3b
   BWV: "244"
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000842
+  name: D B Mus. ms. Bach P 25
+- work_id: 304
+  work: Bach-Werke-Verzeichnis BWV 244 Bach-Compendium BC D 3b
+  BWV: "244"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00002445
   name: D B Mus. ms. Bach St 110, Faszikel 1
 - work_id: 304
@@ -1669,6 +1674,11 @@
   BWV: "245"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00019070
   name: D B N. Mus. SA 2, Faszikel 1
+- work_id: 308
+  work: Bach-Werke-Verzeichnis BWV 245 Bach-Compendium BC D 2b
+  BWV: "245"
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000842
+  name: D B Mus. ms. Bach P 25
 - work_id: 308
   work: Bach-Werke-Verzeichnis BWV 245 Bach-Compendium BC D 2b
   BWV: "245"
@@ -1978,12 +1988,12 @@
   work: Bach-Werke-Verzeichnis BWV 531
   BWV: "531"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
+  name: D B Mus. ms. 40644 [Moellersche Handschrift]
 - work_id: 603
   work: Bach-Werke-Verzeichnis BWV 531
   BWV: "531"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: D B Mus. ms. 40644 [Moellersche Handschrift]
+  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
 - work_id: 603
   work: Bach-Werke-Verzeichnis BWV 531
   BWV: "531"
@@ -1993,12 +2003,12 @@
   work: Bach-Werke-Verzeichnis BWV 535a
   BWV: 535a
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
+  name: D B Mus. ms. 40644 [Moellersche Handschrift]
 - work_id: 610
   work: Bach-Werke-Verzeichnis BWV 535a
   BWV: 535a
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: D B Mus. ms. 40644 [Moellersche Handschrift]
+  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
 - work_id: 617
   work: Bach-Werke-Verzeichnis BWV 541
   BWV: "541"
@@ -2663,22 +2673,22 @@
   work: Bach-Werke-Verzeichnis BWV 832
   BWV: "832"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
+  name: D B Mus. ms. 40644 [Moellersche Handschrift]
 - work_id: 971
   work: Bach-Werke-Verzeichnis BWV 832
   BWV: "832"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: D B Mus. ms. 40644 [Moellersche Handschrift]
-- work_id: 972
-  work: Bach-Werke-Verzeichnis BWV 833
-  BWV: "833"
-  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
   name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
 - work_id: 972
   work: Bach-Werke-Verzeichnis BWV 833
   BWV: "833"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
   name: D B Mus. ms. 40644 [Moellersche Handschrift]
+- work_id: 972
+  work: Bach-Werke-Verzeichnis BWV 833
+  BWV: "833"
+  href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
+  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
 - work_id: 980
   work: Bach-Werke-Verzeichnis BWV 841
   BWV: "841"
@@ -2978,12 +2988,12 @@
   work: Bach-Werke-Verzeichnis BWV 967
   BWV: "967"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
+  name: D B Mus. ms. 40644 [Moellersche Handschrift]
 - work_id: 1144
   work: Bach-Werke-Verzeichnis BWV 967
   BWV: "967"
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000724
-  name: D B Mus. ms. 40644 [Moellersche Handschrift]
+  name: "D B Mus. ms. 40644 [M\xC3\xB6llersche Handschrift]"
 - work_id: 1166
   work: Bach-Werke-Verzeichnis BWV 988
   BWV: "988"
@@ -3350,12 +3360,12 @@
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00000830
   name: D B Mus. ms. Bach P 13, Faszikel 6
 - work_id: 1332
-  work: Bach-Werke-Verzeichnis BWV Anh. 24 / Anh. III 167-&gt;
+  work: Bach-Werke-Verzeichnis BWV Anh. 24 / Anh. III 167-&gt; Bachs Notenbibliothek BNB I/P/6
   BWV: Anh. 24
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00002531
   name: D B Mus. ms. Bach St 327
 - work_id: 1332
-  work: Bach-Werke-Verzeichnis BWV Anh. 24 / Anh. III 167-&gt; Bachs Notenbibliothek BNB I/P/6
+  work: Bach-Werke-Verzeichnis BWV Anh. 24 / Anh. III 167-&gt;
   BWV: Anh. 24
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00002531
   name: D B Mus. ms. Bach St 327
@@ -3490,12 +3500,12 @@
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00001136
   name: D B Mus. ms. Bach P 225 [2. Notenbuechlein der A. M. Bach, 1725]
 - work_id: 1499
-  work: Bach-Werke-Verzeichnis BWV Anh. 188 Falck-Verzeichnis F 10
+  work: Bach-Repertorium Wilhelm Friedemann Bach BR WFB A 12 Falck-Verzeichnis Fk 10 Bach-Werke-Verzeichnis BWV Anh. 188
   BWV: Anh. 188
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00002521
   name: D B Mus. ms. Bach St 176
 - work_id: 1499
-  work: Bach-Repertorium Wilhelm Friedemann Bach BR WFB A 12 Falck-Verzeichnis Fk 10 Bach-Werke-Verzeichnis BWV Anh. 188
+  work: Bach-Werke-Verzeichnis BWV Anh. 188 Falck-Verzeichnis F 10
   BWV: Anh. 188
   href: http://www.bach-digital.de/receive/BachDigitalSource_source_00002521
   name: D B Mus. ms. Bach St 176

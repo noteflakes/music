@@ -2,6 +2,14 @@ title: Cantata BWV 155
 subtitle: "\"Mein Gott, wie lang', ach lange?\""
 composer: "Johann Sebastian Bach"
 parts:
+  violino2:
+    breaks:
+  fagotto:
+    transpose: d f
+  continuo:
+    breaks:
+      - 03-recitativo
+      - 04-aria
   ira:
     desc: composite part for performance without fagotto
     no_score: true

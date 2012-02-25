@@ -5,25 +5,37 @@ parts:
   continuo:
     embed_figures: true
     breaks:
-      - 02-recitativo
+      # - 02-recitativo
       - 03-aria
       - 04-recitativo
+      - 05-aria
+      - 06-choral
+  fagotto:
+    hide_figures: true
+    transpose: g bb
+    breaks:
+      - 04-recitativo
+      - 05-aria
       - 06-choral
   violoncello:
     source: continuo
     hide_figures: true
     breaks:
-      - 03-aria
-      - 05-aria
+      - 02-recitativo
+      - 04-recitativo
+      # - 05-aria
   viola:
     breaks:
-      - 04-recitativo
+      # - 04-recitativo
   violino2:
     breaks:
       - 02-recitativo
+      - 05-aria
   violino1:
     breaks:
       - 04-recitativo
+      - 05-aria
+      - 05-aria
 movements:
   03-aria:
     midi_tempo: 80 4

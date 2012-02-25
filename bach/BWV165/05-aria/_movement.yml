@@ -1,4 +1,6 @@
 parts:
+  fagotto:
+    source: continuo
   violino1:
     source: violini
   violino2:

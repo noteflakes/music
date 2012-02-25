@@ -1,6 +1,6 @@
 end_bar: ||
 parts:
-  ira:
+  violoncello:
     source: continuo
   organo:
     source: continuo

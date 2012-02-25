@@ -1,12 +1,29 @@
-title: "Cantata BWV 150 Nach dir, Herr, verlanget mich"
+title: Cantata BWV 150
+subtitle: "\"Nach dir, Herr, verlanget mich\""
 composer: Johann Sebastian Bach
 parts:
+  violino1:
+    breaks:
+      - 03-arie
+      - 06-chor
+  violino2:
+    breaks:
+      - 03-arie
+      - 06-chor
   violoncello:
     desc: composite part for performance without fagotto
     no_score: true
   organo:
     desc: composite part for performance without fagotto
     no_score: true
+  continuo:
+    breaks:
+      - 04-chor
+      - 06-chor
+  fagotto:
+    breaks:
+      - 04-chor
+      - 07-chor
 score:
   order:
     - violino1

@@ -1,0 +1,54 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+  
+  c4. d8 eb e f fs
+  g2 ab4 ~ ab6 f db c
+  b!4 r r g' ~
+  g fs2 f4 ~
+  f e2 eb4 ~
+  eb d ~ d8 cs bb a
+  d4 r r g ~
+  g f e2 \bar "||"
+  d4. e8 f fs g gs 
+  a2 bb4 ~ bb6 g eb d
+  cs4 r r a' ~
+  a gs2 g4 ~
+  g fs2 f4 ~
+  f e ~ e8 ds c b 
+  e4 r r a ~
+  a g fs2 \bar "||"
+  e4. fs8 g gs a as
+  b2 c4 ~ c6 a f e
+  ds4 r r b' ~
+  b as2 a4 ~
+  a gs2 g4 ~
+  g fs ~ fs8 es d cs
+  fs4 r r b ~
+  b a gs2 \bar "||"
+  fs4. gs8 a as b bs
+  cs2 d4 ~ d6 b g fs
+  es4 r r cs' ~
+  cs bs2 b4 ~
+  b as2 a4 ~
+  a gs ~ gs8 g e ds
+  gs4 r r cs ~
+  cs b as2 \bar "||"
+  gs4. as8 b bs cs d 
+  ds2 e4 ~ e6 cs a gs
+  g4 r r eb' ~
+  eb d2 db4 ~
+  db c2 cb4 ~
+  cb bb ~ bb8 a gb f
+  bb4 r r eb ~
+  eb db c2 \bar "||"
+  bb4. c8 db d eb e
+  f2 gb4 ~ gb6 eb cb bb
+  a4 r r f' ~
+  f e2 eb4 ~
+  eb d2 db4 ~
+  db c ~ c8 b ab g
+  c4 r r f ~
+  f eb d2
+  c1\fermata
+}

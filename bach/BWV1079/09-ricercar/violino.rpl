@@ -1,0 +1,110 @@
+\relative c' {
+  \key c \minor
+  \time 4/2
+
+  R\breve*4
+  
+  
+  
+  g'2 bb c eb
+  fs, r4 d' cs2 c
+  b bb2. a4 ab g
+  fs d g c bb2 a
+  g 4 ab8 g6 f g4 c bb eb c f ~
+  f eb8 d eb2. d4 a b
+  c g r c8 bb a g f4 r ab
+  g4. g8 eb d c b c4 c' f,2 ~
+  f4 eb r bb' eb d8 c b4 c
+  d2. e8 f e4 fs g a
+  d,2. eb8 d c1 ~
+  c4 fs, g a bb8 a g2 fs4
+  g2 r r4 f f'2 ~
+  f4 eb2 d8 c d2. eb8 d
+  c2 r8 c bb ab g4 c2 d4 ~
+  d g8 f eb d c bb a4 b8 c d2 ~
+  d4 c8 b c2 ~ c8 bb ab2 f4
+  g r r c8 b c2. bb8 ab
+  g4 f8 g ab4 g8 ab bb1
+  ab g4. b8 c2 ~
+  c bb! ~ bb2. a8 g 
+  a2. g8 fs g2. fs8 e
+  fs4 d g2 ~ g4 a8 g fs4 g
+  a2 ~ a8 g4 fs8 g2 a
+  d, r r c' ~
+  c bb1 a4 g
+  f1 ~ f2 eb4 f8 g
+  f2 bb ~ bb4 b c2
+  d1 ~ d2 c ~
+  c bb4 ab g1 ~
+  g4 f f'1 eb4 db
+  c1 bb
+  c2. d8 eb f2 eb ~
+  eb f8 g f8 eb d2 eb ~
+  eb d eb r
+  r1 r2 eb ~
+  eb4 d db2. c4 cb2
+  bb2. eb4 ~ eb d8 c bb2
+  c2. bb8 c db2 c4 db8 eb
+  f2. eb8 f gb2 f ~
+  f2. eb8 d c2 r
+  c eb g4 d g2 ~
+  g4 f2 g8 f eb4 eb2 f8 eb
+  d4 g4. f8 eb d c4 f bb, c ~
+  c d8 c bb4 g e'2 r4 a, ~
+  a g8 fs g4 r r1
+  r4 a bb g8 a bb c d4 ~ d2 ~
+  d4 g, eb'2 ~ eb8 d c b c4 d
+  g,4. bb!8 ab g f e f g ab2 g4
+  f4 r r2 r1
+  r2 r4 bb c2. d4
+  eb bb eb2 d db ~ 
+  db4 c8 db eb g ab4 ~ ab8 g f e f4 g
+  c,2 r r4 c2 bb8 ab
+  g ab bb4 ~ bb8 g' f e f g ab2 g4 ~
+  g f4. eb8 db c db1
+  c ~ c4 db2 c4 ~
+  c c ab f ab2 r
+  r4 bb g eb gb2 eb ~
+  eb r4 c' ~ c8 f, g a bb c db bb
+  eb1 ~ eb8 ab, bb c db eb f db
+  bb4. c8 db c bb4 ab eb'8 db eb4 ab ~
+  ab8 c bb ab g f eb d c gb' f eb d c bb c
+  db fb eb db c bb ab bb cb db cb bb ab gb f gb
+  ab cb bb ab g! f eb d eb4 eb'2 d8 c
+  db2. c8 bb cb2. bb8 a
+  bb2. a4 f'2. ab,4
+  gb2. eb'4 ~ eb c f,2 ~
+  f4 f'2 e4
+  eb d db2
+  c2 ~ c8 c bb a bb2 r4 r8 c
+  f,2 ~ f8 e4 f8 g f e f gb2
+  f2 ~ f8 f eb f gb ab gb f eb f gb eb
+  f4 r r2 r8 c db eb f ab g f 
+  c'1 r
+  r8 c d e f1 eb4 db
+  c1 ~ c4 c bb2 ~
+  bb ab db1
+  eb2. d4 eb1 ~
+  eb4 eb2 db8 c bb4 r r2
+  R\breve*2
+  
+  g2 b c eb
+  fs, r4 d' cs2 c
+  b bb2. a4 ab g
+  fs d g c bb2 a
+  g4 d' bb eb a, b8 c d2
+  g,4 a8 b c2 b bb
+  a ab4 g g2 f4 g8 a
+  bb2 f c' r4 bb ~
+  bb ab8 bb c4 db8 c bb2. f4
+  e c'2 bb8 ab g4 c f, g8 a
+  bb2 r r4 d,2 g8 ab
+  bb4 ab2 g4 ~ g c2 d8 c
+  b4 c r ab8 bb c2 ~ c8 d c b
+  c4 f, g r r2 r4 ab
+  g d'2 c8 b c2. f4
+  g bb,2 bb4 a ab2 ab4
+  g2. ab4 g2 g
+  g\breve
+  
+}

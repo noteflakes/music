@@ -1,0 +1,108 @@
+\relative c' {
+  \key c \minor
+  \time 4/2
+
+  R\breve*18
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  c'2 eb g ab
+  b, r4 g' fs2 f
+  e eb2. d4 db c
+  b g c f eb2 d
+  c2. bb8 c d4 c8 d eb4 d
+  c d8 eb d c b c b d g2 f8 eb
+  d1 ~ d2 c ~
+  c bb1 a2 ~
+  a4 g8 fs g4 a8 bb c1 ~
+  c4 d8 c bb4 a bb2 c ~
+  c4 bb g'1 f4 eb
+  d1 ~ d4 db c2 ~
+  c bb4 ab g2. a8 bb
+  c4 bb8 c d4 c8 d eb1
+  f eb ~
+  eb2 d1 c4 bb
+  ab2 ab'1 g2 ~
+  g f4 eb d c8 d eb2 ~
+  eb4 f8 g ab1 g2
+  c1 f,4 bb2 ab8 g
+  f4 g ab2. g4 r2
+  r\breve
+  r2 bb2. ab4 ab2 ~
+  ab4 g gb2 f2. bb4
+  e,2 f g a
+  bb1 ~ bb2 a2
+  bb4 f bb2. ab!2 bb8 ab
+  g2 r r1
+  r r4 g c2 ~
+  c4 bb2 c8 bb a4 ab2 g4
+  a bb8 a g2. a8 g fs4 a
+  d,2. cs8 d e2. fs8 g
+  a4 g8 fs g1 fs2
+  g g fs f ~
+  f4 e8 d e g ab4 ~ ab8 g f e f4 g
+  c, f8 eb! db c bb a bb c db2 c4
+  f,4 r r2 r1
+  r2 eb' f2. g4 
+  ab eb c'2 b bb ~ 
+  bb4 ab ~ ab8 g f e f1
+  r2 r4 ab ~ ab8 g f e f4 g
+  c,1 ~ c4 bb8 c bb ab g ab 
+  g2 r4 g' ~ g f2 e4
+  f2 f d bb
+  r eb c ab
+  R\breve*2
+  
+  eb'2 g ab c
+  d, r4 bb' a2 ab
+  g gb2. f4 fb eb
+  d bb eb ab g2 f
+  eb4 g bb eb, ab f db eb8 f
+  gb4 eb c2 ~ c8 eb db c bb2 ~
+  bb4 eb8 db c4 bb a8 g a bb c db eb c
+  db eb db c bb c db bb c2. bb4
+  c8 gb' f eb db2 ~ db8 eb db c db bb f'4 ~
+  f8 eb d! c bb2 ~ bb r8 eb f gb
+  c, eb db c bb4 a bb2 r
+  r\breve
+  r1 r8 d e f g ab bb g 
+  ab1 ~ ab4 ab g2 ~
+  g f4 eb db1 ~
+  db2 c f g
+  ab1 ~ ab2 g
+  ab4 r r2 r4 g2 f8 eb
+  d2 e f8 g ab f d ab' g f 
+  eb2 ~ eb8 d c b c bb ab g ab2
+  g r r4 c ~ c8 bb a g
+  d'2 ~ d8 c bb a g4 r r2
+  r\breve
+  r8 eb' d c bb a g fs g4 g'2 fs4
+  g r r2 r1
+  r\breve
+  r4 f d g c, d8 e f2 ~ 
+  f4 eb!8 f bb,4 c8 d (eb4 f6 eb d eb f4 g6 f eb f)
+  g4 r r2 r1
+  r2 r4 db ~ db c8 bb a4 f' ~
+  f d! bb eb a, b8 c d4 db ~
+  db c2 bb4 ~ bb ab8 g ab4 f'
+  d g c, d8 e f2. eb8 d 
+  eb4 b c r r eb c f ~
+  f g8 f eb2. eb4 d2 ~
+  d4 db c2. c4 b c
+  d! b c1 b2
+  c\breve
+}

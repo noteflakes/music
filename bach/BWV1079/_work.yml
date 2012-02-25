@@ -1,0 +1,16 @@
+title: Musikalisches Opfer BWV 1079
+composer: Johann Sebastian Bach
+parts:
+  cembalo:
+    keyboard: true
+  violino:
+    breaks:
+      - 09-ricercar
+score:
+  hide_figures: false
+  order:
+    - flauto
+    - violino
+    - cembalo
+    - gamba
+    - continuo

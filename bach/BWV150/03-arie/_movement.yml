@@ -3,3 +3,6 @@ parts:
     source: continuo
   organo:
     source: continuo
+  fagotto:
+    transpose: b d'
+    source: continuo

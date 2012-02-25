@@ -3,7 +3,7 @@
   \time 4/4
 
   r4 d'4. fis8 e d
-  cis2 ~ c8 fis, b4 ~
+  cis2 ~ cis8 fis, b4 ~
   b ais b8 cis d e
   fis4 fis4. b,8 e4 ~
   e8 d cis b cis e d cis

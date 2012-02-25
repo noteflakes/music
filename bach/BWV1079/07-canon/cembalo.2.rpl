@@ -1,0 +1,54 @@
+\relative c {
+  \key c \major
+  \time 4/4
+ 
+  r6 c eb g c2 bb8 a
+  bb4 ~ bb6 e, d e f c f g ab4 ~
+  ab8 ab g f eb4 ~ eb6 f eb d 
+  c8 cs d4 r8 eb d c
+  b c6 b c d c bb a g a bb c a bb c 
+  d8 c'4 bb6 a bb8 g e a6 g 
+  fs8 g6 a bb8 cs, d4 r
+  r8 d ~ d6 f e d cs d e f g bb a g \bar "||"
+  f d f a d2 c8 b
+  c4 ~ c6 fs, e fs g d g a bb4 ~
+  bb8 bb a g f4 ~ f6 g f e 
+  d8 ds e4 r8 f e d 
+  cs8 d6 cs d e d c b a b c d b c d
+  e8 d'4 c6 b c8 a fs b6 a 
+  gs8 a6 b c8 ds, e4 r
+  r8 e ~ e6 g fs e ds e fs g a c b a \bar "||"
+  g e g b e2 d8 cs
+  d4 ~ d6 gs, fs gs a e a b c4 ~
+  c8 c b a g4 ~ g6 a g fs
+  e8 es fs4 r8 g fs e
+  ds e6 ds e fs e d cs b cs d e cs d e
+  fs8 e'4 d6 cs d8 b gs cs6 b
+  as8 b6 cs d8 es, fs4 r
+  r8 fs ~ fs6 a gs fs es fs gs a b d cs b \bar "||"
+  a fs a cs fs2 e8 ds
+  e4 ~ e6 as, gs as b fs b cs d4 ~
+  d8 d cs b a4 ~ a6 b a gs
+  fs8 g gs4 r8 a gs fs
+  es fs6 es fs gs fs e ds cs ds e fs ds e fs
+  gs8 fs'4 e6 ds e8 cs as ds6 cs
+  bs8 cs6 ds e8 g,! gs4 r
+  r8 gs ~ gs6 b as gs g gs as b cs e ds cs \bar "||" \clef treble
+  cb ab cb eb ab2 gb8 f
+  gb4 ~ gb6 c, bb c db ab db eb fb4 ~
+  fb8 fb eb db cb4 ~ cb6 db cb bb
+  ab8 a bb4 r8 \clef bass cb bb ab 
+  g ab6 g ab bb ab gb f eb f gb ab f gb ab \clef treble
+  bb8 ab'4 gb6 f gb8 eb c f6 eb
+  d8 eb6 f gb8 a, bb4 r
+  r8 bb ~ bb6 db c bb a bb c db eb gb f eb \bar "||"
+  db bb db f bb2 ab8 g
+  ab4 ~ ab6 d, c d eb bb eb f gb4 ~
+  gb8 gb f eb db4 ~ db6 eb db c
+  bb8 b c4 r8 db c bb
+  a bb6 a bb c bb ab g f g ab bb g ab bb
+  c8 bb'4 ab6 g ab8 f d g6 f
+  e8 f6 g ab8 b, c4 r
+  r8 c ~ c6 eb d c b c d eb f ab g f 
+  eb1\fermata
+}

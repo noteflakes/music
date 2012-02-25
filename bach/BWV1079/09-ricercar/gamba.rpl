@@ -1,0 +1,110 @@
+\relative c' {
+  \key c \minor
+  \clef tenor
+  \time 4/2
+
+  R\breve*12
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  g2 bb c eb
+  fs, r4 d' cs2 c
+  b bb2. a4 ab g
+  fs d g c bb2 a
+  g4 c2 bb4 a d2 c4
+  b c8 d c2. b8 a b2
+  c4 (d8 c6 b) c2 ~ c4 eb c f ~
+  f eb8 d eb2. d4 a b
+  c g c2 ~ c4 d8 eb f4 ab,
+  g2. f4 g c d e8 f
+  e4 d8 e f2 ~ f4 eb8 f g4. f8
+  eb c b c d2 g,1 ~
+  g ~ g4 a8 bb c4 eb
+  d1 e4 eb2 d8 c
+  d4 b g2 ~ g4 fs r2
+  r r4 a ~ a g2 fs4
+  g d eb2. e4 f2 ~
+  f4 fs g2. g4 ab2 ~
+  ab4 a bb2. b4 c bb
+  a2 bb4 ab g2 ab4 g
+  f eb8 f g2 ~ g4 g ab2 ~
+  ab4 a bb2. b4 c2 ~
+  c4 c d2. d4 eb2 ~
+  eb4 eb f2 ~ f eb4 d
+  c1 bb
+  ab ~ ab2 g4 ab
+  bb1 r2 eb ~ 
+  eb4 d db2. c4 cb2
+  bb2. eb4 ab,2. f4
+  bb1 ~ bb4 c db2
+  c2. db8 c bb2 c
+  bb1 c
+  bb2 r r4 c f2 ~ 
+  f4 eb2 d8 c d2. eb8 db
+  c4. b8 c4 d! eb r r2
+  bb2 d eb4 r r g,
+  d' a bb2 ~ bb a4 g8 fs
+  g2 ~ g8 fs g bb e,2 r
+  r4 a d, g ~ g8 a bb g d'2 
+  r r4 g, a2. b4
+  c g c2 b bb ~
+  bb4 a8 g a c db4 ~ db8 c bb a bb4 c ~
+  c bb8 ab gb f eb d eb f gb2 f4
+  eb1 ~ eb2. bb4
+  c ab ab' r r2 r4 c ~
+  c8 bb c db c bb ab g ab2. g8 f
+  c'2 ~ c4 f,8 g ab4 r r r8 g
+  a bb c2 f4 ~ f bb, r2
+  r4 g' ab g c,4. bb6 ab bb2 ~
+  bb4 ab r2 r1
+  r\breve
+  r8 g a bb c db eb c db1 ~
+  db4 c8 bb ab4 r r1
+  R\breve*7
+  
+  
+  
+  
+  
+  
+  bb2 db f gb
+  a, r4 f' e2 eb
+  d db2. c4 cb bb
+  a f bb eb db2 c
+  bb c ~ c2. bb4
+  ab g8 f g2. f2 e4
+  f c db2 ~ db8 d c d eb2 ~
+  eb8 e d e f2 ~ f8 f e f g2 ~
+  g8 g f g ab2 ~ ab g4 ab8 bb
+  eb,2 ab, eb'1 ~
+  eb2 r eb g
+  bb8 c db bb g db' c bb
+  c4 f2 eb8 d 
+  c4. bb8 ab4 f' c2 ~ c8 eb d c
+  b c d eb f g ab f g4 r r2
+  r1 r2 r8 g fs e 
+  d c b a g4 bb c2 ~ c8 fs, g a 
+  bb4 a g a bb r r d
+  d r r bb c d8 eb d c d4 ~
+  d c r2 r2 r4 g
+  a2 b c2. bb8 c
+  f,4 g8 a bb2 a ab
+  g4 r r2 r1
+  r4 c ab db g, ab8 bb c2
+  bb2. c8 d! eb4 d r bb ~
+  bb f' r db c2 r4 d ~ 
+  d c8 b c2 ~ c r
+  r r4 eb d g2 f4
+  g r r2 r4 c, d a
+  b g2 c4 f, ab!2 eb4
+  g f eb d eb8 f g2.
+  g\breve
+}

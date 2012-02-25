@@ -252,14 +252,16 @@ class Harvester
     bwvs = entry.map {|i| i['BWV']}.uniq
     if bwvs.size > 1
       range = "%s-%s" % [format_bwv_dir_name(bwvs[0]).safe_dir, format_bwv_dir_name(bwvs[-1]).safe_dir]
-      work = File.join(HARVESTER_DIR, range)
+      work_dir = File.join(HARVESTER_DIR, range)
       href = entry[0]['href']
     else
       entry = entry[0]
       work = format_bwv_dir_name(entry['BWV'])
-      href = entry['href']
       work_dir = File.join(HARVESTER_DIR, work.safe_dir)
+      href = entry['href']
     end
+    
+    puts "work_dir: #{work_dir}"
     
     FileUtils.mkdir(work_dir) rescue nil
 

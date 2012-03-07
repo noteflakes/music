@@ -54,7 +54,7 @@
   g b d g d b8 f
   e4 cis' e g e cis8 e,
   d4 d' a bes' a g 
-  f a g d d,2
+  f a f d d,2
   e1 e2
   f1 f2
   g a a

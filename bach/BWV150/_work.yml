@@ -18,8 +18,10 @@ parts:
     no_score: true
   continuo:
     breaks:
+      - 03-arie
       - 04-chor
-      - 06-chor
+      - 05-arie
+      - 07-chor
   fagotto:
     breaks:
       - 04-chor

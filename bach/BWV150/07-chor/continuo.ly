@@ -73,7 +73,7 @@
   b1 b2
   cis1 cis2
   d1 d2
-  e fis fis,
+  e fis fis, [[\pageBreak]]
   b1 b2
   cis1 cis2
   d1 d2

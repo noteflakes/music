@@ -1,0 +1,275 @@
+\relative c' {
+  \key c \major
+  \time 3/4 \set Score.currentBarNumber = #82
+
+  g'2\ff g4\sf
+  g2 g4\sf
+  ([g8` a bb]) g4-. d
+  g2. ~
+  g ~
+  g4 g-. g-.
+  fs2 g4\sf
+  fs2 g4\sf
+  fs4-. fs-. e-.
+  fs4 r r
+  R2.
+  r4 b-. a-.
+  g2. ~
+  g 
+  d4-. g-. g-.
+  g2. ~
+  g 
+  d4-. f'-. eb-.
+  c-. d-. eb-.
+  cs-. d-. e!-.
+  (f g f)
+  (g e fs)
+  g-. r g,\sf ~
+  g r g\sf ~
+  g r gs\sf ~
+  gs gs2
+  d2.\fp ~
+  d ~
+  d ~
+  d 
+  R2.*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  a'2.\p\< ~
+  a
+  d4-.\!\f r g,-.\sf
+  d-. r g-.\sf
+  d-. r r 
+  r r d-.\f
+  g2 g4\sf
+  g2 g4\sf
+  ([g8` a bb]) g4-. d4-.
+  g2. ~
+  g ~
+  g4 g-. g-.
+  fs2 g4\sf
+  fs2 g4\sf
+  fs4-. fs-. e-.
+  fs r r 
+  R2.
+  r4 b-. a-.
+  g2. ~
+  g
+  d4-. g-. g-.
+  g2. ~
+  g 
+  d4-. f'-. eb-.
+  c-. d-. eb-.
+  cs-. d-. e!-.
+  (f g f)
+  (g e fs)
+  g4-. r g,\sf ~
+  g2 gs4\sf ~
+  gs2 gs4\sf ~
+  gs2 gs4\sf ~
+  gs2 a4\sf ~
+  a2 bb4\sf ~
+  bb2 bb4\sf ~
+  bb bb-. eb-.
+  bb-. r b\ff ~
+  b2 b4\ff ~
+  b r r
+  R2.*4
+  
+  
+  
+  b2\f b4 ~
+  b b2
+  b4-. r r
+  r r d\ff ~
+  d2 eb4\ff ~
+  eb r r 
+  R2.*7
+  
+  
+  
+  
+  
+  
+  g,2.\ff ~
+  g ~
+  g4 r r
+  R2.
+  g4-. g-. a-.
+  d-. d,-. r
+  a'2.\ff ~
+  a ~
+  a2 a4-.
+  R2.
+  d2 d4 ~
+  d d-. d,-.
+  g2 g4 ~
+  g g-. g-.
+  g2.\ff ~
+  g8-. r r4 r
+  ab2. ~
+  ab8-. r r4 r
+  b2. ~
+  b ~
+  b ~
+  b ~
+  b8-. r r4 r
+  a2.
+  a
+  d,
+  g2. ~
+  g ~
+  g ~
+  g ~ \bar "||" \time 4/2
+  g4 r r2 r1
+  R\breve*15
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  g2-.\f g-. r1
+  R\breve
+  g2-. d-. r1
+  R\breve
+  d'2-. a-. r1
+  R\breve*2
+  
+  r1 r2 (a
+  bb1 b)
+  (e, f)
+  (b! a4) r d,2\p
+  d\breve
+  d
+  g,
+  f'2 r r1
+  R\breve*5
+  
+  
+  
+  
+  d'2.\f r4 r1
+  r1 r2 a
+  d, d g g
+  g, g r d'\f
+  g1 fs2 d
+  e1 c2 d
+  g d r a'
+  b a r g
+  g d r g
+  g d r c'
+  c1 c
+  c r2 c
+  a1. a2
+  g2. r4 r1
+  R\breve*2
+  
+  r1 r2 b-.
+  cs-. fs,-. r1
+  r1 r2 b-.
+  cs-. cs-. r a
+  c!1 c
+  (fs,2 g b bb)
+  a r r1
+  R\breve*5
+  
+  
+  
+  
+  fs'1\f e2 cs
+  d1 b2 r
+  cs1 b2 g
+  a1 fs2 gs
+  e a c d
+  b g c, e
+  fs d r g,
+  a cs d fs
+  gs b c! c
+  b b c c
+  d1 c ~
+  c b ~
+  b a ~
+  a g2 b
+  c e fs a,
+  b ds e g,
+  bb1 g
+  a\breve\ff ~
+  a1\> ~ a\!\p
+  d,\breve(
+  g,) ~
+  g ~
+  (g
+  d'2) r r1
+  R\breve*2
+  
+  r1 r2 (a' 
+  b1.)\cresc (g2
+  c1.) (a2
+  d1.) (b2
+  d1 c)
+  (c2\< b) (a g\!)
+  g2-.\f r d1\fz ~
+  d g,\fz ~
+  g c\fz ~
+  c f\fz ~
+  f2 fs r4 d-| e-| fs-|
+  g,2 b c e
+  f a b d,
+  e gs a c,
+  d fs g b
+  c e, fs a
+  c1 c
+  b\breve\ff ~
+  b2 r r1
+  R\breve*2
+  
+  (b1 bb
+  a\breve)
+  a
+  R\breve*2
+  
+  r1 r2 (a
+  b1.)\cresc (g2
+  c1.) (a2
+  d1.) (b2
+  d1 c)
+  (c2\< b) (a g\!)
+  g1\fz fs2 d
+  (e fs) g r
+  R\breve*6
+  
+  
+  
+  
+  
+  r1 r2 a\f
+  a1 a
+  g g
+  (g\pp a2 g)
+  (fs1 g)
+  (g f
+  e ~ e2) a\f
+  a1 a
+  g g
+  (c d2 e)
+  a2 r a1\f
+  d,\breve\f\fermata
+  
+  
+}

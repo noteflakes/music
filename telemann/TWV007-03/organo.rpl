@@ -136,7 +136,7 @@
   a'8. gs6 a4 gs8. fs6 gs4
   a4. g8 fs4 e \time 3/2 m{{\tempo 2 = 130}}
   e1.
-  s^\markup { \tiny "(missing)" }
+  \tiny e^\markup { \tiny "(missing)" } \normalsize
   c
   d
   d

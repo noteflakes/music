@@ -133,7 +133,7 @@
   d8. d6 d4 d8. d6 d4
   d8 d e fs g4 fs
   fs8. a6 fs4 a8. d,6 e4
-  \tiny d8^\markup { \tiny "(missing)" } fs e e e4 e \normalsize
+  \tiny d8^\markup { \tiny "(missing)" } fs e e d4 e \normalsize
   e8. e6 e4 e8. e6 e4
   e4 fs8 e e8. ds6 e4 \time 3/2
   R1.*18

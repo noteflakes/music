@@ -9,7 +9,7 @@ parts:
   violone:
     clef: bass
 score:
-  # hide_figures: true
+  hide_figures: true
   order:
     - violino1
     - violino2

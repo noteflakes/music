@@ -1,0 +1,25 @@
+\relative c' {
+  \key d \minor
+  \time 2/2 \partial 2
+    [g'8 a] bb c
+  d4. d8 d4 d
+  [c6 bb] a8 r c c c c c
+  d g, g a bb bb a g
+  bb4 a [g8 a] bb c
+  d4. d8 d4 d
+  [c6 bb] a4 r8 c4 c
+  d g,8 a bb4 a
+  fs2 [g8 a] [bb c]
+  d4 c8 d f4 eb
+  d2 [g,8 a] bb c \bar "||"
+  d4. d8 d4 d
+  [c6 bb] a8 r c c c c c
+  d g, g a bb bb a g
+  bb4 a [g8 a] bb c
+  d4. d8 d4 d
+  [c6 bb] a4 r8 c4 c8 c
+  d4 [g,8 a] bb4 a
+  fs2 [g8 a] bb c
+  d4 [c8 d] f4 eb
+  d2 \bar "||"
+}

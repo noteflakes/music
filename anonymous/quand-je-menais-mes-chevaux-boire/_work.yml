@@ -1,0 +1,9 @@
+title: Quand je menais mes chevaux boire
+composer: Anonymous
+parts:
+  canto:
+    auto_beam: false
+    midi_instrument: voice
+score:
+  order:
+    - canto

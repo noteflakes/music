@@ -6,7 +6,7 @@
 		  	(/  1600 (*staff-size*))
 			)
 		}
-		\fill-line { "Copyright © 2010 Sharon Rosner. All rights reserved." }
+		\fill-line { "Copyright © 2012 Sharon Rosner. All rights reserved." }
 	}
 	
 	tagline = ""
@@ -107,6 +107,26 @@
 	  \fromproperty #'page:page-number-string
 	  \line { \fromproperty #'header:title "/" \fromproperty #'header:composer }
 	  " "
+	}
+  
+  oddFooterMarkup = \markup \column {
+		\fill-line { 
+			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+		  	(/ -800 (*staff-size*))
+		  	(/  1600 (*staff-size*))
+			)
+		}
+		\fill-line { "Copyright © 2012 Sharon Rosner. All rights reserved." }
+	}
+	
+  evenFooterMarkup = \markup \column {
+		\fill-line { 
+			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+		  	(/ -800 (*staff-size*))
+		  	(/  1600 (*staff-size*))
+			)
+		}
+		\fill-line { "Copyright © 2012 Sharon Rosner. All rights reserved." }
 	}
 	
 }

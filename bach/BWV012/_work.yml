@@ -1,12 +1,19 @@
 title: Cantata BWV 12
 subtitle: "\"Weinen, Klagen, Sorgen, Zagen\""
 composer: Johann Sebastian Bach
+#transpose: f g
 parts:
+  soprano:
+    clef: soprano
+  alto:
+    clef: alto
+  tenore:
+    clef: tenor
   # global-staff-size 19
   oboe:
     midi_transpose: g f
     breaks:
-      - 04-aria
+      - 02-coro
       - 04-aria
       - 06-aria
   violino1:
@@ -22,6 +29,7 @@ parts:
       - 05-aria
       - 06-aria
 score:
+  hide_figures: true
   order:
     - oboe
     - violino1

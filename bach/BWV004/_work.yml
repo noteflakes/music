@@ -2,10 +2,14 @@ title: Cantata BWV 4
 subtitle: "\"Christ lag in Todesbanden\""
 composer: Johann Sebastian Bach
 parts:
+  soprano:
+    clef: soprano
   alto:
+    clef: alto
     breaks:
       - "-05-versus-IV"
   tenore:
+    clef: tenor
     breaks:
       - "-08-versus-VII"
   violini:

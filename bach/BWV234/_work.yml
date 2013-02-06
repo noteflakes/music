@@ -21,10 +21,19 @@ parts:
       - 03-domine-deus
       - 05-quoniam
   viola:
-    breaks1:
+    breaks:
+      - 02-gloria
       - 04-qui-tollis
       - 05-quoniam
       - 06-cum-sancto-spiritu
+  violino1:
+    breaks:
+  violino2:
+    breaks:
+  flauto1:
+    breaks:
+  flauto2:
+    breaks:
 score:
   order:
     - flauto1

@@ -9,7 +9,7 @@
   b' b,16 cis d8 cis16 b fis'8 e16 d cis8 d
   e[ r16 e,] e'8[ r16 e,] e'8[ r16 e,] e'8. fis16
   gis b gis e gis b gis e gis b gis e gis b gis e 
-  a8 d, e e, a gis a a
+  a8 d, e e, a gis a b
   cis d e e, a a16 b cis8 b16 a
   d8 cis16 b e8 e, a a'16 b cis8 b16 a
   gis8 a16 b cis8 b16 a gis8 fis16 eis fis8 gis

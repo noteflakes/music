@@ -22,6 +22,7 @@ parts:
     breaks:
       - 05-aria
   violoncello:
+    hide_figures: true
     source: continuo
     breaks:
       - 03-choral

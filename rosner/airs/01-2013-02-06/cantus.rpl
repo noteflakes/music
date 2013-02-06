@@ -1,0 +1,20 @@
+\relative c' {
+  \key c \major
+  \time 4/4
+  
+    \partial 2.
+    [c'8 b] [a g] [f e]
+  \repeat volta 2 { [a g] [f e] [d e] [f g]
+  e4 [e8 g] [d g] [e g]
+  [b, g'] [e g] [d g] [e g] } \alternative {
+    {b,4 [c'8 b] [a g] [f e]}
+    {b4 [g'8 c,] [a' c,] [b' c,]}
+  }
+  \repeat volta 2 { [c' c,] [g' c,] [a' f] [d g]
+    e4 [g8 c,] [a' c,] [b' c, ]
+    [c' c,] [g' c,] [a' f] [d g]
+  } \alternative {
+    {c,4 [g'8 c,] [a' c,] [b' c,]}
+    {c4\fermata}
+  }
+}

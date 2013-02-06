@@ -1,0 +1,11 @@
+title: Airs
+composer: Sharon Rosner
+parts:
+  cantus:
+    clef: treble
+    midi_instrument: viola
+score:
+  hide_figures: false
+  order:
+    - cantus
+    - continuo

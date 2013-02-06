@@ -1,0 +1,15 @@
+title: Prelude
+composer: Sharon Rosner
+parts:
+  viole1:
+    clef: tenor
+    midi_instrument: viola
+  viole2:
+    clef: tenor
+    midi_instrument: viola
+score:
+  hide_figures: false
+  order:
+    - viole1
+    - viole2
+    - continuo

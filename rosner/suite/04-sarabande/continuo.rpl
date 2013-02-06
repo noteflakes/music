@@ -1,0 +1,27 @@
+\relative c {
+  \key e \minor
+  \time 3/4
+  
+  e4 e4. e8
+  ds4 b e
+  a,8 g a b c a
+  b2 e,4
+  e'4 a,8 b c a 
+  d4 d, g
+  c8 b a4 g
+  d'2 g,4 \bar ":|:"
+  g'4 g4. g8
+  cs,4 a d
+  g8 fs e4 cs
+  fs fs, fs'
+  b2 b4
+  as4 a2
+  gs4 g2
+  fs4 b b,
+  e a a,
+  b ds e
+  a,2.
+  b2 e4
+  a, b2
+  e,2.
+}

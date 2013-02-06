@@ -1,0 +1,27 @@
+\relative c' {
+  \key e \minor
+  \time 3/4
+  
+  g4 fs4.\prall e8
+  ds8 e [fs8 a] g4 ~
+  r8 b [a g] fs e
+  ds2\prall e4
+  b'4 [e8 d] c e
+  a,4 fs d'
+  r8 b [a b] g a
+  fs2\prall g4 \bar ":|:"
+  fs'4 [e8 d] cs b
+  cs d [e cs] fs4 ~
+  fs [e8 d] cs b
+  as2\prall ^gs8 fs4
+  fs'4 [e8 d] cs d
+  e4 [d8 cs] b cs
+  d4 [cs8 b] as b
+  cs4 [b8 a] gs a
+  b4 e8 d c b 
+  a fs [g a] b4 ~
+  b4 [a8 b] g a
+  fs4\prall ^e8 ds4 b'4 ~
+  b8 a6 g fs4.\prall e8
+  e2.
+}

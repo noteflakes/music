@@ -1,5 +1,5 @@
 parts:
   violino1:
-    source: violino
+    source: violini
   violino2:
-    source: violino
+    source: violini

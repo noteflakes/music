@@ -92,22 +92,30 @@ qBeam = {
 }
 
 twoFourBeam = {
-  #(override-auto-beam-setting '(end 1 8 2 4) 2 4 'Staff)
+  \set Timing.baseMoment = #(ly:make-moment 1 2)
+  \set Timing.beatStructure = #'(1 1)
+%   #(override-auto-beam-setting '(end 1 8 2 4) 2 4 'Staff)
 }
 
 sixteenTwoTwoBeam = {
-  #(override-auto-beam-setting '(end 1 16 2 2) 1 4 'Staff)
-  #(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
-  #(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
+  \set Timing.baseMoment = #(ly:make-moment 1 4)
+  \set Timing.beatStructure = #'(1 1 1 1)
+  
+%   #(override-auto-beam-setting '(end 1 16 2 2) 1 4 'Staff)
+%   #(override-auto-beam-setting '(end 1 16 2 2) 2 4 'Staff)
+%   #(override-auto-beam-setting '(end 1 16 2 2) 3 4 'Staff)
 }
 
 thirtytwoFourFourBeam = {
-  #(override-auto-beam-setting '(begin 1 32 4 4) 1 4 'Staff)
-  #(override-auto-beam-setting '(begin 1 32 4 4) 2 4 'Staff)
-  #(override-auto-beam-setting '(begin 1 32 4 4) 3 4 'Staff)
-  #(override-auto-beam-setting '(end 1 32 4 4) 2 4 'Staff)
-  #(override-auto-beam-setting '(end 1 32 4 4) 3 4 'Staff)
-  #(override-auto-beam-setting '(end 1 32 4 4) 4 4 'Staff)
+  \set Timing.baseMoment = #(ly:make-moment 1 4)
+  \set Timing.beatStructure = #'(1 1 1 1)
+
+%   #(override-auto-beam-setting '(begin 1 32 4 4) 1 4 'Staff)
+%   #(override-auto-beam-setting '(begin 1 32 4 4) 2 4 'Staff)
+%   #(override-auto-beam-setting '(begin 1 32 4 4) 3 4 'Staff)
+%   #(override-auto-beam-setting '(end 1 32 4 4) 2 4 'Staff)
+%   #(override-auto-beam-setting '(end 1 32 4 4) 3 4 'Staff)
+%   #(override-auto-beam-setting '(end 1 32 4 4) 4 4 'Staff)
 }
 
 % some scheme functions (appropriated from Nicolas Sceaux's amazing work)

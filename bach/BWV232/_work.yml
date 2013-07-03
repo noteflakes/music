@@ -1,0 +1,26 @@
+title: Missa H-moll BWV 232
+composer: Johann Sebastian Bach
+movements:
+  15-et-in-unum:
+    midi_tempo: 80 4
+parts:
+  violoncello:
+    source: continuo
+    hide_figures: true
+score:
+  order:
+    - violino1
+    - violino2
+    - viola
+    - soprano
+    - alto
+    - continuo
+  groups:
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]
+  hide_figures: true
+macros:
+  c1: "#8-. #-. #-. #-. #-. #-. #4 r r"
+  c2: "[(#8. #6) (#8. #6) (#8. #6)]"
+  c3: "#8-. #-. #-. #-. #-. #-."
+  c4: "(#8. #6)"

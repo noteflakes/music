@@ -1,0 +1,86 @@
+\relative c {
+  \key g \major
+  \time 4/4
+  \tempo "Andante"
+
+  g8 a b g c b c b
+  c b a d g, g' r e
+  cs d r b e g r e
+  a a, r a' b g a a,
+  d e fs d g fs g fs
+  g fs e a, d d, r fs'
+  a a, r c e e, r a
+  d d, r d' e c d d,
+  g a b g c b c b 
+  c b a d g,4 r
+  d' r a r
+  e' r b r
+  e8 g fs d g4 r8 g,
+  d' e fs d g fs e b'6 a
+  g8 fs4 e8 d4 r8 d,
+  a'4 r8 a' b g a a,
+  d e fs g a a, r as
+  b cs d e fs fs, r d
+  g a b cs d e d c
+  b cs ds b e fs g a 
+  b a gs e a e c e
+  a g fs d g d b d
+  g, b e d c a d d,
+  g' fs e d e cs fs fs,
+  b b' e, g a4 r8 d,
+  b'4 r8 b, cs b cs a
+  d cs b fs' g e a a,
+  d e fs d g fs g fs
+  g fs e a d, e fs d
+  g, a b g c b c b
+  c b a d g, g' r e
+  cs d e b e g r e
+  a a, r a' b g a a,
+  d fs6 e d8 fs g fs6 e d8 c
+  b a d, e a g fs b
+  e, e'6 fs g8 a g g6 fs g8 c
+  b a6 g fs8 b e, e, a g
+  fs b6 as b8 b' cs, fs fs, as
+  b fs' g fs e fs g a 
+  g fs e g as, e' fs, as
+  b d e cs d e fs fs,
+  b cs d b e d e d
+  e d cs fs b, a g fs 
+  e fs g e a g a g
+  a g fs b e, e' r cs
+  as fs' r b, g e' r cs
+  fs fs, r fs' g e fs fs,
+  b b'6 c b8 a g fs g fs
+  g fs e a d, c b e
+  a a,6 b c8 a d c d c 
+  d c b e a, a'6 gs a8 c
+  b e,6 ds e8 e' fs, b b, ds
+  e b' c b a b c d
+  c b a c ds, a' b, ds
+  e g a fs g a b b,
+  e4 r c r
+  gs r e r
+  a r b r
+  r8 (c b as) b4 r
+  r2 r8 (fs' ds b)
+  g4 r8 e' fs g6 fs g8 a
+  b a b b, e, e' d c
+  b a b g c b c b
+  c b a d g, g' r b
+  d d, r fs a a, r c
+  e e, r e' a a, r a
+  d d, r d' g g, r g'
+  c c, c' b a b6 c d8 d,
+  g fs g a bb a g f
+  eb4 r r8 (eb d c)
+  b?4 r g r
+  c r d r
+  r8 (eb d cs) d4 r
+  r2 r8 (a' fs d)
+  bb d r g, [a (bb6 a bb8) c]
+  d c d d, g g'6 fs g d b d 
+  g,4 r8 g' c,4 cs8 e
+  a,4 r8 a' d, c'6 b c a fs a
+  d,4 r8 d e c d d,
+  g4 r r2
+}

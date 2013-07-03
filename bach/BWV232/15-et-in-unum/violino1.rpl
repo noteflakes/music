@@ -1,0 +1,86 @@
+\relative c' {
+  \key g \major
+  \time 4/4
+  \tempo "Andante"
+
+  g'4 r8 g a-. g-. r4
+  a8 b c4. b6 c d b g b
+  a8 b6 cs d a fs a g2 ~
+  g8 b a g fs8. e6 e8. d6
+  d4 d' r8 d (e d)
+  r4 b8 cs d2 ~
+  d8 c!6 d e c a c b ds e fs g e c e
+  fs e fs g a fs d fs g8. a6 fs8. g6
+  g4 r r2
+  r2 r8 d,\p g b
+  r8 a d, fs r e a c
+  r b e, g r fs b d
+  c4 r8 d b g d r
+  d'4 r8 d e-. d-. r4
+  e8 fs g4. fs6 g a fs d fs 
+  e8 fs6 g a e c e d8 b a g
+  fs6 e' fs g a fs d fs e8 fs6 g a e cs e
+  d8 r r4 r2
+  r6 a b c d b g g' fs g a8 r4
+  r6 cs, ds e fs ds a fs' fs ds e8 r4
+  r e ~ e6 (a,-. gs-. fs-. e-. d-. c-. b-.)
+  a4 r r2
+  r a' ~
+  a8 g6 fs g8 g' cs,4. b6 cs
+  d4. cs6 b cs8 r r4
+  r6 b cs d e b g b e,8 r r4
+  R1
+  d'4\f^tutti r8 d e-| d-| r4
+  e8 fs g4. fs6 g a8 c, ~
+  c b g'4 r8 g (a g)
+  r4 e8 fs g2 ~
+  g8 fs6 e fs4 ~ fs8 e6 fs g e b d
+  cs b cs d e cs a cs d8. e6 cs8. d6
+  d4 r r2
+  r r8 e4\p ds8
+  e4 r r2
+  R1
+  r8 d4 (e6 fs) g8 r r4
+  r (e8 d) (cs d) (e fs)
+  (g a) (b b,) (cs as) (as fs)
+  fs4 r r2
+  b4\f^tutti r8 b cs-. b-. r4
+  cs8 d e4. ds6 e fs8 a, ~
+  a g e4 r8 e (fs e)
+  r4 cs'8 ds e2 ~
+  e8 d!6 cs d4 ~ d8 cs6 d e cs gs b
+  as gs as b cs as fs as b8. cs6 as8. b6
+  b4 r r2
+  r2 r8 a4\p^solo gs8
+  a4 r r2
+  R1
+  r8 e'4 (fs6 g) a8 r r4
+  r2 r4 (c,8 b)
+  (a b) (c b) (a fs) (fs b)
+  b,4 r r2
+  e'4 r8 e (fs e) r4
+  d4 r8 d (d6 e d8) r (e6 d)
+  (c8 b) (a g) fs4 ds'
+  r e r8 (a fs ds)
+  b (a fs ds) b4 ds'
+  r e r b
+  r a g r
+  g4\f^tutti r8 g a-| g-| r4
+  a8 b c4. b6 c d b g b
+  a8 d, d'4 ~ d8 c6 d e c a c 
+  b8 e, e'4 ~ e6 (d-. c-. b-. a-. g-. fs-. e-.)
+  d4 r8 d' ~ d6 (f e d c b a b)
+  c4 r8 d e6 (c b a) fs'8. g6
+  g4 r r2
+  g4^solo r8 g (ab g) r4
+  f r8 f (f6 eb f8) r (g6 f)
+  (eb8 d) (c bb) a4 fs'
+  r g r8 (c a fs)
+  d (c a fs) d4 fs'
+  r g r2
+  r2 r4 f^tutti
+  r8 (a g f) e fs g4
+  r8 (b a g) fs a c,4 ~
+  c8 (e d c) b8. a6 a8. g6
+  g4 r r2
+}

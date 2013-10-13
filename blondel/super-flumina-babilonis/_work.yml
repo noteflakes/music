@@ -1,0 +1,24 @@
+title: Motet
+subtitle: "\"Super flumina Babilonis\""
+composer: Louis-Nicolas Blondel
+parts:
+  basse-continue:
+    clef: bass
+  dessus:
+    clef: treble
+    auto_beam: false
+  haute-contre:
+    clef: treble
+    auto_beam: false
+  basse-taille:
+    clef: bass
+    auto_beam: false
+score:
+  order:
+    - dessus
+    - haute-contre
+    - basse-taille
+    - basse-continue
+  groups:
+  hide_figures: true
+

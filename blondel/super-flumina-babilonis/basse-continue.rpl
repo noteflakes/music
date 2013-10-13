@@ -1,0 +1,127 @@
+\relative c {
+  \key d \minor
+  \time 4/4
+  
+  g4. a8 bb4 b
+  c1
+  g
+  d'
+  eb
+  d2 g ~
+  g fs
+  g1 ~
+  g2 c,
+  g1
+  g'2 bb ~
+  bb g
+  f2. e8 d
+  a'1
+  g
+  a2 d,
+  a1
+  d
+  bb
+  bb
+  f
+  f' ~
+  f2 eb
+  d1
+  c
+  g
+  g'
+  g2 f
+  eb1 \time 4/4
+  d1 ~
+  d2 g
+  c4 a8 f bb4. a8
+  g2 f
+  f,4 f' d2
+  eb c
+  d2. d'8 c
+  bb a g2 f4
+  bb,2 c
+  d1
+  g,4 g'8 a bb4 fs
+  g2. g,4
+  d' eb eb,2
+  eb'4 bb2 bb'4
+  d,2 eb4. c8
+  f4 bb, f2
+  bb8. c6 d4 d8. e6 f4
+  f, f' [c8. d6 eb8. d6]
+  eb8 c g'2 g,8 a
+  bb4 b c2
+  d4 eb d2
+  g,2. g'4
+  d bb eb4. d8
+  c4 c8. f6 bb,4. a8
+  g2 d4 d'
+  e2 f4 fs
+  g8 a bb4 a cs,
+  d g, a2
+  d,8 [d'6 c bb8 a6 bb] g4 eb'
+  c4 g'8. g,6 d'8 [d'6 c bb8. a6]
+  [g8. f6 eb8. d6] c4 f
+  d8. c6 bb2 a8 bb
+  f2 bb
+  c d4. bb8
+  eb2 f
+  f, f'4. f8
+  d8 bb6 c d4 eb8 f g4
+  f f, bb2 ~
+  bb4 bb' g2
+  f4 d8. c6 bb2
+  bb4. bb6 c6 d8 \ficta eb c4
+  g' eb d2
+  g4 g,4. g'8 [c, e]
+  f4 f, f2 ~
+  f8 [f' f bb] g2
+  a a,
+  d4. d8 b4 c
+  a bb! f'2
+  d4 g fs g8 f
+  eb d c4 bb8 a g4
+  d'1
+  g,4 g'8 f eb4 d \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  c2.
+  c2.
+  g'2 b,4
+  c2.
+  g4 g' f \time 4/4
+  eb2 f
+  g4 c, g2 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  c2.
+  c2 c'4
+  g2 ab4
+  f2 c4
+  g'2.
+  g,
+  d'2 fs,4
+  g2.
+  d4 d' c \time 4/4
+  bb2 c
+  d4 g, d2 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  g2.
+  g'
+  d2 eb4
+  c2 g4
+  d'2.
+  bb
+  f
+  f'
+  bb,
+  bb'
+  g2 fs4
+  g2 d4
+  a'2 a,4 \time 4/4
+  d2 e
+  fs g
+  d a'4 a,
+  b2 cs
+  d a
+  a' fs
+  g e
+  eb d
+  c d \once \override Staff.TimeSignature #'stencil = ##f \time 4/1
+  g\longa\fermata
+}

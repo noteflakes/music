@@ -1,0 +1,127 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+  
+  R1
+  r4 g'2 g4
+  bb4. bb8 bb2
+  a4. a8 d2 ~
+  (d c)
+  d1
+  r4 d2 d4
+  eb4. eb8 eb2
+  b4. b8 c2 ~
+  (c4 [bb8 a] bb2)
+  g r
+  R1
+  r4 a2 b4
+  c4. c8 c2
+  bb4. c8 d2
+  cs d4. d8
+  (d2 cs)
+  d a4 a
+  d4. d8 d4 d
+  bb2. bb4
+  a2 r
+  a4. a8 a4. a8
+  b2 c
+  (c b4.) c8
+  c2 g4 a
+  bb2. bb4
+  bb1
+  c2 d ~
+  (d c4.) d8 \time 4/4
+  d4 fs, [g8 fs] g4
+  fs2 r
+  r f'!8 f d8. d6
+  d4 eb2 d8. eb6
+  c4 c r d8 c
+  bb a g2 a4
+  fs g fs fs
+  r g8 a bb8. c6 a8 a
+  d c bb8. a6 (g4. a8)
+  fs4 g8 g (g4 fs)
+  g2 r
+  r4 fs8 fs g8. g6 g8 bb
+  fs fs6 fs g4 g r8 bb
+  ([bb8. c6 d eb d eb] f4.) f8
+  f4. ([d6 c bb a bb g] eb'4 ~
+  eb8) eb d4 c2
+  bb4 r8 f ([f8. g6 a bb a bb]
+  c4.) c8 c4 r8 g
+  ([g8. a6 bb c bb c] d4.) d8
+  d2 r8 ([eb6 d c bb a g]
+  fs8.) fs6 g4 (bb a)
+  g2 r
+  R1*10
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 c8 c d8. c6 bb8. a6
+  g2 r4 d'8 d
+  eb8. d6 c8. bb6 a4 r8 c
+  a ([a6 bb3 c]) a4 f8 c' a8. c6
+  f,4 f8 bb g8. a6 bb4
+  (bb a) bb2
+  R1*2
+  
+  r4 r8 d bb g eb'4
+  d8 d c c d4 d
+  r4 r8 d b4 c
+  R1*2
+  
+  r2 r4 r8 a
+  fs [fs6 g3 a] fs4 g8 g e e
+  f4 d8 d' c bb a4
+  a8 a bb8. c6 a4 r8 d,
+  g8. g6 g4 bb bb8 bb
+  a8. a6 g4 (g fs)
+  g2 r \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  c4. c8 c eb
+  c4. c8 c4
+  b4. c8 d4
+  g,2 c4 
+  b2. \time 4/4
+  r8 \ficta eb8 \ficta eb2 d4
+  b c (c b) \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  c2.
+  R2.*3
+  
+  
+  g4. g8 g bb
+  g4. g8 g4
+  fs4. g8 a4
+  d,2 g4 
+  fs2. \time 4/4
+  r8 bb bb2 a4
+  fs g (g fs) \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  g2.
+  R2.*2
+  
+  g4. g8 g bb
+  fs4. fs8 fs4
+  bb4. bb8 bb4
+  a4. a8 a c
+  a4. a8 a4
+  R2.
+  bb4. bb8 bb d
+  bb4. bb8 a4
+  bb4. c8 d4
+  cs2 cs4 \time 4/4
+  d8 a d4 c2
+  a4. a8 ([g8 fs] g4)
+  \ficta fs2 r4 r8 a
+  g4 g2 f8 e
+  f2 e8 e' e4
+  cs2 r8 d d4
+  bb2 r4 c ~
+  [c8 bb a g] \ficta fs4 g
+  (g2 \ficta fs) \once \override Staff.TimeSignature #'stencil = ##f \time 4/1
+  g\longa\fermata
+}

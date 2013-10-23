@@ -1,0 +1,41 @@
+\relative c {
+  \key d \minor
+  \time 4/4
+
+  \tempo "symphonie" r1
+  R1
+  r8 d' bb8. a6 g4 g,
+  d' c d d,
+  g2 r
+  r r8 d'8 d8. d6
+  d2. cs4
+  d8 c bb4 a2 ~
+  a4 a d d8 c
+  b8. a6 b4 c c, \time 2/2
+  g' a bb c 
+  d2. d4 
+  g a8 a bb4 g
+  f2 f,
+  bb4 bb'8 bb a4 g
+  fs g a d, ~
+  d cs d8 c bb a
+  g g' eb8. d6 c4 c
+  g f eb2
+  d1 \time 4/4
+  g'4 g8 d g4 f
+  bb4. bb,8 bb4 bb8 bb8
+  eb4 bb f' f,
+  g d' eb c
+  d d'8 c bb a g4
+  a f8 d a'4 a, \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  d4. d8 d8. d6
+  g4. b,8 b8. b6
+  c4. bb8 a a
+  d4. c8 bb a
+  g4 d' d,
+  g4. a8 b8. b6
+  c4. c8 cs8. cs6
+  d4. c8 bb a
+  g4 d' d, \time 4/4
+  g2 r
+}

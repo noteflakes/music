@@ -1,0 +1,170 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+
+  R1*10
+
+
+
+
+
+
+
+
+    \time 2/2
+  R1*10
+
+
+
+
+
+
+
+
+    \time 4/4
+  R1*6
+
+
+
+
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2.*9
+
+
+
+
+
+
+
+    \time 4/4
+  R1*5
+
+
+
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2. \time 4/4
+  R1*6
+
+
+
+
+  
+  r4 g' f8 d eb8. f6
+  f4 f a8 a g8. f6
+  e4. a8 f d g8. g6
+  g4 a g8 f g8. g6
+  fs4 fs g8 a f8. f6
+  f4 g g8 f e8. d6
+  d2 r4 d
+  d a [bb8 c (d e]
+  f2) f4 g
+  a d, d4. d8
+  d2 r
+  R1
+  r2 r4 d
+  d a [bb8 c d (e]
+  f2) f4 g
+  a d, d4. d8 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  d2 r4
+  R2.*7
+  
+  
+  
+  
+  
+    \time 4/4
+  R1*12
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 g a8 d, g8. g6
+  f4 f8. f6 d4 c8. f6
+  f4 a f8 f g8. a6
+  fs4 a d,8 d d8. d6
+  cs4 a' a8 fs g8. g6
+  g4 r8 c, bb g g8. a6
+  a2 r4 d
+  e8 e e4 f4. g8
+  a8 d, d8. d6 d2 \time 2/2
+  R1*6
+  
+  
+  
+  
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2.*9
+  
+  
+  
+  
+  
+  
+  
+    \time 4/4
+  R1
+  r2 r8 (d a'4)
+  f8 f f8. e6 d4 bb
+  c8 c c8. c6 d2
+  r4 g d8 d d8. d6
+  eb8 bb c4 c8 c f4
+  d8 d (g2 f8.) e6
+  (f4 e8.) d6 d2
+  R1*2
+  
+  r4 r8 d f4 d
+  c8 c c8. c6 d4. d8
+  g4 e8 c f4 d8. e6
+  f4 (g2 fs8.) g6
+  g2 r2
+  R1
+  r4 r8 a f d g8. g6
+  g4 a g8 f g8. g6
+  fs4 fs g8 a f8. f6
+  f4 g g8 f e8. d6
+  d2 r4 d ~
+  d a [bb8 c d (e]
+  f2) f4 g
+  a d, d4. d8 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  d2 r4
+  R2.*7
+  
+  
+  
+  
+  
+    \time 4/4
+  R1*5
+  
+  
+  
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2. \time 4/4
+  R1*6
+  
+  
+  
+  
+  
+  r4 g g8 a g8. f6
+  e4 a a8 f e8. d6
+  d2 r4 d
+  d a [bb8 c d (e]
+  f4.) f8 f4 g
+  a d,8 d d4. d8
+  d2 r
+  r2 r4 (d
+  a'2) f
+  d4 d g2 ~
+  g f4 f4.|
+    f8 g8. g6 a8 a bb4
+  fs4 g8 g (g4 fs8) g \once \override Staff.TimeSignature #'stencil = ##f \time 2/1
+  g\breve\fermata
+}

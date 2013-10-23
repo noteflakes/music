@@ -1,0 +1,170 @@
+\relative c {
+  \key d \minor
+  \time 4/4
+
+  R1*10
+
+
+
+
+
+
+
+
+    \time 2/2
+  R1*10
+
+
+
+
+
+
+
+
+    \time 4/4
+  R1*6
+
+
+
+
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2.*9
+
+
+
+
+
+
+
+    \time 4/4
+  R1*5
+
+
+
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2. \time 4/4
+  R1*6
+
+
+
+
+  
+  r4 bb' a8 b c8. f,6
+  f4 r8 bb c d bb8. a6
+  a4. a8 a b c8. c6
+  c4 a bb8 bb g8. d'6
+  d2 r
+  R1
+  r4 (d, [g8 a] bb4)
+  a d d g,
+  a4. a8 bb4. bb8
+  a4 g2 fs8 g
+  g2 r
+  R1
+  r4 (d [g8 a] bb4)
+  a4 d d g,
+  a4. a8 bb4 bb
+  a g fs4. g8 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  g2 r4
+  R2.*7
+  
+  
+  
+  
+  
+    \time 4/4
+  R1*12
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 g d'8 d c8. bb6
+  a4 bb8. f6 f4 a8. bb6
+  c2 r 
+  R1
+  r4 a a8 d d8. d6
+  g,4 a f8 c' bb8. a6
+  a2 r
+  g4 c8. c6 c4 bb8. bb6
+  a8 g a8. b6 b2 \time 2/2
+  R1*6
+  
+  
+  
+  
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2.*9
+  
+  
+  
+  
+  
+  
+  
+    \time 4/4
+  R1*14
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 bb a8 b c8. f,6
+  f4 r8 bb c d bb8. a6
+  a4. a8 a b c8. c6
+  c4 a bb8 bb g8. d'6
+  d2 r
+  R1
+  r4 (d, [g8 a] bb4)
+  a d d g,
+  a4. a8 bb4 bb
+  a g2 fs8. g6 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  g2 r4
+  R2.*7
+  
+  
+  
+  
+  
+    \time 4/4
+  R1*5
+  
+  
+  
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2. \time 4/4
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  r4 d ([g8 a] bb4)
+  a4 d2 g,4
+  a4. a8 bb4 bb
+  a4 (g2 fs8) g
+  g2 r
+  R1
+  r2 r4 d'
+  bb2 g4 g
+  c c a a
+  bb4. bb8 a4 d ~
+  d bb a4. g8 \once \override Staff.TimeSignature #'stencil = ##f \time 2/1
+  g\breve\fermata
+}

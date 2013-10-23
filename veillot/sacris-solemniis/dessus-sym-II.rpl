@@ -1,0 +1,170 @@
+\relative c' {
+  \key d \minor
+  \time 4/4
+
+  \tempo "symphonie" r1
+  R1
+  r4 d' g8 a bb4
+  a8 fs g a bb4 a8. g6
+  g2 r
+  R1
+  r8 a f d a'4 e8. e6
+  f8. e6 d4 cs2
+  r8 e a g fs8. e6 fs4
+  g8 d g f eb8. d6 eb4 \time 2/2
+  d2 d4 e 
+  fs g a4. a8
+  bb4 c f, g8 g
+  a4 bb2 a8. bb6
+  bb2 r4 bb8 bb
+  a4 g4. a8 f4
+  e4 a8 g f8. e6 d4.|
+    [bb8 c8. d6] eb8 c g'8. a6
+  [bb8 bb a8. bb6] [g8. fs6 g8 a]
+  fs1 \time 4/4
+  g4 g8 fs g4 a
+  bb f8. f6 f4. f8
+  g8. a6 bb4 a4. a8
+  bb4 a8 bb g4. a8
+  fs2 r4 g8 g 
+  g4 f8. e6 e4. d8 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  d4. [a'8 fs8. e6]
+  d4. [d8 g8. f6]
+  e4. [e8 a8. bb6]
+  fs4. [fs8 g a]
+  bb4 a4. g8
+  g4. [f8 f g]
+  e4. [a8 g a]
+  fs4. [fs8 g a]
+  bb4 a4. g8 \time 4/4
+  g2 r2
+  R1*4 
+  
+  
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2. \time 4/4
+  R1*6
+  
+  
+  
+  
+    
+  r4 d f8 f eb8. d6
+  d4 d c8 f d8. a'6
+  a4. e8 f f g8. g6
+  g4 c, bb8 bb c8. d6
+  d2 r
+  R1
+  r4 a bb8 c d4
+  d4. c8 bb2
+  a r4 g
+  d' d d4. b8
+  b4. d8 e f d8. c6
+  c4 e e8 f e8. d6
+  d4 a bb8 c d4
+  d4. c8 bb2
+  a r4 g
+  d' d d4. b8 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  \tempo "symphonie" b4. [d8 g8. f6]
+  e4. [e8 a8. g6]
+  fs4. [fs8 g a]
+  bb4 a4. g8
+  g4. [f8^"doux" f g]
+  e4. [a8 g a]
+  fs4. [fs8 g a]
+  bb4 a4. g8 \time 4/4
+  g2 r
+  R1*11
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 d d8 bb eb8. d6
+  d4 d8. c6 bb4 c8. bb6
+  a2 r 
+  R1
+  r4 e' fs8 a d,8. d6
+  d4 f d8 g g8. fs6
+  fs2 d4 b8. b6
+  c4 c c8. c6 d8. e6
+  fs8 g fs8. g6 g2 \time 2/2
+  \tempo "symphonie" g4 g8 fs g4 a
+  bb f8. f6 f4. f8
+  g8. a6 bb4 a4. a8
+  bb4 a8 bb g4. a8
+  fs2 r4 g8 g
+  g4 f8. e6 e4. d8 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  d4. [a'8 fs8. e6]
+  d4. [d8 g8. f6]
+  e4. [e8 a8. bb6]
+  fs4. [fs8 g a]
+  bb4 a4. g8
+  g4. [f8 f g]
+  e4. [a8 g a]
+  fs4. [fs8 g a]
+  bb4 a4. g8 \time 4/4
+  g2 r
+  R1*13
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  r4 d f8 f eb8. d6
+  d4 d c8 f d8. a'6
+  a4. e8 f f g8. g6
+  g4 c, bb8 bb c8. d6
+  d2 r
+  R1
+  r4 a bb8 c d4
+  d4. c8 bb2
+  a2 r4 g
+  d' d d d8. b6 \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  \tempo "symphonie" b4. [g'8 f g]
+  e4. [e8 a8. bb6]
+  fs4. [fs8 g a]
+  bb4 a4. g8
+  g4. [f8 f g]
+  e4. [a8 g a]
+  fs4. [fs8 g a]
+  bb4 a4. g8 \time 4/4
+  g2 r
+  R1*4
+  
+  
+    \once \override Staff.TimeSignature #'style = #'single-digit \time 3/4
+  R2. \time 4/4
+  R1*8
+  
+  
+  
+  
+  
+  
+  
+  r4 a, bb8 c d4
+  d4. c8 bb2
+  a r4 g
+  d' d d4. b8
+  b4. d8 e f d8. c6
+  c4. e8 f f g8. a6
+  cs,2 r4 d4 ~
+  d g8. g6 g4 eb8. eb6
+  eb4 c4. c8 f8. e6
+  d2. d4 ~
+  d2 d4. b8 \once \override Staff.TimeSignature #'stencil = ##f \time 2/1
+  b\breve\fermata
+}

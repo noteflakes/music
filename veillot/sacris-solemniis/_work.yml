@@ -1,0 +1,103 @@
+title: Motet
+subtitle: "\"Sacris Solemniis\""
+composer: Louis-Nicolas Blondel
+parts:
+  basse-continue:
+    clef: bass
+    title: "B. Continüe"
+  dessus-sym:
+    clef: french
+    title: Dessus
+  dessus-sym-II:
+    clef: french
+    title: Dessus
+  dessus-sym-div:
+    clef: french
+    end_bar: none
+    title: Dessus
+  haute-contre-sym:
+    clef: soprano
+    title: Haute-contre
+  taille-sym:
+    clef: mezzosoprano
+    title: Taille
+  quinte-sym:
+    clef: alto
+    title: Quinte
+  basse-sym-II:
+    clef: bass
+    title: Basse
+  basse-sym-div:
+    clef: bass
+    end_bar: none
+    title: Basse
+  dessus-I:
+    clef: treble
+    auto_beam: false
+    title: Dessus I
+  haute-contre-I:
+    clef: treble
+    auto_beam: false
+    title: Haute-contre I
+  taille-I:
+    clef: treble
+    auto_beam: false
+    title: Taille I
+  quinte-I:
+    clef: tenor
+    auto_beam: false
+    title: Quinte I
+  basse-taille-I:
+    clef: bass
+    auto_beam: false
+    title: Basse-taille I
+  basse-I:
+    clef: bass
+    auto_beam: false
+    title: Basse I
+  dessus-II:
+    clef: treble
+    auto_beam: false
+    title: Dessus II
+  taille-II:
+    clef: treble
+    auto_beam: false
+    title: Taille II
+  quinte-II:
+    clef: tenor
+    auto_beam: false
+    title: Quinte II
+  basse-taille-II:
+    clef: bass
+    auto_beam: false
+    title: Basse-taille II
+  basse-II:
+    clef: bass
+    auto_beam: false
+    title: Basse II
+score:
+  order:
+    - dessus-I
+    - haute-contre-I
+    - taille-I
+    - quinte-I
+    - basse-taille-I
+    - basse-I
+    - dessus-II
+    - taille-II
+    - quinte-II
+    - basse-taille-II
+    - basse-II
+    - dessus-sym
+    - dessus-sym-div
+    - haute-contre-sym
+    - taille-sym
+    - quinte-sym
+    - basse-sym-div
+    - basse-continue
+  groups:
+    - bracket: [dessus-I, haute-contre-I, taille-I, quinte-I, basse-taille-I, basse-I]
+    - bracket: [dessus-II, taille-II, quinte-II, basse-taille-II, basse-II]
+    - bracket: [dessus-sym, dessus-sym-div, haute-contre-sym, taille-sym, quinte-sym, basse-sym-div]
+  hide_figures: true
+  hide_empty_staves: all

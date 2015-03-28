@@ -7,22 +7,22 @@
   b b b
   e, c' cs
   b2 r4
-  r8 b e6-| ds-| e-| ds-| e8 e,
-  r b b'6-| as-| b-| as-| b8 b,
+  r8 b e6-! ds-! e-! ds-! e8 e,
+  r b b'6-! as-! b-! as-! b8 b,
   (e'8. ds6) (e f) (fs g) (gs a) (as b)
   $t1 b fs ds $$ ^cs8 b4\trill r
-  <gs' b, e,>4-| <gs b, e,>4-| <gs b, e,>4^\ten
+  <gs' b, e,>4-! <gs b, e,>4-! <gs b, e,>4^\ten
   a8 ^g!8 f4 e d8
   ^d8 c8. b6 a8 f'\p ^f8 (e8. d6)
   $t1 c\f a e $$ ^b8 a4\trill r
-  <as'' cs, fs,>4-| <as cs, fs,>4-| <as cs, fs,>4^\ten
+  <as'' cs, fs,>4-! <as cs, fs,>4-! <as cs, fs,>4^\ten
   b8 ^a8 g4 fs e8
   ^e8 d8. cs6 b8 g'\p ^g8 fs8.e6
-  $t1 d\f b fs $$ b,8-| r6 d' ds8.\trill cs3 ds
+  $t1 d\f b fs $$ b,8-! r6 d' ds8.\trill cs3 ds
   (e6 b) (b e) (fs b,) (b fs') (g b,) (b g')
-  r8 fs-| r e-| [ds8.\trill cs3 ds]
+  r8 fs-! r e-! [ds8.\trill cs3 ds]
   e4 (a6 e) (e a) (b e,) (e b')
-  r8 e,-| r e-| r e
+  r8 e,-! r e-! r e
   $t1 b' fs ds $$ b8 r6 fs' b4
   r8 a ^g8 fs4.\trill e8
   (e6 d8.) (c6 b8.) (a6 gs8.)
@@ -30,30 +30,30 @@
   (g!6 e8.) e4 ds
   (e6 g'8.^\ten) (e6 d8.) (c6 b8.)
   (as8. b3 cs) ^cs8 b4. a8
-  g-| e'-| c!4 b8. a6
-  g8. e6 fs4-| ds-|
-  e8-| e'-|\p c4 b
+  g-! e'-! c!4 b8. a6
+  g8. e6 fs4-! ds-!
+  e8-! e'-!\p c4 b
   e,8\f b' c4 b8 ds
   $t1 e b g $$ ^fs8 e4\trill r
   g4\p g g
   fs g g
   g a g
   fs r r
-  r8 b\f e6-| ds-| e-| ds-| e8 e,
-  r b b'6-| as-| b-| as-| b8 b,
+  r8 b\f e6-! ds-! e-! ds-! e8 e,
+  r b b'6-! as-! b-! as-! b8 b,
   (e'8. ds6) (e f) (fs g) (gs a) (as b)
   $t1 b fs ds $$ ^cs8 b4\trill^\ten r
   r r $t1 e\p b gs $$
   e4\trill r r
   r4 r $t1 d' a fs $$
   d4\trill r d'\f^\ten
-  c-|\p r e\f^\ten
-  d-|\p r r
+  c-!\p r e\f^\ten
+  d-!\p r r
   g,\p fs e
   d c (b8 c)
   fs4 r r
-  r8 d\f g6-| fs-| g-| fs-| g8 g,
-  r d' d'6-| cs-| d-| cs-| d8 d,
+  r8 d\f g6-! fs-! g-! fs-! g8 g,
+  r d' d'6-! cs-! d-! cs-! d8 d,
   (g8. fs6) (g ab) (a bb) (b c) (cs d)
   d8 d4 d d8 ~
   d d4 d d8 ~
@@ -71,9 +71,9 @@
   (bb6 g8.) g4 fs
   (g6 bb'8.^\ten) (g6 f!8.) (eb6 d8.)
   (cs8. d3 e!) ^e8 d4. c8
-  bb-| g'-| eb4 d8. c6
-  bb8. g6 a4-| fs-|
-  g8-|\p g'-| eb4-| d-|
+  bb-! g'-! eb4 d8. c6
+  bb8. g6 a4-! fs-!
+  g8-!\p g'-! eb4-! d-!
   g,8\f d' e!4 d8 fs
   $t1 g d b $$ g4 r
   d\p d d
@@ -97,32 +97,32 @@
   g4 r (g6 b,) (b g')
   a4 r r
   (e6\p b) (b e) (fs b,) (b fs') (g b,) (b g')
-  r8 fs-| r ds-| r ds
+  r8 fs-! r ds-! r ds
   (g6\f e) (e g) (a e) (e a) (b e,) (e b')
-  r8 c-| r b-| [a8.\trill g3 a]
+  r8 c-! r b-! [a8.\trill g3 a]
   $t1 b fs ds $$ b4\trill r
-  $t1 e\mp c a $$ e4-|\f $t1 e'\p c a
-  e' cs a $$ e4-|\f $t1 e'\p cs a
-  a' fs d $$ a4-|\f $t1 a'\p fs d
-  a' fs ds $$ b4-|\f $t1 b'\p fs ds $$
+  $t1 e\mp c a $$ e4-!\f $t1 e'\p c a
+  e' cs a $$ e4-!\f $t1 e'\p cs a
+  a' fs d $$ a4-!\f $t1 a'\p fs d
+  a' fs ds $$ b4-!\f $t1 b'\p fs ds $$
   (b'8. a6) (a8. g6) (g a b8)
   (c6 b8.) (a6 g8.) (g8.\trill fs6)
   fs4 r r
-  e-|\f ds-| r
+  e-!\f ds-! r
   R2.
   r1*3/4\fermata
-  <gs b, e,>4-|\ff <gs b, e,>4-| <gs b, e,>4^\ten
+  <gs b, e,>4-!\ff <gs b, e,>4-! <gs b, e,>4^\ten
   a8 ^g!8 f4 e d8
   ^d8 c8. b6 a8 f'\p ^f8 (e8. d6)
   ^d8 (c8. b6) a4 r
-  <as' cs, fs,>4-|\ff <as cs, fs,>4-| <as cs, fs,>4^\ten
+  <as' cs, fs,>4-!\ff <as cs, fs,>4-! <as cs, fs,>4^\ten
   b8 ^a8 g4 fs e8
   ^e8 d8. cs6 b8 g'\p ^g8 fs8.e6
-  $t1 d\f b fs $$ b,8-| r6 d' ds8.\trill cs3 ds
+  $t1 d\f b fs $$ b,8-! r6 d' ds8.\trill cs3 ds
   (e6 b) (b e) (fs b,) (b fs') (g b,) (b g')
-  r8 fs-| r e-| [ds8.\trill cs3 ds]
+  r8 fs-! r e-! [ds8.\trill cs3 ds]
   e4 (a6 e) (e a) (b e,) (e b')
-  r8 e,-| r e-| r e
+  r8 e,-! r e-! r e
   $t1 b' fs ds $$ b8 r6 fs' b4
   r8 a ^g fs4.\trill e8
   (e6 d8.) (c6 b8.) (a6 gs8.)
@@ -130,9 +130,9 @@
   (g!6 e8.) e4 ds
   (e6 g'8.^\ten) (e6 d8.) (c6 b8.)
   (as8. b3 cs) ^cs8 b4. a8
-  g-| e'-| c!4 b8. a6
-  g8. e6 fs4-| ds-|
-  e8-| e'-|\p c4 b
+  g-! e'-! c!4 b8. a6
+  g8. e6 fs4-! ds-!
+  e8-! e'-!\p c4 b
   e,8\f b' c4 b8 ds
   $t1 e b g $$ ^fs8 e4\trill\fermata r4
 }

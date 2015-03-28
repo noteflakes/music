@@ -7,8 +7,8 @@
   fs ^f8 g2
   r4 a r
   fs8 fs4 fs fs8
-  e b' e6-| ds-| e-| ds-| e8 e,
-  r b b'6-| as-| b-| as-| b8 b,
+  e b' e6-! ds-! e-! ds-! e8 e,
+  r b b'6-! as-! b-! as-! b8 b,
   cs4 r e
   fs8 fs4 fs fs8
   e4 e e
@@ -39,8 +39,8 @@
   b' g e
   c' a as
   b8 cs ds cs ds b
-  e\f b' e6-| ds-| e-| ds-| e8 e,
-  r b b'6-| as-| b-| as-| b8 b,
+  e\f b' e6-! ds-! e-! ds-! e8 e,
+  r b b'6-! as-! b-! as-! b8 b,
   cs4 r e
   ds r fs\p
   b, gs b
@@ -52,8 +52,8 @@
   g fs e
   d c b8 b'
   a a4 a a8 ~
-  a d,\f g6-| fs-| g-| fs-| g8 g,
-  r d' d'6-| cs-| d-| cs-| d8 d,
+  a d,\f g6-! fs-! g-! fs-! g8 g,
+  r d' d'6-! cs-! d-! cs-! d8 d,
   e4 r g
   fs8\p g a fs6 g a8 fs
   g4 r b,8 c
@@ -108,7 +108,7 @@
   g4 a b
   a r cs
   b r r
-  g-|\f fs-| r
+  g-!\f fs-! r
   R2.
   r1*3/4\fermata
   e4\ff e e

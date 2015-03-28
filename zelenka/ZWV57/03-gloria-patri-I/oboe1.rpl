@@ -9,20 +9,20 @@
   ^e8 ds8.\trill cs6 ^cs8 b4 r
   g'8 g4 g\trill (c6 g)
   fs8 fs4 fs\trill (b6 fs)
-  e8-| r r4 r
+  e8-! r r4 r
   R2.
-  gs4-| gs4-| gs^\ten
+  gs4-! gs4-! gs^\ten
   a8 ^g!8 f4 e d8
   ^d8 c8. b6 a8 r r4
   R2.
-  as'4-| as-| as^\ten
+  as'4-! as-! as^\ten
   b8 ^a8 g4 fs e8
   ^e8 d8. cs6 b8 r r4
   r4 r8 r6 d ds8.\trill cs3 ds
   e4 fs g
-  r8 a-| r g-| [fs8.\trill e3 fs]
+  r8 a-! r g-! [fs8.\trill e3 fs]
   g4 a b
-  r8 c-| r b-| [a8.\trill g3 a]
+  r8 c-! r b-! [a8.\trill g3 a]
   $t1 b fs ds $$ b8 r6 ds ^ds8 e4
   r8 cs ds4.\trill e8
   (e6 d8.) (c6 b8.) (a6 gs8.)
@@ -30,9 +30,9 @@
   (g!6 e8.) fs4.\trill e8
   (e6 g'8.^\ten) (e6 d8.) (c6 b8.)
   (as8. b3 cs) ^cs8 b4. a8
-  g-| e'-| r fs r ds
-  e8. e,6 fs4-| ds-|
-  e8-| e'-|\p r fs r ds
+  g-! e'-! r fs r ds
+  e8. e,6 fs4-! ds-!
+  e8-! e'-!\p r fs r ds
   b'8.\f e,6 fs4.\trill e8
   $t1 e b g $$ ^fs8 e4\trill r
   R2.*4
@@ -41,7 +41,7 @@
   
   g'8\f g4 g\trill (c6 g)
   fs8 fs4 fs\trill (b6 fs)
-  e8-| r r4 r
+  e8-! r r4 r
   R2.*10
   
   
@@ -54,7 +54,7 @@
   
   bb8\f bb4 bb\trill (eb6 bb)
   a8 a4 a\trill (d6 a)
-  g8-| r r4 r
+  g8-! r r4 r
   R2.*11
   
   
@@ -71,9 +71,9 @@
   (bb6 g8.) a4.\trill g8
   (g6 bb'8.^\ten) (g6 f!8.) (eb6 d8.)
   (cs8. d3 e!) ^e8 d4. c8
-  bb-| g'-| r a-| r fs-|
-  g8. g,6 a4-| fs-|
-  g8-|\p g'-| r a r fs
+  bb-! g'-! r a-! r fs-!
+  g8. g,6 a4-! fs-!
+  g8-!\p g'-! r a r fs
   d'8.\f g,6 ^b8 a4.\trill g8
   $t1 g d b $$ g4 r
   R2.*22
@@ -99,7 +99,7 @@
   
   
   g'4 a b
-  r8 c-| r b-| [a8.\trill g3 a]
+  r8 c-! r b-! [a8.\trill g3 a]
   $t1 b fs ds $$ b4\trill r
   R2.*9
   
@@ -111,18 +111,18 @@
   
   
   r1*3/4\fermata
-  gs4-|\ff gs-| gs^\ten
+  gs4-!\ff gs-! gs^\ten
   a8 ^g!8 f4 e d8
   ^d8 c8. b6 a8 r r4
   R2.
-  as'4-|\ff as-| as^\ten
+  as'4-!\ff as-! as^\ten
   b8 ^a8 g4 fs e8
   ^e8 d8. cs6 b8 r r4
   r4 r8 r6 d' ds8.\trill cs3 ds
   e4 fs g
-  r8 a-| r g-| [fs8.\trill e3 fs]
+  r8 a-! r g-! [fs8.\trill e3 fs]
   g4 a b
-  r8 c-| r b-| [a8.\trill g3 a]
+  r8 c-! r b-! [a8.\trill g3 a]
   $t1 b fs ds $$ b8 r6 ds ^ds8 e4
   r8 cs ds4.\trill e8
   (e6 d8.) (c6 b8.) (a6 gs8.)
@@ -130,9 +130,9 @@
   (g!6 e8.) fs4.\trill e8
   (e6 g'8.^\ten) (e6 d8.) (c6 b8.)
   (as8. b3 cs) ^cs8 b4. a8
-  g-| e'-| r fs r ds
-  e8. e,6 fs4-| ds-|
-  e8-| e'-|\p r fs r ds
+  g-! e'-! r fs r ds
+  e8. e,6 fs4-! ds-!
+  e8-! e'-!\p r fs r ds
   b'8.\f e,6 fs4.\trill e8
   $t1 e b g $$ ^fs8 e4\trill\fermata r4
 }

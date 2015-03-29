@@ -1,0 +1,44 @@
+title: "Markus Passion BWV 247"
+composer: Johann Sebastian Bach
+movements:
+  01-kyrie:
+    midi_tempo: 72 2
+  02-gloria:
+    midi_tempo: 68 2
+  03-gratias:
+    midi_tempo: 112 4
+  04-domine-deus:
+    midi_tempo: 64 2
+  05-quoniam:
+    midi_tempo: 38 4
+  06-cum-sancto-spiritu:
+    midi_tempo: 58 4
+score:
+  order:
+    - flute1
+    - flute2
+    - oboe1
+    - oboe2
+    - gamba1
+    - gamba2
+    - violino1
+    - violino2
+    - violini
+    - viola
+    - soprano
+    - alto
+    - tenore
+    - basso
+    - continuo
+  groups:
+    - brace: [flute1, flute2]
+    - brace: [oboe1, oboe2]
+    - brace: [gamba1, gamba2]
+    - brace: [violino1, violino2]
+    - bracket: [soprano, alto, tenore, basso]
+macros:
+  m1: "#6. #3"
+  m2: "#8 # ~ @6. #3 #6. #3"
+  m3: "#6 # #8 ~ @6. #3 #6. #3"
+  m4: "(#6. #3)"
+  

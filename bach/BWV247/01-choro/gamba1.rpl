@@ -1,0 +1,74 @@
+\relative c' {
+  \key b \minor
+  \time 4/4
+ 
+  fs4 ~ $m1 fs fs b fs $g1 b as g fs e $$
+  cs'8 e, ~ $m1 e g fs e (d cs) (e d) (cs b) (as b)
+  fs' fs cs d $$ e8 r $m6 d e cs as
+  a'8 b g e fs gs es cs $$
+  r6 gs' $m1 as b cs b cs d $m3 e, as b g fs e
+  ds fs g fs fs e $m1 e d d c c g' g as,
+  as e' e g, g fs fs as b g' fs e $$ d8 (cs6. b3)
+  $m1 b cs d cs $$ d2. ~
+  $m1 d gs as\trill b b gs es fs fs e fs g $$ (d8 cs6.) b3
+  c6. fs3 a8 ~ $m1 a c, c b as cs d gs, $$ as8. b6
+  b4 r r r6 e cs6. e3
+  fs8. c6 $m1 b a g fs $$ g8 r r4
+  r r6 fs' fs6. e3 d8 $m1 cs d e cs d e
+  as, fs' cs d $$ e8 r $m6 d e cs as
+  a'! b g e fs gs es cs
+  gs' as b cs $$ r2
+  r2 r8 $m1 as, b cs d $$ e8\trill
+  $m1 fs b a g fs e d cs d fs a c, $$ b8 cs6 d3 e
+  $m1 cs a' e f $$ g8 r $m6 f g e cs
+  c' d bb g a b gs e
+  b cs d e $$ r2
+  r6 d $m1 d cs cs b b a a cs fs a $$ cs4 ~
+  $m1 cs g g fs fs e e d d cs cs b es gs gs cs,
+  cs fs fs fs, fs d' cs d es, cs es gs $$ cs4 ~
+  cs ~ $m1 cs cs d cs $$ fs8 es ~ $m1 es d cs b $$
+  gs'8 b, ~ $m1 b d' cs b a gs b a (gs fs) (es fs)
+  cs g' g fs e g fs e d cs e d cs b as b 
+  gs' b, b a gs d' cs b a gs b a gs fs es fs
+  cs' cs gs a $$ b8 r $m6 a b gs es
+  e'! fs d b cs ds bs gs $$
+  r6 ds' $m1 (es fs) (gs fs) (gs a) $m3 b, es fs d cs b
+  as cs d cs cs b $m1 b a a g g d' d es,
+  es b' b d, d cs cs es fs d' cs b $$ (a8 gs6.) fs3
+  $m1 fs gs a gs $$ a2. ~
+  $m1 a ds (es\trill fs) (fs ds) (bs cs) cs b cs d $$ a8 $m1 gs fs
+  g! cs $$ e8 ~ $m1 e g, g fs es gs a ds, $$ es8. fs6
+  $m1 fs a' a g! fs e ds e $$ ds4 r
+  r6 fs $m1 g ds (e a,) (b g) $$ e8 r r4
+  r6 e $m1 a b cs e $$ g8 r2
+  r4 d ~ $m1 d b gs a $$ f'6 d e8
+  r4 e ~ $m1 e e, a cs e g a fs $$
+  d8 r r a' ~ $m1 a fs (ds e) c a b fs' $$
+  g4 r r r6 a fs6. a3
+  b8. f6 $m1 e d (c b) $$ c8 r r4
+  r4 r6 b' b6. a3 g8 $m1 fs g a g fs a 
+  ds, b' fs g $$ a8 r $m6 g a fs ds
+  d! e c a b cs as fs
+  cs' ds e fs $$ r2
+  r8 $m1 g, a b cs ds e fs g $$ a4 g6 fs
+  $m1 g fs e fs g a b c $$ d8 g, e (fs6 g3 a)
+  $m1 fs d a bb $$ c8 r $m6 bb c a fs
+  f'! g eb c d e cs a
+  e fs g a $$ r2
+  r6 g' $m1 (g fs) fs e e d d d fs b $$ ds,4 ~
+  $m1 ds c' c b b a a g g fs fs e as cs cs fs, 
+  fs b b b, b g' fs g as, fs as cs $$ fs4 ~
+  fs ~ $m1 fs fs g fs $m2 b as g fs e $$
+  cs'8 e, ~ $m1 e g fs e (d cs) (e d) cs b as b
+  fs c'' c b a c b a g fs (a g) fs e ds e
+  (cs' e,) (e d) cs g' fs e d cs e d cs b as b
+  fs' fs cs d $$ e8 r $m6 d e cs as
+  a'! b g e fs gs es cs $$
+  r6 gs' $m1 as b (cs b) (cs d) $m3 e, as b g fs e
+  ds fs g fs fs e $m1 e d d c c g' g as,
+  as e' e g, g fs fs as b g' fs e $$ d8 cs6. b3
+  $m1 b cs d cs $$ d2. ~
+  $m1 d gs (as b) b gs es fs fs e fs g $$ d8 $m1 cs b
+  c fs $$ a8 ~ $m1 a c, c b as cs d gs, $$ as8. b6
+  b1\fermata
+}

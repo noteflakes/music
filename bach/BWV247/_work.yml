@@ -13,18 +13,23 @@ movements:
     midi_tempo: 38 4
   06-cum-sancto-spiritu:
     midi_tempo: 58 4
+parts:
+  gamba1:
+    clef: alto
+  gamba2:
+    clef: alto
 score:
   order:
     - flute1
     - flute2
     - oboe1
     - oboe2
-    - gamba1
-    - gamba2
     - violino1
     - violino2
     - violini
     - viola
+    - gamba1
+    - gamba2
     - soprano
     - alto
     - tenore
@@ -41,4 +46,8 @@ macros:
   m2: "#8 # ~ @6. #3 #6. #3"
   m3: "#6 # #8 ~ @6. #3 #6. #3"
   m4: "(#6. #3)"
+  m5: "#4 ~ @6. #3 #6. #3"
+  m6: "r6 # #6. #3 #8 r"
+  v1: "#4 r8 #"
+  g1: "#8 # ~ @6. #3 #6. #3"
   

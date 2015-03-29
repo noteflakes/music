@@ -1,0 +1,74 @@
+\relative c' {
+  \key b \minor
+  \time 4/4
+ 
+  r6 d' cs6. d3 $m5 b d, cs e g
+    fs cs e fs fs, (g b) $m1 e fs (g e) $$
+  cs8 fs fs fs fs fs fs fs
+  g g g g cs, cs cs cs
+  fs fs fs fs g g g g 
+  b b $m1 b ds, ds e e fs fs g g c, c cs
+  cs as as b cs fs fs cs d as' b g $$ fs8 e
+  d1 ~
+  d6. gs,3 fs8 es gs fs g fs4 ~
+  fs6. a3 c8 ~ $m1 c a' g d $$ cs8 gs cs fs
+  fs4 r $m6 g e g cs, $$
+  r8. fs6 ds8 b b r r4
+  $m6 g' cs, d e $$ r4 r6 e fs6. g3
+  cs,8 fs fs fs fs fs fs fs
+  g g g g cs, cs cs cs
+  fs r $m6 e fs g cs, $$ r4
+  R1
+  r8 fs b, d d a' b b 
+  a a a a a a a a 
+  bb bb bb bb e, e e e 
+  a r $m6 b, cs ds es $$ r4
+  r6 gs $m1 a fs fs gs, gs cs $$ cs8 a r6 fs as cs
+  e8. e6 $m1 fs cs cs fs, (fs e') e d $$ cs8. cs6
+  $m1 cs cs' cs b b d, d gs, $$ gs4 r
+  r6 a' gs a $m5 fs a gs b $$ d,4 ~
+  $m1 d cs gs b $$ cs4 ~ $m1 cs cs d fs (b cs) (d cs) $$
+  cs8 cs, cs as' $m1 fs fs, g b e fs g fs $$
+  cs'8 cs, cs4 ~ $m1 cs cs, d fs b cs d b $$
+  gs'8 cs, cs cs cs cs cs cs
+  d d d d gs, gs gs gs
+  cs cs cs cs d d d d 
+  fs fs $m1 fs as, as b b cs cs d d g,! g gs
+  gs es es fs gs cs cs gs a es' fs d $$ cs8 b
+  a1 ~
+  a6. ds3 cs8 bs ds cs d cs4 ~
+  cs6. es3 g8 ~ $m1 g e d b $$ gs8 ds cs cs'
+  cs fs fs fs fs fs fs fs
+  g g g g gs gs gs gs
+  a a a a as as as as
+  $v1 b d, e e,
+  a a a a
+  d a fs ds' $$
+  b4 r r6 c' a6. c3 fs,8 r
+  r8. b6 gs8 e e r r4
+  $m6 c' fs, g a $$ r4 r6 a b6. c3
+  fs,8 b b b b b b b 
+  c c c c fs, fs fs fs
+  b r $m6 a, b c fs, $$ r4
+  R1
+  r8 b e g, g g c e
+  a, d d d d d d d 
+  eb eb eb eb a, a a a 
+  d r r6 e, fs6. gs3 as8 r r4
+  r6 cs $m1 d b b cs cs fs $$ fs8 d r6 ds fs a
+  $m1 c fs, fs b b fs fs b, b a' a g $$ fs8. fs6
+  $m1 fs fs fs e e g g cs, $$ cs4 r
+  r6 d' cs6. d3 $m5 b d cs e $$ g,4 ~
+  $m1 g fs cs e $$ fs4 ~ $m1 fs fs g b  e, fs g fs $$
+  fs8 fs fs ds' $m1 b b, c e a b c b $$
+  fs8 fs fs4 ~ $m1 fs fs, g b e fs g e $$
+  cs'8 fs, fs fs fs fs fs fs
+  g g g g cs, cs cs cs
+  fs fs fs fs g g g g 
+  b b $m1 b ds, ds e e fs fs g g c, c cs
+  cs as as b cs fs fs cs d as' b g $$ fs8 e
+  d1 ~ 
+  d6. gs,3 fs8 es gs fs g fs4 ~
+  fs6. a3 c8 ~ $m1 c a' g d $$ cs8 gs cs fs
+  fs1\fermata
+}

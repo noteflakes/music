@@ -147,5 +147,14 @@ thirtytwoFourFourBeam = {
    (markup #:override (cons 'line-width (* width-ratio
                                            (chain-assoc-get 'line-width props)))
            arg)))
+           
+%% functions to show ornamentation before notes
 
-\version "2.12.2"
+prallupbefore = {
+  \mark\markup {
+    \musicglyph #"scripts.prallup"
+    \hspace #1 
+  }
+}
+
+\version "2.18.2"

@@ -1,8 +1,8 @@
 title: "Markus Passion BWV 247"
 composer: Johann Sebastian Bach
 movements:
-  01-kyrie:
-    midi_tempo: 72 2
+  01-choro:
+    midi_tempo: 58 4
   02-gloria:
     midi_tempo: 68 2
   03-gratias:

@@ -1,0 +1,5 @@
+- parts:
+  - gamba1:
+    - clef: alto
+  - gamba2:
+    - clef: alto

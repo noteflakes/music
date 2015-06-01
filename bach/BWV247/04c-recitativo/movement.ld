@@ -1,0 +1,2 @@
+- key: d minor
+- pickup: 4

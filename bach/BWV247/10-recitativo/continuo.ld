@@ -1,0 +1,13 @@
+- key: d minor
+4br2r
+r4f+<6>r
+grc+<6>r
+2r || \key:"c major" 2d ~
+d b4<7><6>
+2g+<6>a
+f+'<5>8&rb,<6>r
+2.c4<6-b><7!3-2-><6!4+>4c+<7>
+2.d4e<6>
+2fa,<6>
+4brrc
+2f,r

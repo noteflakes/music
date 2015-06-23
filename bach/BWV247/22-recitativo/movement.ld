@@ -1,0 +1,2 @@
+- empty_staves: hide
+- key: g

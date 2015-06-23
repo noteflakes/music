@@ -1,0 +1,23 @@
+\key:b 4r8rfba+bc
+df,4r8c'-6aa8gf
+4rb8.g6g4g
+8rg+bcdbf-'f-
+rb,d6g+,g+8f-'ec-c-
+4radr||\key:C \clef:bass 
+8e-\"_Jesus:_" e-rcb-ara
+dg,gb4d,d
+8r6c'c8fcc6cb4d
+re,8c'6ag+4b
+re,f+g
+f+e
+2r
+R
+=lyrics
+Und ging ein we-nig für-bass, 
+fiel auf die Er-de, und be-te-te, 
+daß so es mög-lich wä-re, 
+die Stun-de vor-ü-ber-gin-ge, und sprach:
+
+Ab-ba, mein Va-ter, es ist dir al-les mög-lich, 
+ü-ber-he-be mich die-ses Kelchs.
+Doch nicht wie ich will, son-dern wie du willst.

@@ -1,0 +1,4 @@
+- Fix problem with umlauts in lyrics.
+- Layout:
+  - remove silly tagline.
+- For all recitativos, remove instrument names (except strings and flutes), and put "_Evangelist:_" at beginning.

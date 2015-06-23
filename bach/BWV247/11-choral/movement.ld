@@ -1,0 +1,2 @@
+- key: f major
+- pickup: 4

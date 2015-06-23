@@ -1,0 +1,2 @@
+- key: b minor
+- end_barline: ||

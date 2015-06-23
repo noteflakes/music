@@ -1,0 +1,2 @@
+- key: b minor
+- time: 3/4

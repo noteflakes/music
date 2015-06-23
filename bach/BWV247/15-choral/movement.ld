@@ -1,0 +1,2 @@
+- key: g major
+- pickup: 4

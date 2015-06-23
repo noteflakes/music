@@ -15,7 +15,7 @@ d+,ea,\fermata b
 =lyrics
 Sie stel-len uns wie Ket-zern nach,
 Nach un-sern Blut sie Trach--ten,
-=lyrics2
+=lyrics(2)
 Noch rüh-men sie sich Chris-ten auch,
 Die Gott al-lein groß ach--ten.
 =lyrics

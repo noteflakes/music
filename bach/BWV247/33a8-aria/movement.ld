@@ -1,5 +1,0 @@
-- time: 3/4
-- key: b- major
-- pickup: 8
-- macros:
-  - o: 4r8r_4_

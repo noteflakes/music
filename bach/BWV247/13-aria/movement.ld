@@ -1,0 +1,4 @@
+-key:g
+-time:3/8
+-pickup:8
+-tempo:vivace

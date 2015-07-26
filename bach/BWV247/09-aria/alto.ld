@@ -28,7 +28,7 @@
 rra+[@b]cr[gf]edr
 > mein Hei-land, mein Hei-land dich
 r[eg+]bd,d[ce]a[ce]d
-> ver--geß ich nicht,_
+> ver-geß__ ich nicht,_
 [c-bc-]~[@ba][b-ab-]~@[ag+]
 1.a~
 a~

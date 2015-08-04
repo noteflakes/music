@@ -1,0 +1,3 @@
+- key: a
+- time: 4/4
+- pickup: 4

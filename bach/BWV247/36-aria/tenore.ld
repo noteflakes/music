@@ -30,7 +30,7 @@ b~
 [d'c]4.d8r
 bagfd'c
 (4a4.g)8a
-(4.b8a)[bd]
+(4.b8a[bd])
 4.g[8fe+d]
 4.c+[8c+de+]
 2.f~
@@ -109,7 +109,7 @@ will ich doch gar gern' schwei-gen,
 will ich doch gar gern' schwei-gen,
 bö-se Welt, ver-fol-ge mich,
 
-will ich doch gar, gar ger-ne schwei-gen,
+will ich_ doch gar ger-ne schwei-gen,
 bö-se Welt, ver-fol-ge mich,
 O bö-se Welt, ver-fol-ge mich.
 

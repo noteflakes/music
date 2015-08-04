@@ -27,7 +27,7 @@ a'aaa[c-ba+a]~
 4br2r
 r4r8r6fc
 8db([6d'b])([ga])[bg8e+]~[6e+ce+g]
-[cafe+][fcfg][af8d+]~[6d+bd+f]
+[cafe+][fcfg][af8d+]~6d+[bd+f]
 8.b6a[gf][e+f]8.d'6e+,[fe+fg]
 4c,8r6a'a[ag]8ccb
 [ba]ag[6g-eg-]b8ec
@@ -83,7 +83,7 @@ daß er nun___ ge-nug ge-tan,
 
 
 Daß das E-den auf-ge-baut,____
-wel-ches wir zu-vor ver-lo-ren,
+wel--ches wir zu-vor ver-lo-ren,
 
 Daß das E-den auf-ge-baut,_
 wel-ches wir zu-vor ver-lo-ren,

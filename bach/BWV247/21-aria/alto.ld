@@ -29,7 +29,7 @@ ed8df[6g3a+b]4g~[6gfge]
 8d\trill 6[fe][dc][db]2e~
 1e~
 8.e6f{a}(ga)(fg)ag4a6bd-,
-{a}(ca')(gf)8.f6e4er
+[ca'g]f8.f\trill 6e4er
 R*9
 
 
@@ -42,13 +42,13 @@ R*9
 2r4r\fermata 8ef
 gabge+[6dc]8f[6ag]
 8.g6f{a}edeca+g8a+r6b+d
-$^6f8e[6d3ef]8.b+,6c4cr
+$^6f8e[6d3ef]8.b+,\trill 6c4cr
 R*2
 
 2r4r8g'[6fe]
 8de\trill {a}fdb+c8b+[6a+g]8c{a}ed
 8.d6c{a}(b!a+)(bg)e+'d4e+6f+a+
-{a}e!db'a+8.f+6g4gr
+{a}e!db'a+8.f+\trill 6g4gr
 R*4
 
 =lyrics

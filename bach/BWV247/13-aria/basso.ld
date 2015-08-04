@@ -83,7 +83,7 @@ R*18
 
 
 
-8rd6g3[ab]
+8rd3[g3a]6b
 [8ac+,]d
 [6a'b+][8.b+\trill 6c]
 8c[6edcb]
@@ -92,7 +92,7 @@ R*18
 4d8d~
 d[6gf+]8g~
 g[6f!edc]
-8c'4a\trill
+8c'ba
 4.b~
 8[ba-g]
 4.a-~
@@ -187,7 +187,7 @@ folg ich dir nach,
 durch Kreutz und Schmach,
 folg ich dir nach,
 
-und wo du stirbst, da will ich ster--ben,
+und wo du stirbst, da will ich ster---ben,
 und wo du stirbst, da will ich ster-ben, 
   ster-ben, wo du stirbst, da will ich
   ster---ben,

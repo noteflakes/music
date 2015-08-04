@@ -5,18 +5,18 @@
 
 
 
-2.r4.r8rra'
-> Mein Hei--land,_ dich ver-geß ich nicht,
-[feg]~[gfe][dfa]4.c-~
-8@ba[6bc-8d]b(4b8a)rrb
+2.r4.r8rra' 
+> Mein Hei-land, dich__ ver-geß ich nicht,
+[feg]~[gf]e[dfa]4.c-~
+8[@b]a[6bc-8d]b(4b8a)rrb
 > mein Hei--land,
 [gfa]~[agf][gd+]erra
-> mein Hei-land, dich ver-geß ich nicht,
-[f6ef]8g~gfefcdrra'
-> mein Hei-land, dich 
-[dcb]~[bag+]~[@f]e~ed'c
-> ver--geß ich nicht,
-[cba][bg+]a(4a8g+)rrb
+> mein Hei--land,
+[f6ef8g]~[gfe][fc]drra'
+> mein Hei-land, 
+[dcb]~[bag+]~[@fe]~[ed']c
+> dich ver-geß ich nicht,
+[cb]a[bg+]a(4a8g+)rrb
 > mein Hei-land, mein 
 4b8arrc4.d,~[8dcb]
 > Hei--land, dich ver-geß ich nicht,
@@ -29,7 +29,7 @@ rra+[@b]cr[gf]edr
 > mein Hei-land, mein Hei-land dich
 r[eg+]bd,d[ce]a[ce]d
 > ver-geß__ ich nicht,_
-[c-bc-]~[@ba][b-ab-]~@[ag+]
+[c-bc-]~[@ba][b-ab-]~[@a]g+
 1.a~
 a~
 > mein Hei-land, dich 
@@ -66,8 +66,8 @@ R*3
 [da+]b[fa]g[gd+]e4.e~
 > und mei-nen Trost auf dich ge-richt,
 4e8g[fb][6a+b][cd8e]d[f,b]a+
-> und mei-nen Trost
-4b8a![ag]r rrf[fe+]b'
+> auf dich ge-richt,
+4b8a!([ag])r rrf([fe+])b'
 > auf dich ge-richt,_ und mei-nen
 [ba]d4.d~[8dc]b[ag+]f
 > Trost auf dich gericht,____ 
@@ -76,16 +76,16 @@ R*3
 > und mei-nen Trost
 [8@6e+fg+a][bag+abc][8dg+,]abe+,c'~
 > auf dich ge-richt.
-c[6bag+f]8b4g+4.f~4f8r
+c[6bag+f]8b4g+\trill 4.f~4f8r
 R
 2.r4.r8rra
-> Mein Hei--land,_ dich ver-geß ich nicht,
-[feg]~[gfe][dfa]4.c-~
-8@ba[6bc-8d]b(4b8a)rrb
+> Mein Hei-land, dich__ ver-geß ich nicht,
+[feg]~[gf]e[dfa]4.c-~
+8[@b]a[6bc-8d]b(4b8a)rrb
 > mein Hei--land,
 [gfa]~[agf][gd+]erra
-> mein Hei-land, dich ver-geß ich nicht,
-f[6ef]8g~[gf]efcdrrd
+> mein Hei--land,
+[f6ef8g]~[gfe][fc]drrd
 > mein Hei-land, dich 
 [b'ag]~[gfe]~[ed]c~ceg
 > ver-geß__ ich nicht,
@@ -93,10 +93,10 @@ f[6ef]8g~[gf]efcdrrd
 > ich nicht, mein Hei-land,
 (4e8d)rrd' 4.g,~8gfe
 > mein Hei-land, dich ver-geß ich nicht,_
-[fa][c-b][6ag][fe][8d'c]b4.a~
+[fa]c-b[6agfe][8d'c]b4.a~
 2.a~4.a~4a8d,
 > mein Hei-land, dich ver-geß ich nicht,
-[c-'b]a[6bc-8d]b[bg]a[c-,b]r
+[c-'b]a[6bc-8d]b[bg]a([c-,b])r
 > mein Hei-land, mein Hei-land,
 rrb[d+e]fr[c-'b]agr
 > mein Hei-land, mein Hei-land, dich

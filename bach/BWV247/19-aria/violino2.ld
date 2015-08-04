@@ -49,7 +49,7 @@ rd,(6b'c8d+)rf,(6d+'efe)
 8r(6gf)(fe)(ed+)8@r4r
 8r(6c-'b)(ba)(ag+)8@r4r
 8rcda+4b8rd
-{4_8_r}cc-bb
+{4_8r_}cc-bb
 8a+rcrerre
 db~ba+b([6%d,cd])([ede])([fef])
 4b,r2r

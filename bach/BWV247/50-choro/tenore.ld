@@ -22,7 +22,7 @@
 [a,b]c-4b8b4.b4&8b
 4.c4&8d[ede][a,c]d
 4.d8[&c]a4.a4& 8d
-[bd]f,d'dr4.r8rrr
+[bd]f,d'dr4.r8rre
 [ce]g+,ae'r4.r8rrf
 {d}ffb,g+8[cb]ag+g+c
 {d}f,g+ab8[ag+]f{d}d'b
@@ -48,16 +48,17 @@ und ü-ber dein ver-dienst-lich Lei-den,
 von Her-zen froh___ und dank-bar sein,
 von Her-zen froh__ und dank-bar sein.
 
-Schau, die-se Grab-schrift sollst du ha-ben,
-Schau, die-se Grab-schrift sollst du ha-ben
+Schau, die-se Grab-schrift,
+schau, die-se Grab-schrift,
+schau, die-se Grab-schrift sollst du ha-ben:
 
 mein Le-ben kommt aus dei-nem Tod,
 hier hab ich mei-ne Sün-den-not
 und Jes-um selbst in mich be-gra-ben;
 
 Schau, die-se Grab-schrift,
-Schau, die-se Grab-schrift,
-Schau, die-se Grab-schrift sollst du ha-ben,
+schau, die-se Grab-schrift,
+schau, die-se Grab-schrift sollst du ha-ben:
 
 mein Le-ben kommt aus dei-nem Tod,
 hier hab ich mei-ne Sün-den-not

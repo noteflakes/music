@@ -22,11 +22,11 @@ R*6
 8rf'$^6e8d$^6c8b8.g+6b[dc]8d
 c6ra[gf]8d+'e$^6d8c-[6ag]8a
 g[6bd][(f-e)][d+e]8a,[6g'f]8.d+6e
-[fd+]8br[6b3c-^d][6g+,bdf-]~[@e][ed]
-[(8dc-)]rb[6a+ceg]~[gf(fe+)]
-4f~[6fe!(ed+)]4e~[6ed(dc)]
-[(dc)(cb)][c-b][ba+]4b8rb
-4d8rd$^8d8.c-6d8e[6dc-]
+[fd+]8br[6b3c-^d][6g+,b][df-][@e][ed]
+8dc-rb[6a+c][eg][gf][fe+]
+4f~[6(fe!)(ed+)]4e~[6ed(dc)]
+[(dc)(cb)][(c-b)(ba+)]4b8rb
+$^6a8.g+6a[bc]8d $^6d[8.c-6d8e][6dc-]
 ([ba+])rb[c!d]8e[e6d+]e8f([6ed^])
 ([8cb+])r[6g+3ab][6e+,g+][bd!][dc][cb]
 8ba+re[6d+f][ac-][@b][ba+]
@@ -56,9 +56,10 @@ er kommt, er ist vor-han-den!
 mein Je-su, ach! er su-chet dich,
 ent-flie-he doch, und las-se mich
 mein Heyl, statt dei-ner in den Ban-den,
-er su-chet dich, er su-----chet dich!
+statt dei-ner in den Ban-den,
+statt dei-ner in den Ban----den,
 
-mein Heyl, er su---chet dich, 
+mein Je-su, ach!, er su-chet dich, 
 ent-flie-he doch, und las-se mich
 statt dei-ner in den Ban-den,
 statt dei-ner in den Ban---den,

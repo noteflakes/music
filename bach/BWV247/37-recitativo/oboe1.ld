@@ -13,4 +13,12 @@ dd~
 4ee2d
 4dc+fe
 dc+fe
-4e8ee2e
+4e8ee2e || \key:C
+R*3
+
+ || 
+\instr R
+4dcfe
+2.d+4e
+d+fee
+4e8@@2@

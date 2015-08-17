@@ -13,4 +13,12 @@ R*27 || \key:d \instr
 8<gb,>r4r 8<aa,>r4r
 8<aa,>r4r 8<aa,>r4r
 8<aa,>r4r 8<aa,>r4r
-4<aa,>8<aa,><aa,>2<aa,>
+4<aa,>8<aa,><aa,>2<aa,> || \key:C
+R*3
+
+ || 
+\instr 8<ge->\staccatissimo r4r8<ge->\staccatissimo r4r
+8<b-d,>\staccatissimo r4r8<fa,>r4r
+8<aa,>r4r 8<aa,>r4r
+8<ad+,>r4r 8<ea,>r4r
+4<eb>8<eb><eb>2<eb>

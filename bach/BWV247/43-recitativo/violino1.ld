@@ -1,5 +1,5 @@
 R*14
-\instr 2r4r \key:b 8a+''@ || 
+\instr 2r4r || \key:b 8a+''@
 4b8rf~6fedc8br
 rb'~6bagf8errg~
 6gfed8crregf

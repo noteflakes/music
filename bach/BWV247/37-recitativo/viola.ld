@@ -13,4 +13,14 @@
 8<g,g,>r4r 8<ac,>r4r
 8<eb>r4r 8<da>r4r
 8<fa,>r4r 8<da>r4r
-4<c+e,>8<c+e,><c+e,>2<c+e,>
+4<c+e,>8<c+e,><c+e,>2<c+e,> || \key:C
+R*3
+
+ || 
+\instr 8<gc,>\staccatissimo r4r8<gc,>\staccatissimo r4r
+8<d'g+,>\staccatissimo r4r8<d+b>r4r
+8<a'd+,>r4r 8<ae>r4r
+8<ec>r4r 8<ca>r4r
+4<eg+,>8<eg+,><eg+,>2<eg+,>
+
+

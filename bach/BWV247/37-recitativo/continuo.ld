@@ -39,4 +39,12 @@ c+,af'edbf'e
 dba'ga,fc'b
 ag+baag+ba
 ag+baag+ba
-4a8aa2a
+4a8aa2a || \key:C
+4g+<6>r2r
+4a<#>r2r
+4d<#>g,rf'<42> ||
+8e-ca-'ge-cb-'a
+e!d+feed+fe
+e,d+feed+fe
+ed+feed+fe
+4e8ee2e

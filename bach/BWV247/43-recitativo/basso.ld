@@ -1,5 +1,5 @@
  R*14
-2r4r \key:b 8ff || 
+2r4r \key:b 8ff 
 2r8rb,bb
 e6ef8gg2r
 2r8rfff

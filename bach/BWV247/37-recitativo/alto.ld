@@ -13,10 +13,22 @@ R*4
 2b4aa
 2.g4a
 g+baa
-4a8aa2a
+4a8aa2a || \key:C
+R*3
+
+ || 
+2r4gf+
+b-a2a
+4ag+cb
+ag+cb
+4b8@@2@
 =lyrics
 Kreu---zi-ge Ihn, 
 kreu---zi-ge Ihn, 
 kreu---zi-ge Ihn, 
 kreu--zi-ge Ihn, 
+kreu-zi-ge Ihn.
+
+Kreu--zi-ge Ihn, 
+kreu--zi-ge, kreu--zi-ge, 
 kreu-zi-ge Ihn.

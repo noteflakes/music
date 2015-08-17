@@ -39,7 +39,15 @@ e-'cda4b-r || \key:d
 2g4ff
 2e4dc+
 fedc+
-c+8@@2@
+c+8@@2@ || \break \key:C
+8.r6e\"_Evangelist:_" 8ebddeb
+c+@ \clef:bass 8rg\"_Pilatus:_" b-6ag8a6ae
+4f+ \clef:treble_8 8b!\"_Evangelist:_" 6bc8d6bg8e-'d || \break
+4cbe-d
+de!d+g
+f+2.e~
+1e
+4e8@@2@
 =lyrics
 Er pfle-ge-te a-ber ih-nen auf das Os-ter-fest 
 ei-nen Ge-fan-ge-nen los zu ge-ben, 
@@ -73,3 +81,13 @@ Kreu---zi-ge Ihn,
 Kreu---zi-ge Ihn, 
 Kreu---zi-ge Ihn, 
 Kreu----zi-ge, Kreu-zi-ge Ihn.
+
+Pi-la-tus a-ber sprach zu ih-nen: 
+
+Was hat Er denn ü-bels ge-tan? 
+
+A-ber sie schri-en noch viel mehr: 
+
+Kreu--zi-ge Ihn, 
+Kreu--zi-ge Ihn,_
+Kreu-zi-ge Ihn.

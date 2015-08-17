@@ -13,4 +13,12 @@ aa
 ba
 gg
 g+a
+a8ar4r || \key:C
+R*3
+
+ || 
+\instr {v1}gg
+b-{v2}a
+ac
 aa
+4b8@@2@

@@ -13,4 +13,12 @@ b+a
 2b4aa
 2.g4a
 g+baa
-g8gg2g
+g8gg2g || \key:C
+R*3
+
+ || 
+\instr 2.g4f+
+b-ad+,b~
+2b4ag+
+cbag+
+4g+8@@2@

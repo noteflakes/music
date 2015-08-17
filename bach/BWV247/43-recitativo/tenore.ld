@@ -12,7 +12,7 @@ r6aa8ddr6g,a8b6bb
 8f-'@d+6d+e8eb4r
 8r6bb8c6ba8c+c+4r
 8f6c+c+8.d6d8d6c+b8c+g+ \break
-a+6a+b8c+^c+!^4r \key:b 8cc || 
+a+6a+b8c+^c+!^4r || \key:b 8cc  
 8rf,ffb6bc8dd
 R
 2r8ra+ba+
@@ -21,7 +21,11 @@ br2r
 2r8dabg
 2r8g+'dec
 2r4r8rf
-e+edc4ff
+e+edc4ff || \break \key:e
+8rb,\"_Evangelist:_" c6aa8f'6ff8ef
+8g6gb,8e6ec+4d8b6c+d
+8dc+^4r8.d+6d+8eb
+c!creeb4r ||
 =lyrics
 Und es war um die drit-te Stun-de, 
 da sie ihn kreu-zig-ten. Und es war 
@@ -44,3 +48,7 @@ und bau-est ihn in drei-en
 Ta--gen. 
 Hilf dir sel-ber, hilf dir sel-ber, 
 und steig  he-rab vom Kreu-ze.
+
+Des-sel-bi-gen glei-chen die Ho-hen-pries-ter 
+ver-spot-te-ten ihn un-ter ein-an-der, 
+samt den Schrift-ge-lehr-ten, und spra-chen: 

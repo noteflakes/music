@@ -1,8 +1,7 @@
-- key: d minor
-4br2r
+4b,r2r
 r4f+<6>r
 grc+<6>r
-2r || \key:"c major" 2d ~
+2r || \break \key:C 2d ~
 d b4<7><6>
 2g+<6>a
 f+'<5>8&rb,<6>r

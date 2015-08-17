@@ -3,7 +3,7 @@ bcf,\fermata [8fe]
 4d[8cb]4ad
 g,[8ab]4c\fermata c+
 8[de][fd]4g[8dc]
-(4bc)f,\fermata :| f'
+(4bc)f,\fermata :|. f'
 ee-dc+
 ddg,\fermata a
 bc[8de]4f

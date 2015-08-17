@@ -1,0 +1,2 @@
+- key: G
+- instrument_names: hide

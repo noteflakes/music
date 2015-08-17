@@ -1,0 +1,1 @@
+- instrument_name_style: smallcaps

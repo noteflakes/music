@@ -4,3 +4,5 @@ _midi
 _collate
 .DS_Store
 *.pdf
+*.midi
+*.mp3

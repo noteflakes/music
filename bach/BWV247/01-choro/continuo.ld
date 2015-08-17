@@ -1,4 +1,4 @@
-8b,b'b,b'b,b'b,b'
+ 8b,b'b,b'b,b'b,b'
 a+,a+'a+,a+'b,b'g,g'
 f,f'f,rrf'f,r
 rg'g,rrcc,r

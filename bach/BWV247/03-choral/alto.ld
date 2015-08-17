@@ -1,7 +1,4 @@
-- key: b minor
-- pickup: 4
-  8[f'g]
-4agaa
+  8[f'g] 4agaa
 b8[ag]4f\fermata g+
 agfb
 ba+f\fermata :|. a
@@ -15,7 +12,7 @@ a8[g+a+]4b8[e,f]
 =lyrics
 Sie stel-len uns wie Ket-zern nach,
 Nach un-sern Blut sie Trach--ten,
-=lyrics(2)2)
+=lyrics(2)
 Noch rüh-men sie sich Chris-ten auch,
 Die Gott al-lein groß ach--ten.
 =lyrics

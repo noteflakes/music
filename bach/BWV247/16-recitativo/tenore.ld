@@ -1,4 +1,4 @@
-\key:b 4r8rfba+bc
+ 4r8rf\"_Evangelist:_" ba+bc
 df,4r8c'-6aa8gf
 4rb8.g6g4g
 8rg+bcdbf-'f-
@@ -6,7 +6,7 @@ rb,d6g+,g+8f-'ec-c-
 4radr||\key:C \clef:bass 
 8e-\"_Jesus:_" e-rcb-ara
 dg,gb4d,d
-8r6c'c8fcc6cb4d
+8r6fg8a-fc'6cb4d
 re,8c'6ag+4b
 re,f+g
 f+e

@@ -1,7 +1,4 @@
-- key: b minor
-- pickup: 4
-  4b'8<5><6>
-f<6>g8<3><4+>8[f<6>e]4d
+  4b8<5><6> f<6>g8<3><4+>8[f<6>e]4d
 g<65>ad,\fermata b<6+>
 ae'8<5><6>8[b'a][g<6>f<64>]
 4e+<h>f<#>b\fermata :|. a

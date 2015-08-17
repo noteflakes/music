@@ -1,2 +1,3 @@
 - key: b minor
 - time: 4/4
+- instrument_names: show

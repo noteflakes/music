@@ -1,9 +1,9 @@
-[8a'b] 4cb[8ac]4f
+[8ab] 4cb[8ac]4f
 fcc\fermata a
 dd[8cb]4a
 bcc\fermata a
 aaga
-(d[8cb])4a\fermata :| a
+(d[8cb])4a\fermata :|. a
 bcde
 [8a,b]4cb\fermata c
 [8ba]4g[8fg][ab]

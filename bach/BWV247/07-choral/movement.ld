@@ -1,2 +1,3 @@
 - key: a major
 - pickup: 4
+- instrument_names: hide

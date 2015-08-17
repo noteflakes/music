@@ -1,0 +1,2 @@
+- pickup: 4
+- instrument_names: hide

@@ -1,7 +1,6 @@
-\key:E
 R*9 || \key:b
-R*8 ||
-R
+R*8 || 
+\instr R
 {6_@@@}f'' f g g
 f f f f
 f f e e

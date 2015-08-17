@@ -1,0 +1,37 @@
+ 4g+<6>r2r
+4e+<6+>r2r
+R
+4f+<5>r2r
+4g+<#>g+<h6>2r
+4a,rf+<#>r
+d'<6#>g<5>e+<7>r
+rf+<#>d+<6>r
+rea,<6+>r
+2r4f+'<#>a+,<6>
+be+,<6>rf+'<5>
+g<4+>f+<6>a<4+>g+
+g!<64+3>f+<64>e+<7>f<6>
+e<#>r2r
+4rea,r
+c+<6>r2r
+4drd<4+>r
+c<6>f<6>f<b>d<4+3>
+arb-<42>r
+a<7#>rb-<b>e-,<b>
+g-<6>rrf'<h> || \key:F \break
+8b,cdbe-fg<6-43>f
+ecfef+<6>dgf
+e<5`>decffff,
+fff'fff,ff
+f'e<6+>f+<6>dg,g'<4+3>f+d
+e-<5!>e<75`><6>ff+fe<7>4r
+8a,e'a<5>g<643>f,f'e<6>f
+f,e<6>fc'fe<5`>fd+<5`>
+4.e4<64>8<#>8a<7#>d,<#>cb<6>g
+c<b>b<6>4d<6#>c<6>e<6#>
+d+<6!#>f<4!3>2e<7#>
+2.a,4<9#>2<8h>4e'<#> || \key:C \break
+4f<6>r2r
+4dr2r
+re<#>
+1a,

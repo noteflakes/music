@@ -3,7 +3,7 @@
 fggf
 [8fe]4fe\fermata e
 ed[8de]4f
-(fe)c\fermata :| f
+(fe)c\fermata :|. f
 ggf+g
 gf+d\fermata f
 f[8c'b][ag]4f

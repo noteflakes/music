@@ -1,0 +1,3 @@
+- key: d major
+- empty_staves: hide
+- instrument_names: hide

@@ -1,6 +1,7 @@
-- key: d minor
 R*3
-2r || \key:"c major" 2a''' ~
+
+
+2r || \key:C 2a'' ~
 2.a4g
 6reee8er2c
 c+8f+rdr

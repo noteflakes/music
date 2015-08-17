@@ -1,9 +1,9 @@
-4r8e'a,b-ge'6de
-4f8r\"_Petrus:_" dab-c6b-a
+4r\"_Evangelist:_" 8e'a,b-ge'6de
+4f 8r\"_Petrus:_" dab-c6b-a
 8.f+'6@4@8rdb!c
 ddfe-dc4r
-4r8r\"_Evangelist:_" e!ebdc
-4c r  \clef:bass a\"_Jesus:_" 8ee
+4r 8r\"_Evangelist:_" e!ebdc
+4c r \clef:bass a\"_Jesus:_" 8ee
 8.e6f4g8g6ga8b-g
 4c+r8ea,ab
 c+6ba8ddrd,dd

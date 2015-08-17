@@ -1,4 +1,4 @@
-\key:b 4b<5>r2r
+4b,<5>r2r
 r4d+<7>r
 2r4er
 d<4+h>r2r

@@ -1,7 +1,4 @@
-- key: b minor
-- pickup: 4
-  4b'
-fg8[fe]4d
+  4b fg8[fe]4d
 gad,\fermata b
 ae'8[b'a][gf]
 4e+fb\fermata :|. a

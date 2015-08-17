@@ -1,4 +1,4 @@
-4g'' defg
+4g' defg
 abg\fermata [8bc]
 4dd[8bc]4d
 2c4b\fermata b

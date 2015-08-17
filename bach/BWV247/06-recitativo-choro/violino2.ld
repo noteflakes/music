@@ -1,0 +1,66 @@
+ R*3
+
+
+2.r4r || \time:3/4 \partial:4 4r 
+\instr R
+4r2a'
+4c,ad
+dc8ef
+2.g~
+g~
+4g8fg4a~
+agr
+8ef2g
+f4a~
+8agabc-a
+babcdb
+4e,fg
+4.f8e4e
+aaa
+4.a8a4a
+bar || \time:4/4 \key:G
+R*3
+
+ || \key:C
+R*16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ || \mark:6e
+R*10
+
+
+
+
+
+
+
+
+ || \mark:6f
+R*5
+
+
+
+ || \key:b
+R*3
+
+ || \time:3/4
+\instr R*2
+
+4rd,f
+rrb
+drr
+2.b, || \time:4/4
+R*2
+

@@ -1,0 +1,3 @@
+- key: D
+- pickup: 4
+- instrument_names: hide

@@ -1,23 +1,27 @@
-- key: b minor
 R
-2r \key:"e minor" c''
+2r c'' || \key:e
 1b
 2c4rb
 1b~
 b
-2a ~ \key:"d minor" a
+2a ~ \key:d a
 1g
 2cd~
 1d
 2ad~
 4dc2b
 2r4ar
-ar2r|| \key:"b- major"
+ar2r|| \key:B-
 R*3
+
+
 2rc~
 1c
 2br
 R*4
+
+
+
 1f'
 1d
 2bc~

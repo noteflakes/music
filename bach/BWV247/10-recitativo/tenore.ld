@@ -1,8 +1,7 @@
-- key: d minor
-8r6b'c8dc8.e-6d8db
+8r\"_Evangelist:_" 6bc8dc8.e-6d8db
 bcddr6ab8ca
 b6bc8dbraae
-gfff || \key:"c major" \clef:bass r\"_Jesus:_" a,de
+gfff || \key:C \clef:bass r\"_Jesus:_" a,de
 6ffge4f8ad,dc+
 eer6eb8c6cd8ea,
 rc+f+6f+g+8afgg

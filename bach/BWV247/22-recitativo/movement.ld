@@ -1,2 +1,3 @@
 - empty_staves: hide
 - key: g
+- instrument_names: hide

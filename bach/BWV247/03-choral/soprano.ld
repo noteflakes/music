@@ -1,7 +1,4 @@
-- key: b minor
-- pickup: 4
-  4d''
-d8[bc][de]4f
+  4d'' d8[bc][de]4f
 eed\fermata d
 c8[bc]4d8[ed]
 2c4b\fermata :|. e

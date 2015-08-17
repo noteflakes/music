@@ -1,8 +1,14 @@
-R*5 \key:d
+R*5 
+
+
+
+ \key:d
 2d''g,
 4g+d'2c \key:C
 R*3
-2r4re~
+
+
+2r4r || e~
 1e
 c
 2.b4r

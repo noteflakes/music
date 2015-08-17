@@ -1,4 +1,4 @@
-R*10
+ R*10
 4br8cc,4r
 8.d+6f8d+b([6ee'bg]8e)g
 4.a+,8a+'8.b6a8gg

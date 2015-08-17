@@ -1,0 +1,4 @@
+- key: C
+- time: 4/2
+- instrument_names: hide
+- empty_staves: hide

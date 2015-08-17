@@ -1,4 +1,13 @@
 R*10
+
+
+
+
+
+
+
+
+
 4d''r8ec4r
 8.f6c-[ba][gf][gb8e]~6e[bef]
 8gf4f~6f[b,a+b]8e[6dc]
@@ -17,7 +26,7 @@ c'r8cb4r
 8dc4r8a6rc[ba][g+f]
 8e'r4r8d6rf[ed][cb]
 8g+'r6rd6.c3b{6._3_}[ag+][ba][g+f][e+f]
-8e+6d+c8ra'([ag+])4r
+8e+[6d+c]8ra'([ag+])4r
 ([8a+b])rbf'f{6._3_}[fd+][ec]
 8b+crc6g+'e+8f~[6fb,][a+b]
 [ec]8drc[6ba!][ag!][gd'][de+,]
@@ -70,7 +79,7 @@ Ich will so lan-ge Dich be-wei-nen,
 Bis mir, mir, Dein Trost wird wie-der schei-nen,
 Dein Trost wird wie-der schei-nen,
 Dein Trost wird wie-der schei-nen,
-Ich will so lan-ge Dich be-wei-nen,
+Da ich ver-söh-net wer-de sein,_
 Dein Trost wird wie-der schei-nen, 
 Da ich ver-söh-net wer-de sein;
 
@@ -87,7 +96,7 @@ Geh, Je-su, Je-su, geh zu Dei-ner Pein, geh zu Dei-ner Pein,
 Ich will so lan-ge Dich be-wei-nen,
 Bis mir, mir, Dein Trost wird wie-der schei-nen,
 Dein Trost wird wie-der schei-nen,
-Da ich ver-söh-net wer-de sein;
+Da ich ver-söh-net wer-de sein;_
 
 Dein Trost wird wie-der schei-nen,
-Da ich ver-söh-net wer-de sein.
+Da ich ver-söh-net wer-de sein._

@@ -1,1 +1,3 @@
+- key: E 
 - empty_staves: hide
+- instrument_names: hide

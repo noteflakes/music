@@ -1,0 +1,3 @@
+- key: b minor
+- pickup: 4
+- instrument_names: hide

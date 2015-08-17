@@ -8,8 +8,8 @@ aa
 cb
 aa
 ac
-bc
-cb
+ba
+aa
 ba
 g+g+
 g+a

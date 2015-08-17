@@ -1,12 +1,12 @@
  4erd<6>r
-d-<643>rc<7>r
+d-<643>rc<7h>r
 2r4f<b>b,<6b>
 rcfr
 e<643>rd<7#>r
 R
 2r4f<4!2>e<6>
 rd<#>g,r
-e'<5`>ff+<6>g<h>
+e+'<5`>ff+<6>g<h>
 g+<6>a<#>g<4+2>r
 f+<6>re<#>r
 2r4ra,<#> || \key:C
@@ -16,7 +16,7 @@ R*2
 
 2r4d'<#>g,
 e<#>r2r
-4g+'<6>rg!^<4+2>r
+4g+'<6>rg<4+2>r
 2r4f<6>r
 re<#>a,<#>r
 R

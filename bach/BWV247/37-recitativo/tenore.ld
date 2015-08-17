@@ -2,7 +2,7 @@
 8ggga-8.b6bbbbc
 8d-6bb8cga-a-6ggba-
 8gf4r8rff6fg
-8aar6bc8.c6f+,8f+6rg
+8aa6r6b8c8.c6f+,8f+6rg
 8aaa6ab8.c6c8c6cd
 8ecda8.b+6g8cb
 ag4rr8ga
@@ -23,7 +23,7 @@ cb4r8re,ab
 eg,b-a4ff || \clef:bass
 8ra,\"_Pilatus:_" de4f8r6fg
 8ad,6rdde8.f6f8f6rd
-8a'aa6ab-8cc \clef:treble_8 8r\"_Evangelist:_" a
+8a'aa6ab-8cc \clef:treble_8 8ra\"_Evangelist:_" 
 e-'cda4b-r || \key:d
 \instr R*2
 

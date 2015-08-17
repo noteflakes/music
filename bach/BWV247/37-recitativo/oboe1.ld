@@ -5,7 +5,7 @@ R*6
 
 
 
-2rd''~
+2r \instr d''~
 4dc+2f
 4ee2d~
 dd~

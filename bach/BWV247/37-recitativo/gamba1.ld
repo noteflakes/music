@@ -11,6 +11,6 @@ b+a
 4bb2a~
 4a2g4f
 2b4aa
-2.g+4a
+2.g4a
 g+baa
 g8gg2g

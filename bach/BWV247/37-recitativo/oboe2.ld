@@ -3,7 +3,7 @@ R*4
 
 
 
-2.g'4f+
+\instr 2.g'4f+
 2b4aa
 1g~
 2ga~
@@ -11,6 +11,6 @@ R*4
 4bb2a~
 4a2g4f
 2b4aa
-2.g+4a
+2.g4a
 g+baa
 4a8aa2a

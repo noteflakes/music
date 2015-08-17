@@ -1,7 +1,7 @@
 R*27 || \key:d \instr
 {v1}d'''e-
-de-
-{v2}de!
+d{v2}e-
+de!
 de
 de-
 dd

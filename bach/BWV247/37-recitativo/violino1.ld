@@ -1,6 +1,6 @@
 R*27 || \key:d \instr
 8<b'''d,>\staccatissimo r4r8<aa,>\staccatissimo r4r
-8<ab,>\staccatissimo r4r8<ga,>\staccatissimo r4r
+8<ab,>\staccatissimo r4r8<ga,>r4r
 8<bd,>r4r 8<ac+,>r4r
 8<b+d,>r4r 8<ce,>r4r
 8<b!d,>r4r 8<aa,>r4r

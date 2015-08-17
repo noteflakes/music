@@ -1,7 +1,7 @@
 R*27 || \key:d \instr
 {v1}b''a
+b{v2}a
 ba
-{v2}ba
 b+a
 b!a
 aa
@@ -11,6 +11,6 @@ ac
 ba
 aa
 ba
-g+g+
+gg
 g+a
 aa

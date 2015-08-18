@@ -25,4 +25,4 @@ a+<7`>@2r || \break \time:4/4 \partial:8 8r
 g-<6>rf<h>r
 R
 2r4rf'<h>
-b,\"_majeur ou mineur?_" r2r
+b,<h>r2r

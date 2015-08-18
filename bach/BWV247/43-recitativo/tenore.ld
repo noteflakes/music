@@ -1,4 +1,4 @@
- 8r6f\"_Evangelist:_" f8c+'^6c+!^d8ec+!^dd
+8r6f\"_Evangelist:_" f8c+'^6c+!^d8ec+!^dd
 rc+@d8.c+6b4b
 6rc!ba8f'fd+e8.f6b,
 8agrbed+ee
@@ -25,7 +25,40 @@ e+edc4ff || \break \key:e
 8rb,\"_Evangelist:_" c6aa8f'6ff8ef
 8g6gb,8e6ec+4d8b6c+d
 8dc+^4r8.d+6d+8eb
-c!creeb4r ||
+c!creeb4r || \break \time:3/4
+R*2
+
+4rdd
+eee
+d+@r
+rbb
+2.b
+4r8db4r
+ecg'
+2.f-
+4err
+ree
+eee
+fdd
+2d4d
+2.e~
+2e4g,
+8ccc4e8e
+4a,ar
+rrf-'
+@e8ee
+4eee
+eer || \break \time:4/4 \key:d
+8re\"_Evangelist:_" defa,d6dd
+8cb4r8.d6d8dc
+4ar2r
+4r8rd,fffg
+4a-8@@8.g6f4f
+8f6ff8fe-4g8rg
+ggfe-4dc
+2r8reee
+efgg4d-'8cb
+4.g'8b,4a-r ||
 =lyrics
 Und es war um die drit-te Stun-de, 
 da sie ihn kreu-zig-ten. Und es war 
@@ -52,3 +85,18 @@ und steig  he-rab vom Kreu-ze.
 Des-sel-bi-gen glei-chen die Ho-hen-pries-ter 
 ver-spot-te-ten ihn un-ter ein-an-der, 
 samt den Schrift-ge-lehr-ten, und spra-chen: 
+
+Er hat an-dern ge-hol-fen, 
+und kann Ihm_ sel-ber,
+  sel-ber nicht hel-fen.
+Ist er Chris-tus und Kö-nig von Is-ra-el,_ 
+so stei-ge er nun vom Kreu-ze, vom Kreu-ze, 
+daß wir se-hen und glau-ben.
+
+Und die mit ihm ge-kreu-zi-get wa-ren, 
+schmä-he-ten ihn auch. 
+Und nach der sechs-ten Stun-de ward ei-ne 
+Fin-ster-nis ü-ber das gan-ze Land, 
+bis um die neun-te Stun-de. 
+Und um die neun-te Stun-de rief Je-sus 
+laut und sprach: 

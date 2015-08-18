@@ -25,4 +25,38 @@ f,<7+54>r<7!5!#>f<642>f<#>4f<64>f<#> || \key:e
 4d+'<6>r2r
 4ere+<7`>r
 f<#>ra<4+2>g+<6>
-a,rrb<#> ||
+a,rrb<#> || \time:3/4
+4e,rr
+rra'<4+>
+d,c<4+2>b<6+>
+ae'c<6>
+b<#>br
+rb<#>b
+e8edef
+4grg
+c,rg'
+8d<65h>c<_>d<_>e<_>f-<_>b,<_>
+4e<#>rr
+re<#>e
+a,<#>aa
+ddd
+g,gg
+2c,4c
+2c'4c
+c8rce<6>c
+4f-8rdf<6>d
+4g8rg,bg
+4g+<7`>a<#>8a<h>a
+4aaa
+ae<#>r || \time:4/4 \key:d
+4d'<642>c+<6>dr
+d+<6>re<7#>r
+re<#>a,<#>r
+d,r2r
+4f<b>r2r
+r4c<b>r
+R*3
+
+
+4e'<6>r2f,<b> ||
+

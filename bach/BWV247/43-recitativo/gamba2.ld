@@ -8,4 +8,28 @@ b,f'ge2f
 4r8a'efd4r
 8c-'gaf-2r
 8c-'^abg4r8ra
-g+gfe(de)4f
+g+gfe(de)4f || \key:e
+R*4  || \time:3/4
+\instr R*2
+
+\clef:alto 4rd'd
+eee
+d+@r
+rbb
+2.b
+4r8db4r
+ecg'
+2.f-
+4err
+ree
+eee
+fdd
+2d4d
+2.e~
+2e4g,
+8ccc4e8e
+4a,ar
+rrf-'
+@e8ee
+4eee
+eer

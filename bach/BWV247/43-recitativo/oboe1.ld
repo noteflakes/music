@@ -8,4 +8,28 @@ dced4dc
 2c8drdr
 erf-rg+rar
 arfgagg+d
-cc-ba+4dc
+cc-ba+4dc || \key:e
+R*4 || \time:3/4
+\instr R*2
+
+4rab
+cba
+bbr
+rd+@
+2.e
+R
+8ge4rd
+2.d
+4brr
+rbb
+c+@@
+dda
+2b4b
+2.c
+R
+4rg'r
+arr
+grr
+dc+8cc
+4ccc
+cbr

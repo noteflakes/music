@@ -3,7 +3,7 @@ R*5
 
 
  \key:d
-4b'g2d~
+\instr 4b'g2d~
 4dg+2a \key:C
 R*3
 

@@ -1,4 +1,4 @@
-R
+\instr R
 2r c'' || \key:e
 1b
 2c4rb

@@ -2,13 +2,13 @@
 8cg4rr8ee
 aaabc+6c+d8e6c+a
 8.d6d4dr8ab
-cccb-4@@ \clef:bass \key:d
+cccb-4@@ \clef:bass \key:d \break
 4g\"_Jesus:_" 8b,d8.g,6g8d'e
 ffrb,4cc \clef:treble_8 \key:C
-8r\"_Evangelist:_" ea6ab8car6aa
+8re\"_Evangelist:_" a6ab8car6aa
 8eer6ef8ggra
 4b-8agc+c+b-a
-e-'e-rd4b|| \clef:bass 8a\"_Jesus_:" e
+e-'e-rd4b|| \clef:bass \break 8a\"_Jesus_:" e
 ccecb-@@a
 4f+rrb
 g8ga4b8rc

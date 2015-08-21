@@ -1,5 +1,6 @@
 - key: f#
 - time: 4/4
+- instrument_names: inline
 - macros:
   - c1: 8_3r___8_6r_________
   - c2: 6_3__

@@ -32,4 +32,5 @@ fdd
 rrf-'
 @e8ee
 4eee
-eer
+eer || \time:4/4 \key:d
+R*10

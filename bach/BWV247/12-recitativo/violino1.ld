@@ -1,5 +1,5 @@
 R*5 
-2r || \break a''
+2r || \instr a''
 1&
 e
 1a

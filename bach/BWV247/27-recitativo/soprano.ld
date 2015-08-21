@@ -10,7 +10,8 @@ ag4.f8gab+
 4c8b+c+drg,r
 e-r4r8r6aa8g+6g+c
 8bd4ddd
-c+8cc4cb
+c+8cc4cb || \key:C
+R*4
 =lyrics
 Wir ha-ben ge-hö-ret, Wir ha-ben ge-hö-ret, daß er sa-ge-te: 
 Ich will den Tem-pel, Ich will den Tem-pel

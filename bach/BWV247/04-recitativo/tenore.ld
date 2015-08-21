@@ -19,7 +19,7 @@ g6ga4b8f6fa4g
 4b8rg,d'dde-
 f6ff8a-6a-g4g8gb,
 e-6e-d8cb2r || 
-2.r \clef:treble_8 8r\"_Evangelist:_" c'
+2.r \clef:treble_8 8r\|"_Evangelist:_" c'
 4d-8bg8.g6a-4b
 8e,eefggrg
 a6ff8gabbr6ff

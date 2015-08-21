@@ -5,11 +5,11 @@ g+<6>rrr
 arc+<6>r
 rrdr
 2d+4<7><6>2r
-r4re<#> || \break
+r4re<#> ||
 frrr
 2rf8<5><42>4<5>
-8e-<6>de-f2g<b>~
-4g<6-4+b>f+<6>8b,<6>abc
+8e-<6>de-f2g4<6-><5>~
+4g<6-4+b>f+<6>8b-,<6>ab-c
 2d8f,<6>efg
 4a<#>r2r ||
 4a<6>r2r
@@ -24,7 +24,7 @@ R*1
 4f+<6h>r2r
 4e<#>a<#>rg<4+2+>
 R*1
-4f+<#>rbr || \key:b  \break
+4f+<#>rbr || \key:b 
 8bb'bb<6>a<7>a<6+>4g8<7><6>
 8f<#>f,a+fb<5>a4g<5>
 c-<6>b<#>8ed4c-<5>

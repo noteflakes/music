@@ -1,4 +1,4 @@
-R
+\instr R
 2r f''~  || \key:e
 fe~
 e4rd+
@@ -8,7 +8,7 @@ e~
 c+c
 f+g~
 1g
-2c,a'~
+2c+,a'~
 4af+2d
 2r4c+r
 dr2r|| \key:B-

@@ -1,4 +1,4 @@
-\key:E 8rf8.b6b8bcdg,
+\key:E 8rf\"_Evangelist:_" 8.b6b8bcdg,
 rd'fdee || \clef:bass g,\"_Jesus:_" c,
 8.d'6g,8.g6a+4b8ag
 c6f,g8a6gf8.b+6c8dd
@@ -7,7 +7,7 @@ c6f,g8a6gf8.b+6c8dd
 8rc,fg4aa
 8rfff(4c-'8b)e,
 (4g-f)2r||\key:b \clef:treble_8
-8r\"_Evangelist:_" fb6bc4d8rb
+8rf\"_Evangelist:_" b6bc4d8rb
 c-a+bdcb4r
 r8r6ab8c-f,rg
 aa6aa8bc-@6rf,ga
@@ -15,7 +15,7 @@ aa6aa8bc-@6rf,ga
 ab4c-8r6aa8fg
 8.a6g4g8r6bb8ef
 8.g6e8bcedcb|| \clef:bass
-8r\"_Jesus:_" e6rcde8a+,6@b8cf,
+8re\"_Jesus:_" 6rcde8a+,6@b8cf,
 rdcb4g'8rc,
 d6de8fb,4r8d'b
 rffgaaa6bc-

@@ -1,4 +1,4 @@
-8r6f\"_Evangelist:_" f8c+'^6c+!^d8ec+!^dd
+8r6f\"_Evangelist:_" f8c+'6c+!d8ec+!dd
 rc+@d8.c+6b4b
 6rc!ba8f'fd+e8.f6b,
 8agrbed+ee
@@ -53,12 +53,20 @@ eer || \break \time:4/4 \key:d
 8cb4r8.d6d8dc
 4ar2r
 4r8rd,fffg
-4a-8@@8.g6f4f
+a-@@6@@8.g6f4f
 8f6ff8fe-4g8rg
 ggfe-4dc
 2r8reee
 efgg4d-'8cb
-4.g'8b,4a-r ||
+4.g'8b,4a-r || \tempo:Adagio \key:c \clef:bass
+4ra\"_Jesus:_" 8gr4b
+8a+r4r8a+@@@
+(2.c4b+)
+4cr||\clef:treble_8 8rf,\"_Evangelist:_" f6ff
+4c'crd-
+8cr4e8d!r4r
+8dddd2f~
+4fe+ff
 =lyrics
 Und es war um die drit-te Stun-de, 
 da sie ihn kreu-zig-ten. Und es war 
@@ -100,3 +108,8 @@ Fin-ster-nis ü-ber das gan-ze Land,
 bis um die neun-te Stun-de. 
 Und um die neun-te Stun-de rief Je-sus 
 laut und sprach: 
+
+E-li, E-li, la-ma a-sab-tha-ni.
+Das ist ver-dol-met-schet: 
+mein Gott, mein Gott, 
+wa-rum hast du mich ver-las-sen?

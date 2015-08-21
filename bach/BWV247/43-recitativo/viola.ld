@@ -32,4 +32,5 @@ R
 bbb4d8d
 4dc+8cc
 4ccc
-cbr
+cbr || \time:4/4 \key:d
+R*10

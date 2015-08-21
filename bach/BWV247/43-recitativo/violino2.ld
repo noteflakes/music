@@ -32,4 +32,5 @@ rcc
 rdr
 ee8a,a
 4aaa
-ag+r
+ag+r || \time:4/4 \key:d
+R*10

@@ -7,7 +7,7 @@ gdrde+@@f
 cb4rrf'
 f8ed8.e6e8ec
 4b+ced || \clef:bass
-4r\"_Jesus:_" g,,c8cd
+4rg,,\"_Jesus:_" c8cd
 4e8ee4e8ef
 4g8c,g'bba-g
 a-@r6e+a-8gf4r

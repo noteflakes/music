@@ -1,4 +1,4 @@
-R*2
+\instr R*2
   || \key:G
 2rb'
 1c+~
@@ -19,3 +19,4 @@ fc'
 1b
 2f4gr
 2r4cd
+R*11

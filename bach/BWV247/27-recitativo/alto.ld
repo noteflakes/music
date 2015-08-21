@@ -10,7 +10,8 @@ cc4.a8baa
 4a8g+grf+rb
 r6gg8f+6f+b+8ac4r
 r4b+b+b+
-b+8aa4ag+
+b+8aa4ag+ || \key:C
+R*4
 =lyrics
 Wir ha-ben ge-hö-ret, 
   Wir ha-ben ge-hö-ret, daß er sa-ge-te: 

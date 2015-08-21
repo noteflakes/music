@@ -1,18 +1,18 @@
  8ra\"_Evangelist:_" 8.c6c8ccba
 d+b8.e6b8bbdc
-4c \clef:bass 8e+,\"_Pontifex:_" f!4g+8c+,g+'
-8.b6b8bb4aa \clef:treble_8
+4c || \clef:bass 8e+,\"_Pontifex:_" f!4g+8c+,g+'
+8.b6b8bb4aa || \clef:treble_8
 8c+\"_Evangelist:_" c+de4fr || \clef:bass \break
 8ra,\"_Jesus:_" 4dr8f,g
 aac6cb8.b6b4b
 8d6g,d8f-e8.e6g4c
 8rccb8.a6g8fg
 gd4r \clef:treble_8 8r6g\"_Evangelist:_" abbbc \break
-8.d6b8f-'e4c+8re  || \key:f+
-4d+ \clef:bass 8rg,\"_Pontifex:_" g 6gg8ga
+8.d6b8f-'e4c+8re  \key:f+
+4d+ || \clef:bass 8rg,\"_Pontifex:_" g 6gg8ga
 bb4r8rffg
 aag-f8.c-'6c-4c-
-8rc!8.c6g-4g- \clef:treble_8 8r c\"_Evangelist:_"
+8rc!8.c6g-4g- || \clef:treble_8 8r c\"_Evangelist:_"
 d6bb8c-6@@4e8f-f-
 rf!fb,8.e+6@8@b
 bfrc'd6dd8d+6@@
@@ -25,7 +25,7 @@ r6cc8.e6d8cb4r  || \time:2/2 \key:B \break
 8db4bre
 4.e8c2c
 2r4r4d
-4.d8d2d || \time:4/4 \key:b
+4.d8d2d || \break  \!override:"Score.TimeSignature.break-visibility = ##(#f #t #t)" \time:4/4 \!override:"Score.KeySignature.break-visibility = ##(#f #t #t)" \key:b
 8r6c\"_Evangelist:_" d+8e+c8.f6f8fb,
 8.c6d4b2r
 =lyrics

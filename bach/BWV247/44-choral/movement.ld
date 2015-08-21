@@ -1,0 +1,3 @@
+- key:f
+- instrument_names: hide
+- pickup: 4

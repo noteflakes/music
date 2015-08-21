@@ -1,7 +1,7 @@
 R*3
 
 
-2r || \key:C 2f' ~
+2r || \key:C \instr 2f' ~
 2fd
 6rbbb8br2a~
 a8c+rgr

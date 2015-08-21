@@ -1,4 +1,5 @@
 - key: E-
+- instrument_names: inline
 - macros:
   - c4: 8_@@@
   - c2: 8_@

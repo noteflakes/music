@@ -1,10 +1,10 @@
- R*2
+\instr  R*2
  || \key:G
 2rg+''
 1a~
 a
 2fg~
-g4de~
+g4d+e~
 1e
 f || \key:d
 2f!g
@@ -19,3 +19,4 @@ f
 1g
 2f4e-r
 2r4ab
+R*11

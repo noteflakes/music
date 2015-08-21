@@ -1,5 +1,6 @@
 - key: e
 - time: 3/4
+- instrument_names: inline
 - macros:
   - g: {8_____6__}
   - t: {[6____]}

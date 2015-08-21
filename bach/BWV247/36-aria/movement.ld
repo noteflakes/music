@@ -1,6 +1,7 @@
 - key: Bß
 - time: 3/4
 - pickup: 8
+- instrument_names: inline
 - macros:
   - c: 4r8r_4_
   - v: 8__4._8_

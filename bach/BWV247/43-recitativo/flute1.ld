@@ -32,4 +32,5 @@ rar
 rrg
 dc+8cc
 4ccc
-cbr
+cbr || \time:4/4 \key:d
+R*10

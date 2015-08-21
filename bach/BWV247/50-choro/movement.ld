@@ -1,5 +1,6 @@
 - key: b minor
 - time: 12/8
 - pickup: 8
+- instrument_names: inline
 - macros:
   - d: 4_8_

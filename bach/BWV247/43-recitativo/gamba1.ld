@@ -32,4 +32,5 @@ f-@@4a8a
 4d,db'
 ba8aa
 4aaa
-ag+r
+ag+r || \time:4/4 \key:d
+R*10

@@ -8,7 +8,7 @@ b+c+@g+ \key:B- 8rbd6de
 r4r8gg
 4cc8g6gb4a || \clef:bass \key:C
 8ra,\"_Pilatus:_" de4f8fg \break
-4ad,r \clef:treble_8 8r\"_Evangelist:_" 6dd
+4ad,r \clef:treble_8 8r6dd\<"_Evangelist:_" 
 8g6ga8bbrbdc
 4ar \clef:bass 4r8r\"_Jesus:_" e
 4ar2r || \clef:treble_8
@@ -18,7 +18,7 @@ r4r8gg
 4a8.d6a4a8rc
 4b \clef:bass 8rd,\"_Pilatus:_" g6ga4b
 8bf+rf+c'abf+
-4g+g+ \clef:treble_8 r8e'\"_Evangelist:_" a,
+4g+g+ \clef:treble_8 r8e'a,\<"_Evangelist:_" 
 c6cc8c6de8ea,4r
 r8ccrcc6de-
 8d6dd8e6ef8.f6c4c

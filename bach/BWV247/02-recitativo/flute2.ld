@@ -9,7 +9,7 @@ R*8
 \instr R*2
 
 2r8g''f+ga
-4b-^2a4g
+4b-2a4g
 8fefg4af
 er2r ||
 R*13

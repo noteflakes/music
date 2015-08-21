@@ -1,5 +1,5 @@
 R*9||
-1g''~
+\instr 1g''~
 g~
 g
 4fga-a

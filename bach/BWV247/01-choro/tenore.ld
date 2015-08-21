@@ -37,7 +37,7 @@ R
 8e[6dc-]([bagf]8g)gge'
 a,a4r2r
 R
-4r8ra[c-f,]rf'
+4r8ra[cf,]rf'
 edcff[6ed]r[bd+f]
 8affb,b6ag8.f6f
 8f'fgg4c,r

@@ -1,8 +1,8 @@
 R*3
 
 
-2.r4r || \time:3/4 \partial:4 4r 
-\instr R*2
+2.r4r || \time:3/4 \partial:4 \<instr 4r 
+R*2
 
 4r2d''
 4g,+aa
@@ -37,7 +37,7 @@ R*16
 
 
 
- || \mark:6e
+ || 
 R*10
 
 
@@ -47,7 +47,7 @@ R*10
 
 
 
- || \mark:6f
+ || 
 R*5
 
 

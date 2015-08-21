@@ -3,3 +3,4 @@
   - c2: 6(__)
   - o1: (6_3__)
 - tempo: Adagio
+- instrument_names: inline

@@ -1,6 +1,6 @@
 \key:E
 R*9 || \key:b
-R*8 || \mark:18d
+R*8 || 
 \instr R
 {6_@@@}d'' d e e
 d d d d 

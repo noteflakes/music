@@ -32,7 +32,8 @@ R*2
 4rrg
 be,8ee
 4eee
-eer
+eer || \time:4/4 \key:d
+R*10
 =lyrics
 Pfui dich, wie fein zer-brichst du 
 den Tem-pel, 

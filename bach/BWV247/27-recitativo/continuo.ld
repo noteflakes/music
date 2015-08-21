@@ -23,8 +23,8 @@ g-<6>rrf'<h> || \key:F \break
 ecfef+<6>dgf
 e<5`>decffff,
 fff'fff,ff
-f'e<6+>f+<6>dg,g'<4+3>f+d
-e-<5!>e<75`><6>ff+fe<7>4r
+f'e<6+>f+<6>dg,g'<4+3>f+<6>d
+e-<5!>e<75`>f<6>f+fe<7#>4r
 8a,e'a<5>g<643>f,f'e<6>f
 f,e<6>fc'fe<5`>fd+<5`>
 4.e4<64>8<#>8a<7#>d,<#>cb<6>g

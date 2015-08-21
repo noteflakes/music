@@ -4,7 +4,7 @@
 
 
  || \key:C
-2g'a
+\instr 2g'a
 1g
 1a-
 2e4ag

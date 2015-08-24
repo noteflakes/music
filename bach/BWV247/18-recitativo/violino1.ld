@@ -2,7 +2,7 @@
 2.r || 4g''~
 1g~
 2g4fg
-g-g2a
+4g-g2a
 fe+
 1a
 2f4er

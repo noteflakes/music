@@ -1,4 +1,4 @@
-8r r 6(cd)(ef)
+\<instr 8r r 6(cd)(ef)
 (gab+c)(db+)
 8ca-f
 gdb+
@@ -109,7 +109,7 @@ bfd
 4b8r
 a-'\pp fd
 4b8r
-b\editP b'g
+b\_editP b'g
 cf,e
 a-,bb
 4e,8r
@@ -160,7 +160,7 @@ a-(6gf)(ed)
 4e8f
 gb+d
 4g,,8r
-g'\editPP b+d
+g'\_editPP b+d
 4g,,8r
 6gg'(fe)(dc)
 (b+gcd)(ec)

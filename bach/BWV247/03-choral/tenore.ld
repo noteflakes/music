@@ -1,4 +1,4 @@
-  4d' | d8[cb]4ad
+  4d' | dd8[dc]4d
 dcd\fermata d
 ee8[dc]4b
 8[cd]4ed\fermata :|. c

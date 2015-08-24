@@ -1,18 +1,17 @@
-4r\"_Evangelist:_" 8g a4b8b6cd
-8dg,r6gg8e'6ed8cb
-ag4r2r
-4r8ee\"?" b'cdb
-4ccr8aa
-8e'fg6fe\"?" 8ffrd
-8.c6b4brr
-8rbdcba4r ||
-2r8cbcd
+ 4r8g\"_Evangelist:_" abcd6g,g
+8ccr6cc8c6cc8cb
+ag4rr8b-@
+8.@6@8@6@@8.@6@8@a-
+8ccr6cc8.c6a8a6b-c
+8cf,rf8.d-'6@4@
+8rg,b-a-gf4r || \break
+2r8c'bcd
 4edcc
 ccb-@
 e-d2d
 4d8dd2f
-4er2r ||
-4r\"_Evangelist:_" 8a,fc'6cd8e-[6e-d]
+4er2r || \break
+4r8a,\"_Evangelist:_" fc'6cd8e-[6e-d]
 4d8b-cdara
 b!bbc4db
 8rgcbag4r
@@ -24,7 +23,7 @@ d6db4.g+8g+d'e
 dddc+4ba
 2r4r8ra+
 a+b8.c+6c+8c+c+c+6de
-8ea+,rf+d'd4r || \key:b
+8ea+,rf+d'd4r || \key:b \break
 8rdddecdb
 rcf6fc8dd4d
 rd+re
@@ -38,17 +37,16 @@ rf2r
 rc2d~
 4db+2c~
 4ca+bb+
-2c4bc
-dd2d
-4cr2r
+4cb+2b
+4a+r2r
 
 =lyrics
-Und nach zween Ta-gen war Os-tern, 
+Und nach zwe-en Ta-gen war Os-tern, 
 und die Ta-ge der sü-ßen Bro-te. 
-Und die(Hohenpriester.und.) 
-  Schrift-ge-lehr-ten such-ten, 
-wie sie ihn mit Lis-ten__ grif-fen und tö-te-ten.
-Sie spra-chen a-ber:
+Und die Ho-hen-pries-ter und
+Schrift-ge-lehr-ten such-ten, 
+wie sie ihn mit Lis-ten er-grif-fen 
+und tö-te-ten. Sie spra-chen a-ber:
 
 Ja nicht auf das Fest, 
 daß nicht, daß nicht, daß nicht, 
@@ -67,4 +65,4 @@ mehr denn um
 drei-hun-dert Gro-schen, Gro-schen, Gro-schen ver-kauft
 ha--ben,
 und das-sel-be den Ar----men,
-den Ar-men, den Ar-men ge-ben.
+den Ar-men ge-ben.

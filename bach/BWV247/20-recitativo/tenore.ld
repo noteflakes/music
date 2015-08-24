@@ -1,4 +1,4 @@
-8rg\"_Evangelist:_" a-@6r@gf8d'd
+8rg\"_Evangelist:_" a-@6ra-gf8d'd
 rdfd4e8.e6e,
 8efgc,6rg'gg8e+'c
 8.f6c8cdeeed
@@ -15,7 +15,7 @@ bbrbc-@@e,
 a-g8r g\"_Evangelist:_" a-g-
 4er2r
 =lyrics
-Und als-bald, da er noch redet, 
+Und als-bald, da er noch re-det, 
 kam her-zu Ju-das, der Zwöl-fen ei-ner, 
 und ei-ne gro-ße Schar mit ihm, 
 mit Schwer-tern und mit Stan-gen, 

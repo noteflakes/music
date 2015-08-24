@@ -1,4 +1,4 @@
-R*6 || \key:C
+R*5 || \key:C
 \instr 2g''f+
 1g
 f

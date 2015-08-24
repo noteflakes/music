@@ -8,8 +8,8 @@ R*5
 R*3
 
 
-2r4r || c
-2ab-
+2r4r || \|instr c
+4ac2b-
 1a
 2.g4r
 2ra

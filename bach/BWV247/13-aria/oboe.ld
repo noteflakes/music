@@ -1,4 +1,4 @@
-8g' (6cdefga-)
+\<instr 8g' (6cdefga-)
 (b+,cde)(fd)
 (fedc)8d
 (g,6b+d)8f.

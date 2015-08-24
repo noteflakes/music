@@ -2,4 +2,4 @@
 -time:3/8
 -pickup:8
 -tempo:vivace
-- instrument_names: inline
+- instrument_names: hide

@@ -1,6 +1,6 @@
- 8r\"_Evangelist:_" gg'6gg8c,b4d
+ 8rg\"_Evangelist:_" g'6gg8c,b4d
 2r8e+g,d'c \key:G
-4e!r\"_Jesus:_" \clef:bass 8e bdc+
+4e!r || \break \clef:bass 8e\"_Jesus:_" bdc+
 4c+c+8r6ab8c+6ba
 4d8rdabca
 fdd'a4b8rd,
@@ -18,8 +18,8 @@ g6ga4b8f6fa4g
 4e-d8ddc'a
 4b8rg,d'dde-
 f6ff8a-6a-g4g8gb,
-e-6e-d8cb2r || 
-2.r \clef:treble_8 8r\|"_Evangelist:_" c'
+e-6e-d8cb2r || \break
+2.r \clef:treble_8 8r c'\"_Evangelist:_"
 4d-8bg8.g6a-4b
 8e,eefggrg
 a6ff8gabbr6ff

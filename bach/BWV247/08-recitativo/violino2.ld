@@ -8,10 +8,8 @@ b
 1g
 2cd~
 1d
-2ad~
-4dc2b
-2r4ar
-ar2r|| \key:B-
+4ad~8dc4b
+4raar|| \key:B-
 R*3
 
 
@@ -29,6 +27,5 @@ cb
 1c
 2a4gb
 2b+a~
-1a
-R
-2c+d
+2a4rc+
+2dr

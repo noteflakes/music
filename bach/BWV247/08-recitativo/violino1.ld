@@ -8,10 +8,8 @@ e~
 c+c
 f+g~
 1g
-2c+,a'~
-4af+2d
-2r4c+r
-dr2r|| \key:B-
+4c+,a'~8af+4d
+4rc+dr|| \key:B-
 R*3
 
 
@@ -29,6 +27,5 @@ fe+
 1f
 d
 e+~
-@
-R
-2e+f+
+2@4re+
+2f+r

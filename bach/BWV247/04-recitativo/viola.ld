@@ -1,6 +1,6 @@
-\instr R*2
-  || \key:G
-2rb'
+R*2
+  \key:G
+2r||\instr b'
 1c+~
 a
 2ag

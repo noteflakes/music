@@ -11,7 +11,7 @@ ccf,\fermata
 
 =lyrics
 Wach auf, oh Mensch, vom Sün-den-Schlaf 
-er-mun-tre dich, ver-lor'-nes Schaf,
+er-mun-tre dich, ver-lohr-nes Schaaf,
 und bes-sre bald dein Le-ben!
 
 Viel-leicht ist heut der letz-te Tag,

@@ -1,7 +1,8 @@
- 8d\"_Evangelist:_" efeg6ff8fg
+8r6d\"_Evangelist:_" e8fef6ff8fg
 aerecc6.c3d8e
 8.a6e8eraaae
-4g8gf4f4r || \break \time:3/4 \partial:4 4r
+4g8gf4f4r 
+|| \break \time:3/4 \partial:4 4r
 R*2
 
 4aab-
@@ -19,10 +20,10 @@ cde
 4efg
 4.f8e4e
 eer || \time:4/4 \key:G
-4r\"_Evangelist:_" 8f,gaaab
+4r8f,\"_Evangelist:_" gaaab
 4cbbr
 8rd,gfed4r || \key:C \clef:bass
-8r\"_Jesus:_" 6de8f+6ed4g8r6b,c
+8r6d\"_Jesus:_" e8f+6ed4g8r6b,c
 8d6dd8feee4r
 8rce6dc8fedc
 4r8f+6ed4g8rd
@@ -37,23 +38,23 @@ eeef8.g6c,4c
 a'ar8fc
 aaab-8.c6c4c
 8rc4e-d8ef
-4fc2r || \clef:treble_8
-4r\"_Evangelist:_" 8fgaagf
+4fc2r || \break \clef:treble_8
+4r8f\"_Evangelist:_" gaagf
 4b-8rfa-a-a-g
-4g8rgcgra
-bbb6cd4d8dg,
+4g8rgcgr6ga
+8b6bb4c8dg,4r
 4r8ga8.b6b8bg
 cb4gr8rb
 be,b'c+dddc+
 4c+c+r8ab
 8.c+6b8c+dea,ra
-ddra4bb || \clef:bass
+ddra4bb || \break \clef:bass
 4d\"_Jesus:_" 8g,g4cb
 br8.g6g8ga
 8.b6d,8de4ff
 8red'b4c+c+
 R || \key:b \clef:treble_8
-4r\"_Evangelist:_" 8bb4dc
+4r8b\"_Evangelist:_" b4dc
 c8cde6dc4b
 8bbba+4cc || \time:3/4
 \instr:"Tenore II" R
@@ -62,7 +63,7 @@ R
 4egr
 R*2
  || \time:4/4
-4r\"_Evangelist:_" 8g+b,8.d6d4d
+4r8g+\"_Evangelist:_" b,8.d6d4d
 R
 =lyrics
 Und am er-sten Ta-ge der sü-ßen Bro-te,
@@ -92,7 +93,7 @@ da-selbst rich-tet für uns zu.
 
 Und die Jün-ger gin-gen aus, 
 und ka-men in die Stadt, 
-und fun-den, wie wie er ih-nen ge-sagt hat-te, 
+und fun-den, wie er ih-nen ge-sagt hat-te, 
 und be-rei-te-ten das Os-ter-lamm.
 
 Am A-bend a-ber kam er mit den Zwöl-fen. 

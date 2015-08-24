@@ -27,7 +27,7 @@ R
 Und bald am Mor-gen hiel-ten die Ho-hen-pries-ter 
 ei-nen Rat mit den Äl-tes-ten und 
 Schrift-ge-lehr-ten, da-zu der gan-ze Rat, 
-und ban-den Je-sum, und füh-re-ten ihn hin, 
+und bun-den Je-sum, und füh-re-ten ihn hin, 
 und ü-ber-ant-wor-te-ten ihn Pi-la-to.
 Und Pi-la-tus fra-ge-te ihn:
 

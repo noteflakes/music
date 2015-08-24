@@ -1,6 +1,6 @@
-4r\"_Evangelist:_" 8fg+8.a+6@8@@
+4r8f\"_Evangelist:_" g+8.a+6@8@@
 @bcf, 2r || \key:e \clef:bass
-8b\"_Jesus:_"bbf4g8g6gf
+8.b\"_Jesus:_"6b8bf4g8g6gf
 8a6aa8agfe4r
 r8ef8.g6g4g
 8be,e6g+a8bbdc+
@@ -8,29 +8,26 @@ r8ef8.g6g4g
 8aaraa6ab8ca
 f+f+e'-d4br
 8rd,g6gg8gabd,
-4eer8ad,
-4b'agf
-ed2r
-R|| \key:B- \clef:treble_8
-8r\"_Evangelist:_" fb6bc8ddrb
+8eer6ad,8b'agf
+ed4r2r || \key:B- \clef:treble_8
+8rf\"_Evangelist:_" b6bc8ddrb
 d6cb4ef8ce
 4d8abccrg
-4a r\"_Jesus:_" \clef:bass ca
+4a r \clef:bass c\"_Jesus:_" a
 aff8ga
-4br \clef:treble_8 8r\"_Evangelist:_" gga-
+4br \clef:treble_8 8rg\"_Evangelist:_" ga-
 4b8rb4e8bd
 4f8ed4e8g,g
 ccc6cd4er
 8fced4dd
-\clef:bass 8r\"_Jesus:_" f,bc4d8rd
+\clef:bass 8rf,\"_Jesus:_" bc4d8rd
 dacb4b8r6ga
 4b8ag8.c6c4c
 c8f,f4ba
 a8r6ab8c6cc8f,g
 abcab6bc8dg,
-rb+c+d4c+8e,e
-4(ab+)c+8@@
-4@dda
+rb+c+d8.c+6e,8ab
+8c+6@@8@dda4r
 R
 =lyrics
 Er ant-wor-te-te und sprach zu ih-nen:

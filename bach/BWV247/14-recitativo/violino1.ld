@@ -8,7 +8,7 @@ R*5
 R*3
 
 
-2r4r || a~
+2r4r || \|instr a~
 2ag
 1f+
 2.e4r

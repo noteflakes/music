@@ -1,5 +1,4 @@
- R*8
-
+ R*7
 
 
 
@@ -38,9 +37,8 @@ r8e'd2c!~
 aa4rrr
 1r
 2r4rg+
-2a4g+a+
-bb2b
-4a+r2r
+4ag+2g+
+4fr2r
 
 =lyrics
 Ja nicht auf das Fest, 
@@ -51,5 +49,4 @@ Man könn-te das Was-ser mehr, mehr, mehr,
 mehr denn um
 drei-hun-dert Gro-schen, Gro-schen, Gro-schen ver-kauft
 ha--ben,
-und das-sel-be, und das-sel-be den Ar-men,
-den Ar-men ge-ben.
+und das-sel-be, und das-sel-be den Ar-men ge-ben.

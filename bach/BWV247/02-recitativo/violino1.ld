@@ -1,5 +1,4 @@
- R*8
-
+R*7
 
 
 
@@ -38,6 +37,5 @@ r8e'd2c!~
 4a2f'4f
 2g+a+
 4bb,fg+
-2a4g+a+
-bcd8fe+
+4ag+2g+
 4fr2r

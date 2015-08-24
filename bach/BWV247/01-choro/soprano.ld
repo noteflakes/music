@@ -99,4 +99,4 @@ Dein Trost wird wie-der schei-nen,
 Da ich ver-söh-net wer-de sein;_
 
 Dein Trost wird wie-der schei-nen,
-Da ich ver-söh-net wer-de sein._
+Da ich ver-söh-net wer-de sein.

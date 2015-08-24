@@ -8,10 +8,8 @@ e~
 2ee-
 ab~
 2.b4g
-2ea
-4bd,2d
-2r4er
-fr2r|| \key:B-
+4ea8bd,4d
+4refr|| \key:B-
 R*3
 
 
@@ -29,6 +27,5 @@ ag
 1a
 2.d,4b
 1e+~
-@
-R
-2aa
+2@4ra
+2ar

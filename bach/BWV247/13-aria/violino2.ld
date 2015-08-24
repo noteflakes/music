@@ -1,4 +1,4 @@
-8e' gcc
+\<instr 8e' gcc
 ggb+
 ga-@
 (d,6gb+)8d.
@@ -93,7 +93,7 @@ R*2
 R*3
 
 
-8d,.\editP br
+8d,.\_editP br
 e+^cr
 ca-r
 dbr
@@ -182,7 +182,7 @@ g4f'~
 6fde(cb+a)
 8g\p 4f'~
 6fde(cb+a)
-g\editF fed8d'~
+g\_editF fed8d'~
 6d(cba-gf)
 ef8.[d\trill 6e+]
 4e+\fermata 

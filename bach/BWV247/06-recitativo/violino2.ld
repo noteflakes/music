@@ -1,7 +1,8 @@
  R*3
 
 
-2.r4r || \time:3/4 \partial:4 \<instr 4r 
+2.r4r || 
+\time:3/4 \partial:4 \<instr 4r 
 R
 4r2a'
 4c,ad
@@ -22,22 +23,22 @@ bar || \time:4/4 \key:G
 R*3
 
  || \key:C
-R*16
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- || 
+\instr 1d~
+2dc~
+1c
+2ag~
+1g~
+2gf
+2.c'4b-
+1c~
+c~
+2cb-
+4rc2c~
+1c~
+c~
+c~
+2cb-
+2r4cc||
 R*10
 
 
@@ -48,11 +49,11 @@ R*10
 
 
  || 
-R*5
-
-
-
- || \key:b
+\instr 2dc
+1d~
+d
+2ba+
+R || \key:b
 R*3
 
  || \time:3/4

@@ -1,5 +1,4 @@
- R*8
-
+ R*7
 
 
 
@@ -38,9 +37,8 @@ c-8e,e4a8aa
 ff4rra
 2.g+4g
 2f4ff
-2e4de!
-ff2e+
-4fr2r
+4ed+2e+
+4cr2r
 =lyrics
 Ja nicht auf das Fest, 
 Ja nicht auf das Fest, 
@@ -52,4 +50,4 @@ mehr denn um
 drei-hun-dert Gro-schen, Gro-schen, Gro-schen ver-kauft
 ha--ben,
 und das-sel---be, und das-sel-be den Ar---men,
-den Ar-men, den Ar-men ge-ben.
+den Ar-men ge-ben.

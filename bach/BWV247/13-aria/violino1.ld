@@ -1,4 +1,4 @@
-8g' (6cd)(ef)(ga-)
+\<instr 8g' (6cd)(ef)(ga-)
 (b+,c)(de)(fd)
 (fedc)8d
 (g,6b+d)8f.
@@ -109,7 +109,7 @@ R
 (a-fg)(edc)
 b\pp cdefg
 (a-fg)(edc)
-b\editP c defg
+b\_editP c defg
 a-bcd8e~
 6ec8.d\trill 6e
 4e8g,\f
@@ -140,7 +140,7 @@ b+dd,efg
 (a-fg)(edc)
 b+\p cdefg
 (a-fg)(edc)
-b+\editF cdefg
+b+\_editF cdefg
 a!b+cd8e.
 6rd[8.b+ 6c]
 8cgr

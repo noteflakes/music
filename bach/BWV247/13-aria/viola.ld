@@ -1,4 +1,4 @@
-8c' ege
+\<instr 8c' ege
 ddg,
 cef
 (b+,6df)8a-.
@@ -157,9 +157,9 @@ R*3
 R*3
 
 
-8d\p gb+ //editP
+8d\p gb+ //_editP
 4b+,8r
-d\pp gb+ //editPP
+d\pp gb+ //_editPP
 4b+,8r
 R*4
 
@@ -181,7 +181,7 @@ dgb+
 b+,rr
 d\p gb+
 b+,rr
-d\f c'g ~ //editF
+d\f c'g ~ //_editF
 gf[6b+,d]
 [ca-]8gg
 4g\fermata

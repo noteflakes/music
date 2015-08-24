@@ -1,5 +1,4 @@
- R*8
-
+R*7
 
 
 
@@ -38,6 +37,5 @@ cr
 rc2d~
 4db+2c~
 4ca+bb+
-2c4bc
-dd2d
-4cr2r
+4cb+2b
+4a+r2r

@@ -66,7 +66,7 @@ der wagt's und ging hi-nein zu Pi-la-to,
 und bat um den Leich-nam Je-su. 
 
 Pi-la-tus a-ber ver-wun-der-te sich, 
-daß er schon tot war und rief den Haupt-mann, 
+daß er schon todt war und rief den Haupt-mann, 
 und fra-ge-te ihn, ob er längst ge-stor-ben 
 wä-re? 
 Und als er's er-kun-det von dem Haupt-mann, 

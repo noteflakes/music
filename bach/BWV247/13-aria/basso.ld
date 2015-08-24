@@ -182,9 +182,9 @@ ich las-se dich, mein Je-su, nicht,
 wo du ver-dirbst, will ich ver-der-ben.
 
 
-Durch Kreutz und Schmach,
+Durch Creutz und Schmach,
 folg ich dir nach,
-durch Kreutz und Schmach,
+durch Creutz und Schmach,
 folg ich dir nach,
 
 und wo du stirbst, da will ich ster---ben,

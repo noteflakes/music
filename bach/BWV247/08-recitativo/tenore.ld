@@ -54,5 +54,5 @@ Und er sprach zu ih-nen:
 Das ist mein Blut des Neu-en Tes-ta-ments, 
 das für vie-le ver-go-sen wird.
 Wahr-lich, ich sa-ge euch, 
-daß ich hin-fort nicht trin-ken wer-de vom Ge-wäch-se des Wein-stocks, 
+daß ich hin-fort nicht trun-ken wer-de vom Ge-wäch-se des Wein-stocks, 
 bis auf den Tag, da ich's neu trin-ke in dem Reich Got-tes.

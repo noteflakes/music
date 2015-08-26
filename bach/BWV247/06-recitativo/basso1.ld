@@ -19,8 +19,7 @@ a'aa
 4a,aa
 4.a8a4a
 g+ar || \time:4/4 \key:G
-R*3
-
+R*2
  || \key:C
 R*16
 

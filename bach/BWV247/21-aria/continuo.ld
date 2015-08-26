@@ -41,7 +41,7 @@ a<75>abbe,ed<642>d
 c<53>cb<64>ba<5>ab<64>b<53>
 cabb4e,\fermata 6(e'<6>d)(ec)
 8b'<6>bbb6(b<4`2>a)(bg)(a<6>g)(af)
-8e'<754>ee<6>e6(e<4`2>d)(ec)(d<5`>c)(d<6`>b+)
+8e'<75`3>ee<6>e6(e<4`2>d)(ec)(d<5`>c)(d<6`>b+)
 8cf,g<h>g,d'<7#>ddd
 ddddg,<54>ggg
 g<7h>gggcce<6>e

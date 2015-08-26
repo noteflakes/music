@@ -1,6 +1,13 @@
-R*9||
-\instr 1g' ~
-g
+R*8
+
+
+
+
+
+
+
+2r||\instr  2g' ~
+1g
 b
 4a-b2c
 1d~

@@ -21,7 +21,7 @@ b+e+,b+'6b+c8d6cb+8c+c+ || \key:C \clef:bass
 cb4r8re,ab
 4c+8@@@6@@8@d
 eg,b-a4ff || \clef:bass
-8ra,\"_Pilatus:_" de4f8r6fg
+8ra,\"_Pilatus:_" d6de4f8r6fg
 8ad,6rdde8.f6f8f6rd
 8a'aa6ab-8cc \clef:treble_8 8ra\"_Evangelist:_" 
 e-'cda4b-r || \key:d
@@ -70,7 +70,7 @@ los gä-be.
 Pi-la-tus a-ber ant-wor-te-te wie-de-rum, 
 und sprach zu ih-nen:
 
-Was wollt ihr denn, daß ich tue dem, 
+Was wol-let ihr denn, daß ich tue dem, 
 den ihr be-schul-di-get, er sei ein Kö-nig 
 der Ju-den?
 

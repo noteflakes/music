@@ -20,8 +20,7 @@ d~
 efg
 4.f8e4e
 eer || \time:4/4 \key:G
-R*3
-
+R*2
  || \key:C
 \instr 2f+g~
 1g~

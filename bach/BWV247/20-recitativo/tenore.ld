@@ -6,19 +6,19 @@ ddr6bb8bcd6g,g
 8gab6bb8.a6g4g
 8rd'dda-'@@g
 e+6cc8c6de+8ffcb+
-4d-r 8g,\"_Judas:_" 6ga-8bg
+4d-r 8g,6ga-8bg
 e+@ rg4a-8ra
 bbrbc-@@e,
-4fr8r f\"_Evangelist:_" c-'b
+4fr8r fc-'b
 4g-8@a-8.b6b8bb
-8.e6b4b 8b\"_Judas:_" b4r
-a-g8r g\"_Evangelist:_" a-g-
+8.e6b4b \clef:treble 8b'\"_Judas:_" b4r
+a-g8r \clef:treble_8 f,\"_Evangelist:_" a-g-
 4er2r
 =lyrics
 Und als-bald, da er noch re-det, 
 kam her-zu Ju-das, der Zwöl-fen ei-ner, 
 und ei-ne gro-ße Schar mit ihm, 
-mit Schwer-tern und mit Stan-gen, 
+mit Schwer-ten und mit Stan-gen, 
 von den Ho-hen-pries-tern und 
 Schrift-ge-lehr-ten und Äl-tes-ten. 
 Und der Ver-rä-ter hat-te ih-nen 

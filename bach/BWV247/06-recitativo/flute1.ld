@@ -19,8 +19,7 @@ defg+4a~
 2.a~
 a
 4d,cr || \time:4/4 \key:G
-R*3
-
+R*2
  || \key:C
 R*16
 

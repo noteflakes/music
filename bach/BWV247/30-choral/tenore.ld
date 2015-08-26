@@ -1,6 +1,6 @@
 4a ga[8ba]4a
 (ba)a\fermata a+
-bbba+
+bbba+ \break
 2.b\fermata :|. [8ba]
 [gb][dc][ba][ga]
 (4b[8ag])4a\fermata d

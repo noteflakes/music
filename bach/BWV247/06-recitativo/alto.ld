@@ -19,8 +19,7 @@ efg
 4aaa
 4.a8a4a
 bar || \time:4/4 \key:G
-R*3
-
+R*2
  || \key:C
 R*16
 

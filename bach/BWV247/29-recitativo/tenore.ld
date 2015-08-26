@@ -1,6 +1,6 @@
 4r8a\"_Evangelist:_" bcdea,
 c-b6.d+3e8fra,ab
-c-c-rad+ || \clef:bass a\"_Pontifex:_" c-6c-b
+c-c-rad+ || \break \clef:bass a\"_Pontifex:_" c-6c-b
 8bc!d6rb8ddd6dc
 8cc4r2r || \clef:treble_8 \key:F 
 4rd\"_Evangelist:_" c8bb

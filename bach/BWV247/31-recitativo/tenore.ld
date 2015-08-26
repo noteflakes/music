@@ -1,6 +1,6 @@
  8ra\"_Evangelist:_" 8.c6c8ccba
-d+b8.e6b8bbdc
-4c || \clef:bass 8e+,\"_Pontifex:_" f!4g+8c+,g+'
+d+b8.e6b8bbdc+
+4c+ || \clef:bass 8e+,\"_Pontifex:_" f!4g+8c+,g+'
 8.b6b8bb4aa || \clef:treble_8
 8c+\"_Evangelist:_" c+de4fr || \clef:bass \break
 8ra,\"_Jesus:_" 4dr8f,g
@@ -30,7 +30,7 @@ r6cc8.e6d8cb4r  || \time:2/2 \key:B \break
 8.c6d4b2r
 =lyrics
 Da fra-get ihn der Ho-he-pries-ter a-ber-mal 
-und sprach zu ihm:
+und sprach zu Ihm:
 
 Bist du Chris-tus, der Sohn des Hoch-ge-lob-ten?
 

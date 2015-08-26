@@ -1,2 +1,4 @@
 - key: E
 - time: 4/4
+- pickup: 4
+- instrument_names: hide

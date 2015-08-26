@@ -15,7 +15,7 @@ g6ga4b8f6fa4g
 4cc2r
 8g'6ec8b'a4ar
 8fcab8.c6c8cc
-4e-d8ddc'a
+4e-8dd8ddc'a
 4b8rg,d'dde-
 f6ff8a-6a-g4g8gb,
 e-6e-d8cb2r || \break
@@ -40,7 +40,7 @@ Ihr habt al-le-zeit Ar-me bei euch, und wenn ihr wollt,
 könnt ihr ih-nen Gu-tes tun mich a-ber habt ihr nicht al-le-zeit!
 Sie hat ge-tan, was sie konn-te sie ist zu-vor ge-kom-men,
 mei-nen Leich-nam zu sal-ben zu mei-nem Be-gräb-nis.
-Wahr-lich, ich sa-ge euch: Wo dies E-van-ge-li-um ge-pre-digt wird
+Wahr-lich, ich sa-ge euch: Wo dies E-van-ge-li-um ge-pre-di-get wird
 in al-ler Welt, da wird man auch das sa-gen zu ih-rem Ge-dächt-nis,
 was sie jetzt ge-tan hat.
 

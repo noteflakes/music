@@ -20,9 +20,8 @@ cde
 4efg
 4.f8e4e
 eer || \time:4/4 \key:G
-4r8f,\"_Evangelist:_" gaaab
-4cbbr
-8rd,gfed4r || \key:C \clef:bass
+8r6f,\"_Evangelist:_" g8.a6a8abcb
+8b6rd,8gfed4r || \key:C \clef:bass
 8r6d\"_Jesus:_" e8f+6ed4g8r6b,c
 8d6dd8feee4r
 8rce6dc8fedc
@@ -32,7 +31,7 @@ b-8b-a4aa
 rc,8fffg
 4aa8raab-
 4c8f,c4e-8e-e-
-4g8gfd6dd8ef
+4g8gfd6dd8e!f
 fc4rr8cd
 eeef8.g6c,4c
 a'ar8fc

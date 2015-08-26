@@ -16,7 +16,7 @@ brb
 a+ra+
 brb
 c+rc+
-c+8ra+cf,~
+c+8ra+c+f,~
 f4e(8gc+,f)
 4d+8r(d+'ef)
 4grg,

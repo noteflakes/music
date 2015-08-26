@@ -16,7 +16,7 @@ d6cb4ef8ce
 4a r \clef:bass c\"_Jesus:_" a
 aff8ga
 4br \clef:treble_8 8rg\"_Evangelist:_" ga-
-4b8rb4e8bd
+4b8rb8.a6a8e'd
 4f8ed4e8g,g
 ccc6cd4er
 8fced4dd
@@ -26,7 +26,7 @@ dacb4b8r6ga
 c8f,f4ba
 a8r6ab8c6cc8f,g
 abcab6bc8dg,
-rb+c+d8.c+6e,8ab
+rb+c+d8.c+6e,8ab+
 8c+6@@8@dda4r
 R
 =lyrics
@@ -42,7 +42,7 @@ es wä-re dem-sel-ben Men-schen bes-ser,
 daß er nie ge-bo-ren wä-re.
 
 Und in-dem sie a-ßen, nahm Je-sus das Brot, 
-dan-kte und brach's, und gab's ih-nen und sprach:
+dan-ke-te und brach's, und gab's ih-nen und sprach:
 
 Neh-met, es-set; das ist mein Leib.
 

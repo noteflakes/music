@@ -6,13 +6,12 @@ gdrde+@@f
 8.f6c8cc4e8ed-
 cb4rrf'
 f8ed8.e6e8ec
-4b+ced || \clef:bass
-4rg,,\"_Jesus:_" c8cd
-4e8ee4e8ef
-4g8c,g'bba-g
+8b+ced || \break \clef:bass 8rg,,\"_Jesus:_" c6cd
+4e8eee6ef8gc,
+4rg'8bba-g
 a-@r6e+a-8gf4r
 r8de4f8b,c
-d6dd8.d6e8f6ff8f6ga-
+8.d6d8d6de8f6ff8f6ga-
 8ggr6c,c8ff8.f6e
 8dc4rb'8ge
 4c'b8a-@@g
@@ -27,7 +26,7 @@ und hieb ihm ein Ohr ab.
 Und Je-sus ant-wor-te-te und sprach zu ih-nen:
 
 Ihr seid aus-ge-gan-gen, als zu ei-nem Mör-der, 
-mit Schwerd-ten und mit Stan-gen, 
+mit Schwer-ten und mit Stan-gen, 
 mich zu fas-sen. Ich bin täg-lich bey euch 
 im Tem-pel ge-we-sen, und ha-be ge-leh-ret, 
 und ihr habt mich nicht ge-grif-fen. 

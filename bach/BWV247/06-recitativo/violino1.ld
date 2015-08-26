@@ -20,8 +20,7 @@ R*2
 4c'de
 4.d8c4c
 dcr || \time:4/4 \key:G
-R*3
-
+R*2
  || \key:C
 \instr 2a'g~
 1g

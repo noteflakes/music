@@ -29,7 +29,7 @@ er ru-fet den E-li-as.
 Da lief ei-ner, und fül-le-te ei-nen 
 Schwamm mit Es-sig, 
 und ste-cke-te ihn auf ein Rohr, 
-und trän-ke-te ihn, und sprach:
+und trän-ke-te Ihn, und sprach:
 
 Halt, las-set se-hen, ob E-li-as kom-me, 
 und Ihn he-rab neh-me.

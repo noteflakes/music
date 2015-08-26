@@ -1,10 +1,10 @@
-4a ef8ed4c
-fgc,\fermata a
-e'2f8ed
-2e4a,:|.g' \break
-8c,def4gg+
-a8c,d4e\fermata 8ag
-fe4d8ef+4g
-c,dg,\fermata 8e'f+
-4g8f+g+agfe
-4dea,\fermata
+4a e8<6><75>f8<5><64>8e<6>d<64>4c
+f<65>gc,\fermata a
+e'8<8#><7_>2f8e<742>d
+2e4<54>8<_#><7>4a,:|.g'
+8c,de<6>f4gg+<7`>
+a<9>8c,<6>d4e\fermata 4<#> 8ag
+f<6>e4d8<5><6>8e<6>f+<75`>4g
+c,<6>d<#>g,\fermata 8e'<6>f+<75`>
+4g8<5><64+3>8f+<6>g+<65`>a<h>g<643>f<6>e<643>
+4d<65>e8<54><7#>a,\fermata 4<#>

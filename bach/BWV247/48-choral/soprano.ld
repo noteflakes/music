@@ -5,7 +5,7 @@ eef[8ed]
 4bcde
 dc2b\fermata
 4abc[8de]
-2b,a\fermata
+2ba\fermata
 =lyrics
 O Je-su du,
 Mein Hilf und Ruh,

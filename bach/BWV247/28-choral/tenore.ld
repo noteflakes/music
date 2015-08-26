@@ -1,7 +1,7 @@
 4e' [8ed][cd][eb]4c
 cbe\fermata e
-[8ed][cb]4af'
-(4.e8d)4c:|.b
+[8ed][cb]4af' \break
+(4.e8d)4c:|.b 
 c[8ga]4bb
 bag+\fermata a
 ad[8g,a][bd]

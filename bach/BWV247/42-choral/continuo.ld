@@ -1,12 +1,12 @@
- 8d'c 4b8agfgfe
-4dea,\fermata b
-8cd4ef8ga
-bgaa,4d\fermata :|. 8de
-4fg+8ad,4e
-2a,\fermata 4bf'
-ged\fermata f
-b,cde
-4a,\fermata 8e'f4gd
-4d+eb\fermata b
-8efgecadc
-8bg4ad,\fermata
+ 8d'c 4b8<7><643>8a<64>g<65>f<6>gf<752>e<___>
+4d8<8><7>e8<4><#>a,\fermata b8<5><6+>
+8c<6>d<7>4e8<8h><7_>f8<8><7>8ga<6>
+b<6>g<7>a<8>a,<7>4d\fermata :|. 8de<7>
+4f8<5><6>g+8<643><3>8ad,<7>4e<#>
+2a,\fermata 4b8<5><6>f'8<6><5`>
+ge<6>d\fermata f
+b,8<75><6+_>c<6>d<65>e8<8#><7_>
+4a,\fermata 8e'<h>f4g8<53><64>d8<8><7!>
+4d+8<6><5`>e8<9><8>b\fermata 4<#> b8<8h><7_>
+8e<6>f<7>gec<65>ad<6>c<642>
+8b<6>g<7>4a8<8><7>d,\fermata

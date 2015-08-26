@@ -8,7 +8,7 @@
 8.e-6@4@8rcda
 bbr6cd8dg,r6ga
 8.b+6@4@8r6gg8.c6g
-8gg6abba8aa4r
+8g6ga8b6ba8aa4r
 8r6b+@8.d6c8([fe-])dc
 R || \key:C
 8r6ab8.c6c8c6cc8cd

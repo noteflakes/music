@@ -42,7 +42,7 @@ rc2d~
 
 =lyrics
 Und nach zwe-en Ta-gen war Os-tern, 
-und die Ta-ge der sü-ßen Bro-te. 
+und die Ta-ge der sü-ßen Bro-te. 
 Und die Ho-hen-pries-ter und
 Schrift-ge-lehr-ten such-ten, 
 wie sie ihn mit Lis-ten er-grif-fen 

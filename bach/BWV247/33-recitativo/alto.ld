@@ -1,4 +1,4 @@
-R*4 \time:2/4 R \time:4/4 R*17 || \key:G
+R*4 R*17 || \key:G
 4b'g2r
 4r8rdef4g
 er8r6b'b8ag

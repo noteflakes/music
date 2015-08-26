@@ -1,8 +1,7 @@
- 4r8ra\"_Evangelist:_" daab
-cccb8.b6d,ggga
-8bbbcdg,4r
-8ra8.d6a8fff6ga \!override:"Staff.TimeSignature #'stencil = ##f" \time:2/4 
-8ad,4r \!override:"Staff.TimeSignature #'stencil = ##f" \time:4/4
+8ra\"_Evangelist:_" d6ab8c6f+,@8ga
+8.b6d,ggga 8bbbc
+dg,4r 8ra8.d6a
+8fff6ga 8ad,4r
 6g+@@a8b+e,rb+'dr \clef:treble \key:C
 8r6a'\"_Ancilla:_" b8.c6c8c6cc8c6de
 8.e6a,4a \clef:treble_8 8ra,\"_Evangelist:_" f'6ff
@@ -54,7 +53,7 @@ Und du wa-rest auch mit dem Je-sum von Na-za-reth.
 
 Er leug-ne-te a-ber, und sprach:
 
-Ich ken-ne ihm nicht, weiß auch nicht was 
+Ich ken-ne Ihm nicht, weiß auch nicht was 
 du sa-gest.
 
 Und er ging hin-aus in den Vor-hof und der 

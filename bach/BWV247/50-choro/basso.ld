@@ -44,7 +44,7 @@ und Lei-chen-stein,
 Bei dei-nem Grab, Bei dei-nem Grab und Lei-chen-stein,
 
 will ich mich stets, mein Je-su, wei-den,
-und ü-ber dein ver-dienst-lich Lei-den,
+und ü-ber dein ver-dienst-lich Lei-den,
 
 von Her-zen froh___ und dank-bar sein,
 von Her-zen froh___ und dank-bar sein.
@@ -54,7 +54,7 @@ Schau, die-se Grab-schrift,
 schau, die-se Grab-schrift sollst du ha-ben:
 
 mein Le-ben kommt aus dei-nem Tod,
-hier hab ich mei-ne Sün-den-not
+hier hab ich mei-ne Sün-den-not
 und Jes-um selbst in mich be-gra-ben;
 
 Schau, die-se Grab-schrift,
@@ -62,5 +62,5 @@ schau, die-se Grab-schrift,
 schau, die-se Grab-schrift sollst du ha-ben:
 
 mein Le-ben kommt aus dei-nem Tod,
-hier hab ich mei-ne Sün-den-not
+hier hab ich mei-ne Sün-den-not
 und Jes-um selbst in mich_________ be-gra-ben.

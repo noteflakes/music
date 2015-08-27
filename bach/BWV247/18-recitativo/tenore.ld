@@ -27,8 +27,8 @@ c-baa8bfgg4r
 Und kam, und fand sie schla-fend. 
 Und sprach zu Pet-rus:
 
-Si-mon, schlä-fest du? 
-Ver-mög-test du nicht ei-ne Stun-de 
+Si-mon, schlä-fest du? 
+Ver-mög-test du nicht ei-ne Stun-de 
 mit mir zu wa-chen?
 Wa-chet und be-tet, daß ihr nicht in 
 Ver-su-chung fal-let. 
@@ -46,8 +46,8 @@ und sprach zu ih-nen:
 
 Ach! wollt ihr nun schla-fen und ru-hen? 
 Es ist ge-nug, die Stun-de ist kom-men. 
-Sie-he des Men-schen Sohn wird ü-ber-ant-wor-tet 
-in der Sün-der Hän-de.
+Sie-he des Men-schen Sohn wird ü-ber-ant-wor-tet 
+in der Sün-der Hän-de.
 Ste-het auf, und laßt uns ge-hen. 
-Sie-he, der mich ver-rät, ist na-he.
+Sie-he, der mich ver-rät, ist na-he.
 

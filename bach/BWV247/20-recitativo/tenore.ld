@@ -16,21 +16,21 @@ a-g8r \clef:treble_8 f,\"_Evangelist:_" a-g-
 4er2r
 =lyrics
 Und als-bald, da er noch re-det, 
-kam her-zu Ju-das, der Zwöl-fen ei-ner, 
+kam her-zu Ju-das, der Zwöl-fen ei-ner, 
 und ei-ne gro-ße Schar mit ihm, 
 mit Schwer-ten und mit Stan-gen, 
 von den Ho-hen-pries-tern und 
-Schrift-ge-lehr-ten und Äl-tes-ten. 
-Und der Ver-rä-ter hat-te ih-nen 
+Schrift-ge-lehr-ten und Äl-tes-ten. 
+Und der Ver-rä-ter hat-te ih-nen 
 ein Zei-chen ge-ge-ben, und ge-sagt:
 
-Wel-chen ich küs-sen wer-de, 
+Wel-chen ich küs-sen wer-de, 
 der ist's, den grei-fet, 
-und füh-ret ihn ge-wiss.
+und füh-ret Ihn ge-wiss.
 
-Und da er kam, trat er bald zu ihm, 
-und sprach zu ihm:
+Und da er kam, trat er bald zu Ihm, 
+und sprach zu Ihm:
 
 Rab-bi, Rab-bi.
 
-Und küs-set ihn.
+Und küs-set Ihn.

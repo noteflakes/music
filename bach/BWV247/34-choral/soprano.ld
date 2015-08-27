@@ -10,7 +10,7 @@ ea,dc
 2ba\fermata
 =lyrics
 Herr, ich ha-be miß-ge-han-delt,
-Ja mich drückt der Sün-den Last,
+Ja mich drückt der Sün-den Last,
 Und nun will ich mich aus Schre-cken, 
 Herr, vor dei-nen Zorn ver-ste-cken.
 =lyrics(2)

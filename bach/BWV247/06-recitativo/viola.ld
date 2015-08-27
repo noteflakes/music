@@ -56,7 +56,7 @@ R || \key:b
 R*3
 
  || \time:3/4
-\instr 4rrf
+\instr 4rrf,
 arg
 2b4f
 2a4g

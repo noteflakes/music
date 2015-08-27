@@ -8,6 +8,6 @@ R
 4a8aa4a,b
 =lyrics
 Wahr-lich,
-denn du bist ein Ga-li-lä-er und dei-ne 
+denn du bist ein Ga-li-lä-er und dei-ne 
 Spra-che, Spra-che lau-tet, lau-tet gleich al-so.
 

@@ -53,17 +53,17 @@ Er pfle-ge-te a-ber ih-nen auf das Os-ter-fest
 ei-nen Ge-fan-ge-nen los zu ge-ben, 
 wel-chen sie be-gehr-ten. 
 Es war a-ber ei-ner, ge-nannt Bar-ra-bas, 
-ge-fan-gen mit den Auf-rüh-ri-schen die 
+ge-fan-gen mit den Auf-rüh-ri-schen die 
 im Auf-ruhr ei-nen Mord be-gan-gen hat-ten.
 Und das Volk ging hin-auf, und bat, 
-daß er tä-te, wie er pfle-ge-te. 
+daß er tä-te, wie er pfle-ge-te. 
 Pi-la-tus a-ber ant-wor-te-te ih-nen:
 
-Wol-let ihr, daß ich euch den Kö-nig 
+Wol-let ihr, daß ich euch den Kö-nig 
 der Ju-den los ge-be?
 
 Denn er wuß-te, daß ihn die Ho-hen-pries-ter
-aus Neid ü-ber-ant-wor-tet hat-ten. 
+aus Neid ü-ber-ant-wor-tet hat-ten. 
 A-ber die Ho-hen-pries-ter rei-ze-ten das Volk, 
 daß er ih-nen viel lie-ber den Bar-ra-bam 
 los gä-be.
@@ -71,7 +71,7 @@ Pi-la-tus a-ber ant-wor-te-te wie-de-rum,
 und sprach zu ih-nen:
 
 Was wol-let ihr denn, daß ich tue dem, 
-den ihr be-schul-di-get, er sei ein Kö-nig 
+den ihr be-schul-di-get, er sei ein Kö-nig 
 der Ju-den?
 
 Sie schri-en a-ber-mal:

@@ -37,19 +37,19 @@ R*12
 2ar
 R
 =lyrics
-Und sie führ-ten Je-sum zu dem Ho-hen-pries-tern, 
+Und sie führ-ten Je-sum zu dem Ho-hen-pries-tern, 
 da-hin zu-sam-men kom-men wa-ren al-le Ho-he-pries-ter 
-und Äl-tes-ten und Schrift-ge-lehr-ten.
+und Äl-tes-ten und Schrift-ge-lehr-ten.
 Pet-rus a-ber fol-ge-te ihm nach von fer-ne, 
 bis hin-ein in des Ho-hen-pries-ters Pa-last 
 und er war da, und saß bei den Knech-ten, 
-und wär-me-te sich bei dem Licht.
+und wär-me-te sich bei dem Licht.
 A-ber die Ho-hen-pries-ter und der gan-ze Rat 
 such-ten Zeug-nis wi-der Je-sum, auf daß sie ihn 
 zum To-de brach-ten, und fun-den nichts. 
 Viel a-ber ga-ben fal-sches Zeug-nis-se wi-der ihn, 
-a-ber ihr Zeug-nis stim-me-te nicht ü-ber-ein. 
+a-ber ihr Zeug-nis stim-me-te nicht ü-ber-ein. 
 Und et-li-che stun-den auf, und ga-ben fal-sches 
 Zeug-nis-se wi-der ihn, und spra-chen:
 
-A-ber ihr Zeug-nis stim-me-te noch nicht ü-ber-ein.
+A-ber ihr Zeug-nis stim-me-te noch nicht ü-ber-ein.

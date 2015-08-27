@@ -44,15 +44,15 @@ Him-mels Wol-ken.
 Da zer-riss der Ho-he-pries-ter sei-nen Rock 
 und sprach:
 
-Was dür-fen wir wei-ter zeu-gen? 
-Ihr habt ge-hört die Got-tes-läs-te-rung. 
-Was dün-ket euch?
+Was dür-fen wir wei-ter zeu-gen? 
+Ihr habt ge-hört die Got-tes-läs-te-rung. 
+Was dün-ket euch?
 
-Sie a-ber ver-dam-me-ten ihn al-le, daß er 
-des To-des schul-dig wä-re. Da fin-gen an 
-et-li-che ihn zu ver-spei-en, und zu 
+Sie a-ber ver-dam-me-ten Ihn al-le, daß er 
+des To-des schul-dig wä-re. Da fin-gen an 
+et-li-che Ihn zu ver-spei-en, und zu 
 ver-de-cken sein An-ge-sicht, und mit 
-Fäus-ten zu schla-gen, und zu ihm zu sa-gen:
+Fäus-ten zu schla-gen, und zu Ihm zu sa-gen:
 
 Weis-sa-ge uns,
 Weis-sa-ge uns,

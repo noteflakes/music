@@ -38,7 +38,7 @@ f
 a,<6>~
 2ab-
 r4cf, ||
-4f'r2r
+4e-'<42>r2r
 4d<6>r2r
 4e-re<6>r
 gr2r

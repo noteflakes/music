@@ -10,7 +10,7 @@ f[8c'b][ag]4f
 fec\fermata
 
 =lyrics
-Wach auf, oh Mensch, vom Sün-den-Schlaf 
+Wach auf, oh Mensch, vom Sün-den-Schlaf 
 er-mun-tre dich, ver-lohr-nes Schaaf,
 und bes-sre bald dein Le-ben!
 

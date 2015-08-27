@@ -8,6 +8,6 @@ g+g+2r
 4a8ee4ed+
 =lyrics
 Wahr-lich, du bist der ei-ner; 
-denn du bist ein Ga-li-lä-er und dei-ne 
+denn du bist ein Ga-li-lä-er und dei-ne 
 Spra-che lau-tet, lau-tet gleich al-so.
 

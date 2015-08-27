@@ -25,15 +25,15 @@ r8ccrcc6de-
 R
 =lyrics
 Und bald am Mor-gen hiel-ten die Ho-hen-pries-ter 
-ei-nen Rat mit den Äl-tes-ten und 
+ei-nen Rat mit den Äl-tes-ten und 
 Schrift-ge-lehr-ten, da-zu der gan-ze Rat, 
-und bun-den Je-sum, und füh-re-ten Ihn hin, 
-und ü-ber-ant-wor-te-ten Ihn Pi-la-to.
+und bun-den Je-sum, und füh-re-ten Ihn hin, 
+und ü-ber-ant-wor-te-ten Ihn Pi-la-to.
 Und Pi-la-tus fra-ge-te ihn:
 
-Bist du ein Kö-nig der Ju-den?
+Bist du ein Kö-nig der Ju-den?
 
-Er ant-wor-te-te a-ber, und sprach zu Ihm:
+Er ant-wor-te-te a-ber, und sprach zu ihm:
 
 Du sagsts.
 
@@ -45,6 +45,6 @@ Ant-wor-test du nichts? Sie-he,
 wie hart sie dich ver-kla-gen.
 
 Je-sus a-ber ant-wor-te-te nichts mehr, 
-al-so, daß sich auch Pi-la-tus da-rü-ber 
+al-so, daß sich auch Pi-la-tus da-rü-ber 
 ver-wun-der-te.
 

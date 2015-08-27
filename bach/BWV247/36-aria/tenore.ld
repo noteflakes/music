@@ -73,7 +73,7 @@ d])([gf])[6ed][cd]8b
 d[6cb]8edc([6ba]
 8d)cb[6ag]8cb
 8a[6gf]4.d'8d
-d[6c+b+][c+d]8ee([6dc+]
+d[6c+b+][c+d]8e+e+([6dc+]
 [de+])8ff[6e+d][e+f]8g
 a,[6b+c+][de+][fe+][gf][e+d]
 [e+c+]8d(4d[8.c+6d])
@@ -104,14 +104,14 @@ ae'[6dcdb][b3cd6cb]
 4brr
 =lyrics
 Will ich doch gar gern' schwei-gen,
-bö-se Welt, ver-fol-ge mich,
+bö-se Welt, ver-fol-ge mich,
 will ich doch gar gern' schwei-gen,
 will ich doch gar gern' schwei-gen,
-bö-se Welt, ver-fol-ge mich,
+bö-se Welt, ver-fol-ge mich,
 
 will ich_ doch gar ger-ne schwei-gen,
-bö-se Welt, ver-fol-ge mich,
-O bö-se Welt, ver-fol-ge mich.
+bö-se Welt, ver-fol-ge mich,
+O bö-se Welt, ver-fol-ge mich.
 
 A-ber du, mein lie-ber Gott, 
 a-ber du, mein lie-ber Gott
@@ -130,15 +130,15 @@ du wirst auch mein Un-schuld zei-gen,
 du wirst auch mein Un-schuld zei-gen.
 
 Will ich doch gar gern' schwei-gen,
-bö-se Welt, ver-fol-ge mich,
+bö-se Welt, ver-fol-ge mich,
 will ich doch gar gern' schwei-gen,
 
 will ich doch gar gern' schwei-gen,
-bö-se Welt, ver-fol-ge mich,_
+bö-se Welt, ver-fol-ge mich,_
 will ich doch gar gern' schwei-gen,
-bö-se Welt, ver-fol-ge,
+bö-se Welt, ver-fol-ge,
   ver-fol-ge,
-O' bö-se Welt, ver-fol-ge mich.
+O' bö-se Welt, ver-fol-ge mich.
 
 
 

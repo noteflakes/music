@@ -11,9 +11,9 @@ g-fdg,
 cbef-
 e8[ed]2c\fermata
 =lyrics
-Ich, ich und mei-ne Sün-den, 
-die sich wie Körn-lein fin-den
+Ich, ich und mei-ne Sün-den, 
+die sich wie Körn-lein fin-den
 des San-des an dem Meer,
 Die ha-ben dir er-re-get
 das E-lend, das dich schlä-get,
-und das be-trüb-te Mar-ter-Heer.
+und das be-trüb-te Mar-ter-Heer.

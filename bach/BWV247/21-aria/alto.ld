@@ -52,20 +52,20 @@ R*2
 R*4
 
 =lyrics
-Fal-sche Welt, dein schmei-chelnd Küs-sen, 
-fal-sche Welt, dein schmei-chelnd Küs-sen
+Fal-sche Welt, dein schmei-chelnd Küs-sen, 
+fal-sche Welt, dein schmei-chelnd Küs-sen
 ist der From---men See-len Gift,
 ist der From-men See-len Gift,
 ist der From-men See-len Gift.
 
-Fal-sche Welt, dein schmei-chelnd Küs-sen, 
-fal-sche Welt, dein schmei-chelnd Küs-sen
+Fal-sche Welt, dein schmei-chelnd Küs-sen, 
+fal-sche Welt, dein schmei-chelnd Küs-sen
 ist der From-men See-len Gift,
 fal-sche Welt,_
 
-fal-sche Welt, dein schmei-chelnd Küs-sen
+fal-sche Welt, dein schmei-chelnd Küs-sen
 ist der From---men See-len Gift,
-fal--sche Welt,_ dein schmei-chelnd Küs-sen
+fal--sche Welt,_ dein schmei-chelnd Küs-sen
 ist der From-men See-len Gift.
 
 Dei-ne Zun-gen sind voll Ste-chen,

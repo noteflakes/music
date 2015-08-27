@@ -12,11 +12,11 @@ f+e
 2r
 R
 =lyrics
-Und ging ein we-nig für-bass, 
+Und ging ein we-nig für-bass, 
 fiel auf die Er-de, und be-te-te, 
-daß so es mög-lich wä-re, 
-die Stun-de vor-ü-ber-gin-ge, und sprach:
+daß so es mög-lich wä-re, 
+die Stun-de vor-ü-ber-gin-ge, und sprach:
 
-Ab-ba, mein Va-ter, es ist dir al-les mög-lich, 
-ü-ber-he-be mich die-ses Kelchs.
+Ab-ba, mein Va-ter, es ist dir al-les mög-lich, 
+ü-ber-he-be mich die-ses Kelchs.
 Doch nicht wie ich will, son-dern wie du willst.

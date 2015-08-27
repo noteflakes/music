@@ -58,7 +58,7 @@ R*3
  || \time:3/4
 \instr R*2
 
-4rra
+4rra,
 crr
 R
 2.d, || \time:4/4

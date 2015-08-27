@@ -94,15 +94,15 @@ R*7
 
 2.r\fermata
 =lyrics
-Mein Trös-ter ist nicht mehr__ bei mir, 
+Mein Trös-ter ist nicht mehr__ bei mir, 
 mein Je-su, soll ich dich ver-lie-ren,
-und zum Ver-der-ben se-hen füh-ren,
-und zum Ver-der-ben se-hen füh-ren? 
+und zum Ver-der-ben se-hen füh-ren,
+und zum Ver-der-ben se-hen füh-ren? 
 
-Mein Trös---------------ter ist nicht mehr bei mir,
+Mein Trös---------------ter ist nicht mehr bei mir,
 mein Je-su, soll ich dich ver-lie-ren,
-und zum Ver-der-ben se-hen füh-ren?
-Das kömmt der See-le schmerz-lich für.
+und zum Ver-der-ben se-hen füh-ren?
+Das kömmt der See-le schmerz-lich für.
 
 Der Un-schuld, wel-che nichts ver-bro-chen, 
 dem Lamm, das oh-ne Mis-se-tat

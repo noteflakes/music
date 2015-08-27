@@ -8,17 +8,17 @@ R*21 || \key:F
 r8cc4a8gc~
 cc4.a8baa
 4a8g+grf+rb
-r6gg8f+6f+b+8ac4r
+r6gg8f+6f+b8ac4r
 r4b+b+b+
 b+8aa4ag+ || \key:C
 R*4
 =lyrics
-Wir ha-ben ge-hö-ret, 
-  Wir ha-ben ge-hö-ret, daß er sa-ge-te: 
+Wir ha-ben ge-hö-ret, 
+  Wir ha-ben ge-hö-ret, daß er sa-ge-te: 
 Ich will den Tem-pel, Ich will den Tem-pel
-der mit Hän-den ge-macht ist, 
+der mit Hän-den ge-macht ist, 
 ab-bre-chen, und in drei-en Ta-gen 
 ei-nen an-dern bau-en, 
 der nicht, nicht,
-  nicht mit Hän-den ge-macht ist,
-  der nicht mit Hän-den ge-macht ist.
+  nicht mit Hän-den ge-macht ist,
+  der nicht mit Hän-den ge-macht ist.

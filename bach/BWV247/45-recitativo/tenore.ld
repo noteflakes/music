@@ -19,7 +19,7 @@ R
 
 =lyrics
 Und et-li-che, die da-bei stun-den, 
-da sie das hö-re-ten, spra-chen sie:
+da sie das hö-re-ten, spra-chen sie:
 
 Sie-he, sie-he, 
 sie-he, sie-he, 

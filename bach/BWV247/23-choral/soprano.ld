@@ -21,6 +21,6 @@ im Gar-ten Vor-han-den,
 da man dich ge-bun-den hat
 fest mit har-ten Ban-den.
 wenn uns will der ar-ge Feind
-mit der Sün-de bin-den,
+mit der Sün-de bin-den,
 so laß uns, oh Men-schen-freund!
-Da-durch Lö-sung fin-den.
+Da-durch Lö-sung fin-den.

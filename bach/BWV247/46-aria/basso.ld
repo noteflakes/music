@@ -61,24 +61,24 @@ Welt und Him---mel,
   Welt und Him-mel  nehmt zu Oh-ren, 
 
 Welt und Him-mel  nehmt zu Oh---ren, 
-Je-sus schrei-et ü-ber laut,
+Je-sus schrei-et ü-ber laut,
 
-Je-sus schrei-et ü-ber laut,
-er schrei-et ü-ber laut,
-Je-sus schrei-et ü-ber laut, schrei-et ü-ber laut,
+Je-sus schrei-et ü-ber laut,
+er schrei-et ü-ber laut,
+Je-sus schrei-et ü-ber laut, schrei-et ü-ber laut,
 
 Welt und Him-mel nehmt zu Oh----ren, 
 
 Welt und Him-mel nehmt zu Oh-ren, 
   nehmt zu Oh-ren, 
 
-Je-sus schrei-et ü-ber laut,
-Je-sus schrei---et ü-ber laut,
+Je-sus schrei-et ü-ber laut,
+Je-sus schrei---et ü-ber laut,
 
 
-al-len Sün--dern sagt er an, sagt er an,
+al-len Sün--dern sagt er an, sagt er an,
 daß er nun ge-nug ge-tan,
-al-len Sün-dern sagt er an, 
+al-len Sün-dern sagt er an, 
 daß er nun___ ge-nug ge-tan,
 
 
@@ -92,18 +92,18 @@ wel-ches wir zu-vor ver-lo-ren,
 wel-ches wir zu-vor ver-lo-ren,
 
 Welt und Him-mel nehmt zu Oh---ren, 
-Je-sus schrei-et ü-ber laut,___
-Je-sus schrei-et ü-ber laut,___
-Je-sus schrei-et ü-ber laut,___
+Je-sus schrei-et ü-ber laut,___
+Je-sus schrei-et ü-ber laut,___
+Je-sus schrei-et ü-ber laut,___
 
-al-len Sün-dern sagt er an,__
-al-len Sün-dern sagt er an,_
+al-len Sün-dern sagt er an,__
+al-len Sün-dern sagt er an,_
 daß er nun g'nug__ ge-tan,
 daß er nun g'nug__ ge-tan,
 daß er nun g'nug_ ge-tan._________
 
-Je-sus schrei--et ü--ber laut,
-al-len Sün--dern sagt__ er an,
+Je-sus schrei--et ü--ber laut,
+al-len Sün--dern sagt__ er an,
 daß er nun g'nug_ ge-tan,
 
 daß er nun g'nug,_____

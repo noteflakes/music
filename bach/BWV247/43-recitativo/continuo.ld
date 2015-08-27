@@ -12,10 +12,10 @@ f<5>r2r
 g+<7`>c<64+2+>rb<#>
 g+<6>ag'!<4+3>f<7#>
 re+<7`>2r
-4g<4+2+>r4r || \key:b 8ff 
+4g<4+2+>r4r || \key:b 8f<#>f 
 4b,r8rbba
-g<6>gg6ef8gee'b
-c<6>cc<5!3>ba+<5`>[f'<#>f<64>f<#>]
+g<6>gg6ef8geee
+c'<6>ccba+<5`>[f'<#>f<64>f<#>]
 b,f'<#>g<64+>e<7>4f<642>f,8<8#><7_>
 8b<#>c<_>d+<_>b<_>e<#>f<_>g+<_>e<_>
 a,bcaddg,g
@@ -58,7 +58,7 @@ r4c<b>r
 R*3
 
 
-4e'<6>r2f,<b> || \tempo:Adagio \key:c
+4e'<6>r2f,<b> ~ || \tempo:Adagio \key:c
 1f2<><7!42>
 e<64!2>~
 2ed-4<73><6!_>

@@ -11,8 +11,8 @@ rb!d6dc8ba4r
 r6aa8ddr6g,a8b6bb
 8f-'@d+6d+e8eb4r
 8r6bb8c6ba8c+c+4r
-8f6c+c+8.d6d8d6c+b8c+g+ \break
-a+6a+b8c+^c+!^4r || \key:b 8cc  
+8f6c+c+8.d6d8d6c+b8c+g+ 
+a+6a+b8c+^c+!^4r || \break \key:b 8cc
 8rf,ffb6bc8dd
 R
 2r8ra+ba+
@@ -69,19 +69,19 @@ efgg4d-'8cb
 4fe+ff
 =lyrics
 Und es war um die drit-te Stun-de, 
-da sie ihn kreu-zig-ten. Und es war 
-o-ben ü-ber ihn ge-schrie-ben, was man 
-ihm Schuld gab, näm-lich ein 
-«Kö-nig der Ju-den.»
+da sie Ihn kreu-zig-ten. Und es war 
+o-ben ü-ber ihn ge-schrie-ben, was man 
+ihm Schuld gab, näm-lich ein 
+«Kö-nig der Ju-den.»
 
-Und sie kreu-zig-ten mit ihm zwe-en Mör-der, 
+Und sie kreu-zig-ten mit ihm zwe-en Mör-der, 
 ei-nen zu sei-ner Rech-ten, 
 und ei-nen zur Lin-ken.
 
-Da ward die Schrift er-fül-let, die da sa-get: 
-«Er ist un-ter die Ü-bel-tä-ter ge-rech-net.»
-Und die vor-ü-ber gin-gen, läs-ter-ten ihn, 
-und schüt-tel-ten ih-re Häup-ter und spra-chen:
+Da ward die Schrift er-fül-let, die da sa-get: 
+«Er ist un-ter die Ü-bel-tä-ter ge-rech-net.»
+Und die vor-ü-ber gin-gen, läs-ter-ten ihn, 
+und schüt-tel-ten ih-re Häup-ter und spra-chen:
 
 Pfui dich, wie fein zer-brichst du 
 den Tem-pel, 

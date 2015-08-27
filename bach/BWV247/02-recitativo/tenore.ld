@@ -46,16 +46,16 @@ und die Ta-ge der sü-ßen Bro-te.
 Und die Ho-hen-pries-ter und
 Schrift-ge-lehr-ten such-ten, 
 wie sie ihn mit Lis-ten er-grif-fen 
-und tö-te-ten. Sie spra-chen a-ber:
+und tö-te-ten. Sie spra-chen a-ber:
 
 Ja nicht auf das Fest, 
 daß nicht, daß nicht, daß nicht, 
   daß nicht ein Auf-ruhr im Volk' wer-de.
   
 Und da er in Be-tha-nien war, in Si-mo-nis,
-des Aus-sät-zi-gen Hau-se, und saß zu Ti-sche,
+des Aus-sät-zi-gen Hau-se, und saß zu Ti-sche,
 da kam ein Weib, die hat-te ein Glas mit
-un-ge-fälsch-tem und köst-li-chem Nar-den-Was-ser,
+un-ge-fälsch-tem und köst-li-chem Nar-den-Was-ser,
 und sie zer-brach das Glas, und goss es auf sein Haupt.__
 Da wa-ren et-li-che, die wur-den un-wil-lig, und spra-chen:
 

@@ -13,11 +13,11 @@ e-r4r8r6aa8g+6g+c
 c+8cc4cb || \key:C
 R*4
 =lyrics
-Wir ha-ben ge-hö-ret, Wir ha-ben ge-hö-ret, daß er sa-ge-te: 
+Wir ha-ben ge-hö-ret, Wir ha-ben ge-hö-ret, daß er sa-ge-te: 
 Ich will den Tem-pel, Ich will den Tem-pel
-der mit Hän-den ge-macht ist, 
+der mit Hän-den ge-macht ist, 
 ab-bre-chen, ab-bre-chen und in drei-en Ta-gen 
 ei-nen an-dern bau-en, 
 der nicht, nicht, nicht,
-  nicht mit Hän-den ge-macht ist,
-  der nicht mit Hän-den ge-macht ist.
+  nicht mit Hän-den ge-macht ist,
+  der nicht mit Hän-den ge-macht ist.

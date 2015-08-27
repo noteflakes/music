@@ -9,6 +9,6 @@ ag+2e\fermata
 =lyrics
 O Je-su du,
 Mein Hilf und Ruh,
-Ich bit-te dich mit Trä--nen,
+Ich bit-te dich mit Trä--nen,
 Hilf, daß ich mich bis ins Grab
-Nach dir mö-ge seh--nen.
+Nach dir mö-ge seh--nen.

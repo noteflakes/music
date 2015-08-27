@@ -9,13 +9,13 @@ c,dg,\fermata [8e'f+]
 4g[8f+g+][ag][fe]
 (4de)a,\fermata
 =lyrics
-Was Men-schen-kraft und -witz an-fässt, 
+Was Men-schen-kraft und -witz an-fässt, 
 Soll uns bil-lig nicht schre-cken,
 
-Wenn sie aufs klüg-ste grei-fen an, 
+Wenn sie aufs klüg-ste grei-fen an, 
 So geht doch Gott ein and-re Bahn, 
-Es steht in sei-nen Hän-den.
+Es steht in sei-nen Hän-den.
 
 =lyrics(2)
-Er si-tzet an der höch-sten Stätt,
+Er si-tzet an der höch-sten Stätt,
 Er wird ihr'n Rat auf-de-cken.

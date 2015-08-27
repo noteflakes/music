@@ -65,37 +65,37 @@ R*2
 4r8g+\"_Evangelist:_" b,8.d6d4d
 R
 =lyrics
-Und am er-sten Ta-ge der sü-ßen Bro-te,
+Und am er-sten Ta-ge der sü-ßen Bro-te,
 da man das Os-ter-lamm op-fer-te,
-spra-chen sei-ne Jün-ger zu ihm:
+spra-chen sei-ne Jün-ger zu ihm:
 
 daß wir hin-ge-hen,
 und be-rei---ten, und be-rei-ten,
 daß du das Os-ter-lamm,
 daß du das Os-ter-lamm es-sest?
 
-Und er sand-te sei-ner Jün-ger zween,
+Und er sand-te sei-ner Jün-ger zween,
 und sprach zu ih-nen:
 
 Ge-het hin in die Stadt,
 und es wird euch ein Mensch be-geg-nen,
-der trägt ei-nen Krug mit Was-ser,
+der trägt ei-nen Krug mit Was-ser,
 fol-get ihm nach, und wo er ein-ge-het,
 da sprecht zu dem Haus-wirt:
-der Mei-ster lässt dir sa-gen:
+der Mei-ster lässt dir sa-gen:
 Wo ist das Gast-haus,
 da-rin ich das Os-ter-lamm es-se mit
-mei-nen Jün-gern?
+mei-nen Jün-gern?
 Und er wird euch ei-nen gro-ßen Saal zei-gen,
 der gep-flas-tert und be-rei-tet ist,
-da-selbst rich-tet für uns zu.
+da-selbst rich-tet für uns zu.
 
-Und die Jün-ger gin-gen aus, 
+Und die Jün-ger gin-gen aus, 
 und ka-men in die Stadt, 
 und fun-den, wie er ih-nen ge-sagt hat-te, 
 und be-rei-te-ten das Os-ter-lamm.
 
-Am A-bend a-ber kam er mit den Zwöl-fen. 
+Am A-bend a-ber kam er mit den Zwöl-fen. 
 Und als sie zu Ti-sche sa-ßen, und a-ßen, sprach Je-sus:
 Wahr-lich, ich sa-ge euch, ei-ner un-ter euch, 
 der mit mir is-set, wird mich ver-ra-ten.

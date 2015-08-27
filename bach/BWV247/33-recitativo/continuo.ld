@@ -4,7 +4,7 @@
 R
 4b+<6+>r2r || \key:C
 4ar2r
-4c+rdr
+4c+<6>rdr
 f<6>re<#>r
 c<b>r2r
 4f<b>rrg

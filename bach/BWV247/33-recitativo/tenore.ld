@@ -45,8 +45,8 @@ dg+,2b-~
 R
 =lyrics
 Und Pet-rus war da nie-der im Pa-last, 
-da kam des Ho-hen-pries-ters Mäg-de ei-ne; 
-und da sie sa-he Pet-rum sich wär-men, 
+da kam des Ho-hen-pries-ters Mäg-de ei-ne; 
+und da sie sa-he Pet-rum sich wär-men, 
 schau-e-te sie ihn an, und sprach:
 
 Und du wa-rest auch mit dem Je-sum von Na-za-reth.
@@ -68,20 +68,20 @@ klei-nen Wei-le spra-chen a-ber-mal zu Pet-ro,
 die da-bei stun-den:
 
 Wahr-lich, du bist der ei-ner; 
-denn du bist ein Ga-li-lä-er und dei-ne 
+denn du bist ein Ga-li-lä-er und dei-ne 
 Spra-che lau-tet, lau-tet gleich al-so.
 
 
 
 Er a-ber fing an sich zu ver-flu-chen und zu 
-schwö-ren.
+schwö-ren.
 
 Ich ken-ne des Men-schen nicht, von dem 
 ihr sa-get.
 
-Und der Hahn krä-he-te zum an-dern mal. 
+Und der Hahn krä-he-te zum an-dern mal. 
 Da ge-dach-te Pet-rus an das Wort, 
 das Je-sus zu ihm sa-ge-te: 
-E-he der Hahn zwei-mal krä-het, 
+E-he der Hahn zwei-mal krä-het, 
 wirst du mich drei-mal ver-leug-nen.
 Und er hub an zu wei-------nen.

@@ -15,18 +15,18 @@ cg4r2r
 =lyrics
 Pet-rus a-ber sag-te zu ihm:
 
-Und wenn sie sich al-le är-ger-ten, 
-so woll-te ich doch mich nicht är-gern.
+Und wenn sie sich al-le är-ger-ten, 
+so woll-te ich doch mich nicht är-gern.
 
 Und Je-sus sprach zu ihm:
 
 Wahr-lich, ich sa-ge dir, 
 heu-te in die-ser Nacht, 
-e-he denn der Hahn zwei-mal krä-het, 
+e-he denn der Hahn zwei-mal krä-het, 
 wirst du mich drei-mal ver-leug-nen.
 
 Der re-det a-ber noch wei-ter:
 
-Ja, wenn ich mit dir auch ster-ben müß-te, 
+Ja, wenn ich mit dir auch ster-ben müß-te, 
 wollt ich dich nicht ver-leug-nen.
 

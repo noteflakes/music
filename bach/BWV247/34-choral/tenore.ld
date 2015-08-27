@@ -10,7 +10,7 @@ e[8ed][cb]4a
 (4.e8d)2c+\fermata
 =lyrics
 Herr, ich ha-be miß-ge-han-delt,
-Ja mich drückt der Sün-den Last,
+Ja mich drückt der Sün-den Last,
 Und nun will ich mich aus Schre-cken, 
 Herr, vor dei-nen Zorn ver-ste-cken.
 =lyrics(2)

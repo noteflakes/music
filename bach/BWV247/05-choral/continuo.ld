@@ -5,7 +5,7 @@ b,\fermata ea,<6`5->b+<65!>
 4f\fermata f+<65>ga-<6>
 a!<65>8bagf4e+8<75><6>
 f\fermata b,e8<53><64>d<6+>
-c\fermata g'<b>8a-<5>g4f<6b>
+c\fermata g'<b>8a-<95>g4f<6b>
 e\fermata bf'g
 8a<6>g<_>4f8<8><7>f+<65>8g<6>f<642>
 4e+<65>fb,\fermata

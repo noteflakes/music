@@ -1,5 +1,5 @@
 R*14
-\instr 2r4r || \key:b 8c''c
+2r4r || \key:b \|instr 8c''c
 1d
 b
 2c8rcdc
@@ -32,5 +32,5 @@ crr
 drr
 ba8aa
 4aaa
-ag+r || \time:4/4 \key:d
+ag+r || \time:4/4 \key:C
 R*10

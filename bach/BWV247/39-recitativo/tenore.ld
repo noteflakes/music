@@ -13,7 +13,7 @@ c6cc8cba+rrb
 4c8g6gg8b-aaa
 rca-6b-c8cg4r
 8rggg4b-8@a- 
-4gfr || \break \key:c \time:2/2 \tempo:Largo 4a
+4gfr || \break \key:c \time:2/2 \tempo:Largo \<instr 4a
 2a4aa
 2a4ra
 2a4aa

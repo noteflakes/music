@@ -59,7 +59,7 @@ an-ge-neh-mes Mord-ge-schrei,
 Je-sus soll am Kreu-ze ster-ben.
 
 Nur da-mit ich vom Ver-der-ben
-der ver-dam-mten See-len frei,_______
+der ver-damm-ten See-len frei,_______
 und da-mit mir Kreuz und Lei-den, 
   da-mit mir Kreuz und Lei-den, 
 Sanf-te zu er-tra-gen sei,

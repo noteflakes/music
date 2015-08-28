@@ -48,7 +48,7 @@ c8rce<6>c
 4g8rg,bg
 4g+<7`>a<#>8a<h>a
 4aaa
-ae<#>r || \time:4/4 \key:d
+ae<#>r || \time:4/4 \key:C
 4d'<642>c+<6>dr
 d+<6>re<7#>r
 re<#>a,<#>r

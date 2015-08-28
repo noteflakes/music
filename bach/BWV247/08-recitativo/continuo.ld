@@ -9,10 +9,10 @@ g+<6>
 2d<7#>g~
 1g~
 4g<64+2>f+<6>2g
-4radr|| \key:B-
+4ra<#>d,r|| \key:B-
 4b'r2r
 4rg<6>a<6>r
-bre,<6>r
+bre+,<6>r
 1f~
 2ff'
 d<6>4er

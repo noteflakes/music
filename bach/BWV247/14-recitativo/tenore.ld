@@ -8,7 +8,7 @@ ffrbh,4cc \clef:treble_8 \key:C
 8re\"_Evangelist:_" a6ab8car6aa
 8eer6ef8ggra
 4b-8agc+c+b-a
-e-'e-rd4b|| \clef:bass \break 8a\"_Jesus_:" e
+e-'e-rd4b|| \clef:bass \break 8a\"_Jesus:_" e
 ccea,b-@@a
 4f+rrb
 g8ga4b8rc

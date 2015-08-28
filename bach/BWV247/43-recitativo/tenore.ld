@@ -12,7 +12,7 @@ r6aa8ddr6g,a8b6bb
 8f-'@d+6d+e8eb4r
 8r6bb8c6ba8c+c+4r
 8f6c+c+8.d6d8d6c+b8c+g+ 
-a+6a+b8c+^c+!^4r || \break \key:b 8cc
+a+6a+b8c+^c+!^4r || \break \key:b \|instr 8cc
 8rf,ffb6bc8dd
 R
 2r8ra+ba+
@@ -25,7 +25,7 @@ e+edc4ff || \break \key:e
 8rb,\"_Evangelist:_" c6aa8f'6ff8ef
 8g6gb,8e6ec+4d8b6c+d
 8dc+^4r8.d+6d+8eb
-c!creeb4r || \break \time:3/4
+c!creeb4r || \break \time:3/4 \instr 
 R*2
 
 4rdd
@@ -48,7 +48,7 @@ fdd
 rrf-'
 @e8ee
 4eee
-eer || \break \time:4/4 \key:d
+eer || \break \time:4/4 \key:C
 8re\"_Evangelist:_" defa,d6dd
 8cb4r8.d6d8dc
 4ar2r
@@ -56,9 +56,9 @@ eer || \break \time:4/4 \key:d
 a-@@6@@8.g6f4f
 8f6ff8fe-4g8rg
 ggfe-4dc
-2r8reee
-efgg4d-'8cb
-4.g'8b,4a-r || \tempo:Adagio \key:c \clef:bass
+2r8re!ee
+efgg4d-'8cb-
+4.g'8b-,4a-r || \tempo:Adagio \key:c \clef:bass
 4ra\"_Jesus:_" 8gr4b
 8a+r4r8a+@@@
 (2.c4b+)

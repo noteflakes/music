@@ -1,5 +1,5 @@
  R*14
-2r4r \key:b 8ff 
+2r4r \key:b \|instr 8ff 
 2r8rb,bb
 e6ef8gg2r
 2r8rfff
@@ -9,7 +9,7 @@ b,f'ge2f
 8c-'gaf-2r
 8c-'^abg4r8ra
 g+gfe([de])4f || \key:e
-R*4 || \time:3/4
+R*4 || \time:3/4 \instr 
 R*2
 
 4rfg+
@@ -32,7 +32,7 @@ R*2
 4rrg
 be,8ee
 4eee
-eer || \time:4/4 \key:d
+eer || \time:4/4 \key:C
 R*10
 =lyrics
 Pfui dich, wie fein zer-brichst du 

@@ -31,7 +31,7 @@ crar
 b-<6>e-<6>rd<#>
 d+<6>r2r
 4er2r
-4f-^<643>re<#>r
+4f-<643>re<#>r
 a,rra+<7`>
 br2r
 4c<6>r2r

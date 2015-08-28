@@ -13,7 +13,7 @@ R*6
 
 
 
-2r4r || \key:c \time:2/2 \tempo:Largo c''
+2r4r || \key:c \time:2/2 \tempo:Largo \<instr c''
 2c4cc
 2c4rc
 2c4cc

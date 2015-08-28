@@ -1,5 +1,5 @@
 R*14
-\instr 2r4r || \key:b \clef:bass 8ff
+2r4r || \key:b \clef:bass \|instr 8ff
 2r8rb,bb
 e6ef8gg2r
 2r8rfff
@@ -32,5 +32,5 @@ fdd
 rrf-'
 @e8ee
 4eee
-eer || \time:4/4 \key:d
+eer || \time:4/4 \key:C
 R*10

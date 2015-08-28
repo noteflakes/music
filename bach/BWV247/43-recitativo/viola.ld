@@ -1,5 +1,5 @@
 R*14
-\instr 2r4r || \key:b 8f'f
+2r4r || \key:b \|instr 8f'f
 8rf~6fedc8brrb'~
 6bagf8errg~6gfed
 8cr4r8rfff
@@ -32,5 +32,5 @@ R
 bbb4d8d
 4dc+8cc
 4ccc
-cbr || \time:4/4 \key:d
+cbr || \time:4/4 \key:C
 R*10

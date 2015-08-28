@@ -5,7 +5,7 @@ R*5
  ||
 \instr 1a''~
 2ag~
-2.g~8gf
+2.g~8gf-
 4edcb
 rf'gr
 R*11

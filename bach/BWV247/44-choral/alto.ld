@@ -19,5 +19,5 @@ Zu-letzt er-he-ben hoch,
 Und ge-ben was ihm nü-tzet,
 Hier zeit-lich und auch dort.
 =lyrics(2)
-Ob ihn gleich schon viel has-sen, 
+Ob ihn'n gleich schon viel has-sen, 
 Ge-schieht ihm doch kein Leid. 

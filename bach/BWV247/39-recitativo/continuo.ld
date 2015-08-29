@@ -3,7 +3,7 @@ d'<6->g+,<7`>ra
 c<6>r2r
 4c<b>rf<b>e-<4!2>
 d-<6->r2r
-4b-<642+>f<75+3>b!^<6+>r
+4b-<642+>f<75+3>b!<6+>r
 2r4re<#>
 a,<#>b-<6+>b<6+>c<6>
 \!override:"Staff.TimeSignature #'stencil = ##f" \time:3/4  c+8<6><5+>d<6->e-<42> \!override:"Staff.TimeSignature #'stencil = ##f" \time:4/4

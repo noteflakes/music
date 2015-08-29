@@ -1,7 +1,7 @@
 4a [8ga]4ba[8dc]
 ([ba]4b)4a\fermata a
 bb[8ag]4f
-2.g\fermata :|. 4f
+2.g\fermata :|. \break 4f
 [8gf][ga]4be
 2e4e\fermata e
 e[8ef]4gf
@@ -19,5 +19,5 @@ Zu-letzt er-he-ben hoch,
 Und ge-ben was ihm nü-tzet,
 Hier zeit-lich und auch dort.
 =lyrics(2)
-Ob ihn'n gleich schon viel has-sen, 
+Ob ihn gleich schon viel has-sen, 
 Ge-schieht ihm doch kein Leid. 

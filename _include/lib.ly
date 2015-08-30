@@ -133,12 +133,12 @@ thirtytwoFourFourBeam = {
         empty-stencil)))
 
 #(use-modules (srfi srfi-39))
-#(define-public *staff-size*
-  (make-parameter (let ((module (ly:output-def-scope
-                                 (ly:parser-lookup (eval 'parser (current-module))
-                                                   '$defaultpaper))))
-                    (/ (module-ref module 'staff-height)
-                       (eval 'pt module)))))
+% #(define-public *staff-size*
+%   (make-parameter (let ((module (ly:output-def-scope
+%                                  (ly:parser-lookup (eval 'parser (current-module))
+%                                                    '$defaultpaper))))
+%                     (/ (module-ref module 'staff-height)
+%                        (eval 'pt module)))))
 
 
 #(define-markup-command (line-width-ratio layout props width-ratio arg)

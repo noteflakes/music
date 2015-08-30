@@ -1,3 +1,5 @@
 - key: B-
 - instrument_names: hide
 - empty_staves: hide
+- score:
+  - page_break: before

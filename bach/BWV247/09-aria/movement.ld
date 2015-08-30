@@ -6,3 +6,5 @@
   - c: {4_8_}
   - c2: {4_8____}
 - instrument_names: inline-right-align
+- score:
+  - page_break: before

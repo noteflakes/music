@@ -2,3 +2,5 @@
 - instrument_names: hide
 - macros:
   - c: 6_3__
+- score:
+  - page_break: before

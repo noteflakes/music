@@ -2,3 +2,5 @@
 - time: 4/4
 - pickup: 4
 - instrument_names: inline-right-align
+- score:
+  - page_break: before

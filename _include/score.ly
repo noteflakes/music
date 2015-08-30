@@ -7,15 +7,15 @@
 % }
 
 \header {
-	copyright = \markup \column {
-		\fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -800 (*staff-size*))
-		  	(/  1600 (*staff-size*))
-			)
-		}
-		\fill-line { "Copyright © 2010 Sharon Rosner. Creative Commons Attribution 3.0 License" }
-	}
+%   copyright = \markup \column {
+%     \fill-line {
+%       \postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+%         (/ -800 (*staff-size*))
+%         (/  1600 (*staff-size*))
+%       )
+%     }
+%     \fill-line { "Copyright © 2010 Sharon Rosner. Creative Commons Attribution 3.0 License" }
+%   }
 
 	tagline = ""
 }
@@ -60,12 +60,12 @@
  		\null
     \fill-line { \fontsize #2 \fromproperty #'header:subsubtitle }
     \null \null \null \null
-    \fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -600 (*staff-size*))
-		  	(/ 1200 (*staff-size*))
-			)
-		}
+%     \fill-line {
+%       \postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+%         (/ -600 (*staff-size*))
+%         (/ 1200 (*staff-size*))
+%       )
+%     }
     \null \null \null \null \null \null
     \fill-line { \fontsize #4 \fromproperty #'header:date }
   }
@@ -78,12 +78,12 @@
 
 	tocTitleMarkup = \markup \column {
     \fill-line { \fontsize #5 "MOVEMENTS" }
-		\fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -800 (*staff-size*))
-		  	(/  1600 (*staff-size*))
-			)
-		}
+%     \fill-line {
+%       \postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
+%         (/ -800 (*staff-size*))
+%         (/  1600 (*staff-size*))
+%       )
+%     }
 		\null
   }
 

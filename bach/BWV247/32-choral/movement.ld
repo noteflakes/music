@@ -1,3 +1,5 @@
 - pickup: 4
 - key: D
 - instrument_names: hide
+- score:
+  - page_break: before

@@ -5,12 +5,12 @@ R*7
 
 
 ||
-\instr 2r8c'bcd
-4ed8c'bcd
-2e-8gf+ga
-4b-^2a4g
-8fefg4ad,
-4c+r2r ||
+\instr R
+R
+2r8g''f+ga
+4b-2a4g
+8fefg2a~
+4ar2r ||
 R*13
 
 

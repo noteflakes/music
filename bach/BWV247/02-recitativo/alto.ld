@@ -5,7 +5,7 @@
 
 
 ||
-R
+\instr R
 4r8f'efg4a
 8gfga4b-@
 ga2g
@@ -24,7 +24,7 @@ R*13
 
 
 || \key:b
-8rff4gf8e
+\instr 8rff4gf8e
 4ff8rdg6g d
 8ee4rgr
 arbr 

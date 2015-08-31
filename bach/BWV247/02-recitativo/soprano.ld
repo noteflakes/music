@@ -5,7 +5,7 @@
 
 
 ||
-R
+\instr R
 2r8c''bcd
 2.e-4d
 c+d2b-
@@ -24,7 +24,7 @@ R*13
 
 
 || \key:b
-8rdddcc4b
+\instr 8rdddcc4b
 a+r8rfb6bg
 8aa4brc-
 rdre~

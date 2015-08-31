@@ -6,11 +6,11 @@ R*7
 
 ||
 \instr R
-4r8f'efg4a
-8gfga4b-d
-c+d2d
-4d8dd4da
-4ar2r ||
+2r8c''bcd
+2.e-4d
+c+d2b-
+4a8f'g4af
+4er2r ||
 R*13
 
 

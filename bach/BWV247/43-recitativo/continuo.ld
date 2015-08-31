@@ -5,7 +5,7 @@ d+<6>r2r
 g'<4+b>rrf<#>
 b,rf-'<6>r
 e<#>rd+<7`>r
-d!<6->rrf<6>
+d!<6-h>rrf-<6>
 e<7#>rra<#>
 f<5>r2r
 4f,<65`>rgr

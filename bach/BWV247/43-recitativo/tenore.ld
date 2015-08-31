@@ -74,7 +74,7 @@ o-ben ü-ber ihn ge-schrie-ben, was man
 ihm Schuld gab, näm-lich ein 
 «Kö-nig der Ju-den.»
 
-Und sie kreu-zig-ten mit ihm zwe-en Mör-der, 
+Und sie kreu-zig-ten mit Ihm zwe-en Mör-der, 
 ei-nen zu sei-ner Rech-ten, 
 und ei-nen zur Lin-ken.
 

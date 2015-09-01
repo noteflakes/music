@@ -6,7 +6,7 @@ b+c+@g+ \key:B- 8rbd6de
 8ebrbc-6@b8a-6@@
 8.@6g-8fe2r
 r4r8gg
-4cc8g6gb4a || \clef:bass \key:C
+4cc8g6gb4a \clef:bass \key:C
 8ra,\"_Pilatus:_" de4f8fg \break
 4ad,r \clef:treble_8 8r6dd\<"_Evangelist:_" 
 8g6ga8bbrbdc
@@ -29,7 +29,7 @@ ei-nen Rat mit den Äl-tes-ten und
 Schrift-ge-lehr-ten, da-zu der gan-ze Rat, 
 und bun-den Je-sum, und füh-re-ten Ihn hin, 
 und ü-ber-ant-wor-te-ten Ihn Pi-la-to.
-Und Pi-la-tus fra-ge-te ihn:
+Und Pi-la-tus fra-ge-te Ihn:
 
 Bist du ein Kö-nig der Ju-den?
 
@@ -37,8 +37,8 @@ Er ant-wor-te-te a-ber, und sprach zu ihm:
 
 Du sagsts.
 
-Und die Ho-hen-pries-ter be-schul-dig-ten ihn hart.
-Pi-la-tus a-ber fra-ge-te ihn a-ber-mal, 
+Und die Ho-hen-pries-ter be-schul-dig-ten Ihn hart.
+Pi-la-tus a-ber fra-ge-te Ihn a-ber-mal, 
 und sprach:
 
 Ant-wor-test du nichts? Sie-he, 

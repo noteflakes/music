@@ -9,9 +9,9 @@ ag4rr8ga
 b6bg4a8ra4b+
 8r6b+@8c+@4r8c+d
 8.d6a4ar8rb+
-b+e+,b+'6b+c8d6cb+8c+c+ || \key:C \clef:bass
+b+e+,b+'6b+c8d6cb+8c+c+ \key:C \clef:bass
 4r8a,\"_Pilatus:_" a8.d6d8d6de
-8f6ff8f6ga4ad, || \clef:treble_8
+8f6ff8f6ga4ad, \clef:treble_8
 8r6f+\"_Evangelist:_" g8aara8.a6b-
 8caf+6@@4e-'8a,6aa
 8cb-ag2r
@@ -20,7 +20,7 @@ b+e+,b+'6b+c8d6cb+8c+c+ || \key:C \clef:bass
 8c+6@@8@6ba8.d6a8ag+
 cb4r8re,ab
 4c+8@@@6@@8@d
-eg,b-a4ff || \clef:bass
+eg,b-a4ff \clef:bass
 8ra,\"_Pilatus:_" d6de4f8r6fg
 8ad,6rdde8.f6f8f6rd
 8a'aa6ab-8cc \clef:treble_8 8ra\"_Evangelist:_" 
@@ -62,7 +62,7 @@ Pi-la-tus a-ber ant-wor-te-te ih-nen:
 Wol-let ihr, daß ich euch den Kö-nig 
 der Ju-den los ge-be?
 
-Denn er wuß-te, daß ihn die Ho-hen-pries-ter
+Denn er wuß-te, daß Ihn die Ho-hen-pries-ter
 aus Neid ü-ber-ant-wor-tet hat-ten. 
 A-ber die Ho-hen-pries-ter rei-ze-ten das Volk, 
 daß er ih-nen viel lie-ber den Bar-ra-bam 

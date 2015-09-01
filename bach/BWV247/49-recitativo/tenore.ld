@@ -5,7 +5,7 @@
 8.c6c8cc4c8ba
 4bbr8ra
 c6cc8bcd6dd8dc
-4ar2r|| \key:f+
+4ar2r \key:f+
 4r8c6cc8.c6c8cb
 4c8c6cb8ccbc
 d6dd4dr8f,f

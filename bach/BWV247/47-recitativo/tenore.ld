@@ -4,11 +4,11 @@ d'b8gb6e+,f4cr
 8ra'gfg-6@@8fe
 4a+8@6@b8bbrb
 c-@6rc-@@8b6aa8.d+6e
-4erec||\key:e \clef:bass
+4erec \key:e \clef:bass
 4f,\"_Centurio:_" fr8ff
 4aa8cccb
 4ag2r
-R||\clef:treble_8
+R \clef:treble_8
 8r6b\"_Evangelist:_"a8b6ba8.b6b8b6be,
 8gggf8.f6f8f6ff
 8.f6f8fgab8.c6b
@@ -55,7 +55,7 @@ und Ma-ri-a des klei-nen Ja-kobs und
 Jo-ses Mut-ter, und Sa-lo-me; 
 die Ihm auch nach-ge-fol-get, 
 da er in Ga-li-lä-a war, und ge-die-net hat-ten; 
-und vie-le an-de-re, die mit ihm hin-auf gen 
+und vie-le an-de-re, die mit Ihm hin-auf gen 
 Je-ru-sa-lem ge-gan-gen wa-ren.
 
 Und am A-bend, die-weil es der Rüst-tag war, 

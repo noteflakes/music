@@ -5,7 +5,7 @@ R*5
 
 
 2r4dr
-re<#>a,r || \key:f+
+re<#>a,r \key:f+
 fr2r
 4ara+<7`>r
 brd<6>r

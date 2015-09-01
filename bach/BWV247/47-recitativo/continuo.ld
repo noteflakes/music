@@ -4,11 +4,11 @@
 f,rb<6!>r
 c<6+>rd<6>r
 d+<7`>rra'<4+2>
-g-<6>rf<#>r||\key:e
+g-<6>rf<#>r \key:e
 b,<#>r2r
 4c<6>r2r
 r4dr
-g,r2r||
+g,r2r
 4er2r
 r4b'<#>r
 2r4c<6>a<6+>

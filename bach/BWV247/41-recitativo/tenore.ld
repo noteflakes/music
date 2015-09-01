@@ -10,10 +10,10 @@ bbr6cd8dg,r6ga
 8.b+6@4@8r6gg8.c6g
 8g6ga8b6ba8aa4r
 8r6b+@8.d6c8([fe-])dc
-R || \key:C
+R \key:C
 8r6ab8.c6c8c6cc8cd
 8.e6e4e6ra,ab8c6ba
-8.d+6e4b2r || \key:A
+8.d+6e4b2r \key:A
 8r6ga8.b6b4b8b6bc
 8.d6c8ccrcd+e
 8.e6b4b2r

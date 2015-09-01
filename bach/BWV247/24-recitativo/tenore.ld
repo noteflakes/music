@@ -8,8 +8,8 @@ c+6ba8.d6d8dab6bb
 8ca8.d+6e8eb4r
 R
 =lyrics
-Und die Jün-ger ver-lie-ßen ihn al-le, und flo-hen.
-Und es war ein Jüng-ling, der fol-ge-te ihm nach,
+Und die Jün-ger ver-lie-ßen Ihn al-le, und flo-hen.
+Und es war ein Jüng-ling, der fol-ge-te Ihm nach,
 der war mit Lein-wand bek-lei-det auf der blo-ßen Haut 
 und die Jüng-lin-ge grif-fen ihn. 
 Er a-ber ließ den Lein-wand fah-ren und flo-he bloß von ih-nen.

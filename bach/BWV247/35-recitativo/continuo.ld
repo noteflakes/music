@@ -6,7 +6,7 @@ re+<6+> \key:B- a-<42>r
 g<6>ra-,<b>r
 c-<6->rb'e,
 2r4c<b>r
-2r4rc+<6> || \key:C
+2r4rc+<6> \key:C
 dr2r
 4f+<6>rrg<b>
 re<#>f<643>r

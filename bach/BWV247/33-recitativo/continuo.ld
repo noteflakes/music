@@ -2,7 +2,7 @@
 4gr2r
 2r4dr
 R
-4b+<6+>r2r || \key:C
+4b+<6+>r2r \key:C
 4ar2r
 4c+<6>rdr
 f<6>re<#>r

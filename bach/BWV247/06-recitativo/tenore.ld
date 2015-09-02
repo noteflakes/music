@@ -30,7 +30,7 @@ eer || \time:4/4 \key:G
 b-8b-a4aa
 rc,8fffg
 4aa8raab-
-4c8f,c4e-8e-e- \pageBreak
+4c8f,c4e-8e-e- 
 4g8gfd6dd8e!f
 fc4rr8cd
 eeef8.g6c,4c

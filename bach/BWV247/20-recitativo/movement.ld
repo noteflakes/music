@@ -1,4 +1,4 @@
 - key: B-
 - instrument_names: hide
 - score:
-  - page_break: before
+  - page_break: none

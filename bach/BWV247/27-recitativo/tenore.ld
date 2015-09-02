@@ -19,7 +19,7 @@ f6ff8db-4g+8f'6fe
 8rae'6ef8.g6g4g
 8rec+efd-g-6g-f
 8e-d-cd-cb-4r || \key:F
-R*12
+R*9
 
 
 
@@ -27,9 +27,8 @@ R*12
 
 
 
-
-
-
+ \pageBreak
+R*3
 
 || \key:C
 8ra\"_Evangelist:_" aa4dd

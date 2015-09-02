@@ -9,7 +9,7 @@
 
 
 
-2.r4.r4r8d'
+2.r4.r4r \padbarlineafter .|: 8d' \padbarlinebefore  
 {d}bfff'8fa,b4.r
 8rrc{d}defr4.r
 8rrf4c8b[ed]c4b8f'
@@ -21,7 +21,7 @@
 4.f4&8f[fef][b,d+e]
 [a,b]c-4b8b4.b4&8b
 4.c4&8d[ede][a,c]d
-4.d8[&c]a4.a4& 8d
+4.d8[&c]a4.a4& \padbarlineafter :|.|: 8d  \padbarlinebefore
 [bd]f,d'dr4.r8rre
 [ce]g+,ae'r4.r8rrf
 {d}ffb,g+8[cb]ag+g+c

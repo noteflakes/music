@@ -1,5 +1,3 @@
 - key: f#
 - empty_staves: hide
 - instrument_names: hide
-- score:
-  - page_break: before

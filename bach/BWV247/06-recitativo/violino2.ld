@@ -51,8 +51,8 @@ R*10
 \instr 2dc
 1d~
 d
-2ba+
-R || \key:b
+2ba+  ||
+R \key:b
 R*3
 
  || \time:3/4

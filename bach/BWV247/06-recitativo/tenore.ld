@@ -30,7 +30,7 @@ eer || \time:4/4 \key:G
 b-8b-a4aa
 rc,8fffg
 4aa8raab-
-4c8f,c4e-8e-e- \break
+4c8f,c4e-8e-e- \pageBreak
 4g8gfd6dd8e!f
 fc4rr8cd
 eeef8.g6c,4c
@@ -51,8 +51,8 @@ ddra4bb || \break \clef:bass
 4d\"_Jesus:_" 8g,g4cb
 br8.g6g8ga
 8.b6d,8de4ff
-8red'b4c+c+
-R || \key:b \clef:treble_8
+8red'b4c+c+ ||
+R \key:b \clef:treble_8
 4r8b\"_Evangelist:_" b4dc
 c8cde6dc4b
 8bbba+4cc || \time:3/4

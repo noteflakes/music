@@ -1,7 +1,7 @@
   4d' | dd8[dc]4d
 dcd\fermata d
-ee8[dc]4b
-8[cd]4ed\fermata :|. c
+ee8[dc]4b \break
+8[cd]4ed\fermata :|.  c
 d8[ab]4cc
 8[dc]4bf'\fermata f
 b,e8[a,b]4c

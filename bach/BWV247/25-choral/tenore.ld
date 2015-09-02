@@ -9,7 +9,7 @@ f,ge8[fg]
 bb8[ba][e'd]
 ([cc#]4d)g,8[ag]
 [fg]4aab
-([8bg#ec']4b)\fermata
+([8bg#ec']4b)\fermata \finedellaparteprima
 =lyrics
 Ich will hier bei dir ste-hen,
 ver-ach-te mich doch nicht,_

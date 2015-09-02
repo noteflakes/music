@@ -51,8 +51,8 @@ R*10
 \instr 2gf
 1g~
 g
-2eg
-R || \key:b
+2eg  ||
+R \key:b
 R*3
 
  || \time:3/4

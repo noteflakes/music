@@ -4,3 +4,5 @@
 - macros:
   - g: {8_____6__}
   - t: {[6____]}
+- score:
+  - page_break: before

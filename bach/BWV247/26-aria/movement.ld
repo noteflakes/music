@@ -6,3 +6,7 @@
   - t: {[6____]}
 - score:
   - page_break: before
+// - movement_source: BWV 198/8
+- parts:
+  - gamba1:
+    - source: gamba

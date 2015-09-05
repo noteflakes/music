@@ -1,1 +1,5 @@
 - instrument_name_style: smallcaps
+- parts:
+  - violoncello:
+    - source: continuo
+    - figures: hide

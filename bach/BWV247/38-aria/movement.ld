@@ -5,3 +5,7 @@
 - tempo: Adagio
 - instrument_names: inline
 // - movement_source: BWV 63/3
+- parts:
+  - oboe1:
+    - source: oboe
+    - page_break: before

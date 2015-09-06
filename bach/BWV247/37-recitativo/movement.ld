@@ -5,3 +5,8 @@
   - v1: {8_\staccatissimo r4r}
   - v2: {8_r4r}
 // - movement_source: Freddy Eichelberger
+- parts:
+  - continuo:
+    - include_parts: tenore
+  - violoncello:
+    - include_parts: tenore

@@ -5,7 +5,13 @@
   - page_break: none
 // - movement_source: Freddy Eichelberger
 - parts:
+  - flute1:
+    - page_break: before
   - flute2:
     - page_break: before
   - viola:
     - page_break: before
+  - continuo:
+    - include_parts: tenore
+  - violoncello:
+    - include_parts: tenore

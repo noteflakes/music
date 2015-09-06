@@ -9,3 +9,5 @@
     - page_break: before
   - violino2:
     - page_break: before
+  - oboe1:
+    - source: oboe

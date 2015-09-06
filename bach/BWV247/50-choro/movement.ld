@@ -6,10 +6,6 @@
   - d: 4_8_
 // - movement_source: BWV 198/11
 - parts:
-  - flute1:
-    - page_break: before
-  - flute2:
-    - page_break: before
   - gamba2:
     - page_break: before
   - viola:

@@ -10,3 +10,5 @@
   - gamba2:
     - clef: bass
     - page_break: before
+  - oboe1:
+    - page_break: before

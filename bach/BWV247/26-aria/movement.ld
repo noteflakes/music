@@ -3,6 +3,10 @@
   - page_break: before
   - gamba1:
     - source: gamba
+  - flute1:
+    - source: flute
+  - oboe1:
+    - source: oboe
 - key: e
 - time: 3/4
 - instrument_names: inline

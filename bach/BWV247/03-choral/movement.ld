@@ -14,4 +14,5 @@
     - page_break: before
   - gamba2:
     - clef: bass
-  
+  - flute1:
+    - page_break: before

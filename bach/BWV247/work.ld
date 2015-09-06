@@ -2,4 +2,3 @@
 - parts:
   - violoncello:
     - source: continuo
-    - figures: hide

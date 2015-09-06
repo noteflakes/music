@@ -12,3 +12,7 @@
     - page_break: before
   - oboe2:
     - page_break: before
+  - continuo:
+    - include_parts: tenore
+  - violoncello:
+    - include_parts: tenore

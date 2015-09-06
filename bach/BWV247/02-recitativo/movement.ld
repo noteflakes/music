@@ -6,3 +6,5 @@
 - parts:
   - continuo:
     - include_parts: tenore
+  - violoncello:
+    - include_parts: tenore

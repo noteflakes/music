@@ -6,3 +6,6 @@
   - soprano: oboe1, flute1, flute2, violino1, violino2
   - alto: oboe2, viola
   - tenore: gamba1, gamba2
+- parts:
+  - gamba2:
+    - page_break: before

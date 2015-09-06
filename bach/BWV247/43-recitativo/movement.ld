@@ -4,6 +4,11 @@
 - macros:
   - v4: 6_@@@
   - v2: 6_@
-// flute1 from violino1
-// flute2 from violino2
 // - movement_source: Freddy Eichelberger
+- parts:
+  - flute2:
+    - page_break: before
+  - oboe1:
+    - page_break: before
+  - oboe2:
+    - page_break: before

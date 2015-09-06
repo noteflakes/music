@@ -6,3 +6,6 @@
   - v: (6__)
   - a: [6__]
 // - movement_source: BWV 54/1
+- parts:
+  - violino2:
+    - page_break: before

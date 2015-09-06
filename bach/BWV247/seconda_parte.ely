@@ -1,0 +1,8 @@
+\markup \abs-fontsize #16 \fill-line { 
+  \center-column {
+    \italic {
+      \line  { Seconda parte }
+      \null \null
+    }
+  } 
+}

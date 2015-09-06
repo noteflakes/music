@@ -1,7 +1,7 @@
 4c'' [8cb] [ab] [cd] 4e
 ddc\fermata c
 b [8ab] 4cd
-2b4a :|. d
+2b4a :|. \partBreak d
 ee[8bc]4d
 ccb\fermata c
 d[8ab]4cb

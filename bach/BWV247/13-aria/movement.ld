@@ -4,3 +4,8 @@
 - tempo:vivace
 - instrument_names: hide
 // - movement_source: BWV 82/5
+- parts:
+  - viola:
+    - page_break: before
+  - violino2:
+    - page_break: before

@@ -8,5 +8,10 @@
   - basso: gamba2
 // - movement_source: Freddy Eichelberger
 - parts:
+  - oboe1:
+    - page_break: before
+  - gamba1:
+    - page_break: before
   - gamba2:
     - clef: bass
+  

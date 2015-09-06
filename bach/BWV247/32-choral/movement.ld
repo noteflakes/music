@@ -12,3 +12,9 @@
 - parts:
   - gamba2:
     - clef: bass
+  - oboe1:
+    - page_break: before
+  - oboe2:
+    - page_break: before
+  - viola:
+    - page_break: before

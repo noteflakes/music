@@ -9,3 +9,6 @@
 - parts:
   - gamba2:
     - clef: bass
+    - page_break: before
+  - violino1:
+    - page_break: before

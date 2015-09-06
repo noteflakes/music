@@ -3,7 +3,7 @@ def\fermata [8f,g]
 4abcc
 bag\fermata a
 ffba
-2g4f\fermata :|. c'
+2g4f\fermata :|. \partBreak c'
 gabbaag\fermata c
 defa,
 ggf\fermata

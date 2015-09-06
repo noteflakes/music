@@ -1,13 +1,5 @@
 \header {
-	copyright = \markup \column {
-		\fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -800 (*staff-size*))
-		  	(/  1600 (*staff-size*))
-			)
-		}
-		\fill-line { "Copyright © 2012 Sharon Rosner. All rights reserved." }
-	}
+	copyright = ""
 	
 	tagline = ""
 }
@@ -53,11 +45,8 @@
     \fill-line { \fontsize #6
                  \apply-fromproperty #make-smallCaps-markup #'header:subtitle }
     \null \null \null 
-    \fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -600 (*staff-size*))
-		  	(/ 1200 (*staff-size*))
-			)
+    \fill-line {
+      \draw-hline
 		}
 		\null
     \fill-line { \fontsize #6
@@ -74,12 +63,7 @@
 
 	tocTitleMarkup = \markup \column {
     \fill-line { \fontsize #1 "MOVEMENTS" }
-		\fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -800 (*staff-size*))
-		  	(/  1600 (*staff-size*))
-			)
-		}
+    \fill-line { \draw-hline } 
 		\null
   }
 
@@ -110,22 +94,12 @@
 	}
   
   oddFooterMarkup = \markup \column {
-		\fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -800 (*staff-size*))
-		  	(/  1600 (*staff-size*))
-			)
-		}
+    \fill-line {  \draw-hline }
 		\fill-line { "Copyright © 2012 Sharon Rosner. All rights reserved." }
 	}
 	
   evenFooterMarkup = \markup \column {
-		\fill-line { 
-			\postscript #(format #f "~a 0 moveto ~a 0 rlineto stroke"
-		  	(/ -800 (*staff-size*))
-		  	(/  1600 (*staff-size*))
-			)
-		}
+    \fill-line {  \draw-hline }
 		\fill-line { "Copyright © 2012 Sharon Rosner. All rights reserved." }
 	}
 	

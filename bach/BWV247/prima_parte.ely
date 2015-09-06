@@ -1,0 +1,61 @@
+\markup \abs-fontsize #16 \fill-line {
+  \center-column {
+    \null \null \null \null \null \null
+    \italic {
+      \line  { Passio Domini nostri }
+      \line  { J. C. secundum evangelistam Marcum }
+      \null \null \null
+
+      \line  { Poesia per Dominum Henrici alias Picander dictus }
+      \line  { Musica di J. S. Bach }
+
+      \null \null \null
+  
+      \line { BWV 247 }
+  
+      \null \null \null
+  
+      \line  { Une reconstruction de la version de 1744 }
+      \line  { récits, choeurs et chorals écrits }
+      \line  { par Freddy Eichelberger }
+    }
+  
+  	\null
+
+    \line {
+      \override #'(span-factor . 2/3)
+      \draw-hline
+    }
+
+  	\null
+  \line { \smallCaps { <%= Lydown::Rendering::Staff.qualified_part_title(self, part: self['options/parts']) %> } }
+  } 
+}
+\pageBreak
+
+\markup \abs-fontsize #12 \column { 
+    \null \null \null \null \null \null
+    \null \null \null \null \null \null
+    \null \null \null \null \null \null
+    \null \null \null \null \null \null
+    \null \null \null \null \null \null
+    \null \null \null \null \null \null
+    \null \null \null \null \null \null
+
+    {
+      \line  { Livret et recherche: Laurent Guillo }
+      \line  { Lecture et conseil: Géraud Chirol }
+      \line  { Édition musicale: Sharon Rosner }
+      \line  { © 2015 Produit par Itay Jedlin et Le Concert Étranger }
+    }
+}
+\pageBreak
+
+\markup \abs-fontsize #16 \fill-line { 
+  \center-column {
+    \italic {
+      \line  { Prima parte }
+      \null \null
+    }
+  } 
+}

@@ -10,3 +10,5 @@
 - parts:
   - gamba2:
     - clef: bass
+  - flute2:
+    - page_break: before

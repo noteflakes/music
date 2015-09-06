@@ -6,3 +6,8 @@
   - c: 4r8r_4_
   - v: 8__4._8_
 // - movement_source: BWV 52/5
+- parts:
+  - viola:
+    - page_break: before
+  - violino1:
+    - page_break: before

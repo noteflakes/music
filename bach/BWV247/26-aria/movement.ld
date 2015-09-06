@@ -1,3 +1,8 @@
+- include: seconda_parte.ely
+- parts:
+  - page_break: before
+  - gamba1:
+    - source: gamba
 - key: e
 - time: 3/4
 - instrument_names: inline
@@ -7,6 +12,3 @@
 - score:
   - page_break: before
 // - movement_source: BWV 198/8
-- parts:
-  - gamba1:
-    - source: gamba

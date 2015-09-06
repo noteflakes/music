@@ -4,3 +4,8 @@
 - score:
   - page_break: none
 // - movement_source: Freddy Eichelberger
+- parts:
+  - flute2:
+    - page_break: before
+  - viola:
+    - page_break: before

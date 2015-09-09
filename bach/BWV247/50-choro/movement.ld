@@ -12,3 +12,5 @@
     - page_break: before
   - violino1:
     - page_break: before
+  - theorbe:
+    - page_break: before

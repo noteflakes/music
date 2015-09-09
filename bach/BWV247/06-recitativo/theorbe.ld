@@ -2,7 +2,7 @@
 4c<6>r2r
 R
 2r4dr || 
-  \tempo:Largo \time:3/4 \partial:4 a\_|"_tasto solo_"
+  \tempo:Largo \time:3/4 \partial:4 a\"_(Turba)_"
 dca'
 g<42>f<6>d
 c<6>d<h>g,<b>
@@ -56,7 +56,7 @@ R \key:b
 1b2<><6+4+3>
 4a<6>rg<6>r
 2r4f<#>r || \break  \time:3/4
-R*4
+R*4\"_(Turba)_"
 
 
 

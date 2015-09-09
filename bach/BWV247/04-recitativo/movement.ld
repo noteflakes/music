@@ -8,3 +8,5 @@
   - violoncello:
     - page_break: before
     - include_parts: tenore1
+  - theorbe:
+    - include_parts: tenore1

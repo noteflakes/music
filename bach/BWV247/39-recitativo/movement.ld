@@ -9,3 +9,6 @@
   - violoncello:
     - include_parts: tenore1
     - page_break: before
+  - theorbe:
+    - include_parts: tenore1
+    - page_break: before

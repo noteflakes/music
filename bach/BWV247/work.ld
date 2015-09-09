@@ -2,3 +2,12 @@
 - parts:
   - violoncello:
     - source: continuo
+    - remove_empty: false
+  - tenore1:
+    - source: tenore
+  - theorbe:
+    - clef: bass
+    - source: continuo
+    - source_streams: music, figures
+    - remove_empty: false
+    - title: Théorbe

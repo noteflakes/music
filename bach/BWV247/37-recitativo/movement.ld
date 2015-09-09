@@ -6,7 +6,5 @@
   - v2: {8_r4r}
 // - movement_source: Freddy Eichelberger
 - parts:
-  - continuo:
-    - include_parts: tenore
   - violoncello:
-    - include_parts: tenore
+    - include_parts: tenore1

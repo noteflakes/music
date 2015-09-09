@@ -12,3 +12,5 @@
     - clef: bass
   - violino2:
     - page_break: before
+  - violoncello:
+    - page_break: before

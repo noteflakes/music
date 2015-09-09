@@ -11,3 +11,5 @@
     - page_break: before
   - violino1:
     - page_break: before
+  - violoncello:
+    - page_break: blank page before

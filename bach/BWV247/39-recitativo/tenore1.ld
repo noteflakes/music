@@ -13,14 +13,14 @@ c6cc8cba+rrb
 4c8g6gg8b-aaa
 rca-6b-c8cg4r
 8rggg4b-8@a- 
-4gfr || \break \key:c \time:2/2 \tempo:Largo \<instr 4a
-2a4aa
-2a4ra
-2a4aa
-agag
-fe2r
-4rb'd-e
-cc2r || \break \!override:"Score.TimeSignature.break-visibility = ##(#f #t #t)" \time:4/4 \partial:8 8c\"_Evangelist_"
+4gfr || \break \key:c \time:2/2 \tempo:Largo \<instr 4r
+R*7
+
+
+
+
+
+ || \break \!override:"Score.TimeSignature.break-visibility = ##(#f #t #t)" \time:4/4 \partial:8 8c'\"_Evangelist_"
 g-'efcd-6@e4f
 8r6b,b8e6eb4c8rc
 cf,fg4a+8rc
@@ -38,11 +38,6 @@ gan-ze Schaar; und zo-gen Ihm ei-nen Pur-pur an,
 und floch-ten ei-ne Dor-nen-kro-ne, 
 und setz-ten sie Ihm auf. Und fin-gen an, 
 Ihn zu grü-ßen.
-
-Ge-grü-ßet seist du, 
-ge-grü-ßet seist du, 
-der Jü-den-kö-nig,
-der Jü-den-kö-nig.
 
 Und schlu-gen Ihm das Haupt mit dem Rohr, 
 und ver-spei-e-ten Ihn, 

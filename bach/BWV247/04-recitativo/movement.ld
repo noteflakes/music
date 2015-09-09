@@ -5,7 +5,6 @@
 - parts:
   - violino2:
     - page_break: before
-  - continuo:
-    - include_parts: tenore
   - violoncello:
-    - include_parts: tenore
+    - page_break: before
+    - include_parts: tenore1

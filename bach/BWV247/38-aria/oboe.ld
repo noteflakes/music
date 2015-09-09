@@ -2,7 +2,7 @@
 8a{c2}a'b-ag(6f3ge){o1}fgedecdec(6b3ca)
 $/6a'4g+\trill 8rg(gf+\trill )r(6f3ga)
 8(f\trill e)r(6f+d+)(ba'){o1}gaf+8.f+\trill 6e
-(8f~6f3ge)(6d3ec+)8d~3d(edc6b3ca)(6g+f')(e3fd)
+(8f!~6f3ge)(6d3ec+)8d~3d(edc6b3ca)(6g+f')(e3fd)
 {o1}cdcbca4b-~3@(ag+a)(f'a,g+a)(6.e64f+128g+a6.g+\trill 3a)
 4ar2r
 4r8re'\p (ed)r(6d3ef)

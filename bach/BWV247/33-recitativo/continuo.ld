@@ -19,7 +19,7 @@ a,r2r
 e'<6>rrf
 f+<6>r2r
 4g,<b>e-'<6>d<#>r || \key:G
-4gg,2r
+\mode:score 4gg,2r \mode:part 4g\"_(Turba)_" g,2r \nomode
 8g'fgfed4c
 8c'<6>bagf<6>d<6>e<6>e
 f<6>g<5>e<6>c4g'8gg

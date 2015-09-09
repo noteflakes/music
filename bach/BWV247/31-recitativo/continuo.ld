@@ -19,7 +19,7 @@ rf'<#>b,g<#>
 g-<6>e+<65`>b'<4+2>a+<6>
 f+<6+#>a<4+2>g<#>g-<6>
 f<#>e+<8!5`#>rf<#> || \time:2/2 \key:B
-2b4rb'
+\mode:score 2b4rb' \mode:part 2b\"_(Turba)_" 4rb' \nomode
 4.b8b2a<4+2>
 1g2<5><5`>
 2g,<5`6>a-<5>

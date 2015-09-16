@@ -9,3 +9,6 @@
     - include_parts: tenore1
   - theorbe:
     - include_parts: tenore1
+  - gamba1:
+    - include_parts: tenore1,continuo
+  

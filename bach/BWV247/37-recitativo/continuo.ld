@@ -8,7 +8,7 @@ R
 rd<#>g,r
 e+'<5`>ff+<6>g<h>
 g+<6>a<#>g<4+2>r
-f+<6>re<#>r
+f+<6>re+<#>r
 2r4ra,<#> || \key:C
 d,r2r
 2r4f+<6>r

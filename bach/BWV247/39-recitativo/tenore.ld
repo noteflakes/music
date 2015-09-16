@@ -1,4 +1,4 @@
- 8re'\"_Evangelist:_" ebc+6@@8d6aa
+\tempo:(4=80)  8re'\"_Evangelist:_" ebc+6@@8d6aa
 8.b-6f'8.f6b,4b8r6e,e
 8abc6ba4d+r
 8re-e-6g,g8a-6@@8aa
@@ -13,14 +13,14 @@ c6cc8cba+rrb
 4c8g6gg8b-aaa
 rca-6b-c8cg4r
 8rggg4b-8@a- 
-4gfr || \break \key:c \time:2/2 \tempo:Largo \<instr 4a
+4gfr || \break \key:c \time:2/2 \tempo:Largo \<instr \tempo:(2=72) 4a
 2a4aa
 2a4ra
 2a4aa
 agag
 fe2r
 4rb'd-e
-cc2r || \break \!override:"Score.TimeSignature.break-visibility = ##(#f #t #t)" \time:4/4 \partial:8 8c\"_Evangelist_"
+cc2r || \break \!override:"Score.TimeSignature.break-visibility = ##(#f #t #t)" \tempo:(4=80) \time:4/4 \partial:8 8c\"_Evangelist_"
 g-'efcd-6@e4f
 8r6b,b8e6eb4c8rc
 cf,fg4a+8rc

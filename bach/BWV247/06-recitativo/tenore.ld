@@ -1,4 +1,4 @@
-8r6d\"_Evangelist:_" e8fef6ff8fg
+\tempo:(4=80) 8r6d\"_Evangelist:_" e8fef6ff8fg
 aerecc6.c3d8e
 8.a6e8eraaae
 4g8gf4f4r 
@@ -55,7 +55,7 @@ br8.g6g8ga
 R \key:b \clef:treble_8
 4r8b\"_Evangelist:_" b4dc
 c8cde6dc4b
-8bbba+4cc || \time:3/4
+8bbba+4cc || \time:3/4 \tempo:(4=130) 
 \instr:"Tenore II" R
 4r ce
 R

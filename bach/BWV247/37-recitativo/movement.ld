@@ -9,5 +9,8 @@
   - violoncello:
     - include_parts: tenore1
   - theorbe:
+    - clef: bass
     - include_parts: tenore1
+    - page_break: before
+  - gamba1:
     - page_break: before

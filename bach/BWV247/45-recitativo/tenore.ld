@@ -1,6 +1,6 @@
- 8rf\"_Evangelist:_" 8.c'6c4c6rcde
+\tempo:(4=80) 8rf\"_Evangelist:_" 8.c'6c4c6rcde
 8dd6rbcd8.d6d4d
-8.d6a4a||\break r8db
+8.d6a4a||\break \tempo:(4=96) r8db
 4f'cr8ec
 4g'd8ccrd
 edgf4ef+|| \break \key:C 
@@ -11,7 +11,7 @@ rac6b!b8g6ga4b
 4b \clef:treble 4e\"_Miles:_" r8ef+
 4gg8rgg6f+e
 4a+8@e4g8gf+
-4ed \clef:treble_8 4r8b\"_Evangelist:_" c
+4ed \clef:treble_8 \tempo:(4=80) 4r8b\"_Evangelist:_" c
 ddcb4g+'r
 2r4b,a
 f+r2r

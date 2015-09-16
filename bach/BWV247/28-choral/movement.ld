@@ -9,3 +9,5 @@
 - parts:
   - gamba2:
     - clef: bass
+  - gamba1:
+    - page_break: before

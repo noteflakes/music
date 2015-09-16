@@ -1,4 +1,4 @@
- 8ra\"_Evangelist:_" 8.c6c8ccba
+\tempo:(4=80)  8ra\"_Evangelist:_" 8.c6c8ccba
 d+b8.e6b8bbdc+
 4c+ \clef:bass 8e+,\"_Pontifex:_" f!4g+8c+,g+'
 8.b6b8bb4aa \clef:treble_8
@@ -18,7 +18,7 @@ rf!fb,8.e+6@8@b
 bfrc'd6dd8d+6@@
 8e6bb8cc6re+@@8f6fc
 8.d+6@8@6@@8b+6@@8ee
-r6cc8.e6d8cb4r  || \time:2/2 \key:B \break
+r6cc8.e6d8cb4r  || \time:2/2 \key:B \break \tempo:(4=120) 
 4rd4.d8b
 4bf'4.f8d
 2d4d-d-~
@@ -60,4 +60,4 @@ Weis-sa-ge uns,
 Weis-sa-ge uns,
 Weis-sa-ge uns!
 
-Und die Knech-te schla-gen Ihn ins An-ge-sicht.
+Und die Knech-te schlu-gen Ihn ins An-ge-sicht.

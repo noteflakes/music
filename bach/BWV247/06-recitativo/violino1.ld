@@ -48,7 +48,7 @@ R*10
 
 
  || 
-\instr 2gf
+\instr 2gf+
 1g~
 g
 2eg  ||

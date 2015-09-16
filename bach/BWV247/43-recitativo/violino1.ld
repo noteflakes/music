@@ -7,7 +7,7 @@ f6ed8cfb,f'a+,f'
 {v4}ffee
 eedd
 ef-g+a
-a{v2}fgafg+d
+a{v2}fgagg+d
 cc-ba+4dc || \key:e
 R*4 || \time:3/4
 \instr R*2

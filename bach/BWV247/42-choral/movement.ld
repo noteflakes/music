@@ -12,3 +12,5 @@
     - clef: bass
   - theorbe:
     - page_break: before
+  - gamba1:
+    - page_break: before

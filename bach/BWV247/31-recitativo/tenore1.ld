@@ -54,4 +54,4 @@ et-li-che Ihn zu ver-spei-en, und zu
 ver-de-cken sein An-ge-sicht, und mit 
 Fäus-ten zu schla-gen, und zu Ihm zu sa-gen:
 
-Und die Knech-te schla-gen Ihn ins An-ge-sicht.
+Und die Knech-te schlu-gen Ihn ins An-ge-sicht.

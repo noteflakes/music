@@ -1,4 +1,4 @@
- 8rg\"_Evangelist:_" g6a-b4bf
+\tempo:(4=80)  8rg\"_Evangelist:_" g6a-b4bf
 8ggga-8.b6bbbbc
 8d-6bb8cga-a-6ggba-
 8gf4r8rff6fg
@@ -24,7 +24,7 @@ eg,b-a4ff \clef:bass
 8ra,\"_Pilatus:_" d6de4f8r6fg
 8ad,6rdde8.f6f8f6rd
 8a'aa6ab-8cc \clef:treble_8 8ra\"_Evangelist:_" 
-e-'cda4b-r || \key:d
+e-'cda4b-r || \key:d \tempo:(4=96) 
 \instr R*2
 
 2.d4c+

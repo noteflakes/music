@@ -28,7 +28,10 @@
     }
 
   	\null
-  \line { \smallCaps { <%= Lydown::Rendering::Staff.qualified_part_title(self, part: self['options/parts']) %> } }
+    <% part = self.render_mode == :score ? '' : 
+         Lydown::Rendering::Staff.qualified_part_title(self, part: self['options/parts'][0])
+    %>
+    \line { \smallCaps { <%= part %> } }
   } 
 }
 \pageBreak

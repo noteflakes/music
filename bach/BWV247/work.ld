@@ -3,11 +3,36 @@
   - violoncello:
     - source: continuo
     - remove_empty: false
+    - render_modes: part
   - tenore1:
     - source: tenore
+    - render_modes: part
   - theorbe:
     - clef: bass
     - source: continuo
     - source_streams: music, figures
     - remove_empty: false
     - title: Théorbe
+    - render_modes: blah
+  - soprano:
+    - render_modes: score
+  - alto:
+    - render_modes: score
+  - tenore:
+    - render_modes: score
+  - basso:
+    - render_modes: score
+  - soprano1:
+    - render_modes: score
+  - soprano2:
+    - render_modes: score
+  - basso1:
+    - render_modes: score
+  - basso2:
+    - render_modes: score
+  - oboe:
+    - render_modes: score
+  - flute:
+    - render_modes: score
+  - gamba:
+    - render_modes: score

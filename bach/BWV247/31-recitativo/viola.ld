@@ -24,6 +24,6 @@ R*11
 2d4d-d-~
 8db4b2e
 4.e8c2c
-2.f,4d'
-4.d8d2d || \time:4/4 \key:b
+2.f,4d-'
+4.d!8d2d || \time:4/4 \key:b
 R*2

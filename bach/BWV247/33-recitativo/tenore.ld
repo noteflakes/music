@@ -1,4 +1,4 @@
-8ra\"_Evangelist:_" d6ab8c6f+,@8ga
+\tempo:(4=80) 8ra\"_Evangelist:_" d6ab8c6f+,@8ga
 8.b6d,ggga 8bbbc
 dg,4r 8ra8.d6a
 8fff6ga 8ad,4r
@@ -18,14 +18,14 @@ dg,4r 8ra8.d6a
 4br2r
 8rgc6cc8cgb-a
 4dd8.e-6@8@a,
-8b-6@d8cgaa4r || \break \key:G
+8b-6@d8cgaa4r || \break \key:G \tempo:(4=96) 
 4db2r
 2r4r8rg
 ab4ca8r6gg
 8abcedd4r
 4d8dd4dd
 2r4eb
-c8cc4af || \break
+c8cc4af || \break \tempo:(4=80) 
 8rb\"_Evangelist:_"bc+d+@@6ef
 8ffd+bg'g \clef:bass 8rb,\"_Petrus:_"
 e6ee8ebce,ag

@@ -12,7 +12,7 @@ e+edc4ff|| \key:e
 R*4 || \time:3/4
 \instr 4ref
 gfe
-f-@r
+ffr
 R
 4rf!f
 2.b~

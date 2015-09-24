@@ -8,4 +8,10 @@
     - include_parts: tenore1
   - gamba1:
     - include_parts: tenore1,continuo
+  - violino1:
+    - include_parts: tenore1
+  - violino2:
+    - include_parts: tenore1
+  - viola:
+    - include_parts: tenore1
   

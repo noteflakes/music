@@ -1,7 +1,7 @@
 [8e'f] 4gabb
 agf\fermata b
 cde[8dc]
-2c4b :|. b
+2c4b :|. \partBreak b
 edcb
 agf\fermata b
 ag[8fg]4a

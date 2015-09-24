@@ -46,6 +46,7 @@ ldIVgottseiunsTenoreLyricsVoiceOneI = \lyricmode { Gott sei uns gnä -- dig und 
 }
 \context Staff = SopranoStaff {
       \clef "treble"
+      \cadenzaOn
   \set Staff.autoBeaming = ##f
   \ldIVgottseiunsSopranoMusic
     \bar "|."

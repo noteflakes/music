@@ -2,7 +2,7 @@
 ea(ag+)
 2e\fermata 4ag+
 aeea
-1g+\fermata :|.
+1g+\fermata :|. \partBreak
 4aaga
 [8aa-]4g(4.g8f)
 2e\fermata 4gg

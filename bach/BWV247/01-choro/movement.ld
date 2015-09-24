@@ -1,4 +1,4 @@
-- include: prima_parte.ely
+- include: ../prima_parte.ely
 - key: b minor
 - time: 4/4
 - instrument_names: inline

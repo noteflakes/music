@@ -10,6 +10,8 @@
   - viola:
     - page_break: before
   - violino1:
-    - page_break: before
+    - page_break: blank page before
+  - violino2:
+    - page_break: blank page before
   - violoncello:
     - page_break: blank page before

@@ -7,6 +7,8 @@
   - tenore1:
     - source: tenore
     - render_modes: part
+    - notation_size: tiny
+    - staff_size: -2
   - theorbe:
     - clef: bass
     - source: continuo

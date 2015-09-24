@@ -1,4 +1,4 @@
-- include: seconda_parte.ely
+- include: ../seconda_parte.ely
 - parts:
   - page_break: before
   - gamba1:

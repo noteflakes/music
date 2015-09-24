@@ -16,5 +16,3 @@
     - page_break: before
   - oboe2:
     - page_break: before
-  - viola:
-    - page_break: before

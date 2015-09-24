@@ -21,7 +21,7 @@ aaa
 4.a8a4a
 bar || \time:4/4 \key:G
 R*2
- || \key:C
+ || \key:C \partBreak
 \instr 1d~
 2dc~
 1c

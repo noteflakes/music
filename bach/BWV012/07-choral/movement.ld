@@ -1,0 +1,5 @@
+- pickup: 4
+- colla_parte:
+  - soprano: violino1, violino2
+  - alto: viola1
+  - tenore: viola2

@@ -1,0 +1,52 @@
+- key: c minor
+- time: 3/2
+2a'rd-
+g,rc
+f,rb
+e+,rc'
+ard-
+g,rc
+f,rb
+e+,rc'
+ard-
+g,rc
+f,rb
+arc
+ard-
+g,rc
+f,rb
+e+,rc'
+ard-
+g,rc
+f,rb
+arc
+crd-
+g,rc
+brb
+arg
+arg
+grf
+frf
+e+c'g
+ard-
+g,rc
+f,rb
+e+,c'g
+ard-
+g,rc
+crb
+crc
+cra+
+brc
+f,rb
+arc
+ard-
+g,rc
+brb
+arg
+ard-
+g,rc
+f,rb
+4ag2.g4f
+2f\fermata rr
+R*43  \dacapo 

@@ -1,0 +1,7 @@
+- parts:
+  - violino1:
+    - page_break: before
+  - violino2:
+    - page_break: before
+  - continuo:
+    - page_break: before

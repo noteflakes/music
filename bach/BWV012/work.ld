@@ -1,0 +1,8 @@
+- work:
+  - title: Cantata BWV 12
+  - subtitle: "Weinen Klagen Sorgen Zagen"
+  - composer: Johann Sebastian Bach
+- instrument_name_style: smallcaps
+- instrument_names: inline
+- document:
+  - require: house-style

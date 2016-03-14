@@ -3,7 +3,7 @@
 g6fg8a~agf (gd+e)rra
 f6ef8g~gfe (fcd)rre
 1.f-
-8&6ef-8g~gfe~ e6fg8a~agf~
+8&6ef-8g~gf-e~ e6fg8a~agf~
 f6ga8b-~@ag+4.a~8afg
 f6efge4c8d4.d~4d8r
 4.dc~{c}cbag

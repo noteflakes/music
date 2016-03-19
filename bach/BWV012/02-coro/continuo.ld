@@ -48,7 +48,7 @@ ff'f
 e+ee
 dd-d-
 cc,c \break
-f\fermata rr
+f\fermata \tempo:"\"Un poco allegro\"" rr
 rc''b
 agf
 1g2f

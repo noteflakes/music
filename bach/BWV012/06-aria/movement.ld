@@ -1,0 +1,7 @@
+- score:
+  - page_break: before
+  - layout:
+    - system_count: 11
+- parts:
+  - oboe_tromba:
+    - source: tromba

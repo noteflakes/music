@@ -1,8 +1,68 @@
 - work:
-  - title: Cantata BWV 12
-  - subtitle: "Weinen Klagen Sorgen Zagen"
   - composer: Johann Sebastian Bach
+  - opus: Cantata BWV 12
+  - title: Weinen Klagen Sorgen Zagen
+  - subtitle: Concerto à 9\n per Dominica Jubilate
+  - source: D-B Mus. ms. Bach P 44 Fascicle 7\nD-B Mus. ms. Bach St 109 Fascicle 1
 - instrument_name_style: smallcaps
-- instrument_names: inline
+//- instrument_names: inline
+
 - document:
   - require: house-style
+
+- score:
+  - layout:
+    - indent: 14mm
+  - document:
+    - page_break: blank page before
+
+- parts:
+  - soprano:
+    - render_modes: score
+  - alto:
+    - render_modes: score
+  - tenore:
+    - render_modes: score
+  - basso:
+    - render_modes: score, part
+  - violoncello:
+    - source: continuo
+    - remove_empty: false
+    - render_modes: part
+  - oboe_tromba:
+    - title: Oboe / Tromba
+    - render_modes: part
+  - continuo_figured:
+    - render_modes: part
+  - fagotto:
+    - source: continuo
+    - render_modes: part
+    - transpose: f g
+- editions:
+  - chorton:
+    - work:
+      - edition: (Chorton)
+    - parts:
+      - violino1:
+        - heading_title: Violino I (Chorton)
+      - violino2:
+        - heading_title: Violino II (Chorton)
+      - viola1:
+        - heading_title: Viola I (Chorton)
+      - viola2:
+        - heading_title: Viola II (Chorton)
+      - violoncello:
+        - heading_title: Violoncello (Chorton)
+      - continuo:
+        - heading_title: Continuo (Chorton)
+  - kammerton:
+    - work:
+      - edition: (Kammerton)
+    - transpose: f g
+    - parts:
+      - oboe:
+        - transpose: g g
+      - tromba:
+        - transpose: g g
+      - oboe_tromba:
+        - transpose: g g

@@ -5,8 +5,8 @@ fffb
 baf\fermata [8ed]
 4cg'fg
 2f4f\fermata  :| b
-b[8cb]4aa \partBreak 
-4.b8a-4gf
+b[8cb]4a\fermata a \partBreak 
+4.b8a-4g\fermata f
 e+dcd
 2c4c\fermata b
 [8bc][de]4ff

@@ -1,10 +1,10 @@
 - key: c minor
 - time: 4/4
-(8f'f)(cc)(g'g)(e+e+)
-(aa)(ff)(bb)(gg)
-(gg)(e+e+)(cc)(ff)
+(8f'f)(cc)g'ge+e+
+aaffbbgg
+(gge+e+)(ccff)
 cca'aeeb'b
-e,ec'cbbff
+e,ec'c{8[__]}bbff
 bbggaad,d
 ccg'gffff
 a+a+d,dggff
@@ -15,4 +15,4 @@ bbd-d-bbbb
 bbbbffff
 gggg4g\fermata 8rg
 fg(6ab)8c4c,8rb
-b(6ab)8cb2a\fermata 
+b6ab8cb2a\fermata 

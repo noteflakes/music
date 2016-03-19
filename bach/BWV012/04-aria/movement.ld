@@ -1,3 +1,9 @@
 - parts:
   - continuo:
     - page_break: before
+  - oboe_tromba:
+    - source: oboe
+  - fagotto:
+    - page_break: before
+- score:
+  - page_break: before

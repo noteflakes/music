@@ -1,5 +1,10 @@
 - pickup: 4
 - colla_parte:
-  - soprano: violino1, violino2
+  - soprano: violino1, violino2, oboe
   - alto: viola1
   - tenore: viola2
+- parts:
+  - oboe_tromba:
+    - source: tromba
+- score:
+  - page_break: before

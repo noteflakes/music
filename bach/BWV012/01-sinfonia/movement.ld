@@ -1,0 +1,7 @@
+- tempo: Adagio assai
+- parts:
+  - oboe_tromba:
+    - source: oboe
+  - fagotto:
+    - layout:
+      - system_count: 3

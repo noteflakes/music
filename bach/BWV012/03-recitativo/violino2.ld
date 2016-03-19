@@ -5,5 +5,5 @@
 ga
 1b
 2a+d
-8efga4gf
+8efga4(gf)
 1e\fermata 

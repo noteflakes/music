@@ -1,6 +1,6 @@
 - key: c minor
 - time: 4/4
-4r8rc'g'ga+b
+4r8r\"_Alto:_"c'g'ga+b
 ([ca+])4f+r8ga
 ([bg])e+6rc8ffa([6bc])
 ([8d-b])4gr8cg

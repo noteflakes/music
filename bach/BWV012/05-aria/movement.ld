@@ -5,3 +5,7 @@
     - page_break: before
   - continuo:
     - page_break: before
+  - fagotto:
+    - page_break: before
+- score:
+  - page_break: before

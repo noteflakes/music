@@ -3,7 +3,7 @@
 4b,
 b'abg
 dfb,\fermata e
-f8ga4be,
+f8(ga)4be,
 2f4b,\fermata  :| b'
 e,e+f\fermata e \partBreak
 dde\fermata b

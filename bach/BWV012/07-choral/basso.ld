@@ -3,13 +3,13 @@
 4b,
 b'abg
 dfb,\fermata e
-f[8ga]4be,
+f([8ga])4be,
 2f4b,\fermata  :| b'
-e,e+f\fermata e
+e,e+\trill f\fermata e
 dde\fermata b
-c[8de+]4fb,
+c([8de+])4fb,
 2c4f,\fermata d'
-[8ga]4b[8fe][db]
+[8ga]4b([8fe])([db])
 2f4b\fermata 
 =lyrics
 Was Gott thut, das ist wohl-ge-than,

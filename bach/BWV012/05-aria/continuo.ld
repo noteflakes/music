@@ -19,7 +19,7 @@ cf,gg,cded
 cba+gd'e+f+d
 gc,dd,ga+bc
 dcbgcdcb
-a+ba+gf+e+df+
+a+ba+gf+e+df+ \scoreBreak
 gcdd,ga+bc
 dcb+gcdef
 gfgc,fga+b+

@@ -5,8 +5,8 @@ bcde
 4.f8e4d\fermata g
 fede
 2c\trill 4b\fermata  :| f' 
-ggc,c \partBreak 
-ffb,d
+ggc,\fermata c \partBreak 
+ffb,\fermata d
 cbab
 2g4f\fermata f'
 edcd

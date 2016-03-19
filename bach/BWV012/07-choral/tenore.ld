@@ -5,9 +5,9 @@ dcb[8bc]
 4dcb\fermata b
 a[8bc]4d[8cb]
 (4ba)4b\fermata  :| d
-[8ed]4c4ff
-[8fe][dc]4b[8ba]
-4gf[8fa][gf]
+[8ed]4c4f\fermata f
+[8fe]([dc])4b\fermata ([8ba])
+4gf([8fa])[gf]
 (4fe+)f\fermata f
 g[8fg]4ab
 (4ba)4f\fermata 

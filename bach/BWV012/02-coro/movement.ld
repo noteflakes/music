@@ -1,3 +1,7 @@
+- tempo: Lento
+- empty_staves: hide
+- score:
+  - page_break: before
 - parts:
   - oboe:
     - page_break: before

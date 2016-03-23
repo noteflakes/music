@@ -5,5 +5,7 @@
     - source: oboe
   - fagotto:
     - page_break: before
+  - violoncello:
+    - page_break: before
 - score:
   - page_break: before

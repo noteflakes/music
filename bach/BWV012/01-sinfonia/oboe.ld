@@ -9,9 +9,9 @@
 4f~[(6f3gagfe64fd)]8e-(6b'g)(e-!c+)(bg)
 8e(6d'c+)4d~[(3dc+feagba)]8.c+,6d
 4d8rd~[(6d3cb6a3bg)]4c~
-[(3cbagf+gab)][(cde-dcbca)](8b6ag)8rg'~
+[(3cbagf+gab)][(cde-dcbca)]8b6ag8rg'~
 [(6g3fe-6d3e-c)]4f~[(3fe-dcb+cde-][fga-gfe-fd])
-(8e-6dc)r[(3cde-f6g]8a-)(6cb)(a-gf+g)
+8e-6dcr[(3cde-f6g)]8a-(6cb)(a-gf+g)
 (c,de-d)[(cba3bg)]8c+(6g'f)(edc+d)
 (g,aba)[(gfe3fd)]4e-'\fermata ~[(3e-def+6g3ba)]
 [(6b3cb6a3bc)]8.f+,\trill 6g[(3gfe-dcba64bg)]4c~

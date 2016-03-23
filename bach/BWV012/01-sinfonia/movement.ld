@@ -2,6 +2,20 @@
 - parts:
   - oboe_tromba:
     - source: oboe
+  - continuo:
+    - layout:
+      - system_count: 3
+  - violoncello:
+    - layout:
+      - system_count: 3
   - fagotto:
     - layout:
       - system_count: 3
+  - viola2:
+    - original_clef: tenor
+- editions:
+  - chorton:
+    - score:
+      - layout:
+        - original_clefs: show
+        - indent: 20mm

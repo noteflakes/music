@@ -4,7 +4,7 @@
 {[(6_3__)8_]}fged{[(6_3__)(6_3__)]}feddcb[6b(3f'e6.f)3g]8a,(6gf)
 8.f6c'{[(6_3__)(6_3__)]}fgad,ef8.b+,6d{[(6_3__)(6_3__)]}efgc+,de
 8.a,6c+{[(6_3__)(6_3__)]}deffga{[(6_3__6._)3_]}bgecb'afdba'
-gec+ag'fdbgf'[6e-(3b'ge-6c+3d)](8f,\trill 6e)a
+gec+ag'fdbgf'[6e-(3b'ge-6c+!3d)](8f,\trill 6e)a
 (ag+)(d'c+)4d~(6dc+fe)8.c+6d
 4dr2r
 R

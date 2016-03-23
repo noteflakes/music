@@ -8,7 +8,7 @@ fede
 ggc,\fermata c \partBreak 
 ffb,\fermata d
 cbab
-2g4f\fermata f'
+2g\trill 4f\fermata f'
 edcd
 2c\trill 4b\fermata 
 =lyrics

@@ -63,7 +63,7 @@ R*7
 Sei ge-treu, sei ge-treu,____
 al-le Pein,___ al-le Pein_ wird doch nur_ ein Klei-nes_ sein,
 al-le Pein,_ al--------le Pein wird doch nur_ ein Klei-----------nes, wird
-doch nur ein Klei-nes sein. Sei ge-----nes_ sein.
+doch nur ein Klei-nes sein. Sei ge\------nes_ sein.
 
 Nach dem Re-gen blüht der Se-gen,
 nach dem Re----gen blüht der Se-------gen, blüht der Se-gen,

@@ -15,4 +15,4 @@ gfefgagfga
 6e+(a'gf){(6__)}e+d-cbagfgagfe
 6d(e'dc)(b+a)(gf)4g\fermata 8re+'
 fd-cb4a6r(agf)
-8e+ffe+2f\fermata 
+[8e+f]fe+2f\fermata 

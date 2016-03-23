@@ -15,4 +15,4 @@ b<b>rb,<6->r
 d-<642`>rd<6`5->r
 g,re+\fermata 8rc
 fb4cd-8rg,
-cbcc,2f\fermata
+[cb]cc,2f\fermata

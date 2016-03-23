@@ -5,7 +5,23 @@
 - parts:
   - oboe:
     - page_break: before
+  - oboe_tromba:
+    - page_break: before
   - violino1:
     - page_break: before
   - violino2:
     - page_break: before
+  - viola2:
+    - original_clef: tenor
+  - soprano:
+    - original_clef: soprano
+  - alto:
+    - original_clef: alto
+  - tenore:
+    - original_clef: tenor
+- editions:
+  - chorton:
+    - score:
+      - layout:
+        - original_clefs: show
+        - indent: 20mm

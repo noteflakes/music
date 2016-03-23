@@ -1,9 +1,9 @@
 - work:
   - composer: Johann Sebastian Bach
-  - opus: Cantata BWV 12
+  - opus: Cantata BWV 12 / BC A 68
   - title: Weinen Klagen Sorgen Zagen
   - subtitle: Concerto à 9\n per Dominica Jubilate
-  - source: D-B Mus. ms. Bach P 44 Fascicle 7\nD-B Mus. ms. Bach St 109 Fascicle 1
+  - source: D-B Mus. ms. Bach P 44, Faszikel 7\nD-B Mus. ms. Bach St 109, Faszikel 1
 - instrument_name_style: smallcaps
 //- instrument_names: inline
 
@@ -11,12 +11,26 @@
   - require: house-style
 
 - score:
+  - set:
+    - title_page: #f
   - layout:
     - indent: 14mm
   - document:
     - page_break: blank page before
 
 - parts:
+  - set:
+    - title_page: #f
+  - viola1:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
+  - viola2:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
   - soprano:
     - render_modes: score
   - alto:
@@ -26,18 +40,36 @@
   - basso:
     - render_modes: score, part
   - violoncello:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
     - source: continuo
     - remove_empty: false
     - render_modes: part
   - oboe_tromba:
     - title: Oboe / Tromba
     - render_modes: part
+  - tromba:
+    - title: Tromba
+  - continuo:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
   - continuo_figured:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
     - render_modes: part
   - fagotto:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
     - source: continuo
     - render_modes: part
-    - transpose: f g
 - editions:
   - chorton:
     - work:
@@ -55,14 +87,34 @@
         - heading_title: Violoncello (Chorton)
       - continuo:
         - heading_title: Continuo (Chorton)
+      - oboe:
+        - transpose: g f
+      - tromba:
+        - transpose: g f
   - kammerton:
     - work:
       - edition: (Kammerton)
     - transpose: f g
     - parts:
       - oboe:
+        - heading_title: Oboe (Kammerton)
         - transpose: g g
       - tromba:
+        - heading_title: Tromba (Kammerton-C)
         - transpose: g g
       - oboe_tromba:
+        - heading_title: Oboe (Kammerton)
         - transpose: g g
+      - violino1:
+        - heading_title: Violino I (Kammerton)
+      - violino2:
+        - heading_title: Violino II (Kammerton)
+      - viola1:
+        - heading_title: Viola I (Kammerton)
+      - viola2:
+        - heading_title: Viola II (Kammerton)
+      - violoncello:
+        - heading_title: Violoncello (Kammerton)
+      - continuo:
+        - heading_title: Continuo (Kammerton)
+        

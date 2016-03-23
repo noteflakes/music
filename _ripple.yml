@@ -1,7 +1,8 @@
 part_macro: \prepare
 score_macro: \prepare
 editor: Sharon Rosner
-# lilypond_dir: /Library/ly/bin
-lilypond_dir: /Applications/LilyPond.app/Contents/Resources/bin
+lilypond_dir: ~/repo/lyp/bin
+# ~/.lyp/lilyponds/2.19.35/bin
+# lilypond_dir: /Applications/LilyPond.app/Contents/Resources/bin
 open_target: true # we always need to see the pdfs anyway
 

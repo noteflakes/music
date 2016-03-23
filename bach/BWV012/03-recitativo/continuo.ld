@@ -3,7 +3,7 @@
 1c~
 2cb~
 ba
-1e+2<7`65>2<65> \scoreBreak
+1e+2<7`5>2<65> \scoreBreak
 2f+4.g8f
 4e8dc2g'4
 1c,\fermata 

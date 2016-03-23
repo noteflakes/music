@@ -38,7 +38,7 @@
   - tenore:
     - render_modes: score
   - basso:
-    - render_modes: score, part
+    - render_modes: score
   - violoncello:
     - document:
       - page_break: before

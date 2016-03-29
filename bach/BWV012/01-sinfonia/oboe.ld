@@ -1,9 +1,8 @@
 - key: d minor
-- time: 4/4
 4d''~[(3ddef+6g3ab)]4f+\trill ~[(6f+3gf+egf+64ag)]
 4g~[(3gfe-dcbag)]8e-'a~[(3abcbagf+g)]
 4c,~[(3ce-dcbacb)][(6b3cb6a3bg)]3r[(d'ef+6g3ba)]
-4b~[(3bagfe-dfe-)]8e-c'~[(6c3bababc)]
+4b~[(3bagfe-dfe-)]8e-c'~[(6c3bababc)]  \scorePageBreak
 6^e-,8db'~[(6b3agagab)]4c,~[(3cde-!dcbab)]
 (8a\trill 6gf)3r([ab+c+dfe64gf])4g~[(3gbagfegf)]
 4f~[(6f3gagfe64fd)]8e-(6b'g)(e-!c+)(bg)

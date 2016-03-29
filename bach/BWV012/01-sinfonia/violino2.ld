@@ -1,5 +1,4 @@
 - key: c minor
-- time: 4/4
 {(6__)(__)8_r}a'gfgagfe+fg
 cbabcbagab
 e+,dcde+{(6__)}fe+fgagab

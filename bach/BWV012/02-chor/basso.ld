@@ -4,8 +4,8 @@ R*3
 2r1g~
 4gf2fr
 R
-2r1b~
-(4bg)2e+r
+2r1(b~
+4bg)2e+r
 R*2
 2rfg
 (ag)g

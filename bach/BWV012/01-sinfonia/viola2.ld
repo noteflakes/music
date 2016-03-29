@@ -1,5 +1,4 @@
 - key: c minor
-- time: 4/4
 (8aa)(ff)bbgg
 ccaaffbb
 ggccccaa

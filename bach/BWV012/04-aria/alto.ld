@@ -17,7 +17,7 @@ R*6
 8d,[6cb]8a'a([6ag])([a+3bc])8.a+6b
 1b~
 4b8bbb([6ag])8aa
-([6ag])8g[6a+b]8b\trill 4c~6cba+b
+([6ag])8g[(6a+b)]8b\trill 4c~6cba+b
 8^g4f+8a+a+([6a+3gf+])([6ga+])8b[6a+g]
 4gr2r
 R

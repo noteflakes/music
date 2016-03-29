@@ -9,5 +9,3 @@
     - transpose: f g
   - oboe:
     - transpose: f g
-- score:
-  - page_break: before

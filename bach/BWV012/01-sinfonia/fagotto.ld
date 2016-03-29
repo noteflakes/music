@@ -1,5 +1,3 @@
-- key: c minor
-- time: 4/4
 4f,rgr
 arbr
 crf,r

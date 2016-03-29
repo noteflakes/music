@@ -1,3 +1,4 @@
+- time: 4/4
 - tempo: Adagio assai
 - parts:
   - oboe_tromba:
@@ -19,3 +20,6 @@
       - layout:
         - original_clefs: show
         - indent: 20mm
+- score:
+  - layout:
+    - system_count: 8

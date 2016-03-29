@@ -1,7 +1,7 @@
 - key: c minor
 - time: 3/2
-2r1d-''~
-(4d-c)2cr
+2r 1(d-''~
+4d-c)2cr
 R*3
 2r1g~
 4gf2fr
@@ -13,8 +13,8 @@ R
 R*2
 2rg,f
 e+cr
-r1d-'~
-(2d-4cb)2c
+r1(d-'~
+2d-4cb)2c
 rf,g
 (a4ga)2b
 (a+b)a
@@ -29,8 +29,8 @@ b
 (d-c)c
 f1b,
 1.c
-2r1d-~
-2d-b+c
+2r1(d-~
+2d-b+)c
 a+(4bd-)(cb)
 2eb4(cd-)
 1.c
@@ -92,7 +92,7 @@ Wei-nen, Kla-gen, Sor-gen, Za-gen,
 Wei-nen, Kla-gen, Wei-nen,
 Wei-nen, Kla-gen, Sor-gen, Za----gen,
 Angst und Noth, Angst und Noth_ sind der Chri-sten Thrä- nen-brod,
-Angst__ und Noth, Angst und Noth, Angst und Noth,
+Angst_ und Noth, Angst und Noth, Angst und Noth,
 Angst und Noth_ sind der Chri-sten Thrä-nen-brod, 
   sind der Chri-sten Thrä-nen-brod,
 

@@ -1,3 +1,7 @@
+- score:
+  - layout:
+    - system_count: 10
+  - page_break: before
 - parts:
   - violino1:
     - page_break: before
@@ -9,5 +13,3 @@
     - page_break: before
   - violoncello:
     - page_break: before
-- score:
-  - page_break: before

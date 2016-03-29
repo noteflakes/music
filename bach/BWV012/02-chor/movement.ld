@@ -1,7 +1,9 @@
-- tempo: Lento
+- tempo: Lente
 - empty_staves: hide
 - score:
-  - page_break: before
+//  - page_break: before
+  - layout:
+    - system_count: 12
 - parts:
   - oboe:
     - page_break: before

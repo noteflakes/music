@@ -1,8 +1,7 @@
 - key: c minor
-- time: 4/4
 {(6__)(__)8_r}c''babcbagab
 agfgad-cbcd-
-g,fe+fg(6ag)(ab)c(cde+)
+g,fe+fg(6ag)(ab)(ccde+)
 {(6__)(__)8_r}fe+fgabagab
 e,d-cd-efedef
 b,agabagfga

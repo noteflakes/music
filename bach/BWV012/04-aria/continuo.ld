@@ -7,8 +7,8 @@ b+decfdec
 db+ca<65>ff'gg,
 4a+8ragf4g
 8cc,8re'dcb+g
-4c[6c3de6dc]8.f+\trill 6g([6c,3de6dc])
-8b+6a!g2c'4b+
+4c~([6c3de6dc])8.f+\trill 6g([6c,3de6dc])
+8b+6a+g2c'4b+
 8cbagfeb'b,
 efgecefd
 b+decfb!e,a

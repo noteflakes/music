@@ -2,8 +2,8 @@
 - time: 3/2
 R*2
 
-2r1b~
-4bg2e+r
+2r1(b~
+4bg)2e+r
 2r1d-'~
 4d-c2cr
 R*5
@@ -32,8 +32,8 @@ f,gb
 (2ag)f
 1.g
 R*2
-2r1b~
-(2bd-)c
+2r1(b~
+2bd-)c
 1.a+
 R*2
 2r(4cb)(cg)
@@ -48,7 +48,7 @@ R\fermataMarkup
 1e2f
 (4dedc)(b+a+)
 2g2.c\trill [8b+c]
-2.d4cdb
+2.d4cdb!
 cededc
 b+gcb+2c
 4cd2.b+[8a+b+]
@@ -82,13 +82,13 @@ rcg
 a1a+\trill
 1.b
 2e,e'b
-c-1c\trill
+c1c\trill
 2d-(4ef)2g-
 (4fed-c)(d-b)
 (2cd-)b
 1c2c \dacapo
 =lyrics
-Sor--gen, Wei--nen,
+Sor-gen, Wei--nen,
 Wei-nen, Kla-----gen,
 Wei--nen, Kla-------gen, Sor- gen, Za- gen, 
 Angst und Noth,

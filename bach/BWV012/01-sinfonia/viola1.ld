@@ -1,5 +1,4 @@
 - key: c minor
-- time: 4/4
 (8f'f)(cc)g'ge+e+
 aaffbbgg
 (gge+e+)(ccff)

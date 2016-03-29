@@ -1,11 +1,10 @@
 - key: c minor
-- time: 4/4
 4f,rg<6`>r
 a<6>rb8<5b><6>4r
 c<7h>rf,r
-f'4<5>r4<6->g<65->r
+f'4<5>r4<6->g<65->r \scorePageBreak
 ard,<65>r
-erb+<7-5>r \break
+erb+<7-5>r
 crf,<6->r
 f+<65>rg<864>r<75h>
 c<54>r<h>d<7>r<6>

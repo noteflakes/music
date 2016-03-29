@@ -29,12 +29,12 @@ g
 [6cded][cb!a3bg]4a~
 [6abcb][agf+3ge+][6f+3ag6a3cb]
 8cf+,4.d'8c
-[6ba][bc](4g8.f+)6g
+([6ba])[bc](4g8.f+)6g
 4g([8.g6b8a])b|*
 [6cded][cbab][cdec]*|
 [8.f6g](4.c,8b)
 4bdf
-[8b,6g'fed]([cb])4.!f'
+[(8b,6g'fed)]([cb])4.!f'
  8b,([a6bc])4f,
 4rd'b
 [8e6gf][8.g6f][edcb]

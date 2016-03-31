@@ -3,6 +3,16 @@
 - parts:
   - oboe_tromba:
     - source: oboe
+  - violino1:
+    - layout:
+      - system_count: 6
+  - violino2:
+    - layout:
+      - system_count: 6
+  - viola2:
+    - original_clef: tenor
+    - layout:
+      - system_count: 5
   - continuo:
     - layout:
       - system_count: 3
@@ -12,8 +22,6 @@
   - fagotto:
     - layout:
       - system_count: 3
-  - viola2:
-    - original_clef: tenor
 - editions:
   - chorton:
     - score:

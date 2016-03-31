@@ -78,7 +78,7 @@ c'ba
 bag
 agf
 1.e+
-2f(4ed)(ec)
+2f(4ed)  \slur:(,0.2)(,0.5)(,0.8)(,1.1) (ec)
 1.b+
 2c4ed2c
 b2.a4a

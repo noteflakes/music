@@ -1,0 +1,29 @@
+- pickup: 4
+- colla_parte:
+  - soprano1: violino1, violino2, oboe
+  - alto1: viola1
+  - tenore1: viola2
+- parts:
+  - tromba:
+    - layout:
+      - system_count: 3
+  - oboe_tromba:
+    - source: tromba
+    - layout:
+      - system_count: 3
+  - oboe:
+    - transpose: f g
+    - source_streams: music, lyrics
+    - beaming: manual
+  - violino1:
+    - source_streams: music, lyrics
+    - beaming: manual
+  - violino2:
+    - source_streams: music, lyrics
+    - beaming: manual
+  - viola1:
+    - source_streams: music, lyrics
+    - beaming: manual
+  - viola2:
+    - source_streams: music, lyrics
+    - beaming: manual

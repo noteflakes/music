@@ -13,12 +13,25 @@
     - include_parts: alto1
   - fagotto:
     - include_parts: alto1
-//  - violino1:
-//    - include_parts: alto1
-//  - violino2:
-//    - include_parts: alto1
-//  - viola1:
-//    - include_parts: alto1
-//  - viola2:
-//    - include_parts: alto1
-  
+  - violino1:
+    - include_parts: alto1
+    - score:
+      - order: alto1, violino1
+  - violino2:
+    - include_parts: alto1
+    - score:
+      - order: alto1, violino2
+  - viola1:
+    - include_parts: alto1
+    - score:
+      - order: alto1, viola1
+  - viola2:
+    - include_parts: alto1
+    - score:
+      - order: alto1, viola2
+  - oboe:
+    - lyrics_markup_file: lyrics.ly
+  - tromba:
+    - lyrics_markup_file: lyrics.ly
+  - oboe_tromba:
+    - lyrics_markup_file: lyrics.ly

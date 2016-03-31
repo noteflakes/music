@@ -7,7 +7,21 @@
     - page_break: before
   - oboe_tromba:
     - source: oboe
+  - tromba:
+    - lyrics_markup_file: lyrics.ly
   - fagotto:
     - page_break: before
   - violoncello:
     - page_break: before
+  - violino1:
+    - page_break: before
+    - lyrics_markup_file: lyrics.ly
+  - violino2:
+    - page_break: before
+    - lyrics_markup_file: lyrics.ly
+  - viola1:
+    - page_break: before
+    - lyrics_markup_file: lyrics.ly
+  - viola2:
+    - page_break: before
+    - lyrics_markup_file: lyrics.ly

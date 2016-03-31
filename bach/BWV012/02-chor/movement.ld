@@ -5,15 +5,22 @@
   - layout:
     - system_count: 12
 - parts:
+  - tromba:
+    - lyrics_markup_file: lyrics.ly
   - oboe:
     - page_break: before
+    - lyrics_markup_file: lyrics.ly
   - oboe_tromba:
     - page_break: before
+    - lyrics_markup_file: lyrics.ly
   - violino1:
     - page_break: before
   - violino2:
     - page_break: before
+  - viola1:
+    - page_break: before
   - viola2:
+    - page_break: before
     - original_clef: tenor
   - soprano:
     - original_clef: soprano

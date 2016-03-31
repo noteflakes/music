@@ -17,7 +17,7 @@ r1(d-'~
 2d-4cb)2c
 rf,g
 (a4ga)2b
-(a+b)a
+\slur:(,0.5)(,0.4)(,0.2)_ (a+b)a
 g1g-
 1.f~
 2f1e+\trill
@@ -25,7 +25,7 @@ g1g-
 cf,a+
 1.b~
 b
-(2ad-)d-
+\sHL:2.5 \slur:(,1.2)(,0.9)(,0.4)_ (2ad-)d-
 (d-c)c
 f1b,
 1.c
@@ -84,7 +84,7 @@ g-1g\trill
 1.a~
 a~
 a~
-2(ab)g
+\slur:(,0.5)(,0.4)(,0.2)_ (2ab)g
 1a2a \dacapo 
 =lyrics
 Wei-nen, Kla--gen, 

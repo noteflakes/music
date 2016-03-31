@@ -1,11 +1,11 @@
 - key: b- major
 - time: 4/4
-4d'
+4d'\"_coll'Alto_"
 fffb
 baf\fermata [8ed]
-4cg'fg
+4cg'fg  \partBreak 
 2f4f\fermata  :| b
-b[8cb]4a\fermata a \partBreak 
+b[8cb]4a\fermata a
 4.b8a-4g\fermata f
 e+dcd
 2c4c\fermata b

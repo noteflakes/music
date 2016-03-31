@@ -23,7 +23,7 @@ R*6
 R
 4r8b6^a([6g3af])8.e+6c'([cb])([a\trill g])
 8a[6gf]8a6^g([6f3ge])8.d6e{([6_3__])}fgagab
-([6g\trill f])([ef])([g3af])([6ga])([b3ca])([6bc])8g([6fe])
+([6g\trill f])([ef])([g3af])([6ga]) \slur:_(,0.3)(,0.6)_ ([b3ca]) ([6bc])8g([6fe])
 2e~{[6_3__6_3__]}efedecdefefd
 4e8b'([6a3bg])8ce,[6f3ga]([6gf])
 4f~[6fegf]4f~[6feag]

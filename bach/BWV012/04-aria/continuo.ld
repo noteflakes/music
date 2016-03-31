@@ -7,7 +7,7 @@ b+decfdec
 db+ca<65>ff'gg,
 4a+8ragf4g
 8cc,8re'dcb+g
-4c~([6c3de6dc])8.f+\trill 6g([6c,3de6dc])
+4c~ \sHL:3.2 ([6c3de6dc])8.f+\trill 6g \sHL:3.2 ([6c,3de6dc])
 8b+6a+g2c'4b+
 8cbagfeb'b,
 efgecefd
@@ -28,7 +28,7 @@ c,\fermata 8c'decg6fe
 b'ag6fe8dcdb
 8.e6g{[(6_3__)(6_3__)]}e+fgc,de+8.f,6f'{[(6_3__)(6_3__)]}defb,cd
 8.e,6e'{[(6_3__)(6_3__)]}cdea+,bc8.f+,6c'{[(6_3__)(6_3__)]}a+bcf+,ga+
-4d,8rd'e<43>6d<64>c8dd,
+4d,8rd'e<4`3>6d<64>c8dd,
 4gg'gf+
 g8g,bc6de8ff,
 bagbcde+c

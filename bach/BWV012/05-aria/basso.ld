@@ -9,7 +9,7 @@ f,([6ga])([ba])([gf])4e4.!a
 fb,4.b'8cf,a+
 bb4r2r
 R*2
-4r([8f6ag])2g~
+4r \slur:_(,0.3)(,0.6)_ ([8f6ag])2g~
 1g~
 4gr8rgca+
 [8.f+6g]([8.g\trill 3f+g])4a+8rd,

@@ -3,10 +3,17 @@
     - system_count: 10
   - page_break: before
 - parts:
-  - violino1:
+  - oboe:
+    - lyrics_markup_file: lyrics.ly
+  - oboe_tromba:
+    - lyrics_markup_file: lyrics.ly
     - page_break: before
-  - violino2:
-    - page_break: before
+  - tromba:
+    - lyrics_markup_file: lyrics.ly
+  - viola1:
+    - lyrics_markup_file: lyrics.ly
+  - viola2:
+    - lyrics_markup_file: lyrics.ly
   - continuo:
     - page_break: before
   - fagotto:

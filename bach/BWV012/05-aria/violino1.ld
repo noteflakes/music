@@ -18,8 +18,8 @@ efefgg,fededefagf
 egcd8.b+6c4cr
 R*3
 8rd,a+'bcde6dc
-ba+bg8.f+6g8gd'4g~
-8g6fe4.f6gfefga
+ba+bg8.f+6g8gd'4.!g
+  6fe4.f6gfefga
 8d,6e+f8.e+6f8f6edcb+cd
 8g,6a+b+4c~8c6b+cdcb+a+
 8b+6cdedcb+8.c6d8.b+6c

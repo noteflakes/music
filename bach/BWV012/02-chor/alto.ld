@@ -27,7 +27,7 @@ fbg
 1.e+
 (2fe+)f
 (g4ab)2c
-(c4ba)(gf)
+\slur:(,0.5)(,0.7)(,0.9)(,1.2) (c4ba)(gf)
 1.e+
 R
 2r1g-~
@@ -54,15 +54,15 @@ ecfgfe
 agfefd
 2gga
 (f4ga)2b
-(e,4fg)2a
+\sHL:1.6 (e,4fg)2a
 4d,fgabg
 abagfa
 2g4cbag
 2f4efeg
 1.f
 2b,ea
-(f4ba)(gf)
-(2e4dc)2d
+ \slur:(-0.3,3)(,3)(,3)(0.3,3) (f4ba)(gf)
+\sHL:1.6 (2e4dc)2d
 4eagfef
 ea1f
 2grr

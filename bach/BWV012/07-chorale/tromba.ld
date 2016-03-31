@@ -4,7 +4,7 @@
 4.g8f4ea
 gbcc,
 g'c~8cbcd
-4g,fe :| 8c'b-
+4g,fe :| \partBreak 8c'b-
 4aa8b!cba
 4gg8abce,
 4f+8gabgea

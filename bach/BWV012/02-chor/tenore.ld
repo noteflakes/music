@@ -36,17 +36,17 @@ R*2
 2bd-)c
 1.a+
 R*2
-2r(4cb)(cg)
+ 2r(4cb) \slur:(,0.4)(,0.7)(,0.9)(,1.2) (cg)
 2arr
 rca+
 1b2b
-(c4ba)2b
+\slur:(,0.2)(,0.5)(,0.8)(,1.1) (c4ba)2b
 1.a
 R*3
 R\fermataMarkup
 2rcd
 1e2f
-(4dedc)(b+a+)
+(4dedc) \slur:(,0.3)(,0.5)(,0.7)(,0.9) (b+a+)
 2g2.c\trill [8b+c]
 2.d4cdb!
 cededc
@@ -67,7 +67,7 @@ dcbabg
 bc1b
 2brr
 rbb
-(ca)b
+\slur:(,0)(,0.3)(,0.6)(,0.9) (ca)b
 1c2f
 4gfed2c
 4fed-c2b

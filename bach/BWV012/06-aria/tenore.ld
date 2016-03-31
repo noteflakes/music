@@ -31,11 +31,11 @@ g
 8cf+,4.d'8c
 ([6ba])[bc](4g8.f+)6g
 4g([8.g6b8a])b|*
-[6cded][cbab][cdec]*|
+[6c\repeatTie ded][cbab][cdec]*|
 [8.f6g](4.c,8b)
 4bdf
-[(8b,6g'fed)]([cb])4.!f'
- 8b,([a6bc])4f,
+\slur:(,1)(,0.66)(,0.33)_ [(8b,6g'fed)]([cb])4.!f'
+  8b,([a6bc])4f,
 4rd'b
 [8e6gf][8.g6f][edcb]
 [ag][af]4.f'8a,
@@ -63,7 +63,7 @@ R*7
 Sei ge-treu, sei ge-treu,____
 al-le Pein,___ al-le Pein_ wird doch nur_ ein Klei-nes_ sein,
 al-le Pein,_ al--------le Pein wird doch nur_ ein Klei-----------nes, wird
-doch nur ein Klei-nes sein. Sei ge\------nes_ sein.
+doch nur ein Klei-nes sein. Sei ge-----nes_ sein.
 
 Nach dem Re-gen blüht der Se-gen,
 nach dem Re----gen blüht der Se-------gen, blüht der Se-gen,

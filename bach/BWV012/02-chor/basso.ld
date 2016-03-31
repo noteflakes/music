@@ -70,9 +70,9 @@ c'ba
 bag
 agf
 1.e+
-2f(4ed)(ec)
+2f(4ed) \slur:(,0.2)(,0.5)(,0.8)(,1.1) (ec)
 1.b+
-4(cd)ed2c
+\slur:(,0.8)(,0.6)(,0.4)(,0.2) (4cd)ed2c
 b4ag2a
 gg'd
 e1e+\trill

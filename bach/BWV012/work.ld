@@ -2,7 +2,7 @@
   - composer: Johann Sebastian Bach
   - opus: Cantata BWV 12 / BC A 68
   - title: Weinen Klagen Sorgen Zagen
-  - subtitle: Concerto à 9\n per Dominica Jubilate
+  - subtitle: Dominica Jubilate\nConcerto à 9
   - source: D-B Mus. ms. Bach P 44, Faszikel 7\nD-B Mus. ms. Bach St 109, Faszikel 1
 - instrument_name_style: smallcaps
 //- instrument_names: inline
@@ -21,24 +21,25 @@
 - parts:
   - set:
     - title_page: #f
-  - viola1:
+    - separate_composer_title: #f
+  - oboe_tromba:
+    - title: Oboe / Tromba
+    - render_modes: part
+  - tromba:
+    - title: Tromba
     - document:
       - page_break: before
     - set:
       - title_page: #t
-  - viola2:
-    - document:
-      - page_break: before
-    - set:
-      - title_page: #t
+      - separate_composer_title: #t
   - soprano:
-    - render_modes: score
+    - render_modes: score, part
   - alto:
-    - render_modes: score
+    - render_modes: score, part
   - tenore:
-    - render_modes: score
+    - render_modes: score, part
   - basso:
-    - render_modes: score
+    - render_modes: score, part
   - violoncello:
     - document:
       - page_break: before
@@ -47,11 +48,6 @@
     - source: continuo
     - remove_empty: false
     - render_modes: part
-  - oboe_tromba:
-    - title: Oboe / Tromba
-    - render_modes: part
-  - tromba:
-    - title: Tromba
   - continuo:
     - document:
       - page_break: before
@@ -100,10 +96,10 @@
         - heading_title: Oboe (Kammerton)
         - transpose: g g
       - tromba:
-        - heading_title: Tromba (Kammerton-C)
+        - heading_title: Tromba (Kammerton C)
         - transpose: g g
       - oboe_tromba:
-        - heading_title: Oboe (Kammerton)
+        - heading_title: Oboe / Tromba (Kammerton)
         - transpose: g g
       - violino1:
         - heading_title: Violino I (Kammerton)

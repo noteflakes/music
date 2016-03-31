@@ -3,12 +3,26 @@
     - system_count: 12
 //  - page_break: before
 - parts:
+  - tromba:
+    - page_break: bookpart before
+    - layout:
+      - system_count: 4
+  - oboe:
+    - lyrics_markup_file: lyrics.ly
   - oboe_tromba:
     - source: tromba
+    - layout:
+      - system_count: 4
   - violino1:
     - page_break: before
+    - lyrics_markup_file: lyrics.ly
   - violino2:
     - page_break: before
+    - lyrics_markup_file: lyrics.ly
+  - viola1:
+    - lyrics_markup_file: lyrics.ly
+  - viola2:
+    - lyrics_markup_file: lyrics.ly
   - continuo:
     - page_break: before
   - fagotto:

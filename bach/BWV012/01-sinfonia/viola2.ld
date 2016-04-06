@@ -13,5 +13,5 @@ b,bg'gffa+a+
 ffbbbbb,b
 bbd-d-b+b+dd
 ddg,g4b!\fermata 8re+
-c(6d-e+,)8fc4f8rd-'
+c \sR:0.5 \sHLE:3:0.5 (6d-e+,)8fc4f8rd-'
 g,d-'6ab8c2c,\fermata 

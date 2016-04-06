@@ -1,14 +1,10 @@
 \markup \abs-fontsize #10 { 
   \column {
-    \line { Ich folge Christo nach, }
-    \line { Von ihm will ich nicht lassen \hspace #7 }
-    \line { Im Wohl und Ungemach, }
-    \line { Im Leben und Erblassen. }
-  }
-  \column {
-    \line { Ich küsse Christi Schmach, }
-    \line { Ich will sein Kreuz umfassen. }
-    \line { Ich folge Christo nach, }
-    \line { Von ihm will ich nicht lassen. }
+    \line { Sei getreu, alle Pein }
+    \line { Wird doch nur ein Kleines sein. }
+    \line { Nach dem Regen }
+    \line { Blüht der Segen, }
+    \line { Alles Wetter geht vorbei, }
+    \line { Sei getreu, sei getreu! }
   }
 }

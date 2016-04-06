@@ -5,6 +5,7 @@
   - tenore1: viola2
 - parts:
   - tromba:
+    - title: [Tromba]
     - layout:
       - system_count: 3
   - oboe_tromba:
@@ -27,3 +28,9 @@
   - viola2:
     - source_streams: music, lyrics
     - beaming: manual
+  - soprano1:
+    - render_modes: part
+  - alto1:
+    - render_modes: part
+  - tenore1:
+    - render_modes: part

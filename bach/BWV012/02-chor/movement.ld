@@ -1,5 +1,6 @@
 - tempo: Lente
 - empty_staves: hide
+- movement_title: 2. [Chor]
 - score:
 //  - page_break: before
   - layout:

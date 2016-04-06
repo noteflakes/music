@@ -3,7 +3,7 @@
   - opus: Cantata BWV 12 / BC A 68
   - title: Weinen Klagen Sorgen Zagen
   - subtitle: Dominica Jubilate\nConcerto à 9
-  - source: D-B Mus. ms. Bach P 44, Faszikel 7\nD-B Mus. ms. Bach St 109, Faszikel 1
+  //- source: D-B Mus. ms. Bach P 44, Faszikel 7\nD-B Mus. ms. Bach St 109, Faszikel 1
 - instrument_name_style: smallcaps
 //- instrument_names: inline
 

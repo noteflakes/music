@@ -27,7 +27,7 @@
     - score:
       - layout:
         - original_clefs: show
-        - indent: 20mm
+        - indent: 21.5mm
 - score:
   - layout:
     - system_count: 8

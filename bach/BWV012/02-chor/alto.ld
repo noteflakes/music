@@ -75,7 +75,7 @@ g4abca
 1.g~
 2gc,f~
 4fedc2d
-4efgf2e
+(4ef)gf2e
 def
 gdr
 R
@@ -100,7 +100,7 @@ Angst_ und Noth,_ Angst und Noth,_ Angst und Noth
 die das Zei-chen Je-su tra---------------------------gen, 
 die das Zei-chen Je-su tra-----------------------gen, 
 die das Zei-chen Je-su tra---------gen,
-die das Zei-chen Je-su tra------------------------gen,
+die das Zei-chen Je-su tra-----------------------gen,
 das Zei-chen Je-su tra-gen,
 die das Zei-chen Je-su, 
 die das Zei-chen, das Zei-chen Je-su tra-gen.

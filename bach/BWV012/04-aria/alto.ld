@@ -2,10 +2,10 @@
 - time: 4/4
 R*6
 4r([6g'3ab])([6ag])8.b+6c([6f,3ga])([6gf])
-8e[6dc]([a+'3bg6a+])b([ca+])([bg])([8g6f+\trill ])g
+8e[6dc]([a+'3bg6a+])b \sR:0.5 ([ca+])([bg])([8g6f+\trill ])g
 4gra8rg
 ([6c3ba])([6a3gf])4f~[6fa]([g3ab])([8e,6.d\trill 3e])
-4er([6g3a+?^b])([6a+?^g])([g\trill f])8f
+4er([6g3ab])([6ag])([g\trill f])8f
 ([6f3ga])([6gf])([8fe])e([6d3ef])([6d\trill c])8c
 ([6a'f])([db+'])8.c6b([a3bc])([6ba])8gf
 ([6ed])([ed])8e6c'g([a3gf])([6ga])8e([6dc])
@@ -37,15 +37,15 @@ Kreuz und Kro-ne sind ver-bun-den,
 Kampf und Klei-nod sind ver-eint,
 Kampf und Klei-nod sind ver-eint,
 Kampf____ und Klei-nod,
-Kampf und Klei-nod sind ver-eint;
+Kampf und Klei-nod sind ver-eint.
 
 Chri-sten ha-ben al-le Stun-den
 ih-re Qual und ih-ren Feind,_
 Chri-sten ha-ben al-le Stun-den
 ih-re Qual_ und ih-ren Feind,
-ih-re Qual und ih-ren Feind;
+ih-re Qual und ih-ren Feind,
 
 doch ihr Trost sind Chri-sti Wun-den,
 Kreuz und Kro-ne sind ver-bun-den,
-Kampf und Klei-nod sind ver-eint;___
+Kampf und Klei-nod sind ver-eint,___
 doch ihr Trost sind Chri-sti Wun___ den, Chri-sti Wun-den.

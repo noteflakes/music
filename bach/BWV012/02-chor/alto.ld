@@ -38,7 +38,7 @@ R
 g
 2a1g
 2faf
-(g4ag-)2g-
+(g \stemUp 4ag-)2g-
 1f2g!
 4af1e+
 1.f
@@ -61,7 +61,7 @@ abagfa
 2f4efeg
 1.f
 2b,ea
- \slur:(-0.3,3)(,3)(,3)(0.3,3) (f4ba)(gf)
+ \slur:(-0.3,2.5)(,3)(,3)(0.3,3) (f4ba)(gf)
 \sHL:1.6 (2e4dc)2d
 4eagfef
 ea1f

@@ -36,7 +36,7 @@ R*2
 2bd-)c
 1.a+
 R*2
- 2r(4cb) \slur:(,0.4)(,0.7)(,0.9)(,1.2) (cg)
+ 2r(4cb) \slur:(,0.6)(,0.8)(,1.0)(,1.2) (cg)
 2arr
 rca+
 1b2b
@@ -62,12 +62,12 @@ dcbabg
 1.a
 2gbe
 (4dc2b)(4ed)
-(cbag)2f
+\slur:(,-0.6)(,-0.2)(,0.3)(,-0.3) (cbag)2f
 4efgaba
 bc1b
 2brr
 rbb
-\slur:(,0)(,0.3)(,0.6)(,0.9) (ca)b
+\slur:(,0)(,0.1)(,0.4)(,0.9) (ca)b
 1c2f
 4gfed2c
 4fed-c2b

@@ -45,7 +45,7 @@ f,bg
 R*3
 2r\fermata 2c'd
 4(efef)2g
-(c,4fe)(dc)
+\sR:0.5 \sHLE:3:0.3 (c,4fe)(dc)
 2b+cd~
 d4cb+2c~
 c4babg

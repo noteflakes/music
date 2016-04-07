@@ -1,7 +1,7 @@
 - key: c minor
 - time: 4/4
 4r8rc'g'ga+b
-([ca+])4f+r8ga
+\sHL:3 \sR:0.5 ([ca+])4f+r8ga
 ([bg])e+6rc8ffa([6bc])
 ([8d-b])4gr8cg
 ([6efde][8.e\trill 3de])8ddef

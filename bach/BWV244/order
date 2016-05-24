@@ -1,0 +1,14 @@
+- score:
+  - order:
+    - Chorus Primus:
+      - [1flute1, 1flute2]
+      - [1oboe1, 1oboe2]
+      - [1violino1, 1violino2, 1viola]
+      - [1soprano, 1alto, 1tenore, 1basso]
+      - {1continuo, 1sopranor}
+    - Chorus secundus:
+      - [2flute1, 2flute2]
+      - [2oboe1, 2oboe2]
+      - [2violino1, 2violino2, 2viola]
+      - [2soprano, 2alto, 2tenore, 2basso]
+      - {2continuo, 2sopranor}

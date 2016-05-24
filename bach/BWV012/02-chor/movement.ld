@@ -19,9 +19,9 @@
   - violino2:
     - page_break: before
   - viola1:
-    - page_break: before
+//    - page_break: before
   - viola2:
-    - page_break: before
+//    - page_break: before
     - original_clef: tenor
   - soprano:
     - original_clef: soprano

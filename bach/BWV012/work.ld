@@ -19,6 +19,8 @@
     - page_break: blank page before
 
 - parts:
+  - layout:
+    - indent: 0mm
   - set:
     - title_page: #f
     - separate_composer_title: #f
@@ -66,6 +68,21 @@
       - title_page: #t
     - source: continuo
     - render_modes: part
+  - viola1:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
+  - viola2:
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
+  - violino1:
+    - document:
+//      - page_break: before
+//    - set:
+//      - title_page: #t
 - editions:
   - chorton:
     - work:

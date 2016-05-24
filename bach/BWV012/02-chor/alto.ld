@@ -61,7 +61,7 @@ abagfa
 2f4efeg
 1.f
 2b,ea
- \slur:(-0.3,2.5)(,3)(,3)(0.3,3) (f4ba)(gf)
+(f4ba)(gf)
 \sHL:1.6 (2e4dc)2d
 4eagfef
 ea1f

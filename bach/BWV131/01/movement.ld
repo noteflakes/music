@@ -1,0 +1,4 @@
+- time: 3/4
+- movement_title:
+- end_barline: ||
+- tempo: Adagio

@@ -1,0 +1,12 @@
+- start_measure_number: 205
+- time: 12/8
+- movement_title:
+- end_barline: ||
+- empty_staves: show
+- instrument_names: inline
+- score:
+  - layout:
+    - indent: 0mm
+- parts:
+  - continuo:
+    - page_break: before

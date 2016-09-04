@@ -1,0 +1,11 @@
+- start_measure_number: 163
+- movement_title:
+- end_barline: ||
+- instrument_names: hide
+- tempo: Adagio
+- score:
+  - layout:
+    - indent: 0mm
+- parts:
+  - continuo:
+    - page_break: before

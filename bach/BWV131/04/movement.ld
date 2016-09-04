@@ -1,0 +1,10 @@
+- start_measure_number: 269
+- movement_title:
+- empty_staves: show
+- tempo: Adagio
+- time: 4/4
+- instrument_names: hide
+- score:
+  - layout:
+    - vspace_after: 20
+    - indent: 0mm

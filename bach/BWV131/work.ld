@@ -37,44 +37,21 @@
   - violoncello:
     - document:
       //- page_break: before
-    - set:
-      - title_page: #t
     - source: continuo
     - remove_empty: false
     - render_modes: part
   - continuo:
     - document:
       //- page_break: before
-    - set:
-      - title_page: #f
-  - continuo_figured:
-    - document:
-      - page_break: before
-    - set:
-      - title_page: #t
-    - render_modes: part
-  - fagotto:
-    - document:
-      //- page_break: before
-    - set:
-      - title_page: #t
-    - source: continuo
-    - render_modes: score, part
   - viola1:
     - document:
       //- page_break: before
-    - set:
-      - title_page: #t
   - viola2:
     - document:
       //- page_break: before
-    - set:
-      - title_page: #t
-  - violino1:
-    - document:
+  - violino:
+    //- document:
 //      - page_break: before
-//    - set:
-//      - title_page: #t
 - editions:
   - chorton:
     - work:

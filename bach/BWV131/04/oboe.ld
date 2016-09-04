@@ -36,12 +36,12 @@ db6bedecdcb8ad
 dg,re'ecrf
 db-b-degge
 6fgagfedc8b-6cdefed
-8c6defgf \ficta e-8dggc,
+8c6defgf e-8dggc,
 cffb-,b-eea,
 ge'eg,f(6ed)(d'e)(de)
-8d6ef8.e6f8e6fga \ficta b-ag
+8d6ef8.e6f8e6fga b-ag
 fgfe8de6a,bcd8ee \ficta
-8f+(6ga)8.g \ficta 6f+4e8re
+8f+(6ga)8.g 6f+4e8re
 a,6bcdedc8b6cdefed
 8c6defgfededcbede
 8caraagf+b

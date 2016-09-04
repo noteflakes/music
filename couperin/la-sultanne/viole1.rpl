@@ -111,9 +111,9 @@
   e1
   f8 a6 g f8 f6 e d8 bb'6 a g8 fs6 g 
   
-  \once \override Staff.TimeSignature #'style = #'single-digit
+  %\once \override Staff.TimeSignature #'style = #'single-digit
   \bar "||" \time 3/4
-  fs4 \clef alto \tempo "air" r8_\markup { \italic { tendrement } } f'! g4
+  fs4 \clef alto \tempo "air" r8 %{_\markup { \italic { tendrement } } %} f'! g4
   a4 ^g8 f4 g-+
   ^g8 a4 f bb
   a g4.-+ f8
@@ -183,7 +183,6 @@
   d2. r2.
   R1.*5
   \clef alto r4 r a'' b g e
-  [[\pageBreak]]
   a fs d g e a
   fs d fs8 e d cs d b e d
   cs4. d8 e4 d8 cs b4.-+ a8

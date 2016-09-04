@@ -22,7 +22,7 @@ R
 {8r_4_}bgca
 dbec
 8db8.a6b4br
-{8r_4_}ge+8ra \ficta 4f+
+{8r_4_}ge+8ra 4f+
 {8r_4_}bgca
 8gg8.g6f+4gr
 R*12
@@ -33,7 +33,7 @@ ecdddb4g
 a-abb+
 2.c4b+
 c8ra-f6ga-bcba-
-8g6a-bc \ficta d-cba-ba-gfba-b
+8g6a-bc d-cba-ba-gfba-b
 8e,era-4.f8g
 8a-6gf4gg8rc
 caaddbbe

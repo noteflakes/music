@@ -123,9 +123,9 @@
   cs1
   d8 f6 e d8 d6 c bb8 g a4
   
-  \once \override Staff.TimeSignature #'style = #'single-digit
+  %\once \override Staff.TimeSignature #'style = #'single-digit
   \bar "||" \time 3/4
-  d4 \tempo "air" r8_\markup { \italic { tendrement } } d' c4
+  d4 \tempo "air" r8 %{_\markup { \italic { tendrement } } %} d' c4
   a bb g
   d' d, g
   f e4. d8

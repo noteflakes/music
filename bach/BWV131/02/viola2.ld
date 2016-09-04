@@ -28,7 +28,7 @@ g,c4.d8g,
 cecaf6rbgb4a
 {8r_4_}abca
 dcf+,g
-8r \ficta e+'4a,{8r_4_}dg,
+8r e+'4a,{8r_4_}dg,
 e+'a,g'e+!
 fa,b+a
 dg,e+'d

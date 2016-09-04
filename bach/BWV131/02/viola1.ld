@@ -29,7 +29,7 @@ agafdfgf+ge+ce+
 {4_8r_}dge+f
 da'd,g
 ac,g'g
-ad,4g8r \ficta e+
+ad,4g8r e+
 {4_8r_}dfb+,f'
 b+,e+c+d
 gc,dd

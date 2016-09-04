@@ -50,8 +50,8 @@ r4r8ra'
 6afgabcba8ge6gbag
 8fa6acba8gg,~6ggab
 8ce4d~6dcbcdcba
-gg'fedf \ficta e+dcdbcafga
-d,g'f \ficta e+d \ficta e+dc8bdge+,
+gg'fedf e+dcdbcafga
+d,g'f e+d e+dc8bdge+,
 adfd,gcec,
 fbdb,eacf+,
 6d'edcbdgb,8ceaa,

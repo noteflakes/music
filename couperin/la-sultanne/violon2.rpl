@@ -89,7 +89,7 @@
   r8 g6 f e8 e6 d cs8 cs6 b a8 a6 g
   f4. f8 f g6 f e8.-+ d6
   
-  \once \override Staff.TimeSignature #'style = #'single-digit
+  %\once \override Staff.TimeSignature #'style = #'single-digit
   \bar "||" \time 3/4
   d4 r r
   R2.*15

@@ -25,7 +25,7 @@ efed4c8r(6dg,)4g
 6rd'gb,(ce+)8a,6rada(bd)8g,
 6rgcg(ac)8f,6rfbf(gb)8e,
 6rgae(fa)8d,6rgbg(ac)8e+,
-8e+(6ad,)4d6r \ficta e+ac,(dc)8d
+8e+(6ad,)4d6r e+ac,(dc)8d
 6rdgb+,(cb+)8c6rf+ad,(gf+)8g
 6racg(ag)8a6rd,gc,(dc)8d
 6ra'c+e+,(fe+)8f8r(6ga,)4a

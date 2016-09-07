@@ -1,0 +1,9 @@
+- key: g
+- time:3/4
+- movement_title: Aria
+- start_measure_number: 168
+- instrument_names: hide
+- score:
+  - layout:
+    - indent: 0mm
+    - system_count: 4

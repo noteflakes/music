@@ -1,11 +1,12 @@
 - work:
   - composer: Johann Sebastian Bach
-  - opus: Cantata BWV 229 / BC C 3
+  - opus: Motet BWV 229 / BC C 3
   - title: Komm, Jesu, Komm
-  //- subtitle: Psalm 130
-  //- source: D-B Mus. ms. Bach P 44, Faszikel 7\nD-B Mus. ms. Bach St 109, Faszikel 1
+  - source: D-B Mus. ms. Bach P 609
 - instrument_name_style: smallcaps
 //- instrument_names: inline
+
+- movement_title: "Komm, Jesu, Komm" - Motet BWV 229 / BC C 3
 
 - key: g minor
 - time: 3/2

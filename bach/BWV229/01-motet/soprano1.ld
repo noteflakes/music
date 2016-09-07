@@ -129,7 +129,7 @@ R*3
 
 4r8rrrf >"du"
 [dc+]d[df]e+ >"bist der rech-te"
-[c+d]e4f8f >"Weg, die Wahr-heit"
+[c+d]e+4f8f >"Weg, die Wahr-heit"
 [f6gf][e+d]4.e+~ >"und das Le-ben,"
 [8e+6fe+dc+8d]e+f >"die"
 4.g~[8ge+]a >"Wahr-heit"
@@ -164,32 +164,4 @@ R*6
 4.e~[6efedcb]
 8abc4d8d >"die Wahr-heit"
 [dg,]e'[bca] >"und das Le-ben."
-2.g || \time:3/4 \break \tempo:"Aria - Andante"
-4d'e[8dc] >"Drauf schliess' ich"
-(4dg,)c~ >"mich in_"
-4c8(ba)(bc) >"dei-ne"
-2a\trill 4g\fermata >"Hän-de"
-4d'[8ef]4g >"und sa-ge,"
-(4a,[8gf])4f' >"Welt,_ zu"
-(8fg4.e)8d >"gu-ter"
-2.d\fermata >"Nacht!"
-4d8[ed][cb] >"eilt gleich mein"
-(4cf,)b~ >"Le-bens-lauf"
-4b[8adc]b >"zu"
-4(ag)f\fermata >"En-de,"
-f'e+d >"ist doch der"
-(ga,)f'~ >"Geist wohl_"
-8[fe+]4.c+8d >"an-ge-bracht."
-2.d\fermata
-4fdc >"Er soll bei"
-2b+4c >"sei-nem"
-(8[f6ga-]4g)f >"Schö-pfer"
-(ed)c\fermata >"schwe-ben,"
-e[8fe][dc] >"weil Je-sus"
-(4f+g)g, >"ist_ und"
-2.c~>"bleibt_"
-8ce[dc][ba] >"der wah-re"
-[bgab+cd] >"Weg___"
-[ecf+6ga]4d,~
-8de(4.a,8g) >"zum Le-ben."
-2.g\fermata
+2.g

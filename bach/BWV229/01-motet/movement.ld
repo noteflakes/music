@@ -1,0 +1,24 @@
+- key:g
+- time:3/2
+- movement_title:
+- end_barline: ||
+- score:
+  - layout:
+    - original_clefs: show
+    - indent: 22mm
+    - system_count: 39
+
+
+- parts:
+  - soprano1:
+    - original_clef: soprano
+  - soprano2:
+    - original_clef: soprano
+  - alto1:
+    - original_clef: alto
+  - alto2:
+    - original_clef: alto
+  - tenore1:
+    - original_clef: tenor
+  - tenore2:
+    - original_clef: tenor

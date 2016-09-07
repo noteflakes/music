@@ -164,32 +164,4 @@ R*6
 2.c~
 [6cbcedc][bcde+f+d]
 8gb,c[dcd] >"das Le-ben."
-2.g, || \time:3/4
-4g'c,f >"Drauf schliess' ich"
-(b,b')8[ag] >"mich in"
-(4f+g)c, >"dei-ne"
-2d4g,\fermata >"Hän-de"
-g'8[gf]4e >"und sa-ge,"
-(4.f8e)[ed] >"Welt,_ zu"
-[de]2f >"gu-ter"
-2.b,\fermata >"Nacht!"
-4b'ag >"eilt gleich mein"
-(a8[ba])[gf] >"Le-bens-lauf"
-(4e+f)b, >"zu"
-2c4f,\fermata >"En-de,"
-d'ga >"ist doch der"
-(bc+,)d >"Geist wohl"
-(ga)a, >"an-ge-bracht."
-2.d\fermata
-[8de!][fg]4a- >"Er soll bei"
-2g4a! >"sei-nem"
-(b+c)f, >"Schö-pfer"
-2g4c,\fermata >"schwe-ben"
-c2c'~ >"weil Je-sus"
-8cc[ba][gf] >"ist und"
-[edfe][dc] >"bleibt_ der"
-4f+2d >"wah-re"
-4.g8[fed] >"Weg_____"
-4.c8[bca]
-bc2d >"zum Le-ben."
-2.g,\fermata
+2.g,

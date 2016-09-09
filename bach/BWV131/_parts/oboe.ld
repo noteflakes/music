@@ -223,7 +223,7 @@ db-b-degge
 cffb-,b-eea,
 ge'eg,f(6ed)(d'e)(de)
 8d6ef8.e6f8e6fga b-ag
-fgfe8de6a,bcd8ee \ficta
+fgfe8de6a,bcd8ee
 8f+(6ga)8.g 6f+4e8re
 a,6bcdedc8b6cdefed
 8c6defgfededcbede

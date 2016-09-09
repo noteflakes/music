@@ -20,3 +20,7 @@
     - page_break: before
   - violoncello:
     - page_break: before
+- editions:
+  - kammerton-vocal:
+    - score:
+      - page_break: none

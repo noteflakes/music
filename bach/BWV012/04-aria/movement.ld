@@ -25,3 +25,7 @@
   - viola2:
     - page_break: before
     - lyrics_markup_file: lyrics.ly
+- editions:
+  - kammerton-vocal:
+    - score:
+      - page_break: none

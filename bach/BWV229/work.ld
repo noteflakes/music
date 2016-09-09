@@ -28,3 +28,10 @@
   - set:
     - title_page: #f
     - separate_composer_title: #f
+  - continuo:
+    - render_modes: part
+    - document:
+      - page_break: before
+    - set:
+      - title_page: #t
+      - separate_composer_title: #t

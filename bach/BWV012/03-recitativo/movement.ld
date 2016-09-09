@@ -35,3 +35,7 @@
     - lyrics_markup_file: lyrics.ly
   - oboe_tromba:
     - lyrics_markup_file: lyrics.ly
+- editions:
+  - kammerton-vocal:
+    - score:
+      - page_break: before

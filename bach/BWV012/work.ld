@@ -130,4 +130,22 @@
         - heading_title: Violoncello (Kammerton)
       - continuo:
         - heading_title: Continuo (Kammerton)
-        
+  - kammerton-vocal:
+    - work:
+      - edition: Vocal Score (Kammerton)
+    - transpose: f g
+    - parts:
+      - lead:
+        - render_modes: score
+      - oboe:
+        - render_modes: part
+      - tromba:
+        - render_modes: part
+      - violino1:
+        - render_modes: part
+      - violino2:
+        - render_modes: part
+      - viola1:
+        - render_modes: part
+      - viola2:
+        - render_modes: part

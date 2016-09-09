@@ -2,3 +2,14 @@
 - movement_title:
 - end_barline: ||
 - tempo: Adagio
+- score:
+  - layout:
+    - original_clefs: show
+    - indent: 22mm
+- parts:
+  - soprano:
+    - original_clef: soprano
+  - alto:
+    - original_clef: alto
+  - tenore:
+    - original_clef: tenor

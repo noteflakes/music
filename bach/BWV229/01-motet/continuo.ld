@@ -54,7 +54,7 @@ f
 2.b+4b+b+b+
 cc'(ec)(ag)
 2.f+4f+f+f+
-ggabcc,
+ggabcc, \partPageBreak
 ffgabb,
 eeedcc
 c'b(ag)(f+a)
@@ -111,7 +111,7 @@ de+f+gf+g
 c,def!ef
 b,cd4.e~
 8e6fedc8f+6gf+e+d
-4g8c,4d8d
+4g8c,4d8d \partPageBreak
 gf+gc,de
 f!efb,cd
 edea,bc

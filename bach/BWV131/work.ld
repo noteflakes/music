@@ -52,6 +52,9 @@
   - violino:
     //- document:
 //      - page_break: before
+  - lead:
+    - clef: treble
+    - render_modes: part
 - editions:
   - chorton:
     - work:
@@ -96,3 +99,20 @@
         - heading_title: Violoncello (Kammerton)
       - continuo:
         - heading_title: Continuo (Kammerton)
+  - kammerton-vocal:
+    - work:
+      - edition: Vocal Score (Kammerton)
+    - transpose: g a
+    - parts:
+      - lead:
+        - render_modes: score
+      - oboe:
+        - render_modes: part
+      - fagotto:
+        - render_modes: part
+      - violino:
+        - render_modes: part
+      - viola1:
+        - render_modes: part
+      - viola2:
+        - render_modes: part

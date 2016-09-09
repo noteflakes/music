@@ -28,6 +28,11 @@
       - layout:
         - original_clefs: show
         - indent: 21.5mm
+  - kammerton-vocal:
+    - parts:
+      - continuo:
+        - render_modes: part
+
 - score:
   - layout:
     - system_count: 8

@@ -28,7 +28,7 @@
       - layout:
         - original_clefs: show
         - indent: 21.5mm
-  - kammerton-vocal:
+  - kammertonvocal:
     - parts:
       - continuo:
         - render_modes: part

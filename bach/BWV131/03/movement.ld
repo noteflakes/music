@@ -2,7 +2,7 @@
 - time: 12/8
 - movement_title:
 - end_barline: ||
-- empty_staves: show
+//- empty_staves: show
 - instrument_names: inline
 - score:
   - layout:
@@ -10,3 +10,13 @@
 - parts:
   - continuo:
     - page_break: before
+  - oboe:
+    - render_modes: part
+  - fagotto:
+    - render_modes: part
+  - violino:
+    - render_modes: part
+  - viola1:
+    - render_modes: part
+  - viola2:
+    - render_modes: part

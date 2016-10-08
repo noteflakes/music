@@ -104,6 +104,8 @@
         - transpose: g f
       - tromba:
         - transpose: g f
+      - oboe_tromba:
+        - transpose: g f
   - kammerton:
     - work:
       - edition: (Kammerton)
@@ -130,7 +132,7 @@
         - heading_title: Violoncello (Kammerton)
       - continuo:
         - heading_title: Continuo (Kammerton)
-  - kammerton-vocal:
+  - kammertonvocal:
     - work:
       - edition: Vocal Score (Kammerton)
     - transpose: f g

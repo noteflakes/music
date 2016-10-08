@@ -26,6 +26,6 @@
     - page_break: before
     - lyrics_markup_file: lyrics.ly
 - editions:
-  - kammerton-vocal:
+  - kammertonvocal:
     - score:
       - page_break: none

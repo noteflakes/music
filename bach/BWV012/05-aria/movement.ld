@@ -21,6 +21,6 @@
   - violoncello:
     - page_break: before
 - editions:
-  - kammerton-vocal:
+  - kammertonvocal:
     - score:
       - page_break: none

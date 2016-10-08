@@ -9,3 +9,6 @@
     - vspace_after: 20
     - indent: 0mm
   //- page_break: before
+- parts:
+  - viola1:
+    - page_break: before

@@ -1,4 +1,4 @@
- \rmark \key:a R
+\time:3/4 \tempo:Adagio \key:a \rmark  R
 4re''8a(6bg+)
 8.g+\trill 6f+4er
 rea,
@@ -45,7 +45,7 @@ ab4.g+\trill 8a || \time:4/4 \tempo:Vivace \rmark
 4ar2r
 4c,8rcdefg
 egc,cdefg
-ee4r2r \partPageBreak
+ee4r2r
 R*6
 4a,8rabcde
 cc4r2r
@@ -131,3 +131,117 @@ cedca'gfedecd8b(6a'g+)
 8a{(6__)}edecdecdecdecd
 efgef+g+abg+bab8.g+6a
 8ar4r2r
+
+|| \tempo:Adagio \rmark \time:4/4
+
+4rff8ff
+4fr2r
+4rfa8gg
+4gr2r
+4rde-8e-e- || \tempo:Largo \rmark
+4a,rr6rdgd
+(e-d)8e-6rcfc(dc)8d6rb-e-b-
+(cb-)8c6rada{(6__)}b-dce-dfeg
+fagb-8ad,d(6gc,)4c~
+8c(6fb-,)4b-~8b-(6ea,)8ar
+2r4r6rdgd
+(e-d)8e-6rcfc(dc)8d6rb-e-b-
+(cb-)8c6radab-dce-dfeg
+fa,bc+4d~8d(6gc,)4c~
+8c(6fb-,)4b-~8b-(6ea,)4a
+r6rada(b-a)8b-6rceg,
+(ag)8a6rb-dg,(cb-)8c~6ccdc
+(b-a)8b-6rb-dg,(cb-)8c6radf,
+(gf)8g6rgce-,(ag)8a6rdgd
+(c+b)8c+6rfad,(gf)8g6reae
+(fe)8f6rdfd(b-'a)8b-6rc,ec
+(a'g)8a6rb-,dg,(ag)8a6rf'ad,
+ed8e~6eeac,(ed)8e6rg+be,
+(ag+)8a6rf+bf+(g+!f+)8g+6reae
+(f!e)8f6rdgd(ed)8e6rcfc
+(dc)8d6rbeb(cb)8c6rdf+d
+(ba)8b6rcea,(dc)8d6rbeg,
+(ag)8a6rdfa,(ba)8b6race,
+(b'a)8b6rdfb,(ed)8e6ra,ce,
+(f+e)8f+6re'gb,(ag)8a6rd+f+b,
+(ed+)8e6rege(c+b)8c+6rbdg,
+(g'f)8g6rc+,f+g,(ag)8a6re'gb,
+(cb)8c6rdf+b,(ed)8e6rcec
+(fe)8f6rcfc(dc)8d6rbeb
+(cb)8c6rfad,(gf)8g6rege
+(fe)8f6rfaf(ed)8e6race,
+(fe)8f6rgbg(ag)8g6rfad,
+(ed)8e6reae(fe)8f6rdgd
+(ed)8e6rcfc(dc)8d6rbeb
+(cb)8a \breathe 4rr8aa
+4aaf'8e(6fd)
+1a'\fermata  || \time:12/8 \rmark
+
+R*64
+
+|| \time:4/4 \tempo:Adagio  \break \rmark
+
+4.e8e4er
+4.a8a4ar
+4.b8b4b8r \breathe b, \tempo:"Un poc'allegro"
+{(6__)}cbcbcbcb8cdc(6ba)
+4ar2r
+2r8g'ae(6dc)
+4cr2r
+4r8re(6cbcb)(cb)(cb)
+8cfc(6ba)4ar
+R
+8e'fc(6ba)4ar
+2r8re'\pp {(6__)}ag+ag+
+ag+ab8.g+\trill 6a4ar \tempo:Adagio
+R
+2r4r6refg
+8c+,(6ba)6r(g'ab-)(agfe)(dc+)8d~
+6dc+8d~6d(dgf)(egb-a)(gfef)
+4d~6d(fed)(8d6e\trill 3de)6fedf
+8b,(b'~6bag+)b8e,(6f+g+)a(c,ba)
+(a'gfa)8.d,\trill 6de(g+,f+e)4a~
+6a(a'g+a)c,(a'g+a) \breathe \tempo:Allegro b,[bg+e]4c'
+6rcaf4d'6rdbg4e'
+6reca4f'6rfdb4g'~
+(6ge)(ad,)8.d\trill 6cc[gec]4a'
+6raf+d4b'6rbg+e4c'
+6rcaf4d'6rdbg4e'~
+(6ec)(fb,)8c(6ba)4ar
+R*9
+8re'eaaf+f+b
+bggccabf+
+6gagfefedcdcb8ad
+8d[bbe]eccf
+fdebceda
+6ba'gf8ebcaac
+db6bedecdcb8ad
+dg,re'ecrf
+db-b-degge
+6fgagfedc8b-6cdefed
+8c6defgf e-8dggc,
+cffb-,b-eea,
+ge'eg,f(6ed)(d'e)(de)
+8d6ef8.e6f8e6fga b-ag
+fgfe8de6a,bcd8ee
+8f+(6ga)8.g 6f+4e8re
+a,6bcdedc8b6cdefed
+8c6defgfededcbede
+8caraagf+b
+bagccabf+
+ggrccaad
+dbbeecrf
+fddb4c8.a6b
+4cc+dd+
+2.e4d~
+d2c4b~
+b2a4g+
+a8rf'6dedcbede
+cdcbadcdbcbagcbc
+abagf+bab8g+era
+bcdbe(6dc)4b
+a8ra\p bcdb
+e(6dc)4ba \breathe \tempo:"Adagio" a'\f
+aa4.a(6gf)
+(8f6ed)2d~6d(fed)
+1a'\fermata

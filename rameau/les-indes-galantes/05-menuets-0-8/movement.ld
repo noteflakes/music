@@ -1,0 +1,5 @@
+- movement_title: 0-8 Menuets
+- key: g
+- time: 3/(4)
+- tempo: Premier menuet 
+- end_barline: :|.

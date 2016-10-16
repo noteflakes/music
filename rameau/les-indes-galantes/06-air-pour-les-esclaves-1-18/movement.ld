@@ -1,0 +1,6 @@
+- movement_title: 1-18 Air pour les esclaves affricains
+- key: g
+- time: 2/(2)
+- tempo: Lourdement
+- pickup: 4 
+- end_barline: :|.

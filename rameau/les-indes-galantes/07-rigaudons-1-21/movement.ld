@@ -1,0 +1,5 @@
+- movement_title: 1-21 Rigaudons
+- key: G
+- time: 2/(2)
+- tempo: Premier Rigaudon
+- pickup: 4

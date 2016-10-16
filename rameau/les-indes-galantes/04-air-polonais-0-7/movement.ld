@@ -1,0 +1,6 @@
+- movement_title: 0-7 Air Polonois
+- key: g
+- time: 2/(2)
+- pickup: 2
+- tempo: Gravement, Fierement 
+- end_barline: :|.

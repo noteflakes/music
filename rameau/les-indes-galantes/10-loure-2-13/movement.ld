@@ -3,3 +3,6 @@
 - time: 6/4
 - tempo: [Rondeau]
 - pickup: 4.
+- parts:
+  - violino2:
+    - page_break: before

@@ -2,3 +2,6 @@
 - key: G
 - time: 3/(4)
 - pickup: 4
+- parts:
+  - violino2:
+    - page_break: before

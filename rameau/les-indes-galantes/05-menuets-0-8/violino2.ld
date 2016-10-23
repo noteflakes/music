@@ -21,7 +21,7 @@ b8ar
 d,ededg
 2.g
 d
-\parenthesize d |.
+\parenthesize d |. \partBreak
 \tempo:"Deuxieme menuet" \key:g R
 8b'cdedc
 2d4f+,
@@ -40,8 +40,8 @@ fgf
 2a4r
 rrd
 2c4a
-2g4e'\_"_On reprend le pr menuet entier [interrompu par les timbales]_"
-2d4b
+2g4e'
+2d\_"_On reprend le pr menuet entier [interrompu par les timbales]_" 4b
 2a4f
 e+f+g
 cca\+

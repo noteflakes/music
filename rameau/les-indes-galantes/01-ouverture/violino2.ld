@@ -11,7 +11,7 @@ gb4.a8a
 dgea
 aggc+
 d2a~8ag
-4fbag
+4fbag 
 |*1f\+
 |* \tempo:Viste 2f\+r*|
 \segno |:*2 R
@@ -50,7 +50,7 @@ R
 2.b4b
 gcba
 2g+r
-R*6
+R*6 \partPageBreak
 
 
 

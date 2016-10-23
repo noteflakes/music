@@ -1,4 +1,4 @@
-2r r4b'(8.d6c)
+2r r4b'8.d6c
 2b4br
 2ab
 g~8.g6d4d

@@ -24,7 +24,7 @@ R
 g+e'dcbag+f
 4e \tempo:Lent r
 R
-\tempo:Viste R
+\tempo:Viste R \partPageBreak
 8r6g+g+8g+r
 R
 8r6ee8er

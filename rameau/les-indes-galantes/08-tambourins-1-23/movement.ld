@@ -3,3 +3,6 @@
 - time: 2/(4)
 - tempo: Premier Tambourin
 - pickup: 4
+- parts:
+  - violino2:
+    - page_break: before

@@ -23,7 +23,7 @@ gr
 R
 4rb
 bf+
-g:| \partBreak
+g:| \partBreak r
 rd'
 dd
 d8.c6b

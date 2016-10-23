@@ -33,7 +33,7 @@ r4ra
 r4rb,
 2a8a'gfe
 fedcdb4e
-2a,\_"_Fin_" :| \partBreak
+2a,\_"_Fin_" :| \partPageBreak
 \tempo:"[1re reprise]" 4g'g
 ggce
 2ed

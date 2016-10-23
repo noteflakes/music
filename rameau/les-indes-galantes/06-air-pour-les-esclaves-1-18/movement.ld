@@ -4,3 +4,6 @@
 - tempo: Lourdement
 - pickup: 4 
 - end_barline: :|.
+- parts:
+  - violino2:
+    - page_break: before

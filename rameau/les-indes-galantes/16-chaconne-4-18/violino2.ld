@@ -58,7 +58,7 @@ bag
 2a8r6aa
 2a8r6g+g+
 2a8r6c,c
-8dr4rr
+8dr4rr \partPageBreak
 8raaaaa
 4a8gr4r
 8rd'ddbb
@@ -117,9 +117,9 @@ ggbbd,d
 f\_"_doux_" 4r
 gfe
 a2d,
-4bag
+4bag'
 2f4r
-g'fe
+gfe
 a2d,
 d4c\+
 dbc

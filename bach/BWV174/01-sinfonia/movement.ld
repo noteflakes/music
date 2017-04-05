@@ -1,0 +1,25 @@
+- pickup: 8
+- key: G
+- midi_tempo: 120 4
+- parts:
+  - corno1:
+    - key:C
+  - corno2:
+    - key:C
+- score:
+  - layout:
+    - indent: 27mm
+-macros:
+  - a: {8_6__8__}
+  - b: {8r6__8_r}
+  - c: {6__8_}
+  - d: {4_8r_}
+  - e: {4r8__}
+  - f: {4_8r6__}
+  - g: {8___6__}
+  - h: {4_8r_}
+  - i: {6(___)_____}
+  - j: {8_r4rr8r_}
+  - k: {(6__8_)4r}
+  - l: {4r(6__8_)}
+  - o: {8_6__}

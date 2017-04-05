@@ -1,0 +1,54 @@
+- work:
+  - composer: Johann Sebastian Bach
+  - opus: Cantata BWV 174
+  - title: Ich liebe den Höchsten von ganzem Gemüte
+  - subtitle: Feria 2 Pentecostes
+- instrument_name_style: smallcaps
+
+- document:
+  - require: house-style
+
+- score:
+  - set:
+    - title_page: #f
+  - layout:
+    - indent: 14mm
+  - document:
+    - page_break: blank page before
+  - parts: 
+    - continuo:
+      - streams: music
+
+- parts:
+  - set:
+    - title_page: #f
+  - layout:
+    - indent: 0mm
+  - taille:
+    - clef: alto
+    - midi_instrument: oboe
+  - corno1:
+    - title: Corno da caccia I
+    - midi_instrument: trumpet
+  - corno2:
+    - title: Corno da caccia II
+    - midi_instrument: trumpet
+  - continuo:
+    - layout:
+      - system_count: 39
+  - oboe2:
+    - layout:
+      - system_count: 22
+  - viola1:
+    - layout:
+      - system_count: 40
+  - viola3:
+    - clef: alto
+    - layout:
+      - system_count: 42
+  - violoncello1:
+    - clef: bass
+  - violoncello2:
+    - clef: bass
+  - violoncello3:
+    - clef: bass

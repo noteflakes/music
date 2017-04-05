@@ -67,7 +67,7 @@ frg8r6g'f
 a+,c+ a+c+
 fa+4r{o}fba+
 bfe fba+ bd,c+ db'a+
-bb,c 8de6fefgfedc+
+bb,c+ 8de6fefgfedc+
 dede8.e\trill 3de {o}fba+ bfe
 dc+b c+ba+ 8.g'6fedc+b
 8.f'6g8.c+,6b2b~
@@ -109,7 +109,7 @@ rdgc+,dr4r
 {e}eb bg+
 e'c+ c+a
 1e-
-{e}a-'f- fd
+{e}a-'f- f-d
 1g~
 1g~
 1g~

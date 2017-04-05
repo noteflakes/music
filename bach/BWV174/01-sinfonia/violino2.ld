@@ -63,7 +63,7 @@ agaa'fd+af agaa'fd+bf
 ragar ragar
 4r8rd,\f 6bdg,abcdc
 {a}bdcdr 4r8r6bc
-{a}dbcdr2r
+{a}dbcbr2r
 {k}e\p de ede
 c+,bc+ c+bc+
 g''fg 6(c+,b8c+){o}rf\f e

@@ -10,7 +10,7 @@ er4r2r
 r8rd'dd
 rdddrddd
 2r{b}b'ag
-gfg gfg
+gf+g gf+g
 4rc~8cd,6c'bac
 8b6cdcbab8g6g,ggggg
 4gr2r
@@ -19,7 +19,7 @@ ddrd dd {b}gf+
 g gf+g gf+
 g f+ef+ 4r
 R
-8r6gf+8gg{c}gf+ef+ga
+8r6gf+8gg{o}gf+ef+ga
 6gf+ga8.f+6g8gg,gg
 gr4r8rggg
 gr4r8rggg
@@ -56,6 +56,7 @@ R*8
 reeereee
 R*3
 
+
 2ra'~
 1a~
 4ar2r
@@ -70,7 +71,7 @@ R*3
 6gf+ef+8ga2b~
 6baga8.a3ga4b8rb
 grf+r2e~
-6ef+eg8.f+6e8ee,ge
+6ef+ef+8.f+6e8ee,ge
 rge'g,re'ge
 b'bb6ag8aaa6gf+
 8.g6f+8.f+6e4er

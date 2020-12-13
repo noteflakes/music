@@ -1,6 +1,6 @@
 # Ciconia's Score Repository
 
-This repository contains my edition of works by Bach and other baroque composers typeset using [Lilypond](http://lilypond.org/) and [Ripple](http://github.com/ciconia/ripple/tree).
+This repository contains my edition of works by Bach and other baroque composers typeset using [Lilypond](http://lilypond.org/) and [Ripple](http://github.com/ciconia/ripple).
 
 ## Processing the files
 
